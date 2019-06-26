@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: yukom
 dynamics365pdf: true
 ---
-# <a name="improve-diverse-hiring-with-detection-of-bias-and-cryptic-language-in-job-descriptions"></a>職務明細書における偏った表現やわかりにくい表現の検出による多様な採用の改善
+# 職務明細書における偏った表現やわかりにくい表現の検出による多様な採用の改善
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 Attract は、職務明細書において非包括的である可能性がある表現を警告することにより、可能な限り多様な候補者を引き付けるのに役立ちます。
 

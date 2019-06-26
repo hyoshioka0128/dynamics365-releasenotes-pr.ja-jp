@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: welee
 dynamics365pdf: true
 ---
-# <a name="business-process-integration"></a>業務プロセスの統合
+# 業務プロセスの統合
 
 [!include[microsoft-forms-pro banner](../includes/microsoft-forms-pro.md)]
 

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: amyhre
 dynamics365pdf: true
 ---
-# <a name="external-compliance-certification"></a>外部コンプライアンスの認定
+# 外部コンプライアンスの認定
 [!include[artificial-intelligence/dynamics365-fraud-protection banner](../includes/artificial-intelligence/dynamics365-fraud-protection.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 お客様にとっての主な関心事は、転送中と保存中両方のデータのセキュリティと保護です。 Dynamics 365 Fraud Protection では、コンプライアンスの高い基準でこの懸念に対処します。
 

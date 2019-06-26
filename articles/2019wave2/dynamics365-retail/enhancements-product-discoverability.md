@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: asharchw
 dynamics365pdf: true
 ---
-# <a name="enhancements-for-product-discoverability"></a>製品の見つけやすさの改善
+# 製品の見つけやすさの改善
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,7 +18,7 @@ dynamics365pdf: true
 |エンド ユーザー、自動的|2019 年 10 月| |
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 製品の見つけやすさは、小売顧客がカテゴリをブラウズし、検索とフィルタリングを使用して製品を見つけることができるようにするための迅速で簡単な方法です。 製品の見つけやすさは、顧客との対話において、全小売チャネルにわたって重要なツールです。
 
@@ -29,7 +29,7 @@ Dynamics 365 for Retail における製品の見つけやすさを改善する�
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 Microsoft が市場に提供しているソリューションで使用可能なリファイナーを使用した検索、閲覧、フィルターの現在のサポートは低速で、特に堅牢でもありません。 Retail の新機能により製品の見つけやすさが向上し、検出はスケーラブルかつ高パフォーマンスになります。
 

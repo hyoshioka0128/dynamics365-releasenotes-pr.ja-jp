@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: asharchw
 dynamics365pdf: true
 ---
-# <a name="improved-order-recall-for-omnichannel-orders-in-customer-service"></a>Customer Service におけるオムニチャネル注文の注文取り消しの改善
+# Customer Service におけるオムニチャネル注文の注文取り消しの改善
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,7 +18,7 @@ dynamics365pdf: true
 |エンド ユーザー、自動的|| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 Dynamics 365 for Retail ソリューションでは、複数の販売チャンネル (POS、コール センター、e コマースなど) を通じて注文のキャプチャと処理を可能にするソリューションが提供されます。 複数の注文キャプチャ システムを使用している場合、顧客に注文参照データを提供するために使用される方法はそれぞれ異なります。 販売時点管理 (POS) トランザクションではレシート ID が使用され、コール センターのオーダーでは本社シーケンスからの注文番号が使用され、e コマースの注文では異なる注文番号シーケンスが使用されます。 最終的に、これらの注文は本社に集中し、本社の注文番号が再度割り当てられます。 顧客サービスの観点からすると、ユーザーは、トランザクション/注文が "ゲスト チェックアウト" または "顧客不明" のトランザクションとして作成された場合、本社内でトランザクション/注文を正しく見つけることが課題となっています。
 
@@ -28,7 +28,7 @@ Dynamics 365 for Retail ソリューションでは、複数の販売チャン�
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 この機能は、既存の本社の顧客サービス ページを拡張して、顧客番号または注文番号だけでなく、レシート ID または e コマース トランザクション ID による販売注文の相互参照および簡単な検索を可能にします。
 

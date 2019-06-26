@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
 ---
-# <a name="location-status-logic"></a>場所ステータス ロジック
+# 場所ステータス ロジック
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 この機能では、より柔軟に場所を処理および維持できるよう、場所テーブルにいくつかの新しいフィールドが導入されます。 倉庫フロー管理を改善するため、場所ステータス (空、保管、ピッキング、凍結) を場所指示クエリに含めることができます。 ブロックの原因を設定し、後で任意の場所に割り当てて、そのような場所に対する入庫または出庫のトランザクションをブロックすることができます。 場所ブロックでは予約の場所は除外されません。 一時的な運用上のブロックのみを意味します。
 <!--feature detail end -->

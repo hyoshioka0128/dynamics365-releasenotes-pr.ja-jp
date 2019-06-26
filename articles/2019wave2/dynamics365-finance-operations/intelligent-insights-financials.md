@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
 ---
-# <a name="intelligent-insights-in-financials"></a>財務に関するインテリジェントな分析情報
+# 財務に関するインテリジェントな分析情報
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 12 月| 近日発表|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 キャッシュ フローを最適化することはどの組織にとっても重要です。 顧客がいつ支払うかについての分析情報があると、キャッシュ フローの一部を予測し、リスクを減らすのに役立ちます。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 機能は次のとおりです。
 

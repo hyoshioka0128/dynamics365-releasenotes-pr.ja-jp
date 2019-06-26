@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: janeaug
 dynamics365pdf: true
 ---
-# <a name="simplified-localization-configuration-management-in-regulatory-configuration-service"></a>Regulatory Configuration Service での簡素化されたローカライズ構成管理
+# Regulatory Configuration Service での簡素化されたローカライズ構成管理
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 2020 年 1 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
  現在、ユーザーは、Microsoft Dynamics 365 Lifecycle Services (LCS) を利用して、構成を公開およびエクスポートし、それらを外部のユーザーまたは組織と共有するためには、複数ステップのプロセスを完了する必要があります。 Regulatory Configuration Service (RCS) の新しい集中構成ストレージを使用することで、ユーザーは構成デザイナーから直接構成を簡単に共有できます。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 2019 年リリース ウェーブ 2 の一部として、以下の機能が RCS でサポートされる予定です。 
 

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: yukom
 dynamics365pdf: true
 ---
-# <a name="onboard"></a>Onboard 
+# Onboard 
 
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 

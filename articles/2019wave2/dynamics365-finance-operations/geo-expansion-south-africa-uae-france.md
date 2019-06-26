@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: meeram
 dynamics365pdf: true
 ---
-# <a name="geo-expansion-to-south-africa-united-arab-emirates-and-france"></a>南アフリカ、アラブ首長国連邦、フランスへの地理的拡大
+# 南アフリカ、アラブ首長国連邦、フランスへの地理的拡大
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 機密データを管理するビジネス クリティカルなアプリケーションとして、Microsoft Dynamics 365 for Finance and Operations には特定の地理的領域内での利用可能性とデータ存在により多くの要求があります。 Finance and Operations 用のデータ常駐型クラウドによりは、すべての顧客データ、コード、メタデータ、および診断が指定された地域内に確実に残るようになります。 Finance and Operations および Lifecycle Services (LCS) は、次のクラウドで利用可能になります。 
 

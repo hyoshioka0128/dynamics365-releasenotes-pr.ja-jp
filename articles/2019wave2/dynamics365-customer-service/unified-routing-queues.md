@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: ramakri
 dynamics365pdf: true
 ---
-# <a name="unified-routing-and-queues"></a>統合ルーティングとキュー
+# 統合ルーティングとキュー
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -20,7 +20,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 今日の顧客サービス ハブとチャットには、ルーティング用に独自のキューのセットがあります。 この機能強化により、お客様は両方のアプリケーションにわたって単一の統合ルーティング機能を持つことになります。
 <!--feature detail end -->

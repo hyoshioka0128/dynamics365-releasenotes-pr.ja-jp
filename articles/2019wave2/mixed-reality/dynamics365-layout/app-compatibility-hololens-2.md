@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: sudhees
 dynamics365pdf: true
 ---
-# <a name="app-compatibility-with-hololens-2"></a>HoloLens 2 とのアプリの互換性
+# HoloLens 2 とのアプリの互換性
 [!include[mixed-reality/dynamics365-layout banner](../includes/mixed-reality/dynamics365-layout.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 Microsoft HoloLens 2 では Dynamics 365 Layout を内蔵アプリケーションとして利用できます。 ユーザーは、現在サポートされているすべての機能を引き続き使用できますが、新しいデバイスではいっそう優れた視野とパフォーマンスがサポートされます。 また、アプリケーションを紹介してその価値を実証するために、特別な設定が不要な非対話型ツアーを通した新しいエクスペリエンスも組み込まれます。
 <!--feature detail end -->

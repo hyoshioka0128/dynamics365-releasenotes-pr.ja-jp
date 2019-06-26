@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
 ---
-# <a name="import-and-export-of-conversation-topics"></a>会話トピックのインポートとエクスポート
+# 会話トピックのインポートとエクスポート
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 複数のチーム メンバーがボットを構築している顧客サービス組織では、ボット コンテンツ資産を再利用できることが重要です。
  

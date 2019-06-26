@@ -12,7 +12,7 @@ dynamics365pdf: true
 ---
 
 
-# <a name="extend-customer-insights-with-azure-machine-learning"></a>Azure Machine Learning で Customer Insights を拡張する
+# Azure Machine Learning で Customer Insights を拡張する
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -20,7 +20,7 @@ dynamics365pdf: true
 |管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 独自の Azure Machine Learning モデルを通じて Customer Insights を簡単に拡張し、結果を予測し、統一された顧客プロファイル内により深い分析情報を作成できます。たとえば、次のステップを予測することによってこれを行います。 
 
@@ -28,7 +28,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 Azure Machine Learning で Customer Insights を拡張します。
 

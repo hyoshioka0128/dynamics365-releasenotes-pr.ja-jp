@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
 ---
-# <a name="location-wizard-enhancements"></a>場所ウィザードの機能強化
+# 場所ウィザードの機能強化
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 この機能強化には、3 つの追加ゾーン フィールドと、場所設定ウィザードでのそれらのサポートが含まれています。 場所設定でのこれらの追加ゾーン フィールドは、情報のフィルター処理のためにクエリで使用できます。 これにより、同じ場所にゾーンを追加し、クエリでデータを処理することで、倉庫の構造の柔軟性が高まります。
 <!--feature detail end -->

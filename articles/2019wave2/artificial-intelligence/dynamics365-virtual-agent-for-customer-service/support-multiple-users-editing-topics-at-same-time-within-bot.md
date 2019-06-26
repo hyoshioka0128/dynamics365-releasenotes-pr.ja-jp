@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
 ---
-# <a name="support-for-multiple-users-editing-topics-at-the-same-time-within-a-bot"></a>ボット内での複数のユーザーによる同時トピック編集のサポート
+# ボット内での複数のユーザーによる同時トピック編集のサポート
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 このリリースでは、複数のユーザーがボット内の異なる会話トピックを編集できるようになり、組織で適切なドメインの専門知識を持つ従業員が会話の改善を実装するのに役立ちます。 
   

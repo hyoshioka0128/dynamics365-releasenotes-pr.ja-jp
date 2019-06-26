@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: csogge
 dynamics365pdf: true
 ---
-# <a name="migrations-to-business-central-online"></a>Business Central オンラインへの移行
+# Business Central オンラインへの移行
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 オンプレミスソ リューションから Business Central オンラインへの移行は、パートナーとお客様にとって重要な注目領域です。 現在、Business Central オンプレミス、Dynamics NAV 2018、Dynamics GP 2018 R2、Dynamics SL 2018 R2 からの移行を中心とした特定のシナリオについて、このプロセスをかなり簡単にするツールが市場で提供されています。 勘定科目表と期首残高のみに関心がある場合は、旧バージョンの Dynamics GP および Dynamics SL 用のツールもあります。 今後の作業では、更新プロセスをさらに合理化して、摩擦を減らし、オンプレミスからオンラインへの移行プロセスをできる限り単純でシームレスにします。

@@ -10,7 +10,7 @@ ms.author: jeffcom
 dynamics365pdf: true
 ---
 
-# <a name="whats-new-and-planned-for-dynamics-365-for-customer-service"></a>Dynamics 365 for Customer Service の新機能と予定されている機能
+# Dynamics 365 for Customer Service の新機能と予定されている機能
 
 このトピックでは、2019 年 10 月から 2020 年 3 月までのリリースで予定されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
@@ -18,7 +18,7 @@ dynamics365pdf: true
 
 
 
-## <a name="customer-service"></a>Customer Service
+## Customer Service
 
 Dynamics 365 for Customer Service の目的は、ワールド クラスのカスタマー エクスペリエンスを提供することで、企業が競合他社との差別化を図れるようにすることです。
 
@@ -29,7 +29,7 @@ Dynamics 365 for Customer Service の目的は、ワールド クラスのカス
  | [自動レコード作成の機能強化](automatic-record-creation-arc-enhancements.md) |管理者、作成者、またはアナリスト、自動的| 2019 年 8 月 | 2019 年 10 月 | いいえ | 
 
 
-## <a name="omnichannel-for-customer-service"></a>顧客サービス用のオムニチャネル
+## 顧客サービス用のオムニチャネル
 
 顧客サービス向けのオムニチャネルでは、Dynamics 365 for Customer Service の機能を拡張する機能のスイートが提供されます。組織は追加されたチャネル (Dynamics 365 用のチャットや SMS など) を通じて顧客とすばやくやり取りし、エンゲージメントを促進することができます。
 

@@ -11,7 +11,7 @@ ms.author: v-jowigh
 dynamics365pdf: true
 ---
 
-# <a name="overview-of-dynamics-365-fraud-protection-2019-release-wave-2"></a>Dynamics 365 Fraud Protection 2019 年リリース ウェーブ 2 の概要 
+# Dynamics 365 Fraud Protection 2019 年リリース ウェーブ 2 の概要 
 [!include[artificial-intelligence/dynamics365-fraud-protection banner](../includes/artificial-intelligence/dynamics365-fraud-protection.md)]
 
 今日のデジタル変革を成し遂げた企業は、ほとんどのビジネスをオンラインでリアルタイムに、ほとんど人手を介さずに行っています。 これによりコストは削減され、顧客エクスペリエンスは向上しますが、企業は、オンライン チャネルの相対的な匿名性とアクセシビリティを悪用しようとする高度な詐欺師による深刻な脅威にもさらされます。

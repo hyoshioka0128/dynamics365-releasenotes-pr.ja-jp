@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: perlynne
 dynamics365pdf: true
 ---
-# <a name="further-catch-weight-integration-1001"></a>CW 統合の強化 10.0.1
+# CW 統合の強化 10.0.1
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 3 月 1 日| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 この機能では、Fullscope ソリューションでサポートされているさまざまなシナリオの追加統合作業後に、CW ソリューションに対するさまざまな機能強化が提供されます。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 この機能では、Fullscope ソリューションでサポートされているさまざまなシナリオの追加統合作業後に、CW ソリューションに対するさまざまな機能強化が提供されます。
 

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: chali
 dynamics365pdf: true
 ---
-# <a name="facebook-messaging"></a>Facebook メッセージング
+# Facebook メッセージング
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 多数の消費者が Facebook メッセンジャーのようなソーシャル メッセージング チャネルを個人的なコミュニケーション ニーズに使用していますが、消費者は企業と関わるためにこれらのモバイル メッセージング チャネルを使うことも好みます。 チャット ウィンドウが閉じられたときにセッションが終了するライブ チャットのようなリアルタイム チャネルとは異なり、これらのチャネルの非同期性により、消費者には時間があるときに問題を解決できる利便性が提供されます。
 

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: kepontop
 dynamics365pdf: true
 ---
-# <a name="page-background-tasks"></a>ページ バックグラウンド タスク
+# ページ バックグラウンド タスク
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 <!--note from editor: Please make the same change in the RN tool that I made to the title here. -->
@@ -24,7 +24,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 AL 開発者は、ページ内に子セッションを作成して、必要な読み取り専用の計算を実行できます。 計算が完了すると、親セッションに通知されます。
 <!--feature detail end -->

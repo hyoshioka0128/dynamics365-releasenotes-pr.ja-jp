@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
 ---
-# <a name="personalize-actions-and-navigation-on-your-home-page"></a>ホーム ページでのアクションとナビゲーションのカスタマイズ
+# ホーム ページでのアクションとナビゲーションのカスタマイズ
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、自動的|| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 Business Central は、各企業、部門、ユーザーに固有のニーズに簡単に適応できます。 デスクトップ ユーザーには、日常の作業や使用する最も一般的なデータをサポートするようにワークスペースを最適化するための、あらゆる機能が提供されます。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 ナビゲーション メニューのパーソナライズには、次のものがあります。
 

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: brpotter
 dynamics365pdf: true
 ---
-# <a name="core-hr"></a>Core HR 
+# Core HR 
 
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 

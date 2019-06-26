@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: goravi
 dynamics365pdf: true
 ---
-# <a name="contextual-email-communication"></a>状況依存のメール通信
+# 状況依存のメール通信
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -19,7 +19,7 @@ dynamics365pdf: true
 
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 
 顧客から最も多い要求です。 
@@ -28,7 +28,7 @@ Microsoft は Dynamics 365 for Sales と Outlook の統合をいくつか提供�
 
 <!-- bv end -->
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 リッチ テキスト エディターとポップアップの非ブロッキング ウィンドウにより、Dynamics 365 for Sales ではメールの作成がかつてないほど向上しています。 営業担当者は、作業中のレコードのコンテキストでメールを作成し、レコード間を移動し、複数のアクティブなドラフト メールを同時に開き、送信前にコンテンツをプレビューし、添付ファイルを追加し、メール テンプレートを使用してよく使用されるタスクを最適化できるようになります。 非ブロッキング ウィンドウに開かれるメール ウィンドウにより、営業担当者は顧客へのメールを作成しながらすべての関連コンテンツをひと目で確認できます。 
 

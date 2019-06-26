@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: cgarty
 dynamics365pdf: true
 ---
-# <a name="trigger-and-monitor-a-flow-directly-from-finance-and-operations"></a>Finance and Operations からフローを直接トリガーおよび監視する
+# Finance and Operations からフローを直接トリガーおよび監視する
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
  管理者は、フローをトリガーするボタンを Finance and Operations フォームまたはワークスペースに追加するように、Dynamics 365 for Finance and Operations を構成できます。 ユーザーは、これらのフローの実行をトリガーおよび監視できます。 これにより、2019 年 4 月から 7 月の間に導入された、Finance and Operations ワークフローのイベント、タスク、承認と Microsoft Flow の統合を可能にする、フロー統合機能が補完されます。 これらの統合機能は重要な競争上の優位性であり、パートナーおよび顧客の実装コストを削減します。
 <!--feature detail end -->

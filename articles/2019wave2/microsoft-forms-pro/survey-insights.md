@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: welee
 dynamics365pdf: true
 ---
-# <a name="survey-insights"></a>調査の分析情報 
+# 調査の分析情報 
 
 [!include[microsoft-forms-pro banner](../includes/microsoft-forms-pro.md)]
 

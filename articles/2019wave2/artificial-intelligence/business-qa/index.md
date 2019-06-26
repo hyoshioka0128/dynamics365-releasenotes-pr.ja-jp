@@ -8,4 +8,4 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: ramanasr
 ---
-# <a name="placeholder-for-business-qa"></a>Business Q&A のプレースホルダー
+# Business Q&A のプレースホルダー

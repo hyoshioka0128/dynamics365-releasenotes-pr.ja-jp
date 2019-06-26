@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: kyley
 dynamics365pdf: true
 ---
-# <a name="mixed-reality-guides-for-field-service"></a>Mixed Reality Guides for Field Service
+# Mixed Reality Guides for Field Service
 [!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -19,7 +19,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 Dynamics 365 Guides は、従業員が実践によって学習できる新しい Mixed Reality アプリです。 Dynamics 365 Guides は、実際の作業環境で必要なツールやパーツについて、またそれらのツールの使用方法についてガイドするステップ バイ ステップの手順で、従業員の学習を強化します。 
  

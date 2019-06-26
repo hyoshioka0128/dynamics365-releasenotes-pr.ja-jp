@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: v-jegrif
 dynamics365pdf: true
 ---
-# <a name="boost-bank-acceptance-rates"></a>銀行の受入率の向上
+# 銀行の受入率の向上
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 Microsoft の不正検出テクノロジは、数十億ドル規模の自社ビジネスを保護してきた長年の経験に基づく、銀行や発行人に関する実績のある追跡記録を備えています。 Dynamics 365 Fraud Protection は、業者の銀行での受入率を高め、不当な拒否を減らすのに役立ちます。 取引受入ブースターと呼ばれるこの市場の差別化要因では、トランザクションのリスク エクスポージャに関する情報が銀行および発行者に対して共有され、銀行や発行者はこの情報を独自の評価に組み込むことで、より情報に基づいた評価を行うことができます。 トランザクション リスク エクスポージャは、以下のいずれかの方法で銀行および発行者に共有されます。
 

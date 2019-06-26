@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: chali
 dynamics365pdf: true
 ---
-# <a name="sentiment-analysis-enhancement"></a>感情分析の強化
+# 感情分析の強化
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 進行中のメッセージング セッションで否定的な感情イベントを識別する機能は、エージェントとスーパーバイザーがそのデータに基づいて行動し、顧客の肯定的な結果を確実にする機会を提供するため、重要です。 この更新では、感情分析に機能強化がいくつか追加されます。
 

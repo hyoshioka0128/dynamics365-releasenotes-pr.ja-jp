@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
 ---
-# <a name="dock-management-planning"></a>ドック管理計画
+# ドック管理計画
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 この機能は、予定のスケジュール フォームにグラフィカルなカレンダー ビューを追加して、ユーザーがスケジュールされた予定を複数のビュー (月、週、日) で表示できるようにします。 ユーザーは、カレンダー ビューから直接新しい予定を作成することもできます。 さらに、ユーザーは自分の予定ルールで場所の種類を指定して、予定の作成に利用できる場所の一覧にステージング場所とドック場所のどちらを含めるかを決定できます。
 <!--feature detail end -->

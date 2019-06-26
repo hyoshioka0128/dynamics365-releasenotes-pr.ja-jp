@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
 ---
-# <a name="customize-the-canvas-themes"></a>キャンバス テーマをカスタマイズする
+# キャンバス テーマをカスタマイズする
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -19,7 +19,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 組織は、カスタマイズされたボットを通じてブランドの個性を反映する差別化されたエクスペリエンスを作成することを目指しています。 
  

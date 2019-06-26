@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: jchrist
 dynamics365pdf: true
 ---
-# <a name="new-option-to-report-production-outage-in-the-business-central-administration-center"></a>Business Central 管理センターで運用停止を報告する新しいオプション
+# Business Central 管理センターで運用停止を報告する新しいオプション
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 パートナーは、顧客のテナントが停止していることを認識したら、Business Central 管理センターですぐにサポート チケットを作成できます。 顧客の運用環境を選択すると、新しいオプション**稼働停止のレポート**が有効になります。 パートナーは、このアクションを選択する場合は、状況に関するいくつかの質問に答える必要があり、その後でチケットを送信できます。 結果として作成されるサポート チケットには、顧客のテナントについての指定された情報が設定されます。 
 <!--feature detail end -->

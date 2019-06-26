@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
 ---
-# <a name="slot-filling-capabilities"></a>スロット充足機能
+# スロット充足機能
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 ユーザーがボットとの対話で何かを言うたびに、応答には会話を導くのに役立つ有用な情報が含まれている可能性があります。 システムは、ユーザーの応答で、会話をガイドするために使用する情報を継続的に解析します。 
 

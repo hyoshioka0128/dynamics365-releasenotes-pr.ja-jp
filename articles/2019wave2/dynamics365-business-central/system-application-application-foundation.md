@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: jannikb
 dynamics365pdf: true
 ---
-# <a name="design-for-extensibility"></a>拡張性のデザイン
+# 拡張性のデザイン
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 AL での Microsoft アプリケーションのソース コードの最初のリリースは、すべてのアプリケーションが拡張機能である新しい時代であり、拡張性はコードのカスタマイズに取って代わり始めています。 この変更を容易にするために、私たちはより多くのシステム ロジックをモジュールに抽出し、システム アプリケーションとアプリケーション基盤を形成することによって、コア アプリケーションをよりシンにし、より拡張可能にし、ローカライズをより容易にするためにり組んでいます。 
 
@@ -33,7 +33,7 @@ AL での Microsoft アプリケーションのソース コードの最初の�
 これは、Microsoft とパートナー コミュニティの両方にとって開発パラダイムの大きな変化であるため、2019 年リリース ウェーブ 2 よりはるかに早く各モジュールを利用可能にします。 モジュールが完成したら、ソース コードを [GitHub の ALAppExtensions リポジトリ](https://github.com/Microsoft/ALAppExtensions)で公開するので、直接フィードバックを提供し、貢献することができるようになります。  
 <!--feature detail end -->
 
-## <a name="tell-us-what-you-think"></a>フィードバック
+## フィードバック
 Dynamics 365 Business Central の機能向上のためのアイデア、提案、フィードバックをお寄せください。 フォーラム ([https://aka.ms/bcideas](https://aka.ms/bcideas)) をご利用ください。
 
 

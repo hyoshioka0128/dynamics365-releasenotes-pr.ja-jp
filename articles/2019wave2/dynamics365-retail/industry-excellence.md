@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: balajiba
 dynamics365pdf: true
 ---
-# <a name="industry-excellence"></a>業界の卓越性
+# 業界の卓越性
 
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 

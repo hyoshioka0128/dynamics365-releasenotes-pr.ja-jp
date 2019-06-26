@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
 ---
-# <a name="blind-returns-receiving"></a>ブラインド返品受取
+# ブラインド返品受取
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
  倉庫では、一致する返品注文に追加されていない品目を含む返送品を受け取ることがよくあります。 この機能は、注文を事前に調整しなくても、元の返品注文には含まれていなかった品目を作業者が受け取れるようにすることで、標準の返品注文処理を拡張します。 そのような返送品が倉庫に届き、見つからない品目が作業者によってスキャンされると、確認メッセージがモバイル デバイスに表示されます。 確認された場合、数量が一致する入庫品目の返品注文に新しい明細行が作成されます。 この機能はユーザー レベルで管理できます。
 <!--feature detail end -->

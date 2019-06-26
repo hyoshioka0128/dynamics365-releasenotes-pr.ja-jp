@@ -11,7 +11,7 @@ ms.author: carinaha
 dynamics365pdf: true
 ---
 
-# <a name="overview-of-dynamics-365-for-finance-and-operations-2019-release-wave-2"></a>Dynamics 365 for Finance and Operations 2019 年リリース ウェーブ 2 の概要
+# Dynamics 365 for Finance and Operations 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 Dynamics 365 for Finance and Operations では財務と業務が統合されて、従業員が情報に基づいた判断を迅速に下せるように支援します。 Finance and Operations は、ビジネスが変化し続ける市場の需要に素早く対応し、ビジネスの迅速な成長を促進するうえで役立ちます。 

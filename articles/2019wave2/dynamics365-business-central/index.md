@@ -11,7 +11,7 @@ ms.author: jannikb
 dynamics365pdf: true
 ---
 
-# <a name="overview-of-dynamics-365-business-central-2019-release-wave-2"></a>Dynamics 365 Business Central 2019 年リリース ウェーブ 2 の概要
+# Dynamics 365 Business Central 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 Dynamics 365 Business Central では、中小企業の組織向けに設計および最適化された完全なビジネス アプリケーション ソリューションが提供されます。 2018 年 4 月の発売以来、Dynamics 365 Business Central はビジネスをデジタルに変革しようとしている組織による採用が増えています。 2018 年 10 月更新プログラムでは、オンプレミス展開も含むように Business Central を更新しました。 最新バージョンの 2019 年 4 月更新プログラムでは、ユーザーの生産性が向上するように Business Central を更新しました。

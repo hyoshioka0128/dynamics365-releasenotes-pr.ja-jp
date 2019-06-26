@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: jaarmeni
 dynamics365pdf: true
 ---
-# <a name="capture-and-share-annotations-without-being-in-a-call"></a>通話せずに注釈を取り込んで共有する
+# 通話せずに注釈を取り込んで共有する
 [!include[mixed-reality/dynamics365-remote-assist banner](../includes/mixed-reality/dynamics365-remote-assist.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 リモート アシスタンスが必要なシナリオのサポートを求めるフィードバックをお客様からいただきましたが、ネットワークの制限により通話を確立できません。 
 

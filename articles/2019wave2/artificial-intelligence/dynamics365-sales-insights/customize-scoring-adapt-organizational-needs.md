@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: ashpodar
 dynamics365pdf: true
 ---
-# <a name="customize-scoring-to-adapt-to-organizational-needs"></a>組織のニーズに合わせてスコアリングをカスタマイズする
+# 組織のニーズに合わせてスコアリングをカスタマイズする
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| |
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 組織は、ビジネス上の重要な決定を行うためにインテリジェントな予測に依存します。 予測をより意味のあるものにするには、各組織のプロセスと戦略の微妙な違いに適応することが重要です。 組織は、独自のビジネス固有の入力を全体的なスコアリング モデルに追加し、特定のビジネス ニーズに合わせてカスタマイズすることができます。 
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 - **予測営業案件スコアリングおよび予測リード スコアリングにカスタム エンティティとカスタム フィールドを追加する:** ビジネス アナリストは、ビジネスに固有のカスタム シグナルを追加して既製の予測モデルを拡張できます。 
 <!--feature detail end -->

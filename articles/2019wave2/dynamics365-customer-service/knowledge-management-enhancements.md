@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: justinay
 dynamics365pdf: true
 ---
-# <a name="knowledge-management-enhancements"></a>ナレッジ マネージメントの拡張機能
+# ナレッジ マネージメントの拡張機能
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 ナレッジ マネージメントの改善への取り組みは、ナレッジ作成者、顧客サービス エージェント、およびエンド カスタマーにとってメリットになります。 顧客サービス エージェントは、いっそう効果的に、エンド ユーザーの問題に対する解決策を調べて見つけることができます。 ナレッジ作成者は、簡単にコンテンツを作成して発見可能にすることができます。 簡素化されたオーサリング ソリューションと魅力的な記事を作成する機能は、セルフヘルプに移行するエンド カスタマーにとってナレッジ ベース記事をより効果的にすることで、セルフサービスの導入を促進するのに役立ちます。 
 

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: cindyliu
 dynamics365pdf: true
 ---
-# <a name="microsoft-teams-integration-enhancements"></a>Microsoft Teams 統合の機能拡張
+# Microsoft Teams 統合の機能拡張
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、自動的|| 2019 年 10 月|はい |
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 Dynamics 365 と Teams の統合は、2019 年 4 月に導入されました。 この拡張機能では、Dynamics 365 アプリを終了することなく、Dynamics 365 レコードを Teams チャネルに接続できます。 販売担当者は、Dynamics 365 のアクセス権限に基づいて、接続フローの間に、チーム メンバーのレコメンデーションを受け取ります。 拡張性をさらに向上させるため、Dynamics と Teams の接続で、既製のエンティティとカスタム エンティティに対してファイル共有を有効にできるようになります。 接続とは、Dynamics 365 のタブを Teams のチャネルに追加する機能のことです。 
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 - Dynamics 365 のレコードを Teams のチャネルに接続すると、Dynamics 365 レコードに関連付けられているユーザーに基づいて、関連するメンバーが提案されます。 チャネルの所有者として指定されている場合、ユーザーはメンバーの提案を使用できます。 
 - カスタム エンティティ タイプを含むすべてのエンティティ タイプについて、Microsoft Teams の統合機能で SDK サポートを利用できるようになります。 

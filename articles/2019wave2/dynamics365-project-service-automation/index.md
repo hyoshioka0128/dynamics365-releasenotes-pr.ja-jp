@@ -12,7 +12,7 @@ dynamics365pdf: true
 ---
 
 
-# <a name="overview-of-dynamics-365-for-project-service-automation-2019-release-wave-2"></a>Dynamics 365 for Project Service Automation 2019 年リリース ウェーブ 2 の概要
+# Dynamics 365 for Project Service Automation 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-project-service-automation banner](../includes/dynamics365-project-service-automation.md)]
 
 Dynamics 365 for Project Service Automation は、プロジェクト ベースの組織が販売から納品までプロジェクトを管理するためのエンドツーエンドのソリューションです。 アプリケーションには、詳細なリソース管理、販売、価格設定、請求、時間と経費の入力、承認の各機能、および最小限のプロジェクト タスクと WBS (作業分解構造) 機能があります。 Microsoft Project の Common Data Service プラットフォームへの変更により、Common Data Service プラットフォーム上に既にある Project Service Automation アプリケーションだけが、この業界標準のプロジェクト計画およびタスク計画機能を活用できます。 Dynamics 365 for Finance and Operations のサービス産業モジュールは、収益認識および日付の有効な為替レートと豊富な売上税機能セットを利用する顧客向けの請求書発行など、プロジェクト会計に特に力を入れています。 

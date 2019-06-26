@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
 ---
-# <a name="put-away-clusters"></a>プット アウェイ クラスター
+# プット アウェイ クラスター
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
  プット アウェイ クラスターは、プット アウェイ プロセスの間にクラスタリングを使用できるようにする機能です。 作業者は、プット アウェイ作業を 1 つのクラスターにまとめ、一度に複数のライセンス プレートを選択して、後で別の倉庫の場所に移動することができます。 この機能は、小売倉庫の場合、または受け取ったライセンス プレートがフル パレットではないその他のシナリオの場合に特に役立ちます。 これは、倉庫の入庫プロセスの効率を高め、ユーザーがライセンス プレートごとに個別にプロセスを繰り返す必要がある単一ライセンス プレート プット アウェイに代わる、より速い代替手段となります。
 <!--feature detail end -->

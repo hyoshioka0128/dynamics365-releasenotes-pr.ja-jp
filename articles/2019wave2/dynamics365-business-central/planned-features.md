@@ -10,7 +10,7 @@ ms.author: msalam
 dynamics365pdf: true
 ---
 
-# <a name="whats-new-and-planned-for-dynamics-365-business-central"></a>Dynamics 365 Business Central の新機能と予定されている機能
+# Dynamics 365 Business Central の新機能と予定されている機能
 
 このトピックでは、2019 年 10 月から 2020 年 3 月までのリリースで予定されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
@@ -18,7 +18,7 @@ dynamics365pdf: true
 
 <!--note from editor: I don't know how you added the headings and paragraphs before each table, but I did make edits to them, and the RN tool does not sync changes to planned-features topics back into the tool from GitHub, is what I have been told. So we'll need to make sure the tool is updated before the next push into GitHub. Answer from Eva: It looks like the text is imported from the L2 entries, at least it's not manually added in GitHub. So I aligning the L2 entries in the RN tool with your edits.-->
 
-## <a name="application-enhancements"></a>アプリケーションの機能強化
+## アプリケーションの機能強化
 
 最もよく使用される部分のパフォーマンスに重点を置いて、引き続きアプリケーションを強化していきます。 Business Central のアイデア サイトが引き続きアプリケーションの機能強化に関する情報源です。
 
@@ -29,7 +29,7 @@ dynamics365pdf: true
  | [大きな品目相互参照番号を書き込む](write-larger-item-cross-reference-numbers.md) | エンド ユーザー、自動的  |     | 2019 年 10 月|  
 
 
-## <a name="application-lifecycle-management"></a>アプリケーション ライフサイクル管理
+## アプリケーション ライフサイクル管理
 
 パートナーは、顧客を Business Central に追加すると直ちに、顧客のライフサイクル管理、ソリューションの提供、サポートの提供、更新の管理、テストなどができるようになる必要があります。 パートナーが利用できるツールの範囲を拡大するために引き続き作業していきます。
 
@@ -42,7 +42,7 @@ dynamics365pdf: true
  | [C/AL テーブルから AL テーブルへのパフォーマンス データのアップグレードのサポート](support-performant-data-upgrade-cal-tables-al-tables.md) | 管理者、作成者、またはアナリスト、自動的  |     | 2019 年 10 月|  
 
 
-## <a name="migrations-to-business-central-online"></a>Business Central オンラインへの移行
+## Business Central オンラインへの移行
 
 ここでは、Business Central オンラインへの移行のロードマップについて詳しく説明します。
 
@@ -51,7 +51,7 @@ dynamics365pdf: true
  | [顧客移行ツールの機能強化](enhancements-customer-migration.md) | 管理者、作成者、またはアナリスト、自動的  |     | 2019 年 10 月|  
 
 
-## <a name="modern-clients"></a>最新のクライアント
+## 最新のクライアント
 
 最新のブラウザー エクスペリエンスに対する速度と生産性の機能への取り組みを加速しており、初心者から上級者まで、世界トップ クラスのデスクトップ エクスペリエンスへの変革における大きなマイルストーンを達成しました。
 
@@ -74,7 +74,7 @@ dynamics365pdf: true
  | [Business Central 専用の最新クライアント](modern-clients-only-business-central-cloud-on-premises.md) | 管理者、作成者、またはアナリスト、自動的  |     | 2019 年 10 月|  
 
 
-## <a name="modern-developer-tools"></a>最新の開発者ツール
+## 最新の開発者ツール
 
 2019 年リリース ウェーブ 2 の Business Central では、従来の開発ツール C/SIDE と開発言語 C/AL が廃止され、拡張機能ベースのカスタマイズ アプローチがサポートされる Visual Studio Code、Azure DevOps、AL 言語に基づく最新のソリューションに置き換えられます。
 
@@ -90,7 +90,7 @@ dynamics365pdf: true
  | [他の拡張機能の翻訳](translating-other-extensions.md) | 管理者、作成者、またはアナリスト、自動的  |     | 2019 年 10 月|  
 
 
-## <a name="empower-isv-acceleration"></a>ISV アクセラレーションを強化する
+## ISV アクセラレーションを強化する
 
 IP をソース コード カスタマイズ モデルから Business Central に移動して、新しいソリューションを開発するときの ISV アクセラレーションを強化することに集中します。 エコシステムは非常に広範ですが、ISV の小さな集中セットが売上と使用の大部分を占めています。 これらのコア ISV を有効にすることに焦点を当てます。
 
@@ -99,7 +99,7 @@ IP をソース コード カスタマイズ モデルから Business Central �
  | [拡張性のデザイン](system-application-application-foundation.md) | 管理者、作成者、またはアナリスト、自動的  |     | 2019 年 10 月|  
 
 
-## <a name="service-fundamentals"></a>サービスの基本
+## サービスの基本
 
 パフォーマンス、信頼性、サポート可能性、およびセキュリティに注目することは、サービス品質をサービス利用の増加に先んじて維持するために不可欠です。 アクセシビリティは、既に強い立場にありますが、維持されなければなりません。
 

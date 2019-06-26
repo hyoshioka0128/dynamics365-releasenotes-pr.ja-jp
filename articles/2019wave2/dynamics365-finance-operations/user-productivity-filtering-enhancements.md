@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
 ---
-# <a name="user-productivity-filtering-enhancements"></a>ユーザーの生産性: フィルター処理の機能強化
+# ユーザーの生産性: フィルター処理の機能強化
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
  フィルター処理は、ユーザー インターフェイスの最も一般的で重要な基本機能の 1 つであり、ほとんどのユーザー シナリオやビジネス シナリオに影響を与えます。 データを簡単に発見できることは、ユーザーの成功と満足にとって重要です。 Dynamics 365 for Finance and Operations でのフィルター処理を改善するため、以下を含むいくつかの改良が計画されています。 
 

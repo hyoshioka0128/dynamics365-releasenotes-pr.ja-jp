@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: ramakri
 dynamics365pdf: true
 ---
-# <a name="proactive-chat"></a>プロアクティブなチャット
+# プロアクティブなチャット
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 チャット チャネルを使用すると、エンド ユーザーは Web サイトのチャット ウィジェットを使用して、組織と簡単に関わることができます。 プロアクティブ チャットを使用すると、組織は構成されたルールに基づいてチャットの会話にエンド ユーザーを自動的に招待することで、エンド ユーザーと関わることができます。 組織は、エンド ユーザーのデータ、ユーザー体験の情報、Web ページに費やされた時間などを使用して、エンド ユーザーと関わる最適なタイミングを決定できます。 組織は、パーソナライズされたトリガー メッセージと構成可能なルールを使用して、対象ユーザー、時間枠、およびターゲットの場所を定義し、プロアクティブなチャットのエクスペリエンスを制御できます。
 <!--feature detail end -->

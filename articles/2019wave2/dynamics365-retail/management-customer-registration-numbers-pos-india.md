@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: epopov
 dynamics365pdf: true
 ---
-# <a name="management-of-customer-registration-numbers-from-pos-for-india"></a>インド用 POS からの顧客登録番号の管理
+# インド用 POS からの顧客登録番号の管理
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 11 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 多くの場合、小売販売では特定の顧客に対して GSTIN 番号を指定することが必要です。 Retail POS から顧客登録番号を管理する機能がない場合、唯一の回避策は、Retail Headquarters から登録番号を管理することですが、これでは追加の作業とデータ同期による大幅な遅延が発生します。 これは、新しい顧客レコードが POS から作成されているときは特に重要です。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 この機能では、ユーザーに以下の機能が提供されます。
 

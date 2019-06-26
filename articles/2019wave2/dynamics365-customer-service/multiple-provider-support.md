@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: ramakri
 dynamics365pdf: true
 ---
-# <a name="multiple-provider-support"></a>複数プロバイダーのサポート
+# 複数プロバイダーのサポート
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -19,7 +19,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 真のオムニチャネル エクスペリエンスのためには、エージェントは統一された一貫した方法で異なったプロバイダーからの異なったチャネルを使用できる必要があります。 この機能により、コンタクト センターのエージェント キャパシティの使用が最大化され、エージェントのエクスペリエンスの一貫性を維持しながら、Dynamics 365 のお客様は選択したチャネルでユーザーに連絡できるようになります。 複数プロバイダーのサポートには 2 つの種類があります。
 

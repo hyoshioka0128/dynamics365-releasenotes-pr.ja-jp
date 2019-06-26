@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
 ---
-# <a name="user-productivity-saved-views"></a>ユーザーの生産性: 保存されたビュー
+# ユーザーの生産性: 保存されたビュー
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 [保存されたビュー](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-finance-operations/saved-views)のプレビューは、2019 年 10 月に予定されています。 毎月の更新の一部として、保存されたビューの機能強化がさらに導入されます。
 

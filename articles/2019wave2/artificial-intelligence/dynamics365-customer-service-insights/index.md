@@ -11,7 +11,7 @@ ms.author: tpalmer
 dynamics365pdf: true
 ---
 
-# <a name="overview-of-dynamics-365-customer-service-insights-2019-release-wave-2"></a>Dynamics 365 Customer Service Insights の 2019 年リリース ウェーブ 2 の概要
+# Dynamics 365 Customer Service Insights の 2019 年リリース ウェーブ 2 の概要
 [!include[artificial-intelligence/dynamics365-customer-service-insights banner](../includes/artificial-intelligence/dynamics365-customer-service-insights.md)]
 
 Dynamics 365 Customer Service Insights では、業界最先端の人工知能を使用して、重要なパフォーマンス指標、運用データ、最新トレンドに関するアクション可能なビューが提供されます。 これらの分析情報により、顧客サービス マネージャーは自信を持って顧客満足度と業務効率を改善するために、より的確な決定を下すことができます。 人工知能 (AI)、機械学習、そしてビジネス インテリジェンス (BI) の力のおかげで、コンタクト センターでは、起きていること、その理由、起きる可能性のあることが明確にわかり、最善の行動方針を決定できます。 Customer Service Insights で使われている AI モデルは、ユーザーのジェスチャから積極的に学習し、時間の経過とともに個々の顧客に合わせて最適化されます。 とりわけ、AI 機能は標準で備わっているため、AI の専門知識がなくても使用できます。   

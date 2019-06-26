@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: capieste
 dynamics365pdf: true
 ---
-# <a name="localization"></a>ローカライズ
+# ローカライズ
 [!include[mixed-reality/dynamics365-product-visualize banner](../includes/mixed-reality/dynamics365-product-visualize.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 Product Visualize のサポートが新しい地域と言語に拡大されます。 
 <!--feature detail end -->

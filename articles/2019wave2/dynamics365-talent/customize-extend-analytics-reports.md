@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: yukom
 dynamics365pdf: true
 ---
-# <a name="customize-and-extend-analytics-reports"></a>分析レポートをカスタマイズおよび拡張する
+# 分析レポートをカスタマイズおよび拡張する
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 Attract の既定のレポートは、採用チームに採用プロセスに関する貴重な分析情報を提供しますが、採用はすべての会社、部門、チームに固有です。 Attract を使用すると、ほとんど手間をかけずにこれらのレポートを適応させ、組織固有のニーズに合わせて調整できます。 この機能により、採用チームは Dynamics 365 for Talent パートナーと協力して次のことを行うことができます。
 

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
 ---
-# <a name="auto-release-shipment-for-cross-dock"></a>クロスドッキング用の自動リリース出荷
+# クロスドッキング用の自動リリース出荷
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
  製造オーダーの供給元でクロスドッキング作業を作成するとき、クロスドッキング テンプレートを "便宜的" に設定することができます。 このように設定し、製造オーダーが販売注文または移動オーダーとしてマークされている場合、ユーザーがモバイル デバイスで終了済みトランザクションとしてレポートを完了した時点で、マークされた販売注文がシステムによって自動的に倉庫にリリースされます。それによって出荷が作成され、クロスドッキング作業の作成が可能になります。
 <!--feature detail end -->

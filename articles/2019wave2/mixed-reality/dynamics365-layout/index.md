@@ -11,7 +11,7 @@ ms.author: jille
 dynamics365pdf: true
 ---
 
-# <a name="overview-of-dynamics-365-layout-2019-release-wave-2"></a>Dynamics 365 Layout 2019 年リリース ウェーブ 2 の概要
+# Dynamics 365 Layout 2019 年リリース ウェーブ 2 の概要
 [!include[mixed-reality/dynamics365-layout banner](../includes/mixed-reality/dynamics365-layout.md)]
 
 空間プランナーは、Dynamics 365 Layout で提供される新しい方法を使用して、確実にすばやく、デザインをコンセプトから完全なものにすることができます。 インポートした資産やグレー ボックスの資産を空間にすばやくレイアウトでき、高精度のホログラムを Microsoft HoloLens で現実世界にオーバーレイして表示したり、Windows Mixed Reality に空間の仮想表現で表示したりできます。 3D モデルとエクスペリエンス デザインを高品質なホログラムとしてインポートします。

@@ -10,7 +10,7 @@ ms.author: msalam
 dynamics365pdf: true
 ---
 
-# <a name="whats-new-and-planned-for-dynamics-365-for-retail"></a>Dynamics 365 for Retail の新機能と予定されている機能
+# Dynamics 365 for Retail の新機能と予定されている機能
 
 このトピックでは、2019 年 10 月から 2020 年 3 月までのリリースで予定されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
@@ -18,7 +18,7 @@ dynamics365pdf: true
 
 
 
-## <a name="fundamentals"></a>基本機能
+## 基本機能
 
 インフラストラクチャ、サービス、品質、およびパフォーマンスへの取り組み。
 
@@ -36,7 +36,7 @@ dynamics365pdf: true
  | [POS 用の Regression Suite Automation Tool](regression-suite-automation-tool-pos.md) | 管理者、作成者、またはアナリスト、自動的  |     | 2019 年 11 月|  
 
 
-## <a name="industry-excellence"></a>業界の卓越性
+## 業界の卓越性
 
 中核的な小売事業プロセスおよび業界の要件と機能への取り組み
 

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
 ---
-# <a name="entity-extraction-with-custom-entities"></a>カスタム エンティティによるエンティティ抽出
+# カスタム エンティティによるエンティティ抽出
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -19,7 +19,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 事前定義されたシステム エンティティ タイプに加えて、作成者はカスタム エンティティを簡単に作成してユーザーの会話で認識し、使用することができます。 
  

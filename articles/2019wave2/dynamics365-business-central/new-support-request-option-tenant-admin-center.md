@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: jchrist
 dynamics365pdf: true
 ---
-# <a name="new-support-request-option-in-the-business-central-administration-center"></a>Business Central 管理センターでの新しいサポートの要請オプション
+# Business Central 管理センターでの新しいサポートの要請オプション
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 Business Central 管理センターでは、新しいサポート オプションによってパートナー向けのサポート プロセスが大幅に改善されます。 Dynamics シェルで疑問符をクリックすると、**新しいサポート要求**が表示されます。 その後、移動した新しいポータルで、Business Central に対するサポート チケットを入力します。 更新プログラムを入手してサポート要求を管理するには、新しいポータルを使用します。 Business Central 管理センターは新しい出発点であるため、パートナーにはチケットを入力する場所についての明確な指示があります。 
 <!--feature detail end -->

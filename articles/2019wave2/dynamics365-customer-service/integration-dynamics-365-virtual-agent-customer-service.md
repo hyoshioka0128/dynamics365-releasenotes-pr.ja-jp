@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: yangao
 dynamics365pdf: true
 ---
-# <a name="integration-with-dynamics-365-virtual-agent-for-customer-service"></a>Dynamics 365 Virtual Agent for Customer Service の統合
+# Dynamics 365 Virtual Agent for Customer Service の統合
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -19,7 +19,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 この機能により、Dynamics 365 Virtual Agent for Customer Service とチャットを統合できます。 Virtual Agent for Customer Service を使用すると、定型的な会話を自動化して、エージェントは価値の高い対話に集中できます。 仮想エージェントとチャットの統合による主な機能は次のとおりです。
 

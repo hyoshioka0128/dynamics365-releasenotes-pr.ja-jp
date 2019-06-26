@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
 ---
-# <a name="change-work-pool-button"></a>[作業プールの変更] ボタン
+# [作業プールの変更] ボタン
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 **作業プールの変更**ボタンは、倉庫管理者が既に作成された作業 ID の作業プールを簡単に変更できる、システムへの簡単な追加です。 製造現場で発生する可能性のある変更にすばやく対応し、状況の変化によって必要とされるときに物理プロセスをより適切に合理化する機能が導入されます。
 <!--feature detail end -->

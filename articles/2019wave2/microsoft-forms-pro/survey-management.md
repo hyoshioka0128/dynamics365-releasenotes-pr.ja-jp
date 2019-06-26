@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: welee
 dynamics365pdf: true
 ---
-# <a name="survey-management"></a>調査管理
+# 調査管理
 
 [!include[microsoft-forms-pro banner](../includes/microsoft-forms-pro.md)]
 

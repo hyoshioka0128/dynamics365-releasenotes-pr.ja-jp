@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: dandalla
 dynamics365pdf: true
 ---
-# <a name="out-of-the-box-hierarchical-relationship-on-the-territory-entity"></a>担当地域エンティティですぐに使える階層関係
+# 担当地域エンティティですぐに使える階層関係
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、自動的|| 2019 年 10 月|はい |
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 組織は、関連する担当地域を階層的に表示することによって、貴重な分析情報を得ることができます。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 階層関係が、担当地域エンティティですぐに使えるようになります。 これにより、組織は販売担当地域を階層形式でモデル化および視覚化できます。
 <!--feature detail end -->

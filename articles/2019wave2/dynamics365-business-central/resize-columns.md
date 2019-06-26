@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
 ---
-# <a name="resize-columns-with-fewer-clicks"></a>少ないクリック数での列のサイズ変更
+# 少ないクリック数での列のサイズ変更
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,7 +18,7 @@ dynamics365pdf: true
 |エンド ユーザー、自動的|| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 ユーザーは、作業するときにビジネス データをよりわかりやすく表示するためにすばやく簡単にインターフェイスを調整する場合、Microsoft Excel のような一般的なアプリで一貫した方法で行うことで、学習曲線を減らす必要があります。
 
@@ -26,7 +26,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 任意の列の幅を調整することが簡単になりました。 どのリストの列のサイズもいつでも変更できますが、ログインしているデバイスに関係なく、変更内容は一緒に移動します。
 <!--feature detail end -->

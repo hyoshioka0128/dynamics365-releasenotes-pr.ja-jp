@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: pborring
 dynamics365pdf: true
 ---
-# <a name="access-modifiers"></a>アクセス モディファイアー
+# アクセス モディファイアー
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 アクセス モディファイアーを使用することで、独自のコードであるか、独自のコードを基に構築されたサードパーティのコードであるかにかかわらず、どこから呼び出すことができるかを制御できます。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--note from editor: Would it help users to have AL spelled out? Or is that acronym commonly used?-->
 
 <!--feature detail start -->

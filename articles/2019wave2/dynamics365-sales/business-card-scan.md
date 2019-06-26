@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: naitikds
 dynamics365pdf: true
 ---
-# <a name="business-card-scan"></a>名刺のスキャン
+# 名刺のスキャン
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -19,7 +19,7 @@ dynamics365pdf: true
 
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 
 顧客から最も多い要求です。 
@@ -28,7 +28,7 @@ dynamics365pdf: true
 
 <!-- bv end -->
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 名刺を携帯電話や Web でスキャンできます。 スキャナーは、名刺の関連情報を分析し、システム内の各フィールドを自動的に更新します。 この機能では、設定する代替フィールドをユーザーが選択できるようにする構成も提供されます。
 <!--feature detail end -->

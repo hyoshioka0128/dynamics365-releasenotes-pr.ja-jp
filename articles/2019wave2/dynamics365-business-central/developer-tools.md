@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: clausba
 dynamics365pdf: true
 ---
-# <a name="modern-developer-tools"></a>最新の開発者ツール
+# 最新の開発者ツール
 
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 

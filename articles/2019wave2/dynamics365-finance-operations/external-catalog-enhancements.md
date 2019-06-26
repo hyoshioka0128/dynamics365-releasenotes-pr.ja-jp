@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: lcash
 dynamics365pdf: true
 ---
-# <a name="external-catalog-enhancements"></a>外部カタログの機能強化
+# 外部カタログの機能強化
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
  調達組織は、Microsoft Dynamics 365 for Finance and Operations バージョン 7.2 で外部カタログの cXML プロトコルを利用することができました。 仕入先システムが異なるため、外部カタログの設定とテストではトラブルシューティングが必要になる場合があります。 新しいカタログの機能強化により、調達組織はログ機能を有効にして、外部カタログのパラメーターの変更が必要になる可能性がある一般的な問題をキャプチャできます。 
 

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: tpalmer
 dynamics365pdf: true
 ---
-# <a name="get-a-combined-overview-of-human-and-virtual-agents"></a>人間のエージェントと仮想エージェントの総合的な概要の把握
+# 人間のエージェントと仮想エージェントの総合的な概要の把握
 [!include[artificial-intelligence/dynamics365-customer-service-insights banner](../includes/artificial-intelligence/dynamics365-customer-service-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 人間のエージェントと仮想エージェント両方の 360 度の視野により、顧客サービス全体のエクスペリエンスが向上します。 ダッシュボードでは、サポート チームの全体的なパフォーマンスの集約された単一のビューが提供され、さまざまなサービス間を行き来することなく、サポート チームのパフォーマンスの全体像を把握できます。 これらの指標は既存の Customer Service Insights ダッシュボードに統合されており、人間のエージェントと仮想エージェントのサポート案件の量、解決率、処理時間、エスカレーション率、顧客満足度など、サポート チーム全体の指標を見ることができます。 
 <!--feature detail end -->

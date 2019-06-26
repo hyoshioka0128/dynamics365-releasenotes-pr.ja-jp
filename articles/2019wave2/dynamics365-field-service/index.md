@@ -11,7 +11,7 @@ ms.author: kyley
 dynamics365pdf: true
 ---
 
-# <a name="overview-of-dynamics-365-for-field-service-2019-release-wave-2"></a>Dynamics 365 for Field Service 2019 年リリース ウェーブ 2 の概要 
+# Dynamics 365 for Field Service 2019 年リリース ウェーブ 2 の概要 
 [!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
 
 Dynamics 365 for Field Service は、オンサイト サービス用のエンドツーエンドのソリューションであり、組織が事後対応型から事前対応型または予測型のフィールド サービスを提供するよう移行することを可能にし、結果ベースのサービスや "サービスとしてのもの" などの新しいビジネス モデルを採用することを支援します。  

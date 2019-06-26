@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: JCart
 dynamics365pdf: true
 ---
-# <a name="deeper-experience-integration-with-finance-and-operations-and-third-party-applications"></a>Finance and Operations およびサード パーティ アプリケーションとのより深いエクスペリエンス統合
+# Finance and Operations およびサード パーティ アプリケーションとのより深いエクスペリエンス統合
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 昨年の 10 月のリリースでは、Core HR から Dynamics 365 for Finance and Operations の特定のフォームにリンクする機能が追加されました。 これにより、アプリケーションがより緊密になり、より統一されたエクスペリエンスが提供されました。 今回のリリースでは、Finance and Operations に追加のコンテキスト情報を渡すことでエクスペリエンスをいっそう深めながら、サード パーティ製アプリケーションへのコンテキスト固有のリンクも可能になります。 
 

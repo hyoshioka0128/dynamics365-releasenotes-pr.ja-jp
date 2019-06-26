@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
 ---
-# <a name="wave-template-grouping"></a>ウェーブ テンプレートによるグループ化
+# ウェーブ テンプレートによるグループ化
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
  ウェーブ テンプレートによるグループ化機能は、既存の作業テンプレートによるグループ化の動作と似ていますが、代わりにウェーブ テンプレートの既存機能によりグループ化したり分割したりできます。 これは、特定の基準に基づいてウェーブが作成されている倉庫では便利ですが、自動ウェーブ作成が手動より優先されます。
 <!--feature detail end -->

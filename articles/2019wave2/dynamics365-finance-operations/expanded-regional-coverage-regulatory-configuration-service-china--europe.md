@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: janeaug
 dynamics365pdf: true
 ---
-# <a name="expanded-regional-coverage-of-regulatory-configuration-service-to-china-and-europe"></a>中国とヨーロッパへの Regulatory Configuration Service の適用範囲地域の拡大
+# 中国とヨーロッパへの Regulatory Configuration Service の適用範囲地域の拡大
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 6 月| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 この地域的拡大により、中国とヨーロッパのお客様は、ローカルのデータ常駐要件を満たすことができ、機能が制限される Dynamics 365 for Finance and Operations に組み込まれた構成デザイナーに依存しないで Regulatory Configuration Service (RCS) の利点を利用できます。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 継続的な機能強化の一環として、RCS 環境を展開できる地域の適用範囲が拡大されています。 システム管理者は、サービスの初期サインアップ時に、RCS 環境を既存のサポート対象地域に展開するか、または新しくサポートされる地域にインスタンスを展開するかを選択できます。 2019 年リリース ウェーブ 2 では、ユーザーは以下の国/地域で RCS 環境をホストすることを選択できます。 
 

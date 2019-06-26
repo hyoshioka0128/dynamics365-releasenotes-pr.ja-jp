@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: welee
 dynamics365pdf: true
 ---
-# <a name="survey-distribution"></a>調査の配布 
+# 調査の配布 
 
 [!include[microsoft-forms-pro banner](../includes/microsoft-forms-pro.md)]
 

@@ -8,4 +8,4 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: ramanasr
 ---
-# <a name="placeholder-for-dynamics-365-spatial-insights"></a>Dynamics 365 Spatial Insights のプレースホルダー
+# Dynamics 365 Spatial Insights のプレースホルダー

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: jasonhui
 dynamics365pdf: true
 ---
-# <a name="better-privacy-controls-for-who-knows-whom"></a>つながり検索のプライバシー管理の強化
+# つながり検索のプライバシー管理の強化
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 組織内のすべての人が個人情報を確実に管理できることが重要です。 つながり検索では、さまざまな個人のプライバシーの基本設定を満たすために、よりきめ細かいプライバシー管理がサポートされるようになりました。 Office 365 ユーザーは、オプトイン コントロールとオプトアウト コントロールを使用してつながりグラフの対象を管理し、自分の身元を常に共有するか、許可されるまで非表示にするかを制御できます。 
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 - **ユーザー コントロール**: 販売担当者は、テナント管理者の関与を必要とせずに、つながりグラフから独立してオプトインおよびオプトアウトできます。 
   

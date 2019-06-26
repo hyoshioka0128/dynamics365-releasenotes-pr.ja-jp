@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
 ---
-# <a name="email-ab-testing"></a>メールの A/B テスト
+# メールの A/B テスト
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 複数の可能なメール デザインから最善の結果が得られるものを見つけるための最良の方法の 1 つは、対象ユーザーの異なるサブセットで各デザインを試し、対話レコードを分析して各デザインがどのように受け取られたかを調べることです。 マーケティング担当者はこれを _A/B テスト_と呼びます。 
 

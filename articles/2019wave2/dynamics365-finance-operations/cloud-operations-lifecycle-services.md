@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: meeram
 dynamics365pdf: true
 ---
-# <a name="cloud-operations-and-lifecycle-services"></a>クラウド オペレーションと Lifecycle Services
+# クラウド オペレーションと Lifecycle Services
 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: v-jowigh
 dynamics365pdf: true
 ---
-# <a name="rules-engine"></a>ルール エンジン
+# ルール エンジン
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 ルール エンジンを使用して、業者はトランザクションの処理を管理するのに役立つモデル運用ポイントとポリシー ルールを作成できます。 これらのモデル運用ポイントとルールでは、ペイロード属性、リスト (顧客の安全リストとブロック リスト、およびビジネス シナリオに関連するカスタム データのリスト) などを利用して、業者が不正や悪用を防止しながら誤検知を最小限に抑える場合に固有のトレードオフを管理するのを助けます。
 <!--feature detail end -->

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: pborring
 dynamics365pdf: true
 ---
-# <a name="code-documentation-attributes"></a>コード ドキュメント属性
+# コード ドキュメント属性
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 コードと IntelliSense でメソッドとパラメーターに関する最新のドキュメントにアクセスできます。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 C# と同様に、XML タグを使用してコードのコメントを入力できます。 これらのコメントは、IntelliSense やヘルプなど、開発者エクスペリエンスのドキュメントとして使用され、カスタム API 用の OpenAPI (Swagger) ドキュメントを生成するために使用することもできます。 <!--note from editor: When you insert examples, say what the examples refer to as a grouping or category, rather than just brand-name examples. In other words, reword to say something like "These comments will be used in documentation in X apps, such as Intellisense and Help, or to..." Please revise this sentence. Answer from Eva: Attempted rewrite.-->
 <!--feature detail end -->

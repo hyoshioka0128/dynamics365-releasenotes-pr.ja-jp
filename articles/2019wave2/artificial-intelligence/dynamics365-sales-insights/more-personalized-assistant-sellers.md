@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
 ---
-# <a name="more-personalized-and-guided-assistance"></a>いっそうパーソナライズされたガイド付きアシスタンス
+# いっそうパーソナライズされたガイド付きアシスタンス
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| |
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 販売に集中するために、販売担当者は、自分の特定の状況を知っており、Dynamics 365 とのすべてのやりとりを支援できる、個人用アシスタントを利用できます。 アシスタントは、次善の策のためのガイダンスと現時点での提案を提供でき、あらゆる顧客エンゲージメントの推進に役立ちます。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 **Microsoft Teams でのアシスタント**: Teams の新しいアシスタントは、販売担当者が積極的、生産的、個人的になれるよう支援し、タイムリーな分析情報を提供して、時間をかけてリレーションシップに集中できるようにします。 Teams モバイル アプリケーションでサポートされています。 
  

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: clausba
 dynamics365pdf: true
 ---
-# <a name="service-fundamentals"></a>サービスの基本
+# サービスの基本
 
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 

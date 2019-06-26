@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: rumant
 dynamics365pdf: true
 ---
-# <a name="comprehensive-project-operations"></a>包括的なプロジェクト運用
+# 包括的なプロジェクト運用
 [!include[dynamics365-project-service-automation banner](../includes/dynamics365-project-service-automation.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -19,7 +19,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 新しい Project Service と Dynamics Sales Extensions for Project を Dynamics 365 for Finance and Operations の Project Financials 機能で拡張すると、プロジェクトベースの組織に包括的なオファリングが提供されます。 このイニシアチブは、既存の Project Service Automation と Finance and Operations のサービス業機能を組み合わせてプロジェクトのビジネス プロセスを完了することを中心としています。
 

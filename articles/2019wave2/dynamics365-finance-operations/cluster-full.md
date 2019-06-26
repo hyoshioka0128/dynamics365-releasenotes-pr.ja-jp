@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
 ---
-# <a name="cluster-full"></a>クラスター フル
+# クラスター フル
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
  クラスター ピッキングで使用される場合、この機能では、ピッキング作業を柔軟に中断する方法が提供され、コンテナーまたはトートの容積制約により大きな余裕が必要であることが認識されます。 この機能により、クラスター内のいずれかの作業単位で "フル" オプションを実行する機能が導入されます。 その機能は、残りの作業をキャンセルする標準の "フル" ボタン フローとは異なります。 また、新しい作業は自動的に作成されないため、同じクラスターへの別のビンの追加は提示されません。
 <!--feature detail end -->

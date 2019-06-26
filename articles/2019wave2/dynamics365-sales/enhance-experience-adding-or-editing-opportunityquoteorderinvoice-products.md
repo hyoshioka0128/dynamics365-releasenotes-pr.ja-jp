@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: naitikds
 dynamics365pdf: true
 ---
-# <a name="enhance-the-adding-or-editing-opportunityquoteorderinvoice-products-experience"></a>営業案件/見積/発注/請求書の製品の追加または編集エクスペリエンスの強化
+# 営業案件/見積/発注/請求書の製品の追加または編集エクスペリエンスの強化
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -18,7 +18,7 @@ dynamics365pdf: true
 |エンド ユーザー、自動的|| 2019 年 10 月|はい |
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 顧客から最も多い要求です。 
 
@@ -27,7 +27,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 反復的な作業となる可能性のある複数の製品明細品目の作成は、新しい "新規作成および追加" 機能によって合理化されます。 営業案件への新しい製品の追加をすばやく繰り返すことで、エンド ユーザーは時間を節約し、より重要なタスクにすばやく焦点を移すことができます。 さらに:  
 

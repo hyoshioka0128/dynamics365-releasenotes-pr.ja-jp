@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: blazkote
 dynamics365pdf: true
 ---
-# <a name="multi-tasking-across-multiple-pages"></a>複数ページにわたるマルチタスク
+# 複数ページにわたるマルチタスク
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、自動的|| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 多くの場合、ユーザーは一度に複数のタスクを処理しており、電話を受けながら Business Central でアクションを実行するなど、現在実行中のタスクに対する複数の割り込みを管理する必要があります。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 Business Central では、ユーザーは別のタブまたはウィンドウで 2 番目のページを開くことができ、同じ会社で作業しながら同時に複数のタスクを実行できます。 同様に、ユーザーは複数のウィンドウを開いて複数の会社を操作することができ、新しいカラフルな会社バッジ インジケーターにより、特定の会社を表すウィンドウがわかります。
 <!--feature detail end -->

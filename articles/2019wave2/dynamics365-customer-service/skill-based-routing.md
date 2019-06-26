@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: ramakri
 dynamics365pdf: true
 ---
-# <a name="skill-based-routing"></a>スキルベースのルーティング
+# スキルベースのルーティング
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 スキルースのルーティングでは、エージェントのスキルと熟練度に基づいて、会話をエージェントにルーティングできます。 これにより、会話を処理し、顧客の問題を最も効果的に解決できる適切なスキルを持つエージェントを探すことで、自動作業配分の効率が向上します。  
 

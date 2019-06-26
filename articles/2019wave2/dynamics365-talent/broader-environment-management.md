@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: kherr
 dynamics365pdf: true
 ---
-# <a name="broader-environment-management"></a>より幅広い環境管理
+# より幅広い環境管理
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 テストと実装中に、テストから運用環境へ、またはその逆への情報の移動が必要になる場合があります。 この機能を使用して、ある環境から別の環境にデータを移動するプロセスを開始できます。
 

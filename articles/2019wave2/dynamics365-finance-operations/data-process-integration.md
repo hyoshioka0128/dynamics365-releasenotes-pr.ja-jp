@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: robadawy
 dynamics365pdf: true
 ---
-# <a name="data-and-process-integration"></a>データとプロセスの統合
+# データとプロセスの統合
 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: balajiba
 dynamics365pdf: true
 ---
-# <a name="fundamentals"></a>基本機能
+# 基本機能
 
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 

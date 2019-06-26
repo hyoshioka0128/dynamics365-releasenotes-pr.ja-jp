@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: v-jowigh
 dynamics365pdf: true
 ---
-# <a name="virtual-fraud-analyst"></a>Virtual Fraud Analyst
+# Virtual Fraud Analyst
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 Virtual Fraud Analyst は、よりカスタマイズされた不正防止戦略を可能にする追加機能をサポートします。 今日存在する強力なモデル操作エクスペリエンスと共に、ベンチマークと柔軟なルール エンジンが提供されます。 更新内容は次のとおりです。
 

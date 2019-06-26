@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: perlynne
 dynamics365pdf: true
 ---
-# <a name="further-catch-weight-integration-1003"></a>CW 統合の強化 10.0.3
+# CW 統合の強化 10.0.3
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 この機能では、倉庫管理プロセス内の CW 製品処理に対してさまざまな機能強化が提供されます。 この機能では、Fullscope ISV ソリューションでサポートされる以下の追加統合作業が追加されます。 
 

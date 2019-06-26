@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
 ---
-# <a name="deployment-to-web-channels"></a>Web チャンネルへの展開
+# Web チャンネルへの展開
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -20,7 +20,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 企業は、顧客が利用しているチャンネルに関係なく、顧客満足度を向上させ、顧客の問題を効果的かつ迅速に解決できる必要があります。 
 

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: lcash
 dynamics365pdf: true
 ---
-# <a name="purchase-order-delivery-via-cxml"></a>cXML による発注書の配信
+# cXML による発注書の配信
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
  調達組織は、外部カタログを有効にし、従業員がサプライヤーの e コマース サイトから直接購入できるようにすることで、運用効率を高め、組織に付加価値サービスを提供できます。 要求が返され、承認されて、発注書に変換されるとき、ベンダーに発注書を返送する通信は手動で行われます。 この機能拡張により、cXML 発注書要求メッセージのサポートが追加されました。 サプライヤーが発注書の受け取りをサポートしている場合、この機能に対してベンダーを有効にできます。 追加の設定とパラメーターは、外部カタログの構成によって有効になります。 
 

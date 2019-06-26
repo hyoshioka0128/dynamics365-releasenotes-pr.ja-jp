@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
 ---
-# <a name="core-authoring"></a>コア オーサリング
+# コア オーサリング
 
 
 

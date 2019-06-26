@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: pachatte
 dynamics365pdf: true
 ---
-# <a name="customization-of-opportunity-close-dialog-box"></a>[営業案件のクローズ] ダイアログ ボックスのカスタマイズ
+# [営業案件のクローズ] ダイアログ ボックスのカスタマイズ
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -18,7 +18,7 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 10 月|はい |
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 顧客から最も多い要求です。 
 
@@ -27,7 +27,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 - 管理者は、[利益率] や [受注商品] などのフィールドを、営業案件エンティティの [受注としてクローズ] フォーム/ダイアログ ボックスに追加できます。 
 - 管理者は、[競争優位性] などのフィールドを、営業案件エンティティの [失注としてクローズ] フォーム/ダイアログ ボックスに追加できます。 
@@ -45,5 +45,5 @@ dynamics365pdf: true
 > [!NOTE]
 > この機能は、統一インターフェイスでのみ使用できます。
 
-## <a name="thank-you-for-your-idea"></a>アイデアをありがとうございます
+## アイデアをありがとうございます
 [このアイデア](https://experience.dynamics.com/ideas/idea/?ideaid=4792dfee-121a-e611-80e2-c4346badc228)をお送りいただき、ありがとうございました。 アイデア、コメント、投票を参考に、製品のロードマップに追加するものを決定しています。

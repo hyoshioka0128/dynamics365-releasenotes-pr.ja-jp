@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
 ---
-# <a name="customer-satisfaction-csat-dashboards"></a>顧客満足度 (CSAT) ダッシュボード
+# 顧客満足度 (CSAT) ダッシュボード
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 顧客サービス マネージャーは、顧客満足度に最も影響を与えているトピックと、顧客の問題に対処していないトピックに関心があります。 詳細な顧客満足度ダッシュボードでは、顧客サービス マネージャーは全体的な顧客満足度 (CSAT) スコアと、そのスコアを左右するボットのトピックを確認できます。 
  

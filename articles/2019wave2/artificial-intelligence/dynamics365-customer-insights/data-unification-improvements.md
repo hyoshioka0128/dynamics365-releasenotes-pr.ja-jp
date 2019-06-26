@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
 ---
-# <a name="data-unification-improvements"></a>データの統一の向上
+# データの統一の向上
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,7 +18,7 @@ dynamics365pdf: true
 |管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 高度な構成オプションにより、ユーザーはデータ統一方法をより細かく制御できます。
 
@@ -26,7 +26,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 高度な構成オプションでは以下が提供されます。
 

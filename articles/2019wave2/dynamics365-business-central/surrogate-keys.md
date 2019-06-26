@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: kepontop
 dynamics365pdf: true
 ---
-# <a name="surrogate-keys"></a>代理キー
+# 代理キー
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 代理キーがすべてのテーブルに追加されます。 AL 開発者はキーに基づいてレコードを検索できます。
 <!--feature detail end -->

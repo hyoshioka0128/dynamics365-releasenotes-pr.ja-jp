@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: mkirknel
 dynamics365pdf: true
 ---
-# <a name="calculate-po-delivery-date-based-on-lead-times-and-working-days-public-sector"></a>リード タイムと稼働日に基づいて発注書の配送日を計算する (公的機関)
+# リード タイムと稼働日に基づいて発注書の配送日を計算する (公的機関)
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 この機能は、仕入先のコンプライアンスを追跡したい組織に役立ちます。 仕入先が RFQ でリード タイムを送信すると、結果の発注書では配送日が自動的に計算されます。 購入者はレポートを実行し、元の提案とコミットメントに基づいて仕入先のパフォーマンスを確認できます。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 仕入先のリード タイムと組織の稼働日カレンダーに基づいて、明細行の配送日を計算します。仕入先は各明細行のリード タイムを入力できます。発注書が確認されると、リード タイムと稼働日カレンダーに基づいて、確認日付から明細行の配送日が計算されます。リード タイムが指定されていない場合、配送日は確認日になります。管理者が機能を有効にした後、調達パラメーターを使用して機能を有効にする必要があります。
 <!--feature detail end -->

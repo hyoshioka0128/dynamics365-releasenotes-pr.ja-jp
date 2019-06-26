@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: ramakri
 dynamics365pdf: true
 ---
-# <a name="bot-assisted-agent-guidance"></a>ボット支援エージェントのガイダンス
+# ボット支援エージェントのガイダンス
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 ボット駆動型の会話コンテキスト ベースのレコメンデーションは、エージェントが問題をより迅速に解決するのに役立つ場合があります。 構築できる可能性のある機能の一部を次に示します。
 

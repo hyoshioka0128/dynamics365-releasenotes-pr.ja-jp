@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: mney
 dynamics365pdf: true
 ---
-# <a name="guide-sellers-with-next-best-actions-through-the-assistant-studio"></a>Assistant Studio での次善のアクションによる販売担当者のガイド
+# Assistant Studio での次善のアクションによる販売担当者のガイド
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,13 +18,13 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 4 月 1 日| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 次善のアクションを最適化する分析情報は、販売効果を最大化し、生産性を向上させるのに役立ちます。 2019 年 4 月に、組織が販売担当者向けのカスタム分析情報を作成するための新しい機能を導入しました。 これらの分析情報は、組織がよりターゲットを絞った行動提案で販売担当者を助けることを可能にします。 組織は、イベントや条件を使用してこれらの提案が作成される状況をカスタマイズします。適切なタイミングで情報を販売担当者のワークフローに柔軟にプッシュでき、最終的により迅速な取引の成立に役立ちます。
 <!-- bv end -->
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 - **次善のアクション カードの作成**: Microsoft Flow とアシスタントを使用して、組織は Dynamics 365 for Sales 用の新しい分析情報カードを作成できます。 分析情報カードは、受信メールやデータベース更新など、Microsoft Flow に登録された 200 以上のサービスからのイベントに基づいて作成できます。
 

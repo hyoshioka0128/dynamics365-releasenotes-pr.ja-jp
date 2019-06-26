@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
 ---
-# <a name="enhanced-conversation-testing-and-debugging"></a>会話のテストとデバッグの強化
+# 会話のテストとデバッグの強化
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 Dynamics 365 Virtual Agent for Customer Service では、使いやすいグラフィカル インターフェイスが提供されます。 シンプルでコード不要の会話エディターを使用して、顧客サービス マネージャーと主題のエキスパートは独自のボットを構築、管理、保守することができます。
   

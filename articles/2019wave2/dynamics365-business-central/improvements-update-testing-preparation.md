@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: jaredha
 dynamics365pdf: true
 ---
-# <a name="improvements-in-update-testing-and-preparation"></a>更新のテストと準備の改善
+# 更新のテストと準備の改善
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 Business Central 環境の更新プロセスをさらに効率化するいくつかの改善があります。 まず、カスタマイズの互換性検証が更新プロセスにいっそう確実に組み込まれます。 新しい更新が入手可能になると、自動検証が実行されて、テナント環境のカスタマイズが新しいバージョンと互換性があることが確認されます。 互換性がないことがツールで検出されると、環境にフラグが付けられ、カスタマイズがベース アプリケーションの新バージョンと互換性があるように更新されるまで、新しいバージョンに更新したり更新をスケジュールしたりできません。 これには、Business Central 管理センターの互換性インジケーター、および更新プロセスを通じて検証について管理者に通知する自動通知が含まれます。
 

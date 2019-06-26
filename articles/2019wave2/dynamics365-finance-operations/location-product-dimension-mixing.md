@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
 ---
-# <a name="location-product-dimension-mixing"></a>場所と製品分析コードの混合
+# 場所と製品分析コードの混合
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 この新しい場所プロファイル機能により、製品バリエーションを使用する際の場所の利用率が向上します。 構成、色、スタイル、およびサイズを特定の場所 (プロファイル) に混在させることができるかどうか、またはこれらの分析コードの 1 つのみ、またはいくつかの組み合わせだけを同じ場所に配置できるかを、決定できます。
 <!--feature detail end -->

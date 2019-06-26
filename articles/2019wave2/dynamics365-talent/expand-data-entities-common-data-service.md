@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: JCart
 dynamics365pdf: true
 ---
-# <a name="expand-data-entities-in-common-data-service"></a>Common Data Service でデータ エンティティを展開する
+# Common Data Service でデータ エンティティを展開する
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 顧客は、重要な人材を引き付けて維持するために HR と Talent のエクスペリエンスのデジタル変革を推進する効率的な手段を必要とします。 ユーザーの単一で一貫したビューは、これを達成するために必要な重要な基礎の 1 つです。 ほとんどの Core HR エンティティは、Common Data Service で既に使用できます。 このデジタル変革を推進するために他の領域を利用できるようになりました。
 

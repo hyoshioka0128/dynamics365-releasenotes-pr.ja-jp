@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: ramakri
 dynamics365pdf: true
 ---
-# <a name="notification-customization"></a>通知のカスタマイズ
+# 通知のカスタマイズ
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 通知は、レコードがエージェントに割り当てられたとき、またはサポートが必要なユーザーからの要求が着信したときに、エージェントに警告します。 これらの通知には、ユーザーの名前や場所など重要な顧客属性に関する追加のコンテキストが含まれています。 
 

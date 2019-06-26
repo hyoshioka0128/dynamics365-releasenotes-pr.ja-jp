@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: yukom
 dynamics365pdf: true
 ---
-# <a name="create-guides-in-minutes-with-intelligent-suggestions-for-activities-and-content"></a>アクティビティやコンテンツに関するインテリジェントな提案を使用して数分でガイドを作成する
+# アクティビティやコンテンツに関するインテリジェントな提案を使用して数分でガイドを作成する
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 アクティビティやコンテンツに関する Onboard のインテリジェントな提案は、数分でオンボーディング ガイドを作成するのに役立ちます。 Onboard では、ユーザーがまだ考えていないかもしれない関連ツールやコンテンツが発見されて、ガイドの作成中に提案されます。 ユーザーはドラッグ アンド ドロップするだけです。
 <!--feature detail end -->

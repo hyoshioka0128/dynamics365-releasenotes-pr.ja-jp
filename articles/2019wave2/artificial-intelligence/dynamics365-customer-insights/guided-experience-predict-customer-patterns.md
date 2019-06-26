@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
 ---
-# <a name="guided-experience-to-predict-customer-patterns"></a>顧客パターンを予測するためのガイド付きエクスペリエンス
+# 顧客パターンを予測するためのガイド付きエクスペリエンス
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,7 +18,7 @@ dynamics365pdf: true
 |管理者、作成者、またはアナリスト、自動的|2019 年 10 月| |
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 機械学習機能を構築する時間を短縮し、それらがもたらす結果から恩恵を受ける時間を増やします。
 
@@ -26,7 +26,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 ガイド付きエクスペリエンス:
 

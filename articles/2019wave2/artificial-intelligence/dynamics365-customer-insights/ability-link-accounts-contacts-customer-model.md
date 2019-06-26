@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
 ---
-# <a name="ability-to-link-accounts-and-contacts-in-the-customer-model"></a>顧客モデルで取引先企業と取引先担当者をリンクする機能
+# 顧客モデルで取引先企業と取引先担当者をリンクする機能
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,7 +18,7 @@ dynamics365pdf: true
 |管理者、作成者、またはアナリスト、自動的|2019 年 10 月| |
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 組織 (B2B) と個人 (B2C) の両方のビジネス モデルに応じて、より実用的な顧客分析情報を作成します。 
 
@@ -26,7 +26,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 ユーザーは、取引先企業から取引先担当者へのリレーションシップ機能を使用して、個人と組織の両方の活動と属性を組み合わせるためのセグメントとメジャーを作成できます。
 

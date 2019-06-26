@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
 ---
-# <a name="entity-extraction-with-system-entities"></a>システム エンティティによるエンティティ抽出
+# システム エンティティによるエンティティ抽出
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 Virtual Agent for Customer Service は、ユーザーの回答に含まれる多数の一般的なエンティティを認識、抽出、および操作できます。 たとえば、色、タイム ゾーン、通貨、年齢、日付と時刻、名前、電話番号、期間、都市、州、住所、郵便番号、メール アドレス、言語、重さ、速度、気温、組織、割合、興味のあるポイント、リンクなどです。 
  

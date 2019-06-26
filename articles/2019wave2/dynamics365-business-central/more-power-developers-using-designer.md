@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
 ---
-# <a name="more-power-to-developers-using-designer"></a>デザイナーを使用する開発者のパワー アップ
+# デザイナーを使用する開発者のパワー アップ
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |管理者、作成者、またはアナリスト、自動的 || 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 Visual Studio Code でのコードの作成は効率的ですが、ページの外観や動作についての忠実で視覚的な概要を把握しないと、ページ レイアウトのデザインや調整が面倒になることがあります。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 この更新では、開発者はデザイナーを使用して次のこともできます。
 

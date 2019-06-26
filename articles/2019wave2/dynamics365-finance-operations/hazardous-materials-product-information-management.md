@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: lcash
 dynamics365pdf: true
 ---
-# <a name="hazardous-materials-product-information-management"></a>危険物製品情報の管理
+# 危険物製品情報の管理
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
  有害物または危険物を含む製品を取り扱う流通会社は、それらの製品に関する追加情報を保管できる必要があります。 この情報は、会社がこれらの製品の出荷および取り扱いに関する規制に準拠するためのプロセスを構築するのに役立ちます。 この機能強化により、製品情報管理には、危険物リストのさまざまな出荷規制ごとの商品説明を含む、商品に関連するデータを格納するための追加設定オプションが含まれます。 
 

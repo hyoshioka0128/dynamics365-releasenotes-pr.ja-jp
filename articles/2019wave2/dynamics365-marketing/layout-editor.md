@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
 ---
-# <a name="layout-editor"></a>Layout エディター
+# Layout エディター
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 このリリースでは引き続き、マーケティング担当者が発行済みコンテンツを簡単にデザインおよび変更できるようにします。 ビジュアル メール デザイナーでは、複数列レイアウトをデザインするためのレイアウト エディターが提供されるようになります。 これにより、メール メッセージの外観を簡単にすばやく変更するための手段が提供されます。これは、マーケティング担当者がしばしば探す機能です。
 <!--feature detail end -->

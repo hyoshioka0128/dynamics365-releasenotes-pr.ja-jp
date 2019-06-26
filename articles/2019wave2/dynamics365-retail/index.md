@@ -11,7 +11,7 @@ ms.author: jeffbl
 dynamics365pdf: true
 ---
 
-# <a name="overview-of-dynamics-365-for-retail-2019-release-wave-2"></a>Dynamics 365 for Retail 2019 年リリース ウェーブ 2 の概要
+# Dynamics 365 for Retail 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 今日の消費者は、複数のチャンネル間で楽しい統合されたショッピング エクスペリエンスを求めていますが、伝統的なチャンネルは混乱しており、新しいものが絶えず出現しています。 小売業者は、機敏さを高め、競争力を高め、買い物客との長期的な関係を築くのに役立つ、モダンで柔軟なクラウド ソリューションを必要としています。 Dynamics 365 for Retail では、バック オフィス プロセス (商品化、在庫など) とフロント オフィス チャネルを含む、小売業者向けのエンドツーエンドの統合ソリューションが提供されます。

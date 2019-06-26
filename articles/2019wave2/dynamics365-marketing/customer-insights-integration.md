@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
 ---
-# <a name="customer-insights-integration"></a>Customer Insights の統合
+# Customer Insights の統合
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 Dynamics 365 用の新しい Customer Insights アプリでは、人工インテリジェンスが適用されて、Dynamics 365 for Sales、Service、Marketing のような他のアプリから収集された豊富な顧客データのプールが分析されます。 その標準機能では取引先担当者ごとに強力な分析表示が生成され、簡単に情報を理解して使用できるようになります。 統合ソリューションでは次のことができます。
 

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: jaarmeni
 dynamics365pdf: true
 ---
-# <a name="improved-call-experience-for-low-bandwidth-situations"></a>低帯域幅状況での呼び出しエクスペリエンスの向上
+# 低帯域幅状況での呼び出しエクスペリエンスの向上
 [!include[mixed-reality/dynamics365-remote-assist banner](../includes/mixed-reality/dynamics365-remote-assist.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 お客様はさまざまな種類の帯域幅状況を経験します。 低帯域幅シナリオのサポートが追加されたことで、Remote Assist は、注釈付きの完全な双方向ビデオ (現在利用可能) から、静止画でのライブ注釈および音声までの範囲で、適切に拡張できます。
 <!--feature detail end -->

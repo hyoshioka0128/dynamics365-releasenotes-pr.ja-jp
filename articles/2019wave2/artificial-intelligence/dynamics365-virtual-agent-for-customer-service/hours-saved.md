@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
 ---
-# <a name="hours-saved"></a>時間の節約
+# 時間の節約
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 時間節約メトリックにより、顧客サービス マネージャーはボット構築による投資収益率を簡単に確認できます。 ボットがなければ、ボットによって解決されたすべてのセッションを、人間のエージェントが処理したはずです。 
  

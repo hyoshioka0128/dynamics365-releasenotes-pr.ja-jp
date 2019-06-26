@@ -11,7 +11,7 @@ ms.author: jille
 dynamics365pdf: true
 ---
 
-# <a name="overview-of-dynamics-365-product-visualize-2019-release-wave-2"></a>Dynamics 365 Product Visualize 2019 年リリース ウェーブ 2 の概要
+# Dynamics 365 Product Visualize 2019 年リリース ウェーブ 2 の概要
 [!include[mixed-reality/dynamics365-product-visualize banner](../includes/mixed-reality/dynamics365-product-visualize.md)]
 
 販売プロセスのできるだけ早い段階で顧客との共通の理解を達成するための営業担当者の能力は、取引の迅速な成立、注文変更の削減、および顧客の信頼の向上に不可欠です。 Microsoft Dynamics 365 Product Visualize は、拡張現実の力をモバイル デバイスで活用することにより、営業担当者が自社製品の本当の可能性を顧客に伝えることを可能にします (2019 年リリース ウェーブ 2 では iOS デバイスのみ)。

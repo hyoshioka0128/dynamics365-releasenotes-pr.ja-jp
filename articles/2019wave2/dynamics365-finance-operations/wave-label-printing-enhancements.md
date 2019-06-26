@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: pjacobse
 dynamics365pdf: true
 ---
-# <a name="wave-label-printing-enhancements"></a>ウェーブ ラベル印刷の機能強化
+# ウェーブ ラベル印刷の機能強化
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,7 +18,7 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 4 月| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 これらの変更により、パレット化前のカートンのラベル付けのサポートがより効率的になります。 コンプライアンスが問題となる一部のお客様は、各カートンのラベルのレイアウトと内容を義務付ける大規模小売業者に対する仕入先です。 これらの大規模顧客の "ラベル受け入れプロセス" では、受け入れ中にカートンがコンベア上に置かれ、バーコードが自動的に読み取られて、プット アウェイを自動的に作成できます。
 
@@ -26,7 +26,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 ウェーブ ラベル印刷機能は、Dynamics 365 for Finance and Operations バージョン 10.0.0 で組み込まれました。 この機能は次のように強化されます。
 

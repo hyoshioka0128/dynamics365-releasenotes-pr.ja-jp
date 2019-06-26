@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
 ---
-# <a name="improve-or-simplify-most-common-sales-workflows"></a>最も一般的な販売ワークフローの改善または簡素化
+# 最も一般的な販売ワークフローの改善または簡素化
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -19,14 +19,14 @@ dynamics365pdf: true
 
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 簡素化されたワークフローにより、一般的に使用されるコンポーネントに簡単にアクセスできます。 営業関係者および営業チームの管理プロセスの強化により、生産性が向上し、製品管理と UI ベースの製品のリペアレントを柔軟に行えるようになります。 
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 -  取引先担当者、営業案件、リード、取引先企業の各エンティティに対して、メイン フォームに**ドキュメント** タブが表示されるようにします
 -  営業案件フォームのユーザー エクスペリエンスを向上させます。

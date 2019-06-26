@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: ramakri
 dynamics365pdf: true
 ---
-# <a name="enhanced-search-experience"></a>検索エクスペリエンスの強化
+# 検索エクスペリエンスの強化
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 既存の検索エクスペリエンスにより、エージェントは取引先企業、取引先担当者、およびサポート案件属性に基づいて検索することができます。 今後の機能拡張により、検索エクスペリエンスはより複雑な要件を持つ企業に適したものになります。 
 

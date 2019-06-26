@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: justinay
 dynamics365pdf: true
 ---
-# <a name="automatic-record-creation-enhancements"></a>自動レコード作成の機能強化
+# 自動レコード作成の機能強化
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -19,7 +19,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 自動レコード作成 (ARC) および更新機能を使用すると、管理者はアクティビティに応じてアクションを実行するためのルールを作成できます。 これらのルールの最も一般的な用途は、特定のキューに送信された受信メールからのサポート案件またはリードの作成です。
   

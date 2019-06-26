@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: goravi
 dynamics365pdf: true
 ---
-# <a name="linkedin-sales-navigator-data-validation"></a>LinkedIn Sales Navigator のデータ検証
+# LinkedIn Sales Navigator のデータ検証
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 11 月|いいえ |
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 LinkedIn 統合の一部として導入されるデータ検証機能により、営業担当者は取引先担当者のキャリアの動きを常に把握することができます。 この情報を使用して、取引戦略を迅速に調整し、新たな営業案件を開始する可能性を評価し、つながりと関連のあるエンゲージメントを促進することができます。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 CRM 同期が有効になっている Microsoft Relationship Sales ユーザーは、**管理者設定**からデータ検証機能を有効にすることができます。
 

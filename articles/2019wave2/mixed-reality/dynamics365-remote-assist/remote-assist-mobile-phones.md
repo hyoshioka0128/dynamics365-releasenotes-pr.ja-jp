@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: jaarmeni
 dynamics365pdf: true
 ---
-# <a name="remote-assist-for-mobile-phones"></a>モバイル デバイス向け Remote Assist
+# モバイル デバイス向け Remote Assist
 [!include[mixed-reality/dynamics365-remote-assist banner](../includes/mixed-reality/dynamics365-remote-assist.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 携帯電話向けの初めての拡張現実感アプリケーションが、Android ベースのパブリック プレビューとして 2019 年 4 月に開始されました。 iOS のサポートと追加機能を追加し、モバイル エクスペリエンスと HoloLens のエクスペリエンスを近いものにします。 第一線の作業者は、HoloLens を使うのと似た方法で、しかし携帯電話を使用して、世界に注釈を付けてマークアップすることができます。 
 

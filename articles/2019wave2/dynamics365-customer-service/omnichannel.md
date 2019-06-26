@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: ramakri
 dynamics365pdf: true
 ---
-# <a name="omnichannel-for-customer-service"></a>顧客サービス用のオムニチャネル
+# 顧客サービス用のオムニチャネル
 
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
 ---
-# <a name="wave-status-visualization"></a>ウェーブ ステータスのビジュアル化
+# ウェーブ ステータスのビジュアル化
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、自動的|2019 年 3 月| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
  この機能では、ウェーブ処理およびウェーブの現在のステータスにおいて、いっそう多くの情報と可視性が提供されます。 
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 この機能では、ウェーブ処理およびウェーブの現在のステータスにおいて、いっそう多くの情報と可視性が提供されます。 これにより、ユーザーはウェーブ処理がどこまで完了したかを把握して、完了するまで待つか、またはアドホックでキャンセルすることができ、キャンセルの前に使用されたリソースの量を把握することができます。 
 

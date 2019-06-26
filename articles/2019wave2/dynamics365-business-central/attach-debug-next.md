@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: pborring
 dynamics365pdf: true
 ---
-# <a name="attach-and-debug-next"></a>アタッチして次にデバッグ
+# アタッチして次にデバッグ
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 場合によっては、デバッグするために機能を公開して呼び出すことができないか、公開して呼び出すことが望ましくないことから、代わりにセッションをサーバーにアタッチし、プロセスによってブレークポイントがトリガーされるのを待つことがあります。 アタッチして次にデバッグなら、それができます。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 コード内にブレークポイントを設定し、オンラインまたはオンプレミスで実行中のサーバーにアタッチすると、サーバーにアタッチされている間にブレークポイントがヒットした場合、デバッガーは停止します。
 <!--feature detail end -->

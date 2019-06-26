@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: welee
 dynamics365pdf: true
 ---
-# <a name="analysis-and-reporting"></a>分析とレポート作成
+# 分析とレポート作成
 
 [!include[microsoft-forms-pro banner](../includes/microsoft-forms-pro.md)]
 

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
 ---
-# <a name="enable-actions-or-access-data-from-back-end-systems-with-microsoft-flow"></a>Microsoft Flow でのバックエンド システムからのアクションまたはデータへのアクセスの有効化
+# Microsoft Flow でのバックエンド システムからのアクションまたはデータへのアクセスの有効化
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,7 +18,7 @@ dynamics365pdf: true
 |エンド ユーザー、自動的|2019 年 5 月| 2019 年 10 月|
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 ソリューションでバックエンドのワークフローまたはビジネス プロセスを起動するためにボットを必要とする状況があります。たとえば、ユーザーが今後の取引についての質問をメール アドレスに送信するように要求する場合です。
 

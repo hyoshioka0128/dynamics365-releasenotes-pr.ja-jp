@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: pborring
 dynamics365pdf: true
 ---
-# <a name="improved-app-dependency-handling-on-build-and-deploy"></a>ビルドと展開でのアプリの依存関係の処理の改善
+# ビルドと展開でのアプリの依存関係の処理の改善
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 正しい順序で拡張機能をコンパイルおよび展開する面倒な手作業を避けます。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 これまでは、依存関係のあるプロジェクトが正しい順序でビルドされることを手動で確認する必要があり、依存関係のある拡張機能を展開するには依存する拡張機能を手動でアンインストールして再インストールする必要がありました。 2019 年リリース ウェーブ 2 では、これはツールによる依存関係グラフの走査によって管理されるようになります。
 <!--feature detail end -->

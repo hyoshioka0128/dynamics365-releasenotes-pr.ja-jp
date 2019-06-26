@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
 ---
-# <a name="powerful-filtering-for-reports"></a>レポート用の強力なフィルター処理
+# レポート用の強力なフィルター処理
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、自動的|| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 ビジネスが拡大するにつれて、データ ソースを利用するレポートも拡大し、処理されるデータ量を正確に制御する必要性が高まっています。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 Business Central でレポートを実行するときは、さまざまなオプションやフィルターを指定できるリクエスト ページが表示されます。 リストのフィルター処理に似たエクスペリエンスでフィルター エクスペリエンスが大幅に改善されました。これには、フィールドをすばやく追加する機能、フィルター条件を指定するときに支援や検証のフィードバックを取得する機能、式やフィルター トークンを適用する機能などが含まれます。
 

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
 ---
-# <a name="customize-a-user-profile-without-writing-code"></a>コードを書かずにユーザー プロファイルをカスタマイズする
+# コードを書かずにユーザー プロファイルをカスタマイズする
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、自動的|| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 Business Central は、企業、部門、ユーザーに固有のニーズに簡単に適応できます。 パワー ユーザー、部門の所有者、およびコンサルタントは、自分のユーザーが独自のロールのためにアクセスできるデータやタスクを制御する必要があります。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 以前は Dynamics NAV Windows クライアントのプロファイル構成モードと呼ばれていた Business Central のデスクトップ エクスペリエンスでは、同じユーザー プロファイルを共有するユーザー グループに対して軽量の UI カスタマイズが可能です。 これは、Visual Studio Code と AL をまったく使用しないで行うことができます。 次の機能が含まれます。
 

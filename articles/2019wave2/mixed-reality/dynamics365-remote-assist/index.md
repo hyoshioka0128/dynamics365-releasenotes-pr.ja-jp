@@ -11,7 +11,7 @@ ms.author: jille
 dynamics365pdf: true
 ---
 
-# <a name="overview-of-dynamics-365-remote-assist-2019-release-wave-2"></a>Dynamics 365 Remote Assist 2019 年リリース ウェーブ 2 の概要
+# Dynamics 365 Remote Assist 2019 年リリース ウェーブ 2 の概要
 [!include[mixed-reality/dynamics365-remote-assist banner](../includes/mixed-reality/dynamics365-remote-assist.md)]
 
 Dynamics 365 Remote Assist は、初めての問題を早期に解決できるように技術者を支援します。 技術者は、Microsoft HoloLens のビデオ通話をハンズフリーの空間上で利用できるため、PC またはモバイル デバイス上のどのようなリモートのエキスパートとでも連携して状況に応じた問題のトラブルシューティングができます。

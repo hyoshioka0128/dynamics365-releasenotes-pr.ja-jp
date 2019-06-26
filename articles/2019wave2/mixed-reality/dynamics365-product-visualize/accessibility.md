@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: capieste
 dynamics365pdf: true
 ---
-# <a name="accessibility"></a>アクセシビリティ
+# アクセシビリティ
 [!include[mixed-reality/dynamics365-product-visualize banner](../includes/mixed-reality/dynamics365-product-visualize.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 ユーザー調査とベスト プラクティスを通じて、Product Visualize はよりアクセスしやすく包括的なエクスペリエンスの実現に取り組んでいます。 
 <!--feature detail end -->

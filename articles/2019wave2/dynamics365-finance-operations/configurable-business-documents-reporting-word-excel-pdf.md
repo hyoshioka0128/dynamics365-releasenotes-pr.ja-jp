@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: sshvedov
 dynamics365pdf: true
 ---
-# <a name="configurable-business-documents-reporting-in-word-excel-and-pdf"></a>Word、Excel、PDF で構成可能なビジネス ドキュメント レポート
+# Word、Excel、PDF で構成可能なビジネス ドキュメント レポート
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
  顧客から報告された最大の問題点の 1 つは、印刷可能なビジネス ドキュメントをカスタマイズするためのビジネス ユーザー エクスペリエンスがないことです。 Microsoft Office ベースのテンプレートと PDF テンプレートを使用することで、ビジネス ドキュメントをカスタマイズするための市場で最も一般的なツールを使用して、定義済みのドキュメントを顧客に提供します。 これにより、Dynamics 365 for Finance and Operations によってカバーされていない特定の産業や地域用に調整された標準および規制に関するビジネス ドキュメントの市場を創造するための扉も開かれます。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 この機能では、優れたデザインの Microsoft Word、Microsoft Excel、PDF のテンプレート機能が段階的に提供されます。 
 

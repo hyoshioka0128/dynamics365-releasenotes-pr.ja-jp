@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: rumant
 dynamics365pdf: true
 ---
-# <a name="service-industries"></a>サービス業
+# サービス業
 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 

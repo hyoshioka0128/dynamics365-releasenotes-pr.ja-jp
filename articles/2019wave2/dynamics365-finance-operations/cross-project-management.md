@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: meeram
 dynamics365pdf: true
 ---
-# <a name="cross-project-management"></a>クロスプロジェクト管理
+# クロスプロジェクト管理
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
  一部の大規模顧客 (現在の顧客ベースの約 10%) には、グローバル プレゼンスをサポートするためにさまざまな地域にまたがってホストされている複数の Dynamics 365 for Finance and Operations インスタンスがあります。 顧客の現在のビューは、Lifecycle Services (LCS) のプロジェクト レベルにあります。 顧客は、各リージョンを代表する個別のプロジェクトにログインし、それをサイロで運用する必要があります。 クロスプロジェクト管理機能を使用すると、これらの顧客はプロジェクトをまたがって環境を管理、更新、および監視できます。 
 

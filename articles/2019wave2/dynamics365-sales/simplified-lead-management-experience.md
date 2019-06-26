@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: pachatte
 dynamics365pdf: true
 ---
-# <a name="simplified-lead-management-experience"></a>簡素化されたリード管理エクスペリエンス
+# 簡素化されたリード管理エクスペリエンス
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、自動的|| 2019 年 10 月|はい |
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 お客様の生産性を最大化するために、リード管理に関連する上位シナリオ全体にわたって改善を導入しています。 
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 主なシナリオは次のとおりです。  
 

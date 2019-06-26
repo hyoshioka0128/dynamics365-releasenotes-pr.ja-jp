@@ -10,7 +10,7 @@ ms.author: msalam
 dynamics365pdf: true
 ---
 
-# <a name="whats-new-and-planned-for-dynamics-365-for-finance-and-operations"></a>Dynamics 365 for Finance and Operations の新機能と予定されている機能
+# Dynamics 365 for Finance and Operations の新機能と予定されている機能
 
 このトピックでは、2019 年 10 月から 2020 年 3 月までのリリースで予定されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
@@ -18,7 +18,7 @@ dynamics365pdf: true
 
 
 
-## <a name="cloud-operations-and-lifecycle-services"></a>クラウド オペレーションと Lifecycle Services
+## クラウド オペレーションと Lifecycle Services
 
 
 
@@ -30,7 +30,7 @@ dynamics365pdf: true
  | [実装指標](implementation-metrics.md) | 管理者、作成者、またはアナリスト、自動的  |     | 2020 年 2 月|  
 
 
-## <a name="data-and-process-integration"></a>データとプロセスの統合
+## データとプロセスの統合
 
 
 
@@ -41,7 +41,7 @@ dynamics365pdf: true
  | [Common Data Service での Finance and Operations のデータ](finance-operations-data-common-data-service.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |  2019 年 6 月   | 近日発表|  
 
 
-## <a name="financial-management"></a>財務管理
+## 財務管理
 
 10 月のリリースでは、財務における分析情報とデジタル変革およびデータ主導経済の支援に焦点が当てられています。
 
@@ -50,7 +50,7 @@ dynamics365pdf: true
  | [財務に関するインテリジェントな分析情報](intelligent-insights-financials.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |  2019 年 12 月   | 近日発表|  
 
 
-## <a name="globalization"></a>グローバリゼーション
+## グローバリゼーション
 
 Microsoft は、サポートされる 37 の国/地域における法規制の変更に対応するために、規制に関する更新を継続的に提供します。 また、お客様は Office フォーマットでビジネス ドキュメントを簡単に調整して、現地の要件を満たし、生成された文書をさまざまな配布チャネルに送ることができます。
 
@@ -62,7 +62,7 @@ Microsoft は、サポートされる 37 の国/地域における法規制の�
  | [インド向け税金拡張機能の構成の簡素化](simplifying-configuration-tax-extensions-india.md) | 管理者、作成者、またはアナリスト、自動的  |  2019 年 10 月   | 2020 年 1 月|  
 
 
-## <a name="platform"></a>プラットフォーム
+## プラットフォーム
 
 
 
@@ -78,7 +78,7 @@ Microsoft は、サポートされる 37 の国/地域における法規制の�
  | [モバイル デバイスでのエクスペリエンスの向上](improved-experience-mobile-devices.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |  2020 年 1 月   | 近日発表|  
 
 
-## <a name="supply-chain-management"></a>Supply Chain Management
+## Supply Chain Management
 
 
 

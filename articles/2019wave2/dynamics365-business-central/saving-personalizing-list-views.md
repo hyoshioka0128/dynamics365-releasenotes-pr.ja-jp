@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
 ---
-# <a name="saving-and-personalizing-list-views"></a>リスト ビューの保存とパーソナライズ
+# リスト ビューの保存とパーソナライズ
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、自動的|| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 ビジネスが成長するにつれて、データベース内のテーブル データも増加し、適切なツールがないと迅速な分析やレコードの検索が困難になります。 完璧なフィルターのセットを定義することは、時間がかかる反復的なプロセスである場合があります。フィルターを維持することができれば、次に必要なときにそれらを作り直さなければならない時間を節約できます。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 ユーザーは、自分のリスト フィルターや同様の個人用設定を保存して、異なるデータ スライス方法を作成できるようになります。 リスト ビューには名前が付け ("販売している商品" など)、次のような内容になります。
 

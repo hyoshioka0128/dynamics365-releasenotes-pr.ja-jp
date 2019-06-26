@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: aamiral
 dynamics365pdf: true
 ---
-# <a name="environment-history-for-retail-cloud-scale-unit"></a>Retail Cloud Scale Unit の環境の履歴
+# Retail Cloud Scale Unit の環境の履歴
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 この機能は、IT 担当者が問題をトラブルシューティングしたり Microsoft サポートと協力したりするときに有益です。 環境履歴は、環境で実行された重要な操作の監査証跡として機能します。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 この機能を使用すると、IT 専門の担当者は、Lifecycle Services (LCS) ポータルで環境設定を操作して、Retail Cloud Scale Unit (RCSU) に関連するシステム操作の履歴を表示できます。 これには、新しいスケール ユニットの展開、更新、拡張機能の展開などの操作が含まれます。 ユーザーは、タイム スタンプ、ユーザー、バージョン、および関連するメタデータの詳細を履歴の一部として見ることができます。
 <!--feature detail end -->

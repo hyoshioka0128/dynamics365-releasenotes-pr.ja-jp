@@ -10,7 +10,7 @@ ms.author: loril
 dynamics365pdf: true
 ---
 
-# <a name="whats-new-and-planned-for-dynamics-365-for-talent"></a>Dynamics 365 for Talent の新機能と予定されている機能
+# Dynamics 365 for Talent の新機能と予定されている機能
 
 このトピックでは、2019 年 10 月から 2020 年 3 月までのリリースで予定されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
@@ -18,7 +18,7 @@ dynamics365pdf: true
 
 
 
-## <a name="attract"></a>Attract
+## Attract
 
 
 
@@ -29,7 +29,7 @@ dynamics365pdf: true
  | [分析レポートをカスタマイズおよび拡張する](customize-extend-analytics-reports.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |  2019 年 8 月   | 近日発表|  
 
 
-## <a name="core-hr"></a>Core HR
+## Core HR
 
 
 
@@ -42,7 +42,7 @@ dynamics365pdf: true
  | [Common Data Service でデータ エンティティを展開する](expand-data-entities-common-data-service.md) | 管理者、作成者、またはアナリスト、自動的  |  2020 年 2 月   | 2020 年 3 月|  
 
 
-## <a name="onboard"></a>Onboard
+## Onboard
 
 
 

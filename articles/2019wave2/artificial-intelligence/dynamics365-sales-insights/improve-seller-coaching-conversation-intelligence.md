@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: ashpodar
 dynamics365pdf: true
 ---
-# <a name="improve-seller-coaching-with-conversation-intelligence"></a>会話インテリジェンスでの販売担当者コーチングの改善
+# 会話インテリジェンスでの販売担当者コーチングの改善
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 顧客との会話は営業サイクルの重要な部分であり、販売と収益の創出に直接寄与します。 会話インテリジェンスでは、複数チャンネルでの会話を分析するためのシームレスで自動化されたプロセスが提供され、品質の継続的な監視と改善が保証されます。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 - **感情とブランドの検出**: 感情検出の新しい AI モデルでは、通話中の顧客の感情のきめ細かい理解が提供されます。 ブランド検出は、顧客がセールス コールで話している新製品やブランドを見つけるのに役立ちます。
 

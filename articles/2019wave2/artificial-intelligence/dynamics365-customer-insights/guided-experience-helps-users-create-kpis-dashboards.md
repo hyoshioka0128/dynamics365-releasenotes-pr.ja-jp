@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
 ---
-# <a name="guided-experience-helps-users-to-create-kpis-and-dashboards"></a>ユーザーによる KPI とダッシュボードの作成を助けるガイド付きエクスペリエンス
+# ユーザーによる KPI とダッシュボードの作成を助けるガイド付きエクスペリエンス
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,7 +18,7 @@ dynamics365pdf: true
 |管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 新しいガイド付きエクスペリエンスとダッシュボードを使用して、ビジネス目標を特定し追跡することで、ビジネスと顧客をより総合的に把握できます。 このウィザードは、ユーザーの時間と労力を削減し、ビジネス目標を推進する一連の分析情報を引き出すのに役立ちます。 
 
@@ -26,7 +26,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 新しいガイド付きエクスペリエンスとダッシュボード:
 

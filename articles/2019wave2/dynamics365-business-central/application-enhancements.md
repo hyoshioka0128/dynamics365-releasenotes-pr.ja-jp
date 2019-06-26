@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: jannikb
 dynamics365pdf: true
 ---
-# <a name="application-enhancements"></a>アプリケーションの機能強化
+# アプリケーションの機能強化
 
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: emarcher
 dynamics365pdf: true
 ---
-# <a name="analytics-dashboards"></a>分析ダッシュボード
+# 分析ダッシュボード
 
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 

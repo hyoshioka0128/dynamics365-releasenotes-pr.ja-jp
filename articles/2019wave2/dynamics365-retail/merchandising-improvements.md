@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: asharchw
 dynamics365pdf: true
 ---
-# <a name="merchandising-improvements"></a>販売促進の改善
+# 販売促進の改善
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,7 +18,7 @@ dynamics365pdf: true
 |エンド ユーザー、自動的|| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 より多くの企業や大規模な組織がオンライン、コール センター、店舗のチャネルに Dynamics 365 for Retail の機能を利用するようになっているので、これらの組織が必要とするいっそう複雑なビジネス プロセスをサポートするように小売りソリューションも成長する必要があります。
 
@@ -29,9 +29,9 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
-### <a name="custom-display-sort-order-for-various-merchandising-entities"></a>さまざまな販売促進エンティティに対するカスタム "表示並べ替え順序"
+### さまざまな販売促進エンティティに対するカスタム "表示並べ替え順序"
 
 さまざまな販売促進エンティティに対するカスタム "表示並べ替え順序" 機能は、販売促進マネージャーが、本社やコール センターを含むすべてのエンド ユーザー クライアントのさまざまな販売促進エンティティに対してカスタムの並べ替え順序を構成できるようにします。 
 

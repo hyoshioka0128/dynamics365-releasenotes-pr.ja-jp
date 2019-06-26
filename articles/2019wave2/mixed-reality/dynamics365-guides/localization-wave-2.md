@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: algodin
 dynamics365pdf: true
 ---
-# <a name="localization-wave-2"></a>ローカライズ ウェーブ 2
+# ローカライズ ウェーブ 2
 [!include[mixed-reality/dynamics365-guides banner](../includes/mixed-reality/dynamics365-guides.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 このローカライズ ウェーブでは、次の国向けに Dynamics 365 Guides のユーザー インターフェイスがローカライズされます。オランダ、韓国、スイス、イタリア、スペイン、オーストリア、スウェーデン、フィンランド、ノルウェー、デンマーク、ベルギー、シンガポール。
 <!--feature detail end -->

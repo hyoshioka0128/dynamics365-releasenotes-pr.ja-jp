@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: justinay
 dynamics365pdf: true
 ---
-# <a name="timeline-usability-enhancements"></a>タイムラインの使いやすさの機能強化
+# タイムラインの使いやすさの機能強化
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 現在のタイムライン エクスペリエンスでは、サポート案件、取引先企業、取引先担当者など、示されているエンティティに関連付けられているメモやアクティビティの概要がユーザーに提供されます。 ただし、対話モデルおよび情報密度の欠如により、ユーザーは必要な情報をすばやく見つけることができません。 さらに、電子メールなどの新しいアイテムをタイムライン上に作成すると、ユーザーは現在のエンティティ ページから離れた場所に移動させられ、コンテキストを取り去られて、有用な情報を表示できなくなります。 
   

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
 ---
-# <a name="marketing-support-for-business-units"></a>部署のマーケティング サポート
+# 部署のマーケティング サポート
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 複数の顧客ベースを持つ大規模組織では、複数の_部署_を使用してマーケティング データセットとキャンペーンを管理することがよくあります。 これに加えて、上位の部署では、レポートを集中管理したり、すべての下位の部署に伝播されるテンプレートを作成したりすることがよくあります。 Dynamics 365 for Customer Engagement プラットフォームはこのモデルをサポートしており、Marketing アプリでは取引先担当者レコードへのアクセス、セグメント メンバーの表示、取引先担当者の分析情報へのアクセス、メール テンプレートの可用性など、マーケティング実行のあらゆる側面でこのモデルがサポートされます。
 <!--feature detail end -->

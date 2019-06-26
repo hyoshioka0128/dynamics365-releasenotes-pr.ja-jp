@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: ramakri
 dynamics365pdf: true
 ---
-# <a name="macros"></a>マクロ
+# マクロ
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 マクロを使用すると、エージェントは、1 回のクリックで一連の繰り返し作業を自動化することにより、効率的で生産的な状態を維持できます。 たとえば、エージェントは、フィールドを更新した後でサポート案件を解決する、メモを取り込んだ後でサポート案件を別のユーザーに割り当てる、マクロを使用してセッションからのコンテキスト データを含む確認メールを送信する、といったタスクを自動化できます。 
 

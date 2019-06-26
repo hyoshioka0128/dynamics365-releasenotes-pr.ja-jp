@@ -10,13 +10,13 @@ ms.author: akatz
 dynamics365pdf: true
 ---
 
-# <a name="whats-new-and-planned-for-microsoft-forms-pro"></a>Microsoft Forms Pro の新機能と予定されている機能
+# Microsoft Forms Pro の新機能と予定されている機能
 
 このトピックでは、2019 年 10 月から 2020 年 3 月までのリリースで予定されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
 機能は**一般提供**列で示されている月内に提供されます。 提供日がその月内のどの日になるかはわかりません。 リリースされた機能には、リリース日を含む完全な日付が表示されます。 
 
-## <a name="survey-distribution"></a>調査の配布
+## 調査の配布
 
 拡張配布により、調査所有者はより多くの調査回答を得られます。
 
@@ -25,7 +25,7 @@ dynamics365pdf: true
  | [調査インセンティブ](survey-incentives.md) | エンド ユーザー、自動的  |     | 2019 年 10 月|  
 
 
-## <a name="survey-insights"></a>調査の分析情報
+## 調査の分析情報
 
 調査参加者が調査を完了したらインセンティブを提供します。
 

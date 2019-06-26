@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
 ---
-# <a name="user-productivity-new-grid"></a>ユーザーの生産性: 新しいグリッド
+# ユーザーの生産性: 新しいグリッド
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 新しく改善されたグリッド コントロールのプレビューが、2019 年 4 月リリースの毎月の更新の一部として 2019 年夏に予定されています。 2019 年 10 月には、このグリッド コントロールは一般提供されるようになります。 新しいグリッドでは、レンダリング速度が向上し、スクロール エクスペリエンスがはるかに速くなっています。 また、ユーザーはブラウザーに読み込まれたデータ内の特定の位置にスクロールすることもできます。 
 

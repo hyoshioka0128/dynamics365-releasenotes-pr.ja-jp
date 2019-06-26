@@ -13,7 +13,7 @@ dynamics365pdf: true
 
 
 
-# <a name="overview-of-dynamics-365-for-sales-2019-release-wave-2"></a>Dynamics 365 for Sales 2019 年リリース ウェーブ 2 の概要
+# Dynamics 365 for Sales 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 Dynamics 365 for Sales は、エンタープライズ レベルのカスタマー エンゲージメント ソフトウェアであり、営業チームは顧客との強い関係を築き、分析情報に基づいて行動を起こし、迅速に取引を成立させることができます。 Dynamics 365 プラットフォームで最も人気のあるアプリケーションである Sales は、従来のアウトバウンド セールス モデルから、多くの大企業のビジネス ニーズを満たす複雑な構成まで、さまざまなシナリオを網羅しています。  

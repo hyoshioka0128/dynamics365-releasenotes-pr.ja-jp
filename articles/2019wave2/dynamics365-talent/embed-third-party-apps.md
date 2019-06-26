@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: JCart
 dynamics365pdf: true
 ---
-# <a name="embed-third-party-apps"></a>サード パーティのアプリを埋め込む
+# サード パーティのアプリを埋め込む
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 Core HR と連携して動作するサード パーティ製のアプリが、社内または Microsoft パートナーで作成されている可能性があります。 この機能では、次のことが可能になり、サード パーティ製アプリとシームレスに統合できます。 
 

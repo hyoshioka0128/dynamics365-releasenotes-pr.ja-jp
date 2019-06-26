@@ -10,7 +10,7 @@ ms.author: fweigel
 dynamics365pdf: true
 ---
 
-# <a name="whats-new-and-planned-for-dynamics-365-virtual-agent-for-customer-service"></a>Dynamics 365 Virtual Agent for Customer Service の新機能と予定されている機能
+# Dynamics 365 Virtual Agent for Customer Service の新機能と予定されている機能
 
 このトピックでは、2019 年 10 月から 2020 年 3 月までのリリースで予定されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
@@ -18,7 +18,7 @@ dynamics365pdf: true
 
 
 
-## <a name="analytics-dashboards"></a>分析ダッシュボード
+## 分析ダッシュボード
 
 ボットのパフォーマンスを一目で確認し、どのトピックにさらなる改善が必要かを特定します。
 
@@ -29,7 +29,7 @@ dynamics365pdf: true
  | [時間の節約](hours-saved.md) | エンド ユーザー、自動的  |  2019 年 7 月   | 2019 年 10 月|  
 
 
-## <a name="core-authoring"></a>コア オーサリング
+## コア オーサリング
 
 Virtual Agent の会話型エディターを使用して、ダイアログを作成し、変数や同義語を追加し、他のシステムに接続できる Microsoft Flow を組み込みます。
 
@@ -43,7 +43,7 @@ Virtual Agent の会話型エディターを使用して、ダイアログを作
  | [変数の機能](variable-capabilities.md) | エンド ユーザー、自動的  |  2019 年 5 月   | 2019 年 10 月|  
 
 
-## <a name="enhanced-natural-language-capabilities"></a>自然言語機能の強化
+## 自然言語機能の強化
 
 AI および自然言語機能により、システムは複雑なユーザー言語を理解し、解析することができます。
 
@@ -54,7 +54,7 @@ AI および自然言語機能により、システムは複雑なユーザー�
  | [スロット充足機能](slot-filling.md) | エンド ユーザー、自動的  |  2019 年 7 月   | 2019 年 10 月|  
 
 
-## <a name="hand-off-to-a-human-agent"></a>人間のエージェントへの引き継ぎ
+## 人間のエージェントへの引き継ぎ
 
 ボットから人のエージェントに顧客の会話を適切に引き渡します。
 

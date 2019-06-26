@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: ramakri
 dynamics365pdf: true
 ---
-# <a name="customer-service"></a>Customer service
+# Customer service
 
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 

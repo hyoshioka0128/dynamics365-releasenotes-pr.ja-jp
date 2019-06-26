@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: kepontop
 dynamics365pdf: true
 ---
-# <a name="lock-free-number-series"></a>ロックフリー番号シリーズ
+# ロックフリー番号シリーズ
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 エンド ユーザーは、シリーズ内でギャップを許可する番号シリーズをマークできます。 これらの番号シリーズはブロックしなくなり、パフォーマンスが向上します。 
 

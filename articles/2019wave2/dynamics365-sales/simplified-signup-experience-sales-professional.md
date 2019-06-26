@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: bharavar
 dynamics365pdf: true
 ---
-# <a name="simplified-signup-experience-for-sales-professional"></a>Sales Professional のシンプルなサインアップ エクスペリエンス
+# Sales Professional のシンプルなサインアップ エクスペリエンス
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 10 月|いいえ |
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 Dynamics 365 for Sales Professional の試用版または有料版にサインアップするためのユーザーの時間と労力が減ります。
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 Dynamics 365 for Sales Professional の試用および購入のエクスペリエンスが見直されて、新しいお客様は簡単かつ迅速に Sales Professional アプリケーションにアクセスして作業を開始できます。 アプリは最新で快適に見えるように拡張されており、ユーザーはすぐにその価値を見出すことができます。 
 

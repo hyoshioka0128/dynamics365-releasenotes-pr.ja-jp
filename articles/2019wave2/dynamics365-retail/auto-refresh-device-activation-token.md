@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: jashanno
 dynamics365pdf: true
 ---
-# <a name="auto-refresh-device-activation-token"></a>デバイス ライセンス認証トークンの自動更新
+# デバイス ライセンス認証トークンの自動更新
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +18,14 @@ dynamics365pdf: true
 |管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
 
 
-## <a name="business-value"></a>ビジネス バリュー
+## ビジネス バリュー
 <!-- bv start -->
 この機能により、小売業者は、店の POS デバイスのライセンス認証トークンの有効期限が切れるたびに、ライセンス認証をやり直す必要がなくなります。 また、この機能では、既定のトークンの有効期間を短縮することでセキュリティが向上し、小売業者はこの値を手動で構成する必要がなくなります。 
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 この機能では、業界標準の JSON Web トークンを使用して、デバイスのライセンス認証トークンの自動更新機能が導入されます。
 <!--feature detail end -->

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
 ---
-# <a name="integration-with-dynamics-365-customer-service-insights"></a>Dynamics 365 Customer Service Insights との統合
+# Dynamics 365 Customer Service Insights との統合
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -19,7 +19,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 Dynamics 365 Customer Service Insights により、顧客サービス組織に対して、重要なパフォーマンス指標、運用データ、最新トレンドに関するアクション可能なビューが提供されます。 
  

@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
 ---
-# <a name="support-for-surveys-using-microsoft-forms-pro"></a>Microsoft Forms Pro を使用した調査のサポート
+# Microsoft Forms Pro を使用した調査のサポート
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 調査を使用してすべてのタッチポイントで顧客のセンチメントと満足度を測定することで、優れた顧客エクスペリエンスを作成します。 調査はまた、顧客からのフィードバックを取得して分析することにより、よりスマートな決定を下すのにも役立ちます。
 

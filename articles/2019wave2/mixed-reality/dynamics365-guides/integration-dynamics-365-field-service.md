@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: algodin
 dynamics365pdf: true
 ---
-# <a name="integration-with-dynamics-365-for-field-service"></a>Dynamics 365 for Field Service の統合
+# Dynamics 365 for Field Service の統合
 [!include[mixed-reality/dynamics365-guides banner](../includes/mixed-reality/dynamics365-guides.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +22,7 @@ dynamics365pdf: true
 
 
 
-## <a name="feature-details"></a>機能の詳細
+## 機能の詳細
 <!--feature detail start -->
 Dynamics 365 Guides は、Dynamics 365 for Field Service ワークフローと統合されます。 Field Service ユーザーは、オペレーターに直接ガイドを割り当てることができます。 オペレーターは、Dynamics 365 Guides HoloLens アプリの専用のタブから割り当てられた作業を見ることができます。
 <!--feature detail end -->

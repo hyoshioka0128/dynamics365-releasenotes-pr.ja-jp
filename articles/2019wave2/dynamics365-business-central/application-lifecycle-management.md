@@ -10,7 +10,7 @@ ms.service: business-applications
 ms.author: clausba
 dynamics365pdf: true
 ---
-# <a name="application-lifecycle-management"></a>アプリケーション ライフサイクル管理
+# アプリケーション ライフサイクル管理
 
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
