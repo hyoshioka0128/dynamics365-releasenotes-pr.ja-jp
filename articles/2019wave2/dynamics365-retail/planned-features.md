@@ -43,7 +43,7 @@ dynamics365pdf: true
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | ---------- |---------- |
  | [製品の見つけやすさの改善](enhancements-product-discoverability.md) | エンド ユーザー、自動的  |  2019 年 10 月   | |  
- | [クライアンテリング - 販売担当者が信頼できるアドバイザーになり、顧客と長期的な関係を築けるようにする](clienteling--empower-sales-associates-become-trusted-advisors-establish-long-term-relationships-customers.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |     | 2019 年 10 月|  
+ | [クライアンテリング - 販売担当者が信頼できるアドバイザーになり、顧客と長期的な関係を築けるようにする](clienteling--empower-associates-establish-relationships-customers.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |     | 2019 年 10 月|  
  | [e コマースおよびコール センターでの Adyen コネクタに対する外部ギフト カードのサポート](external-gift-card-support-adyen-connector-e-commerce-call-center.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |     | 2019 年 10 月|  
  | [店舗での在庫 (入庫/出庫) 操作の改善](improved-inventory-inbound-outbound-operations-store.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |     | 2019 年 10 月|  
  | [Customer Service におけるオムニチャネル注文の注文取り消しの改善](improved-order-recall-omnichannel-orders-customer-service.md) | エンド ユーザー、自動的  |     | 2019 年 10 月|  
