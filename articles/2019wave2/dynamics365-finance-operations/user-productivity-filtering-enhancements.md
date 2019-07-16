@@ -1,16 +1,22 @@
 ---
 title: ユーザーの生産性フィルター処理の機能強化
 description: ユーザーの生産性フィルター処理の機能強化
-author: relnotes
+author: ''
 ms.reviewer: sericks
-ms.date: 05/29/2019
+ms.date: 06/18/2019
 ms.assetid: e862278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
+ms.openlocfilehash: b06c418a017cc3fa98ebc93eb9413885e0a17940
+ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "1701491"
 ---
-# ユーザーの生産性: フィルター処理の機能強化
+# <a name="user-productivity-filtering-enhancements"></a>ユーザーの生産性フィルター処理の機能強化
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,9 +28,9 @@ dynamics365pdf: true
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
- フィルター処理は、ユーザー インターフェイスの最も一般的で重要な基本機能の 1 つであり、ほとんどのユーザー シナリオやビジネス シナリオに影響を与えます。 データを簡単に発見できることは、ユーザーの成功と満足にとって重要です。 Dynamics 365 for Finance and Operations でのフィルター処理を改善するため、以下を含むいくつかの改良が計画されています。 
+フィルター処理は、ユーザー インターフェイスの最も一般的で重要な基本機能の 1 つであり、ほとんどのユーザー シナリオやビジネス シナリオに影響を与えます。 データを簡単に発見できることは、ユーザーの成功と満足にとって重要です。 Dynamics 365 for Finance and Operations でのフィルター処理を改善するため、以下を含むいくつかの改良が計画されています。 
 
 -  フィルター処理するフィールドが見つけやすくなります。
 -  **列挙型**および**日時型**フィールドでのフィルター処理エクスペリエンスを改善します。 

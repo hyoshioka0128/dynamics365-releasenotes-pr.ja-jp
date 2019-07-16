@@ -1,16 +1,22 @@
 ---
 title: システム主導のクラスター
 description: システム主導のクラスター ピッキングの設定では、システム生成のクラスターに基づいてピッキング作業ヘッダーをクラスター化することができます。
-author: relnotes
+author: ''
 ms.reviewer: josaw
-ms.date: 05/29/2019
+ms.date: 06/18/2019
 ms.assetid: 6e62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
+ms.openlocfilehash: adcd2c9994d53823ba0c8bfce81971dcf0f2e184
+ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "1701469"
 ---
-# システム主導のクラスター
+# <a name="system-directed-clustering"></a>システム主導のクラスター
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +28,7 @@ dynamics365pdf: true
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 システム主導のクラスター ピッキングの設定では、システム生成のクラスターに基づいてピッキング作業ヘッダーをクラスター化することができます。 システムでは、クラスター プロファイルで指定されたポジション数までピッキング順序がクラスター化され、ユーザーは手動でクラスターを作成することなく、複数の注文を同時にピッキングできます。 この機能は、システムがクラスターを作成するために使用するクラスター プロファイルを提供することによって、手動のクラスター構築に代わる方法を提供します。 使用前に、いくつかの設定明細行をクラスター プロファイルで決定する必要があります。 [職位の数] は、クラスターに入れられる注文の数、つまりトートの数に対応します。[クラスターの分割] は、いつクラスターを分割するかを決定します。[クラスター ID の生成] は、システムによってクラスター ID を生成するか、またはユーザーが入力するかを制御します。[並べ替え検証タイプ] は、位置の検証が必要かどうかを決定します。 
 

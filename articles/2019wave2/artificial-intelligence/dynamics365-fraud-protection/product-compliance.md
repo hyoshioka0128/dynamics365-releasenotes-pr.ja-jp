@@ -3,14 +3,20 @@ title: 外部コンプライアンスの認定
 description: 外部コンプライアンスの認定
 author: relnotes
 ms.reviewer: v-jegrif
-ms.date: 05/23/2019
+ms.date: 06/19/2019
 ms.assetid: e321143a-c86d-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: amyhre
 dynamics365pdf: true
+ms.openlocfilehash: c02369b5b93d4629b2e68b713cc34b8569d8d17e
+ms.sourcegitcommit: 38a8478625bbe51d90e5b9d2af65933331c1fdb6
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "1718954"
 ---
-# 外部コンプライアンスの認定
+# <a name="external-compliance-certification"></a>外部コンプライアンスの認定
 [!include[artificial-intelligence/dynamics365-fraud-protection banner](../includes/artificial-intelligence/dynamics365-fraud-protection.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +28,7 @@ dynamics365pdf: true
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 お客様にとっての主な関心事は、転送中と保存中両方のデータのセキュリティと保護です。 Dynamics 365 Fraud Protection では、コンプライアンスの高い基準でこの懸念に対処します。
 

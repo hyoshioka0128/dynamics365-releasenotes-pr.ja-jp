@@ -1,16 +1,21 @@
 ---
 title: Word、Excel、PDF で構成可能なビジネス ドキュメント レポート
 description: この機能では、買掛金勘定、売掛金勘定、プロジェクト会計、倉庫および輸送管理の主要ビジネス ドキュメント用の構成可能で優れたデザインの Word、Excel、PDF テンプレートと共に、カスタマイズとルーティングのためのシンプルなビジネス ユーザー エクスペリエンスが提供されます。
-author: relnotes
 ms.reviewer: kfend
-ms.date: 05/29/2019
+ms.date: 06/18/2019
 ms.assetid: d662278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: sshvedov
 dynamics365pdf: true
+ms.openlocfilehash: bafc140070691fdc5384cc51d93d8bd4aacd7249
+ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "1701909"
 ---
-# Word、Excel、PDF で構成可能なビジネス ドキュメント レポート
+# <a name="configurable-business-documents-reporting-in-word-and-excel"></a>Word や Excel で構成可能なビジネス ドキュメント レポート
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,16 +23,18 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 10 月|
 
 
-## ビジネス バリュー
+## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
- 顧客から報告された最大の問題点の 1 つは、印刷可能なビジネス ドキュメントをカスタマイズするためのビジネス ユーザー エクスペリエンスがないことです。 Microsoft Office ベースのテンプレートと PDF テンプレートを使用することで、ビジネス ドキュメントをカスタマイズするための市場で最も一般的なツールを使用して、定義済みのドキュメントを顧客に提供します。 これにより、Dynamics 365 for Finance and Operations によってカバーされていない特定の産業や地域用に調整された標準および規制に関するビジネス ドキュメントの市場を創造するための扉も開かれます。
+
+ 顧客から報告された最大の問題点の 1 つは、印刷可能なビジネス ドキュメントをカスタマイズするためのビジネス ユーザー エクスペリエンスがないことです。 Microsoft Office ベースのテンプレートと PDF テンプレートを使用することで、ビジネス ドキュメントをカスタマイズするための市場で最も一般的なツールで、定義済みのドキュメントを顧客に提供します。 これにより、Microsoft Dynamics 365 for Finance and Operations によってカバーされていない特定の産業や地域用に調整された標準および規制に関するビジネス ドキュメントの市場を創造するための扉も開かれます。
+
 <!-- bv end -->
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-この機能では、優れたデザインの Microsoft Word、Microsoft Excel、PDF のテンプレート機能が段階的に提供されます。 
+この機能では、優れたデザインの Microsoft Word および Microsoft Excel テンプレートの機能が段階的に提供されます。 
 
 **売掛金勘定** (一般提供 - 2019 年 10 月):
 
@@ -80,7 +87,8 @@ dynamics365pdf: true
 **輸送管理** (一般提供 - 2019 年 12 月):
 
 - 商業請求書
-- 原産地証明書 - ルート
+- 原産地証明書 
+- ルート
 - 貨物業者 
 
 **ドキュメントのカスタマイズとルーティングに関するビジネス ユーザー エクスペリエンス**:

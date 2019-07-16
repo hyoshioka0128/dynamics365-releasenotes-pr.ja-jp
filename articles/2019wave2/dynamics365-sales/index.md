@@ -1,19 +1,22 @@
 ---
 title: Dynamics 365 for Sales 2019 年リリース ウェーブ 2 の概要
-description: Dynamics 365 for Sales 2019 年リリース ウェーブ 2 の概要
+description: ''
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 05/28/2019
+ms.date: 06/13/2019
 ms.assetid: 7ff1f7cb-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: ronik
 dynamics365pdf: true
+ms.openlocfilehash: 33fe767ed9cdb61c6d038a7a87677c32794675ba
+ms.sourcegitcommit: 0c53eb8711a7594ec968a8d531a78b6ab5b98bf6
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "1725438"
 ---
-
-
-
-# Dynamics 365 for Sales 2019 年リリース ウェーブ 2 の概要
+# <a name="overview-of-dynamics-365-for-sales-2019-release-wave-2"></a>Dynamics 365 for Sales 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 Dynamics 365 for Sales は、エンタープライズ レベルのカスタマー エンゲージメント ソフトウェアであり、営業チームは顧客との強い関係を築き、分析情報に基づいて行動を起こし、迅速に取引を成立させることができます。 Dynamics 365 プラットフォームで最も人気のあるアプリケーションである Sales は、従来のアウトバウンド セールス モデルから、多くの大企業のビジネス ニーズを満たす複雑な構成まで、さまざまなシナリオを網羅しています。  

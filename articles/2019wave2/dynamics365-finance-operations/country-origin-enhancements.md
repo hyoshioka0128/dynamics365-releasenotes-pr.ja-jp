@@ -1,16 +1,22 @@
 ---
 title: 原産国の機能強化
 description: 原産国の機能強化
-author: relnotes
+author: ''
 ms.reviewer: josaw
-ms.date: 05/29/2019
+ms.date: 06/18/2019
 ms.assetid: 5262278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: lcash
 dynamics365pdf: true
+ms.openlocfilehash: 3f5815f958c4dc278ed0e3f0d988920e8235b969
+ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "1701887"
 ---
-# 原産国の機能強化
+# <a name="country-of-origin-enhancements"></a>原産国の機能強化
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,9 +28,9 @@ dynamics365pdf: true
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
- 国境を越えた取引では、企業は移動している製品の原産国に関する情報を含めることが必要なことがよくあります。 Microsoft Dynamics 365 for Finance and Operations には、製品マスター ドキュメント上のフィールドが含まれます。 これらの機能強化は、その既存の機能の上に構築されます。 多くの場合、納入業者は有効期限と証明書番号のある証明書を顧客に提供します。 これらの機能強化により、調達組織はこの情報を文書化することができます。 その後この情報を使用して、出荷書類の事務処理を準備できます。 また、この機能を使用すると、調達組織は証明書の有効期限が切れたときに納入業者をフォローアップすることもできます。 販売組織も、販売する前にこの情報を確認できます。 たとえば、出荷部門で準備する必要がある関税や追加の事務処理のために、特定の国の製品を別の国に出荷するべきではない場合などです。 これらの更新は、組織が貿易コンプライアンス プロセスを構築するのに役立ちます。
+国境を越えた取引では、企業は移動している製品の原産国に関する情報を含めることが必要なことがよくあります。 Microsoft Dynamics 365 for Finance and Operations には、製品マスター ドキュメント上のフィールドが含まれます。 これらの機能強化は、その既存の機能の上に構築されます。 多くの場合、納入業者は有効期限と証明書番号のある証明書を顧客に提供します。 これらの機能強化により、調達組織はこの情報を文書化することができます。 その後この情報を使用して、出荷書類の事務処理を準備できます。 また、この機能を使用すると、調達組織は証明書の有効期限が切れたときに納入業者をフォローアップすることもできます。 販売組織も、販売する前にこの情報を確認できます。 たとえば、出荷部門で準備する必要がある関税や追加の事務処理のために、特定の国の製品を別の国に出荷するべきではない場合などです。 これらの更新は、組織が貿易コンプライアンス プロセスを構築するのに役立ちます。
 <!--feature detail end -->
 
 

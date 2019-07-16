@@ -3,14 +3,20 @@ title: アプリケーションの機能強化
 description: 最もよく使用される部分のパフォーマンスに重点を置いて、引き続きアプリケーションを強化していきます。 Business Central のアイデア サイトが引き続きアプリケーションの機能強化に関する情報源です。
 author: relnotes
 ms.reviewer: edupont04
-ms.date: 05/14/2019
+ms.date: 06/16/2019
 ms.assetid: c260e0fc-d26c-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: jannikb
 dynamics365pdf: true
+ms.openlocfilehash: 1c530dada07ec4f81ec14a80b4ca4e8697072816
+ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "1723062"
 ---
-# アプリケーションの機能強化
+# <a name="application-enhancements"></a>アプリケーションの機能強化
 
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 

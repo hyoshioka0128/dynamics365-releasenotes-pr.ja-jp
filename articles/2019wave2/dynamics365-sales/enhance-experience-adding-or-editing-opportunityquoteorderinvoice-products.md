@@ -3,14 +3,20 @@ title: 営業案件/見積/発注/請求書の製品の追加または編集エ�
 description: この機能強化により、営業案件や見積もりなどの製品明細品目を追加するときに、商品を簡単に検索およびフィルター処理するためのより単純で直感的なエクスペリエンスが提供されます。 さらに、価格表を必須にする必要があるかどうかを設定するための組織レベルのオプションも提供されます。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 05/29/2019
+ms.date: 06/19/2019
 ms.assetid: d061278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: naitikds
 dynamics365pdf: true
+ms.openlocfilehash: 071ee1f5b8992fdc88b959130bba216a4206544a
+ms.sourcegitcommit: 0c53eb8711a7594ec968a8d531a78b6ab5b98bf6
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "1725504"
 ---
-# 営業案件/見積/発注/請求書の製品の追加または編集エクスペリエンスの強化
+# <a name="enhance-the-adding-or-editing-opportunityquoteorderinvoice-products-experience"></a>営業案件/見積/発注/請求書の製品の追加または編集エクスペリエンスの強化
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -18,7 +24,7 @@ dynamics365pdf: true
 |エンド ユーザー、自動的|| 2019 年 10 月|はい |
 
 
-## ビジネス バリュー
+## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
 顧客から最も多い要求です。 
 
@@ -27,21 +33,25 @@ dynamics365pdf: true
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-反復的な作業となる可能性のある複数の製品明細品目の作成は、新しい "新規作成および追加" 機能によって合理化されます。 営業案件への新しい製品の追加をすばやく繰り返すことで、エンド ユーザーは時間を節約し、より重要なタスクにすばやく焦点を移すことができます。 さらに:  
+反復的な作業となる可能性のある複数の製品明細品目の作成は、新しい "新規作成および追加" 機能によって合理化されます。 営業案件への新しい製品の追加をすばやく繰り返すことで、営業担当者は時間を節約し、より重要なタスクにすばやく焦点を移すことができます。 さらに:  
 
-- ユーザーは、価格表の有無にかかわらず、営業案件、見積もり、注文、請求書に既存の製品を追加できます。  
+- 営業担当者は、価格表の有無にかかわらず、営業案件、見積もり、注文、請求書に既存の製品を追加できます。  
 - 管理者は、価格表の選択を適用するかどうかを選択できます。  
-- ユーザーは、営業案件や見積もりの明細品目の編集中でも、製品のプロパティをすばやく表示および編集できます。  
-- 管理者は、価格表品目エンティティに対する追加のカスタマイズ オプションを使用できます。  
+- 営業担当者は、営業案件や見積もりの明細品目の編集中でも、製品のプロパティをすばやく表示および編集できます。  
+- 管理者は、価格表品目エンティティに対する追加のカスタマイズ オプションを使用できます。
 <!--feature detail end -->
 
-![既存の商品を営業案件に追加する](media/pricelist-optional.png "既存の商品を営業案件に追加する")
+  ![価格表オプション](media/pricelist-optional.png "価格表オプション")
 <!-- Picture 1 -->
-
 
 > [!NOTE]
 > この機能は、統一インターフェイスでのみ使用できます。
+
+
+
+
+
 
 

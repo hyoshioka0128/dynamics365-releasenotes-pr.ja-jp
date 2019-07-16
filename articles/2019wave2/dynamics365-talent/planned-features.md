@@ -1,16 +1,21 @@
 ---
-title: Dynamics 365 for Talent の新機能と予定されている機能 (2019 年ウェーブ 2)
+title: Dynamics 365 for Talent の新機能と予定されている機能 (2019 年リリース ウェーブ 2)
 description: Dynamics 365 for Talent で計画されている機能の概要。
-author: relnotes
+author: ''
 ms.reviewer: anbichse
-ms.date: 05/29/2019
+ms.date: 06/18/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: loril
 dynamics365pdf: true
+ms.openlocfilehash: fd43e4c0f27d6263cc652e52cd7a3cce11670c6d
+ms.sourcegitcommit: 47ff8ab7c1c8ce0b4cf61818cf1eef0005f289c3
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "1703095"
 ---
-
-# Dynamics 365 for Talent の新機能と予定されている機能
+# <a name="whats-new-and-planned-for-dynamics-365-for-talent"></a>Dynamics 365 for Talent の新機能と予定されている機能
 
 このトピックでは、2019 年 10 月から 2020 年 3 月までのリリースで予定されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
@@ -18,7 +23,7 @@ dynamics365pdf: true
 
 
 
-## Attract
+## <a name="attract"></a>Attract
 
 
 
@@ -29,20 +34,20 @@ dynamics365pdf: true
  | [分析レポートをカスタマイズおよび拡張する](customize-extend-analytics-reports.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |  2019 年 8 月   | 近日発表|  
 
 
-## Core HR
+## <a name="core-hr"></a>Core HR
 
 
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | ---------- |---------- |
-| [合理化された従業員データ入力](streamlined-employee-data-entry.md) | エンド ユーザー、自動的  |  2019 年 7 月   | 2019 年 10 月|  
+ | [合理化された従業員データ入力](streamlined-employee-data-entry.md) | エンド ユーザー、自動的  |  2019 年 7 月   | 2019 年 10 月|  
  | [Finance and Operations およびサード パーティ アプリケーションとのより深いエクスペリエンス統合](deeper-experience-integration-finance-operations-other-3rd-party-applications.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |  2019 年 9 月   | 2019 年 10 月|  
  | [サード パーティのアプリを埋め込む](embed-third-party-apps.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |  2019 年 9 月   | 2019 年 10 月|  
- | [より幅広い環境管理](broader-environment-management.md) | 管理者、作成者、またはアナリスト、自動的  |  2019 年 10 月   | 2019 年 10 月|  
+ | [より幅広い環境管理](broader-environment-management.md)  | 管理者/作成者、自動的   | 2019 年 10 月    | 2019 年 10 月  |
  | [Common Data Service でデータ エンティティを展開する](expand-data-entities-common-data-service.md) | 管理者、作成者、またはアナリスト、自動的  |  2020 年 2 月   | 2020 年 3 月|  
 
 
-## Onboard
+## <a name="onboard"></a>Onboard
 
 
 

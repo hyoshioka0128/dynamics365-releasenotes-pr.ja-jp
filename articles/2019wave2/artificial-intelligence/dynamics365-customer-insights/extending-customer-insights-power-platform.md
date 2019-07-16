@@ -1,16 +1,22 @@
 ---
 title: Power Platform で Customer Insights を拡張する
-description: "組織が Power Platform コネクタを使用して Customer Insights のエクスペリエンスを調整および拡張できるようにします。\_"
+description: 組織が Power Platform コネクタを使用して Customer Insights のエクスペリエンスを調整および拡張できるようにします。 
 author: relnotes
 ms.reviewer: jimholtz
-ms.date: 05/10/2019
+ms.date: 06/19/2019
 ms.assetid: 3e64278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
+ms.openlocfilehash: 6932ef40c2fd637e88698d3e22467b6a53cd4b3f
+ms.sourcegitcommit: 2e060add192b3a266865b9359307aca104fdee20
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "1718602"
 ---
-# Power Platform で Customer Insights を拡張する
+# <a name="extending-customer-insights-with-power-platform"></a>Power Platform で Customer Insights を拡張する
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,13 +24,15 @@ dynamics365pdf: true
 |管理者、作成者、またはアナリスト、自動的|2019 年 10 月| |
 
 
-## ビジネス バリュー
+## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
 Power BI、Microsoft Flow、および PowerApps 用の標準テンプレートとコネクタを使用してすばやく開始できます。
 
 <!-- bv end -->
 
-## 機能の詳細
+
+
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 Power Platform で Customer Insights を拡張します。
 

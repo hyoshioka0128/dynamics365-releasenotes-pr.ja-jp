@@ -1,16 +1,21 @@
 ---
-title: Dynamics 365 Fraud Protection の新機能と予定されている機能 (2019 年リリース ウェーブ 2)
+title: Dynamics 365 Fraud Protection の新機能と予定されている機能
 description: Dynamics 365 Fraud Protection で計画されている機能の概要。
-author: relnotes
+author: ''
 ms.reviewer: v-jegrif
-ms.date: 05/29/2019
+ms.date: 07/01/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: jayna
 dynamics365pdf: true
+ms.openlocfilehash: 2573965d7b9d7db9b45c3cd45c03bf5de8edeee1
+ms.sourcegitcommit: 38a8478625bbe51d90e5b9d2af65933331c1fdb6
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "1718888"
 ---
-
-# Dynamics 365 Fraud Protection の新機能と予定されている機能
+# <a name="whats-new-and-planned-for-dynamics-365-fraud-protection"></a>Dynamics 365 Fraud Protection の新機能と予定されている機能
 
 このトピックでは、2019 年 10 月から 2020 年 3 月までのリリースで予定されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
@@ -23,12 +28,12 @@ dynamics365pdf: true
 | [デバイス フィンガープリンティング](device-fingerprinting.md) | エンド ユーザー、自動的|2019 年 4 月 23 日| 2019 年 10 月|  
 | [診断](diagnose.md) | エンド ユーザー、自動的|2019 年 4 月 23 日| 2019 年 10 月|  
 | [評価](evaluate.md) | エンド ユーザー、自動的|2019 年 4 月 23 日| 2019 年 10 月|  
- | [グラフ エクスプローラー](graph-explorer.md) | エンド ユーザー、自動的 |  2019 年 4 月 23 日 | 2019 年 10 月 |  
+| [Graph エクスプローラー](graph-explorer.md) | エンド ユーザー、自動的|2019 年 4 月 23 日| 2019 年 10 月|  
 | [保護](protect.md) | エンド ユーザー、自動的|2019 年 4 月 23 日| 2019 年 10 月|  
 | [ルール エンジン](rules-engine.md) | エンド ユーザー、自動的|2019 年 4 月 23 日| 2019 年 10 月|  
- | [スコアカード](scorecard.md) | エンド ユーザー、自動的 |  2019 年 4 月 23 日 | 2019 年 10 月 |  
+| [スコアカード](scorecard.md) | エンド ユーザー、自動的|2019 年 4 月 23 日| 2019 年 10 月|  
 | [Virtual Fraud Analyst](virtual-fraud-analyst.md) | エンド ユーザー、自動的|2019 年 4 月 23 日| 2019 年 10 月|  
- | [サインアップの評価](signup-assessment.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト |  2019 年 7 月 | 2019 年 10 月 |  
+| [サインアップの評価](signup-assessment.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 7 月| 2019 年 10 月|  
 | [アカウントの保護](account-protection.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 近日発表|  
 | [Dynamics 365 Fraud Protection の拡張と調整](extend-tailor-dynamics-365-fraud-protection.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 近日発表|  
 | [外部コンプライアンスの認定](product-compliance.md) | エンド ユーザー、自動的|2019 年 10 月| 近日発表|  

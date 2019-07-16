@@ -1,16 +1,21 @@
 ---
-title: Dynamics 365 Market Insights の新機能と予定されている機能
+title: Dynamics 365 Market Insights の新機能と予定されている機能 (2019 年リリース ウェーブ 2)
 description: Dynamics 365 Market Insights で計画されている機能の概要。
-author: relnotes
+author: ''
 ms.reviewer: mhart
-ms.date: 05/29/2019
+ms.date: 07/01/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: waltsun
 dynamics365pdf: true
+ms.openlocfilehash: 324ccd05b3979bae79be74ac305826e81f5ecc8d
+ms.sourcegitcommit: b61ae70a7ffcd8c0454e03a5304491b3fd8fd3bd
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "1723315"
 ---
-
-# Dynamics 365 Market Insights の新機能と予定されている機能
+# <a name="whats-new-and-planned-for-dynamics-365-market-insights"></a>Dynamics 365 Market Insights の新機能と予定されている機能
 
 このトピックでは、2019 年 10 月から 2020 年 3 月までのリリースで予定されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
@@ -18,6 +23,12 @@ dynamics365pdf: true
 
 | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- |---------------- | --------------- |-------------- |
+| [自分のトピックについてニュースや新しい分析情報があるときにメール通知を受け取る](get-alerts-when-people-talk-about-product-brand-or-company-web.md) | エンド ユーザー、自動的|2019 年 4 月 1 日| 2019 年 10 月|  
+| [Web アプリで興味のあるトピックに関連するニュースや分析情報にアクセスする](drill-into-details-insights-directly-newsfeed.md) | エンド ユーザー、自動的|2019 年 9 月| 2019 年 10 月|  
+| [アラート通知 (時間、頻度、統合) のカスタマイズとユーザー アカウントの削除](customize-alert-notifications-time-frequency-consolidation-delete-user-accounts.md) | エンド ユーザー、自動的|2019 年 9 月| 2019 年 10 月|  
+| [ソーシャル メディア、メール、IM、テキストを介して個々の分析情報を同僚と簡単に共有する](share-insights-others.md) | エンド ユーザー、自動的|2019 年 9 月| 2019 年 10 月|  
+| [Web データ、検索アクティビティ、閲覧行動からビジネス トピックに関連する追加の分析情報を得る (米国のみ)](initial-set-insights-october-2019.md) | エンド ユーザー、自動的|2019 年 9 月| 2019 年 10 月|  
+| [ユーザーのビジネス領域でトピックの特性を定義して、より関連性の高い分析情報を得る](define-relevant-topics-business.md) | エンド ユーザー、自動的|2019 年 9 月| 2019 年 10 月|  
 
 **有効対象**列の値の説明
 

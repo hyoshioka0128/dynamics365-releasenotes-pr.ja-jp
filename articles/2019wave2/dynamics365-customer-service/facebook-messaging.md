@@ -1,28 +1,34 @@
 ---
 title: Facebook メッセージング
 description: Facebook メッセンジャーを通じて顧客に働きかけ、時間のあるときに会話に参加できる利便性を提供します。
-author: relnotes
+author: ''
 ms.reviewer: shjais
-ms.date: 05/29/2019
+ms.date: 06/11/2019
 ms.assetid: fc61278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: chali
 dynamics365pdf: true
+ms.openlocfilehash: 66e459dba9aa0ed69a57a154205ad150ec842e6a
+ms.sourcegitcommit: ee44b28e9799b06d7bb98c91d30c40dd9aadeb75
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "1696541"
 ---
-# Facebook メッセージング
+# <a name="facebook-messaging"></a>Facebook メッセージング
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
 | ---------- | ---------- |---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト| 2019 年 10 月| 2020 年 1 月|いいえ |
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2020 年 1 月|いいえ |
 
 
 
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 多数の消費者が Facebook メッセンジャーのようなソーシャル メッセージング チャネルを個人的なコミュニケーション ニーズに使用していますが、消費者は企業と関わるためにこれらのモバイル メッセージング チャネルを使うことも好みます。 チャット ウィンドウが閉じられたときにセッションが終了するライブ チャットのようなリアルタイム チャネルとは異なり、これらのチャネルの非同期性により、消費者には時間があるときに問題を解決できる利便性が提供されます。
 

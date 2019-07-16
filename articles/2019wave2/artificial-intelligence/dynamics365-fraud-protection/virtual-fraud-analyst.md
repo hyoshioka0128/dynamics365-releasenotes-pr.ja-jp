@@ -3,14 +3,20 @@ title: Virtual Fraud Analyst
 description: Virtual Fraud Analyst
 author: relnotes
 ms.reviewer: v-jegrif
-ms.date: 05/22/2019
+ms.date: 06/19/2019
 ms.assetid: 4864278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: v-jowigh
 dynamics365pdf: true
+ms.openlocfilehash: 0620400129708b37ddf16243800b3c8af714cba8
+ms.sourcegitcommit: 38a8478625bbe51d90e5b9d2af65933331c1fdb6
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "1718921"
 ---
-# Virtual Fraud Analyst
+# <a name="virtual-fraud-analyst"></a>Virtual Fraud Analyst
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +28,7 @@ dynamics365pdf: true
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 Virtual Fraud Analyst は、よりカスタマイズされた不正防止戦略を可能にする追加機能をサポートします。 今日存在する強力なモデル操作エクスペリエンスと共に、ベンチマークと柔軟なルール エンジンが提供されます。 更新内容は次のとおりです。
 

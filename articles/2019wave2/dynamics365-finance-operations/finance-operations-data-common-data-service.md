@@ -3,14 +3,20 @@ title: Common Data Service での Finance and Operations のデータ
 description: Common Data Service での Finance and Operations のデータ
 author: RamaKrishnamoorthy
 ms.reviewer: sericks
-ms.date: 05/29/2019
+ms.date: 06/18/2019
 ms.assetid: fc62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: ramasri
 dynamics365pdf: true
+ms.openlocfilehash: 5eb5d8a10a64938840504e20cd42618506ead8f9
+ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "1701876"
 ---
-# Common Data Service での Finance and Operations のデータ
+# <a name="finance-and-operations-data-in-common-data-service"></a>Common Data Service での Finance and Operations のデータ
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +24,14 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 6 月| 近日発表|
 
 
-## ビジネス バリュー
+## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
 この機能は、Dynamics 365 for Finance and Operations と Common Data Service の間のシームレスなデータ交換を容易にします。
 <!-- bv end -->
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 Dynamics 365 for Finance and Operations のデータを Common Data Service で取得し、最新の状態に保ちます。 
 
@@ -35,12 +41,37 @@ Microsoft では、二重書き込みのセットアップを特別な設定が�
 
 <!--note from editor: Confirming that the terms "Phase 1 and Phase 2 still work, given the new naming of release "2019 release wave 2".   -->
 
-## フェーズ 1 リリース
+## <a name="phase-1-release"></a>フェーズ 1 リリース
 フェーズ 1 リリースでは、顧客、仕入先、および製品にマルチマスター機能を提供します。Common Data Service での会社の概念および Dynamics 365 ユーザーのシングルユーザー管理エクスペリエンスも導入されています。 これらの機能は 6 月のパブリック プレビューでリリースされ、10 月には一般提供される予定です。 対象となっているエンティティは次のとおりです。 
 
-OMOrganizationHierarchyPurposeEntity, OMOrganizationHierarchyPublishedEntity, OMOrganizationHierarchyTypeEntity, OMOperatingUnitEntity, OMLegalEntity, CustCustomerGroupEntity, PaymentTermEntity, CustomerPaymentMethodEntity, CustCustomerV3Entity, VendVendorV2Entity, VendVendorGroupEntity, VendorPaymentMethodEntity, SmmContactPersonEntity, RetailLoyaltyCardEntity, PaymentScheduleEntity, PaymentScheduleLineEntity, CDSPaymentDayEntity, CDSPaymentDayLineEntity, EcoResProductCDS, CDSEcoResProductMaster, EcoResProductProperties, EcoResProductBarcode, EcoResProductDefaultOrderSettings, EcoResProductDimensionGroup, UnitOfMeasures, NameAffix.
+OMOrganizationHierarchyPurposeEntity</br>
+OMOrganizationHierarchyPublishedEntity</br>
+OMOrganizationHierarchyTypeEntity</br>
+OMOperatingUnitEntity</br>
+OMLegalEntity</br>
+CustCustomerGroupEntity</br>
+PaymentTermEntity</br>
+CustomerPaymentMethodEntity</br>
+CustCustomerV3Entity</br>
+VendVendorV2Entity</br>
+VendVendorGroupEntity</br>
+VendorPaymentMethodEntity</br>
+SmmContactPersonEntity</br>
+RetailLoyaltyCardEntity</br>
+PaymentScheduleEntity</br>
+PaymentScheduleLineEntity</br>
+CDSPaymentDayEntity</br>
+CDSPaymentDayLineEntity</br>
+EcoResProductCDS</br>
+CDSEcoResProductMaster</br>
+EcoResProductProperties</br>
+EcoResProductBarcode</br>
+EcoResProductDefaultOrderSettings</br>
+EcoResProductDimensionGroup</br>
+UnitOfMeasures</br>
+NameAffix
 
-## フェーズ 2 リリース
+## <a name="phase-2-release"></a>フェーズ 2 リリース
 フェーズ 2 リリースでは、プロジェクト、在庫、販売、調達から財務までをカバーするエンドツーエンドのシナリオがサポートされます。 これらの分野で最も重要なエンティティをサポートする、すぐに使えるなシナリオが既定で提供されます。 これらのシナリオは、Finance and Operations と Common Data Service 全体に拡張されるように、顧客とパートナーがさらに充実させることができます。 
 
 これらの機能は 10 月のパブリック プレビューでリリースされ、4 月には一般提供される予定です。 対象となるエンティティは後日発表されます。

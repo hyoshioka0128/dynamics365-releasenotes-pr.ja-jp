@@ -3,14 +3,20 @@ title: 評価
 description: 評価
 author: relnotes
 ms.reviewer: v-jegrif
-ms.date: 05/22/2019
+ms.date: 06/19/2019
 ms.assetid: 150ef9a0-0671-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: v-jowigh
 dynamics365pdf: true
+ms.openlocfilehash: c008b16f281fed7ba731137bac23d35a6a4dc65d
+ms.sourcegitcommit: 38a8478625bbe51d90e5b9d2af65933331c1fdb6
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "1718844"
 ---
-# 評価
+# <a name="evaluate"></a>評価
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +28,7 @@ dynamics365pdf: true
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 Dynamics 365 Fraud Protection の評価エクスペリエンスでは、業者はリアルタイムのトランザクション トラフィックを使用して、Dynamics 365 Fraud Protection と既存の詐欺ソリューションを比較することができます。 業者は、リアルタイムの API を介してトランザクションを送信してインライン評価を取得できるだけでなく、履歴データをアップロードしたり非同期データ (チャージバックなど) を読み込んだりして、ビジネス シナリオに合わせてモデルを調整することもできます。
 <!--feature detail end -->

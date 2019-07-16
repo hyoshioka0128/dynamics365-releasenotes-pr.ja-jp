@@ -1,16 +1,22 @@
 ---
 title: 財務に関するインテリジェントな分析情報
 description: 分析情報では、顧客が未払いの残高を支払う時期の見込みが示されます。
-author: relnotes
+author: ''
 ms.reviewer: sericks
-ms.date: 05/29/2019
+ms.date: 06/18/2019
 ms.assetid: c862278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
+ms.openlocfilehash: 65544e975e17e923694ab499ce516580bc6252b7
+ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "1701777"
 ---
-# 財務に関するインテリジェントな分析情報
+# <a name="intelligent-insights-in-financials"></a>財務に関するインテリジェントな分析情報
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +24,14 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 12 月| 近日発表|
 
 
-## ビジネス バリュー
+## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
 キャッシュ フローを最適化することはどの組織にとっても重要です。 顧客がいつ支払うかについての分析情報があると、キャッシュ フローの一部を予測し、リスクを減らすのに役立ちます。
 <!-- bv end -->
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 機能は次のとおりです。
 

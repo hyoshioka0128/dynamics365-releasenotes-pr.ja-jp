@@ -1,37 +1,44 @@
 ---
 title: Microsoft Forms Pro の新機能と予定されている機能 (2019 年リリース ウェーブ 2)
 description: Microsoft Forms Pro で計画されている機能の概要。
-author: relnotes
+author: ''
 ms.reviewer: shjais
-ms.date: 05/30/2019
+ms.date: 06/18/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: akatz
 dynamics365pdf: true
+ms.openlocfilehash: 4b0f7ddc4b983be881e62d7893ba24887f53097d
+ms.sourcegitcommit: 3f82863eb87b95859df3b5bd727b8b08f7dbed32
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "1696372"
 ---
-
-# Microsoft Forms Pro の新機能と予定されている機能
+# <a name="whats-new-and-planned-for-microsoft-forms-pro"></a>Microsoft Forms Pro の新機能と予定されている機能
 
 このトピックでは、2019 年 10 月から 2020 年 3 月までのリリースで予定されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
 機能は**一般提供**列で示されている月内に提供されます。 提供日がその月内のどの日になるかはわかりません。 リリースされた機能には、リリース日を含む完全な日付が表示されます。 
 
-## 調査の配布
-
-拡張配布により、調査所有者はより多くの調査回答を得られます。
-
- | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
- | ---------- | ---------- | ---------- |---------- |
- | [調査インセンティブ](survey-incentives.md) | エンド ユーザー、自動的  |     | 2019 年 10 月|  
 
 
-## 調査の分析情報
+## <a name="survey-distribution"></a>調査の配布
 
-調査参加者が調査を完了したらインセンティブを提供します。
+拡張配布により、調査所有者はより多くの回答を得られます。
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | ---------- |---------- |
- | [調査コメントを自動的に分類する](categorize-survey-comments-automatically.md) | エンド ユーザー、自動的  |     | 2019 年 10 月|  
+ | [調査インセンティブ](survey-incentives.md) | エンド ユーザー、自動的  |  2019 年 9 月   | 2019 年 10 月|  
+
+
+## <a name="survey-insights"></a>調査の分析情報
+
+
+
+ | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
+ | ---------- | ---------- | ---------- |---------- |
+ | [調査コメントを自動的に分類する](categorize-survey-comments-automatically.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |  2019 年 10 月   | 近日発表|  
 
 **有効対象**列の値の説明
 

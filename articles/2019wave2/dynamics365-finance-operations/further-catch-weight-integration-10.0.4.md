@@ -1,28 +1,34 @@
 ---
 title: CW 統合の強化 10.0.4
 description: CW 統合の強化 10.0.4
-author: relnotes
+author: ''
 ms.reviewer: josaw
-ms.date: 05/29/2019
+ms.date: 06/18/2019
 ms.assetid: ae62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: perlynne
 dynamics365pdf: true
+ms.openlocfilehash: ca0fbe004de694301a92e3d5b552b466f96e27c8
+ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "1702096"
 ---
-# CW 統合の強化 10.0.4
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+# <a name="further-catch-weight-integration-1004"></a>CW 統合の強化 10.0.4
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 6 月| 2019 年 10 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 6 月 1 日| 2019 年 12 月|
 
 
 
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 この機能では、倉庫管理プロセス内の CW 製品処理に対してさまざまな機能強化が提供されます。 Fullscope ISV ソリューションでは以下の追加統合作業が提供されています。
 

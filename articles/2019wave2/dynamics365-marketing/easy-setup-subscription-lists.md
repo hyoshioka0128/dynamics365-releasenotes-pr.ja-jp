@@ -3,14 +3,20 @@ title: サブスクリプション リストの簡単な設定
 description: サブスクリプション リストの簡単な設定
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 05/29/2019
+ms.date: 06/11/2019
 ms.assetid: b461278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
+ms.openlocfilehash: b2f0fade59cad8bd06d4c2fdef1af6ead5844d4e
+ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1694377"
 ---
-# サブスクリプション リストの簡単な設定
+# <a name="easy-setup-for-subscription-lists"></a>サブスクリプション リストの簡単な設定
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -22,7 +28,7 @@ dynamics365pdf: true
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 マーケティング担当者は、ターゲット セグメントを確立するための追加のフィルターや基準を適用せずに、サブスクリプション リストを直接ターゲットとするキャンペーンを実行することがよくあります。 マーケティングのライフサイクルを通してマーケティング担当者がサブスクリプション リストをエンドツーエンドで操作できるようにすることで、このシナリオを簡単に達成できるようになります。 主要な改善点は次のとおりです。
 
