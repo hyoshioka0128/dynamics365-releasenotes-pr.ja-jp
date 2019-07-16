@@ -1,25 +1,34 @@
 ---
 title: Dynamics 365 Customer Service Insights との統合
 description: Dynamics 365 Customer Service Insights との統合
-author: relnotes
+author: ''
 ms.reviewer: shellyha
-ms.date: 05/28/2019
+ms.date: 06/11/2019
 ms.assetid: 1c64278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
+ms.openlocfilehash: 4695e546bb04226ac233ff0c27d261c974e0f24d
+ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1694003"
 ---
-# Dynamics 365 Customer Service Insights との統合
+# <a name="integration-with-dynamics-365-customer-service-insights"></a>Dynamics 365 Customer Service Insights との統合
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、自動的|2019 年 8 月| 2019 年 10 月|
+|管理者、作成者、またはアナリスト、自動的|2019 年 8 月| 2019 年 10 月|
 
 
 
-## 機能の詳細
+
+
+
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 Dynamics 365 Customer Service Insights により、顧客サービス組織に対して、重要なパフォーマンス指標、運用データ、最新トレンドに関するアクション可能なビューが提供されます。 
  

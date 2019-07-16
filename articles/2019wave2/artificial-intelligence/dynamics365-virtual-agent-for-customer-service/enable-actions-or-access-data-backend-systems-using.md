@@ -1,24 +1,34 @@
 ---
 title: Microsoft Flow でのバックエンド システムからのアクションまたはデータへのアクセスの有効化
 description: Microsoft Flow でのバックエンド システムからのアクションまたはデータへのアクセスの有効化
-author: relnotes
+author: ''
 ms.reviewer: shellyha
-ms.date: 05/16/2019
+ms.date: 06/11/2019
 ms.assetid: fc63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
+ms.openlocfilehash: 858911dee8200147108c0e625544c3faa97b2201
+ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1693926"
 ---
-# Microsoft Flow でのバックエンド システムからのアクションまたはデータへのアクセスの有効化
+# <a name="enable-actions-or-access-data-from-back-end-systems-with-microsoft-flow"></a>Microsoft Flow でのバックエンド システムからのアクションまたはデータへのアクセスの有効化
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、自動的|2019 年 5 月| 2019 年 10 月|
+|管理者、作成者、またはアナリスト、自動的|2019 年 5 月| 2019 年 10 月|
 
 
-## 機能の詳細
+
+
+
+
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 ソリューションでバックエンドのワークフローまたはビジネス プロセスを起動するためにボットを必要とする状況があります。たとえば、ユーザーが今後の取引についての質問をメール アドレスに送信するように要求する場合です。
 

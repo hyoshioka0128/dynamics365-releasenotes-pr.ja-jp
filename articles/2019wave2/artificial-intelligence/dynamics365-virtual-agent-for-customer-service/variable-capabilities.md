@@ -1,28 +1,34 @@
 ---
 title: 変数の機能
 description: 変数の機能
-author: relnotes
+author: ''
 ms.reviewer: shellyha
-ms.date: 05/16/2019
+ms.date: 06/11/2019
 ms.assetid: 0064278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
+ms.openlocfilehash: 410aa9fd4cc56223d941667ee460772b8bed3055
+ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1693387"
 ---
-# 変数の機能
+# <a name="variable-capabilities"></a>変数の機能
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、自動的|2019 年 5 月| 2019 年 10 月|
+|管理者、作成者、またはアナリスト、自動的|2019 年 5 月| 2019 年 10 月|
 
 
 
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 変数は、参照または操作可能な顧客情報を格納するために使用され、複雑なダイアログを作成したり他のシステムと通信したりする際にボット作成者の時間を節約します。 
  

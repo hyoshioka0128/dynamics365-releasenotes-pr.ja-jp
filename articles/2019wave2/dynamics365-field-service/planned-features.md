@@ -1,16 +1,21 @@
 ---
 title: Dynamics 365 for Field Service の新機能と予定されている機能 (2019 年リリース ウェーブ 2)
 description: Dynamics 365 for Field Service で計画されている機能の概要。
-author: relnotes
+author: ''
 ms.reviewer: krbjoran
-ms.date: 05/29/2019
+ms.date: 06/18/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: jeffcom
 dynamics365pdf: true
+ms.openlocfilehash: 8e428392d5bc78da0d7534dc1dea35349e6fea50
+ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "1687136"
 ---
-
-# Dynamics 365 for Field Service の新機能と予定されている機能
+# <a name="whats-new-and-planned-for-dynamics-365-for-field-service"></a>Dynamics 365 for Field Service の新機能と予定されている機能
 
 このトピックでは、2019 年 10 月から 2020 年 3 月までのリリースで予定されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
@@ -18,7 +23,7 @@ dynamics365pdf: true
 
 | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |早期アクセス?* | 
 | ---------- |---------------- | --------------- |-------------- | --------------- |
-| [Mixed Reality Guides for Field Service](mixed-reality-guides-field-service.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 8 月| 2019 年 10 月| はい |
+| [Mixed Reality Guides for Field Service](mixed-reality-guides-field-service.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 10 月| はい |
 
 \* エンド ユーザーに影響するすべての必須の変更など、一部の機能は 2019 年 8 月 2 日に早期アクセスの一部としてオプトインできるようになります。 [早期アクセス](https://aka.ms/EarlyAccessFeatures)の詳細を確認してください。
 

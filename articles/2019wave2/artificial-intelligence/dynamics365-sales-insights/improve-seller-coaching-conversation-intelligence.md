@@ -1,16 +1,22 @@
 ---
 title: 会話インテリジェンスでの販売担当者コーチングの改善
 description: 2019 年 4 月の時点で、営業マネージャーは販売担当者に対してよりスマートなコーチングを提供することができるようになっています。 今後は、会話インテリジェンス機能を販売担当者にも提供します。 また、新しいモデルの追加、NLP ベースのデータ探索の導入、より深い分析情報の提供を行い、それらでの販売データと会話データの統合によって、スマート コーチングも改善します。
-author: relnotes
+author: ''
 ms.reviewer: udag
-ms.date: 05/26/2019
+ms.date: 06/11/2019
 ms.assetid: cc63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: ashpodar
 dynamics365pdf: true
+ms.openlocfilehash: 40daed42b32dfa42a95d37b26c0c17546342ceda
+ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "1688093"
 ---
-# 会話インテリジェンスでの販売担当者コーチングの改善
+# <a name="improve-seller-coaching-with-conversation-intelligence"></a>会話インテリジェンスでの販売担当者コーチングの改善
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +24,14 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 10 月|
 
 
-## ビジネス バリュー
+## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-顧客との会話は営業サイクルの重要な部分であり、販売と収益の創出に直接寄与します。 会話インテリジェンスでは、複数チャンネルでの会話を分析するためのシームレスで自動化されたプロセスが提供され、品質の継続的な監視と改善が保証されます。
+顧客との会話は営業サイクルの重要な部分であり、販売と収益の創出に直接寄与します。 会話インテリジェンスでは、複数チャネルでの会話を分析するためのシームレスで自動化されたプロセスが提供され、品質の継続的な監視と改善が保証されます。
 <!-- bv end -->
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 - **感情とブランドの検出**: 感情検出の新しい AI モデルでは、通話中の顧客の感情のきめ細かい理解が提供されます。 ブランド検出は、顧客がセールス コールで話している新製品やブランドを見つけるのに役立ちます。
 
@@ -35,7 +41,7 @@ dynamics365pdf: true
 
 - **販売担当者の行動の分析:** トップ販売担当者の行動の分析により、マネージャーは売上向上につながる共通パターンを理解できます。 
 
-- **クロスチャンネルおよび営業の KPI**: チーム全体で営業の獲得/失注につながる貴重な情報が標準で強調されます。
+- **クロスチャネルおよび営業の KPI**: チーム全体で営業の獲得/失注につながる貴重な情報が標準で強調されます。
  
 - **会話レビュー:** 会話の詳細なビューにより、有効な領域と失敗した領域が示され、販売担当者のコーチングの効果があるブランドの言及とギャップが強調して示されます。 
 

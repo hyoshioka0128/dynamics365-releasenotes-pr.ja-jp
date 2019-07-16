@@ -1,16 +1,21 @@
 ---
 title: Dynamics 365 for Marketing の新機能と予定されている機能 (2019 年リリース ウェーブ 2)
 description: Dynamics 365 for Marketing で計画されている機能の概要。
-author: relnotes
+author: ''
 ms.reviewer: kamaybac
-ms.date: 05/29/2019
+ms.date: 06/18/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: mkostal
 dynamics365pdf: true
+ms.openlocfilehash: e0e507c211cb336c274649efacc9a9425343b4d3
+ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1693805"
 ---
-
-# Dynamics 365 for Marketing の新機能と予定されている機能
+# <a name="whats-new-and-planned-for-dynamics-365-for-marketing"></a>Dynamics 365 for Marketing の新機能と予定されている機能
 
 このトピックでは、2019 年 10 月から 2020 年 3 月までのリリースで予定されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
@@ -22,10 +27,10 @@ dynamics365pdf: true
 | [Customer Insights の統合](customer-insights-integration.md) | エンド ユーザー、自動的|| 2019 年 10 月| はい |
 | [サブスクリプション リストの簡単な設定](easy-setup-subscription-lists.md) | エンド ユーザー、自動的|| 2019 年 10 月| はい |
 | [メールの A/B テスト](email-ab-testing.md) | エンド ユーザー、自動的|| 2019 年 10 月| はい |
-| [Layout エディター](layout-editor.md) | エンド ユーザー、自動的|| 2019 年 10 月| はい |
+| [レイアウト エディター](layout-editor.md) | エンド ユーザー、自動的|| 2019 年 10 月| はい |
 | [Microsoft Flow を使用した承認のサポート](support-approvals-using.md) | エンド ユーザー、自動的|| 2019 年 10 月| はい |
 | [Microsoft Forms Pro を使用した調査のサポート](support-surveys-using-forms-pro.md) | エンド ユーザー、自動的|| 2019 年 10 月| はい |
- | [クイック送信](quick-send.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト |   | 2019 年 12 月 | いいえ |
+| [クイック送信](quick-send.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 12 月| いいえ |
 
 \* エンド ユーザーに影響するすべての必須の変更など、一部の機能は 2019 年 8 月 2 日に早期アクセスの一部としてオプトインできるようになります。 [早期アクセス](https://aka.ms/EarlyAccessFeatures)の詳細を確認してください。
 

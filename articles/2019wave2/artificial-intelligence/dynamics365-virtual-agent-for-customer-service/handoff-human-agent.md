@@ -1,16 +1,22 @@
 ---
 title: 人間のエージェントへの引き継ぎ
 description: ボットから人のエージェントに顧客の会話を適切に引き渡します。
-author: relnotes
+author: ''
 ms.reviewer: shellyhaverkamp
-ms.date: 05/14/2019
+ms.date: 06/13/2019
 ms.assetid: cc096b69-725d-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
+ms.openlocfilehash: ab336740c4efdfe8b34641cfcf3f518af350050c
+ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1693992"
 ---
-# 人間のエージェントへの引き継ぎ
+# <a name="handoff-to-a-human-agent"></a>人間のエージェントへの引き継ぎ
 
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 

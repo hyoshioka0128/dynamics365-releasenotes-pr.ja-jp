@@ -1,16 +1,22 @@
 ---
 title: 分析レポートをカスタマイズおよび拡張する
 description: 分析レポートをカスタマイズおよび拡張する
-author: relnotes
+author: ''
 ms.reviewer: anbichse
-ms.date: 05/29/2019
+ms.date: 06/11/2019
 ms.assetid: 1a63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: yukom
 dynamics365pdf: true
+ms.openlocfilehash: 0018ea2265677097f0c4cb6fb54e6f5f4efa7d85
+ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "1689872"
 ---
-# 分析レポートをカスタマイズおよび拡張する
+# <a name="customize-and-extend-analytics-reports"></a>分析レポートをカスタマイズおよび拡張する
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +28,7 @@ dynamics365pdf: true
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 Attract の既定のレポートは、採用チームに採用プロセスに関する貴重な分析情報を提供しますが、採用はすべての会社、部門、チームに固有です。 Attract を使用すると、ほとんど手間をかけずにこれらのレポートを適応させ、組織固有のニーズに合わせて調整できます。 この機能により、採用チームは Dynamics 365 for Talent パートナーと協力して次のことを行うことができます。
 
