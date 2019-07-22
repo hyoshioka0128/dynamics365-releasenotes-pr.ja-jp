@@ -1,16 +1,21 @@
 ---
 title: Dynamics 365 Sales Insights の新機能と予定されている機能 (2019 年リリース ウェーブ 2)
 description: Dynamics 365 Sales Insights で計画されている機能の概要。
-author: relnotes
+author: ''
 ms.reviewer: shujoshi
-ms.date: 05/29/2019
+ms.date: 06/18/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: akatz
 dynamics365pdf: true
+ms.openlocfilehash: a84f2f25363640a74652050c3dc9b9bec163d7e5
+ms.sourcegitcommit: 0c53eb8711a7594ec968a8d531a78b6ab5b98bf6
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "1725339"
 ---
-
-# Dynamics 365 Sales Insights の新機能と予定されている機能
+# <a name="whats-new-and-planned-for-dynamics-365-sales-insights"></a>Dynamics 365 Sales Insights の新機能と予定されている機能
 
 このトピックでは、2019 年 10 月から 2020 年 3 月までのリリースで予定されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
@@ -18,10 +23,10 @@ dynamics365pdf: true
 
 | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- |---------------- | --------------- |-------------- |
-| [より多くの顧客とのコミュニケーションを取り込む](capture-more-customer-communications.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト |  2019 年 10 月 |  |  
 | [組織のニーズに合わせてスコアリングをカスタマイズする](customize-scoring-adapt-organizational-needs.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| |  
 | [いっそうパーソナライズされたガイド付きアシスタンス](more-personalized-assistant-sellers.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| |  
-| [つながり検索のプライバシー管理の強化](better-privacy-controls-‘who-knows-whom’.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 10 月|  
+| [より多くの顧客とのコミュニケーションを取り込む](capture-more-customer-communications.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 12 月| |  
+| [つながり検索のプライバシー管理の強化](better-privacy-controls-who-knows-whom.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 10 月|  
 | [会話インテリジェンスでの販売担当者コーチングの改善](improve-seller-coaching-conversation-intelligence.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 10 月|  
 | [Assistant Studio での次善のアクションによる販売担当者のガイド](guide-sellers-next-best-actions-through-assistant-studio.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 4 月 1 日| 2019 年 10 月|  
 

@@ -1,16 +1,22 @@
 ---
 title: 東ヨーロッパ向けコール センターのローカライズ
 description: 東ヨーロッパ向けコール センターのローカライズ
-author: relnotes
+author: ''
 ms.reviewer: josaw
-ms.date: 05/29/2019
+ms.date: 06/18/2019
 ms.assetid: 9e63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: epopov
 dynamics365pdf: true
+ms.openlocfilehash: 8690defc04ba71e26767c233f2f8663febe76c31
+ms.sourcegitcommit: 5d671d2ca10a8dc527381dac6e887cbb63aa5114
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "1703404"
 ---
-# 東ヨーロッパ向けコール センターのローカライズ
+# <a name="call-center-localization-for-eastern-europe"></a>東ヨーロッパ向けコール センターのローカライズ
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,16 +24,16 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 12 月|
 
 
-## ビジネス バリュー
+## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-この機能により、チェコ共和国、エストニア、ハンガリー、ラトビア、リトアニア、ポーランドで営業しているお客様は、Dynamics 365 for Retail を使用して、これらの国でのコール センター業務を自動化することができます。
+この機能により、チェコ共和国、エストニア、ハンガリー、ラトビア、リトアニア、ポーランドで営業しているお客様は、Dynamics 365 for Retail を使用して、これらの国または地域でのコール センター業務を自動化することができます。
 <!-- bv end -->
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
- 東ヨーロッパのコール センターのローカライズには、チェコ共和国、エストニア、ハンガリー、ラトビア、リトアニア、ポーランドのローカル要件に従った小額現金支払いと前払のサポートが含まれています。 
+東ヨーロッパのコール センターのローカライズには、チェコ共和国、エストニア、ハンガリー、ラトビア、リトアニア、ポーランドのローカル要件に従った小額現金支払いと前払のサポートが含まれています。
 <!--feature detail end -->
 
 

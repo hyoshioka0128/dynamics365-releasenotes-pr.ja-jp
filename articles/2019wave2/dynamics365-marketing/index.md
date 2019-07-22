@@ -3,15 +3,20 @@ title: Dynamics 365 for Marketing 2019 年リリース ウェーブ 2 の概要
 description: Dynamics 365 for Marketing 2019 年リリース ウェーブ 2 の概要
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 05/14/2019
+ms.date: 06/13/2019
 ms.assetid: 78f1f7cb-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
+ms.openlocfilehash: c0e95e06fb5733a8efd5a5186eb85c1117780917
+ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1693893"
 ---
-
-# Dynamics 365 for Marketing 2019 年リリース ウェーブ 2 の概要
+# <a name="overview-of-dynamics-365-for-marketing-2019-release-wave-2"></a>Dynamics 365 for Marketing 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
 
 Dynamics 365 for Marketing は、より多くの見込顧客を取引関係に変換するのに役立つマーケティング自動化アプリケーションです。 2018 年 4 月の発売以来、Dynamics 365 for Marketing は、営業とマーケティングの足並みを揃え、よりスマートな意思決定を行い、柔軟なプラットフォームで成長しようとしている組織による採用が増えています。 このアプリは、基本的な電子メール マーケティングの範囲を超えて、詳細な分析情報を提供し、営業チームのために有望なリードを生成します。 そのグラフィカルなコンテンツ作成およびデザイン ツールは、視覚的に充実した電子メール、ランディング ページ、そして顧客体験のデザインと実行を容易にします。

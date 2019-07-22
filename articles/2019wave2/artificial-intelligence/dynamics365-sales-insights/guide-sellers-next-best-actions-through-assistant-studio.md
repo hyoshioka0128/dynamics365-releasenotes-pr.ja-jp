@@ -1,16 +1,22 @@
 ---
 title: Assistant Studio での次善のアクションによる販売担当者のガイド
 description: 販売担当者は、リレーションシップ アシスタントを使用して次善のアクションを見つけることができます。 Assistant Studio を使用することで、組織はビジネス ニーズに合わせてこれらのアクションを調整できます。 この機能は、2019 年リリース ウェーブ 2 で一般提供されます。
-author: relnotes
+author: ''
 ms.reviewer: udag
-ms.date: 05/23/2019
+ms.date: 06/11/2019
 ms.assetid: c463278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mney
 dynamics365pdf: true
+ms.openlocfilehash: 3b01a302a88ce78da7cc6b426bee71822bea6474
+ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "1688115"
 ---
-# Assistant Studio での次善のアクションによる販売担当者のガイド
+# <a name="guide-sellers-with-next-best-actions-through-the-assistant-studio"></a>Assistant Studio での次善のアクションによる販売担当者のガイド
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,17 +24,26 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 4 月 1 日| 2019 年 10 月|
 
 
-## ビジネス バリュー
+## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
 次善のアクションを最適化する分析情報は、販売効果を最大化し、生産性を向上させるのに役立ちます。 2019 年 4 月に、組織が販売担当者向けのカスタム分析情報を作成するための新しい機能を導入しました。 これらの分析情報は、組織がよりターゲットを絞った行動提案で販売担当者を助けることを可能にします。 組織は、イベントや条件を使用してこれらの提案が作成される状況をカスタマイズします。適切なタイミングで情報を販売担当者のワークフローに柔軟にプッシュでき、最終的により迅速な取引の成立に役立ちます。
 <!-- bv end -->
 
 
-## 機能の詳細
+
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 - **次善のアクション カードの作成**: Microsoft Flow とアシスタントを使用して、組織は Dynamics 365 for Sales 用の新しい分析情報カードを作成できます。 分析情報カードは、受信メールやデータベース更新など、Microsoft Flow に登録された 200 以上のサービスからのイベントに基づいて作成できます。
 
 - **対象ロール**: 各アクションに対して対応可能な対象ユーザーを選択することは、"次善のアクション" のレコメンデーションを適切な販売担当者ロールに絞り込むのに役立ちます。
 <!--feature detail end -->
+
+
+
+
+
+
+
+
 
 

@@ -1,16 +1,21 @@
 ---
 title: Dynamics 365 Layout の新機能と予定されている機能 (2019 年リリース ウェーブ 2)
 description: Dynamics 365 Layout で計画されている機能の概要。
-author: relnotes
+author: ''
 ms.reviewer: v-brycho
-ms.date: 05/29/2019
+ms.date: 06/18/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: lorrainb
 dynamics365pdf: true
+ms.openlocfilehash: c190415ade566f74251bf479151be4f988210ce6
+ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "1688346"
 ---
-
-# Dynamics 365 Layout の新機能と予定されている機能
+# <a name="whats-new-and-planned-for-dynamics-365-layout"></a>Dynamics 365 Layout の新機能と予定されている機能
 
 このトピックでは、2019 年 10 月から 2020 年 3 月までのリリースで予定されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 

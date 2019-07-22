@@ -3,14 +3,20 @@ title: Microsoft Flow を使用した承認のサポート
 description: Microsoft Flow を使用した承認のサポート
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 05/29/2019
+ms.date: 06/11/2019
 ms.assetid: c661278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
+ms.openlocfilehash: 77da06bb6a71ebf235b574d4afd1f11a3a182e88
+ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1693761"
 ---
-# Microsoft Flow を使用した承認のサポート
+# <a name="support-approvals-using-microsoft-flow"></a>Microsoft Flow を使用した承認のサポート
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -22,7 +28,7 @@ dynamics365pdf: true
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 Dynamics 365 for Marketing では、カスタマイズ可能な承認ワークフローがサポートされるようになり、新しいマーケティング資料やキャンペーンが有効になる前に適切に承認されます。 
 

@@ -3,14 +3,20 @@ title: Microsoft Forms Pro を使用した調査のサポート
 description: Microsoft Forms Pro を使用した調査のサポート
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 05/29/2019
+ms.date: 06/11/2019
 ms.assetid: be61278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
+ms.openlocfilehash: 5bede9cd5d5d3563e80baf91925baa3090b605af
+ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1694333"
 ---
-# Microsoft Forms Pro を使用した調査のサポート
+# <a name="support-for-surveys-using-microsoft-forms-pro"></a>Microsoft Forms Pro を使用した調査のサポート
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -22,7 +28,7 @@ dynamics365pdf: true
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 調査を使用してすべてのタッチポイントで顧客のセンチメントと満足度を測定することで、優れた顧客エクスペリエンスを作成します。 調査はまた、顧客からのフィードバックを取得して分析することにより、よりスマートな決定を下すのにも役立ちます。
 

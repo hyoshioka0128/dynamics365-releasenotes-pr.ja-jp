@@ -1,16 +1,22 @@
 ---
 title: ユーザーの生産性の個人用設定の機能強化
 description: ユーザーの生産性の個人用設定の機能強化
-author: relnotes
+author: ''
 ms.reviewer: sericks
-ms.date: 05/29/2019
+ms.date: 06/18/2019
 ms.assetid: ea62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
+ms.openlocfilehash: 4795184e768bfcce75d05666e52191641cc28fe3
+ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "1701480"
 ---
-# ユーザーの生産性: 個人用設定の機能強化
+# <a name="user-productivity-personalization-enhancements"></a>ユーザーの生産性の個人用設定の機能強化
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,9 +28,9 @@ dynamics365pdf: true
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
- 個人用設定の機能に対して継続的な改善と機能強化が行われ、お客様や個々のユーザーは、使いやすさとユーザーの生産性を最大限に高める最適化されたフォーム エクスペリエンスを構築できます。 次に例を示します。 
+個人用設定の機能に対して継続的な改善と機能強化が行われ、お客様や個々のユーザーは、使いやすさとユーザーの生産性を最大限に高める最適化されたフォーム エクスペリエンスを構築できます。 次に例を示します。 
 
 -  フィールドとアクションの並べ替えが簡単になります。 
 -  フィールドやアクションの非表示化、スキップ、ロックの速度が向上します。 

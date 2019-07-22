@@ -2,30 +2,36 @@
 title: ホーム ページでのアクションとナビゲーションのカスタマイズ
 description: アクションやナビゲーション メニューなど、ロール センターでより多くのコンテンツを再編成して、ワークスペースをさらにパーソナライズします。
 author: mikebcMSFT
-ms.reviewer: edupont
-ms.date: 05/29/2019
+ms.reviewer: sgroespe
+ms.date: 07/01/2019
 ms.assetid: 23b6ec94-e46b-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
+ms.openlocfilehash: 59a433540567cedbae1c639c695d276043b8c77a
+ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "1722787"
 ---
-# ホーム ページでのアクションとナビゲーションのカスタマイズ
+# <a name="personalize-actions-and-navigation-on-your-home-page"></a>ホーム ページでのアクションとナビゲーションのカスタマイズ
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、自動的|| 2019 年 10 月|
+|エンド ユーザー、自動的|2019 年 8 月| 2019 年 10 月|
 
 
-## ビジネス バリュー
+## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
 Business Central は、各企業、部門、ユーザーに固有のニーズに簡単に適応できます。 デスクトップ ユーザーには、日常の作業や使用する最も一般的なデータをサポートするようにワークスペースを最適化するための、あらゆる機能が提供されます。
 <!-- bv end -->
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 ナビゲーション メニューのパーソナライズには、次のものがあります。
 

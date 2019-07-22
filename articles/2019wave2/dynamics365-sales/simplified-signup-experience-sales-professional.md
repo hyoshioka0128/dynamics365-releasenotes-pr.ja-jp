@@ -3,14 +3,20 @@ title: Sales Professional のシンプルなサインアップ エクスペリ�
 description: Dynamics 365 for Sales Professional の試用版のサインアップおよび購入エクスペリエンスの簡素化
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 05/29/2019
+ms.date: 06/19/2019
 ms.assetid: d80b5ad3-3c6c-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: bharavar
 dynamics365pdf: true
+ms.openlocfilehash: b5b1c505c0ef8addc3f85c3a51c6dc0eca40b6b0
+ms.sourcegitcommit: 0c53eb8711a7594ec968a8d531a78b6ab5b98bf6
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "1725383"
 ---
-# Sales Professional のシンプルなサインアップ エクスペリエンス
+# <a name="simplified-signup-experience-for-sales-professional"></a>Sales Professional のシンプルなサインアップ エクスペリエンス
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -18,14 +24,14 @@ dynamics365pdf: true
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 10 月|いいえ |
 
 
-## ビジネス バリュー
+## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
 Dynamics 365 for Sales Professional の試用版または有料版にサインアップするためのユーザーの時間と労力が減ります。
 <!-- bv end -->
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 Dynamics 365 for Sales Professional の試用および購入のエクスペリエンスが見直されて、新しいお客様は簡単かつ迅速に Sales Professional アプリケーションにアクセスして作業を開始できます。 アプリは最新で快適に見えるように拡張されており、ユーザーはすぐにその価値を見出すことができます。 
 
@@ -38,6 +44,7 @@ Dynamics 365 for Sales Professional の試用および購入のエクスペリ�
 > - この機能は、Dynamics 365 Sales Professional のみを対象としています。 </br>
 > - この機能のプレビューはありません。
 <!--feature detail end -->
+
 
 > [!NOTE]
 > この機能は、統一インターフェイスでのみ使用できます。

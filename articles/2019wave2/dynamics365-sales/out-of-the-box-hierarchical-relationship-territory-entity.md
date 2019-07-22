@@ -3,14 +3,20 @@ title: 担当地域エンティティですぐに使える階層関係
 description: すぐに使用可能な階層関係を使用して、担当地域の階層構造を表示および探索します。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 05/29/2019
+ms.date: 06/19/2019
 ms.assetid: 840e9f34-497e-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: dandalla
 dynamics365pdf: true
+ms.openlocfilehash: df785b9b93c43e9451a9b761cd8a0878b0fda56e
+ms.sourcegitcommit: 0c53eb8711a7594ec968a8d531a78b6ab5b98bf6
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "1725350"
 ---
-# 担当地域エンティティですぐに使える階層関係
+# <a name="out-of-the-box-hierarchical-relationship-on-the-territory-entity"></a>担当地域エンティティですぐに使える階層関係
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
@@ -18,14 +24,14 @@ dynamics365pdf: true
 |エンド ユーザー、自動的|| 2019 年 10 月|はい |
 
 
-## ビジネス バリュー
+## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
 組織は、関連する担当地域を階層的に表示することによって、貴重な分析情報を得ることができます。
 <!-- bv end -->
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 階層関係が、担当地域エンティティですぐに使えるようになります。 これにより、組織は販売担当地域を階層形式でモデル化および視覚化できます。
 <!--feature detail end -->

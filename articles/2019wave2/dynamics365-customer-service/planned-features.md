@@ -1,16 +1,21 @@
 ---
 title: Dynamics 365 for Customer Service の新機能と予定されている機能 (2019 年リリース ウェーブ 2)
 description: Dynamics 365 for Customer Service で計画されている機能の概要。
-author: relnotes
+author: ''
 ms.reviewer: anjgup
-ms.date: 05/29/2019
+ms.date: 06/18/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: jeffcom
 dynamics365pdf: true
+ms.openlocfilehash: 270f0a7715d3d1bb225cbc58d6754b455309b2f6
+ms.sourcegitcommit: ee44b28e9799b06d7bb98c91d30c40dd9aadeb75
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "1696970"
 ---
-
-# Dynamics 365 for Customer Service の新機能と予定されている機能
+# <a name="whats-new-and-planned-for-dynamics-365-for-customer-service"></a>Dynamics 365 for Customer Service の新機能と予定されている機能
 
 このトピックでは、2019 年 10 月から 2020 年 3 月までのリリースで予定されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
@@ -18,20 +23,20 @@ dynamics365pdf: true
 
 
 
-## Customer Service
+## <a name="customer-service"></a>Customer Service
 
 Dynamics 365 for Customer Service の目的は、ワールド クラスのカスタマー エクスペリエンスを提供することで、企業が競合他社との差別化を図れるようにすることです。
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |早期アクセス?* |
  | ---------- | ---------- | ---------- |---------- | --------------- |
+| [ナレッジ マネージメントのインライン画像の機能強化](knowledge-management-inline-image-enhancement.md) | 管理者、作成者、またはアナリスト、自動的  |     | 2019 年 10 月| いいえ |
+ | [ナレッジ マネージメントの検索とレンダリングの機能強化](knowledge-management-enhancements.md) | エンド ユーザー、自動的  |  2019 年 8 月   | 2019 年 10 月| いいえ |
  | [タイムラインの使いやすさの機能強化](timeline-usability-enhancements.md) | エンド ユーザー、自動的  |     | 2019 年 10 月| はい |
- | [ナレッジ マネージメントの拡張機能](knowledge-management-enhancements.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |  2019 年 10 月   | 2019 年 12 月| いいえ |
- | [自動レコード作成の機能強化](automatic-record-creation-arc-enhancements.md) |管理者、作成者、またはアナリスト、自動的| 2019 年 8 月 | 2019 年 10 月 | いいえ | 
 
 
-## 顧客サービス用のオムニチャネル
+## <a name="omnichannel-for-customer-service"></a>顧客サービス用のオムニチャネル
 
-顧客サービス向けのオムニチャネルでは、Dynamics 365 for Customer Service の機能を拡張する機能のスイートが提供されます。組織は追加されたチャネル (Dynamics 365 用のチャットや SMS など) を通じて顧客とすばやくやり取りし、エンゲージメントを促進することができます。
+顧客サービス用のオムニチャネルでは、Dynamics 365 for Customer Service の機能を拡張する機能のスイートが提供されます。組織は追加されたチャネル (Dynamics 365 用のチャットや SMS など) を通じて顧客とすばやくやり取りし、エンゲージメントを促進することができます。
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |早期アクセス?* |
  | ---------- | ---------- | ---------- |---------- | --------------- |

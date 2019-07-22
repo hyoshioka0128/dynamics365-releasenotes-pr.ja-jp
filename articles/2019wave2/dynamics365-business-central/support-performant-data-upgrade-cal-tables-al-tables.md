@@ -3,29 +3,35 @@ title: C/AL テーブルから AL テーブルへのパフォーマンス デー
 description: C/AL を AL コード カスタマイズに変換すると、AL アプリケーションの AppId を含むようにデータ テーブルの名前が変更され、変換されたソリューションでデータを使用できることが保証されます。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 05/29/2019
+ms.date: 07/01/2019
 ms.assetid: ced261a0-2177-e911-a960-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: pborring
 dynamics365pdf: true
+ms.openlocfilehash: 59e43c1db5d228481646190d87f82f88f231ef84
+ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "1722699"
 ---
-# C/AL テーブルから AL テーブルへのパフォーマンス データのアップグレードのサポート
+# <a name="support-for-performant-data-upgrade-from-cal-tables-to-al-tables"></a>C/AL テーブルから AL テーブルへのパフォーマンス データのアップグレードのサポート
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
+|管理者、作成者、またはアナリスト、自動的|2019 年 8 月| 2019 年 10 月|
 
 
-## ビジネス バリュー
+## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
 顧客を、オンプレミスの C/AL コードでカスタマイズされたソリューションから AL ベースのソリューションに変換するときは、アップグレード プロセスの一環として、前者から後者にデータが引き継がれる必要があります。
 <!-- bv end -->
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 Business Central ベースのアプリケーションから AL への変換など、C/AL を AL コードのカスタマイズに変換するときは、既存の顧客のデータを "古い C/AL" テーブルから "新しい AL" テーブルに転送することが必要になる場合があります。 これをサポートするため、テーブル名の一部として AL 拡張機能の AppId を追加することによって、テーブルの名前を変更します。  
 

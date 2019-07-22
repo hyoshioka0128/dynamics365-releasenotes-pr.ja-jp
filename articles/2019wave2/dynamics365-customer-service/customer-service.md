@@ -1,16 +1,22 @@
 ---
-title: Customer service
+title: Customer Service
 description: Dynamics 365 for Customer Service の目的は、ワールド クラスのカスタマー エクスペリエンスを提供することで、企業が競合他社との差別化を図れるようにすることです。
-author: relnotes
+author: ''
 ms.reviewer: anjgupta
-ms.date: 05/29/2019
+ms.date: 06/13/2019
 ms.assetid: b2096b69-725d-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: ramakri
 dynamics365pdf: true
+ms.openlocfilehash: 7d591658328635374a1281a54c82d9517311cb85
+ms.sourcegitcommit: ee44b28e9799b06d7bb98c91d30c40dd9aadeb75
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "1696959"
 ---
-# Customer service
+# <a name="customer-service"></a>Customer Service
 
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 

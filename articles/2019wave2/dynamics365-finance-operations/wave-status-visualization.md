@@ -1,16 +1,22 @@
 ---
 title: ウェーブ ステータスのビジュアル化
 description: ウェーブ ステータスのビジュアル化
-author: relnotes
+author: ''
 ms.reviewer: josaw
-ms.date: 05/29/2019
+ms.date: 06/18/2019
 ms.assetid: 6262278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
+ms.openlocfilehash: 5012bf0a7e67dc58f08c2b077150833d52ec0f90
+ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "1701447"
 ---
-# ウェーブ ステータスのビジュアル化
+# <a name="wave-status-visualization"></a>ウェーブ ステータスのビジュアル化
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -18,14 +24,14 @@ dynamics365pdf: true
 |エンド ユーザー、自動的|2019 年 3 月| 2019 年 10 月|
 
 
-## ビジネス バリュー
+## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
  この機能では、ウェーブ処理およびウェーブの現在のステータスにおいて、いっそう多くの情報と可視性が提供されます。 
 <!-- bv end -->
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 この機能では、ウェーブ処理およびウェーブの現在のステータスにおいて、いっそう多くの情報と可視性が提供されます。 これにより、ユーザーはウェーブ処理がどこまで完了したかを把握して、完了するまで待つか、またはアドホックでキャンセルすることができ、キャンセルの前に使用されたリソースの量を把握することができます。 
 

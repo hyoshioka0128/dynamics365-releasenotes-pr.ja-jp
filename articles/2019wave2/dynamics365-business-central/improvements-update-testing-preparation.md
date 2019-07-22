@@ -3,26 +3,32 @@ title: 更新のテストと準備の改善
 description: 更新のテストと準備の改善
 author: relnotes
 ms.reviewer: edupont
-ms.date: 05/29/2019
+ms.date: 07/01/2019
 ms.assetid: b5c1c411-b66d-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: jaredha
 dynamics365pdf: true
+ms.openlocfilehash: e2f9e38e0da3c3ba9ea9b5bfa37d090bed6debdc
+ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "1722941"
 ---
-# 更新のテストと準備の改善
+# <a name="improvements-in-update-testing-and-preparation"></a>更新のテストと準備の改善
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
+|管理者、作成者、またはアナリスト、自動的|2019 年 8 月| 2019 年 10 月|
 
 
 
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 Business Central 環境の更新プロセスをさらに効率化するいくつかの改善があります。 まず、カスタマイズの互換性検証が更新プロセスにいっそう確実に組み込まれます。 新しい更新が入手可能になると、自動検証が実行されて、テナント環境のカスタマイズが新しいバージョンと互換性があることが確認されます。 互換性がないことがツールで検出されると、環境にフラグが付けられ、カスタマイズがベース アプリケーションの新バージョンと互換性があるように更新されるまで、新しいバージョンに更新したり更新をスケジュールしたりできません。 これには、Business Central 管理センターの互換性インジケーター、および更新プロセスを通じて検証について管理者に通知する自動通知が含まれます。
 

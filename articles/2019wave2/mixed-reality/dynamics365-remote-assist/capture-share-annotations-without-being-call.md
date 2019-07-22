@@ -1,16 +1,22 @@
 ---
 title: 通話せずに注釈を取り込んで共有する
 description: 通話せずに注釈を取り込んで共有する
-author: relnotes
+author: ''
 ms.reviewer: v-brycho
-ms.date: 05/21/2019
+ms.date: 06/11/2019
 ms.assetid: 6e64278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: jaarmeni
 dynamics365pdf: true
+ms.openlocfilehash: 29261d9ca2f5c796d7e438b9b8c12a776d62f07b
+ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "1689854"
 ---
-# 通話せずに注釈を取り込んで共有する
+# <a name="capture-and-share-annotations-without-being-in-a-call"></a>通話せずに注釈を取り込んで共有する
 [!include[mixed-reality/dynamics365-remote-assist banner](../includes/mixed-reality/dynamics365-remote-assist.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +28,7 @@ dynamics365pdf: true
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 リモート アシスタンスが必要なシナリオのサポートを求めるフィードバックをお客様からいただきましたが、ネットワークの制限により通話を確立できません。 
 

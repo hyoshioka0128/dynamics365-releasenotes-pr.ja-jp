@@ -1,28 +1,34 @@
 ---
 title: 顧客満足度 (CSAT) ダッシュボード
 description: 顧客満足度 (CSAT) ダッシュボード
-author: relnotes
+author: ''
 ms.reviewer: shellyha
-ms.date: 05/16/2019
+ms.date: 06/11/2019
 ms.assetid: 1264278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
+ms.openlocfilehash: 31c0080e8e618708062b8a0c1a767bb141cc11a0
+ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1693574"
 ---
-# 顧客満足度 (CSAT) ダッシュボード
+# <a name="customer-satisfaction-csat-dashboards"></a>顧客満足度 (CSAT) ダッシュボード
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、自動的|2019 年 7 月| 2019 年 10 月|
+|管理者、作成者、またはアナリスト、自動的|2019 年 7 月| 2019 年 10 月|
 
 
 
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 顧客サービス マネージャーは、顧客満足度に最も影響を与えているトピックと、顧客の問題に対処していないトピックに関心があります。 詳細な顧客満足度ダッシュボードでは、顧客サービス マネージャーは全体的な顧客満足度 (CSAT) スコアと、そのスコアを左右するボットのトピックを確認できます。 
  

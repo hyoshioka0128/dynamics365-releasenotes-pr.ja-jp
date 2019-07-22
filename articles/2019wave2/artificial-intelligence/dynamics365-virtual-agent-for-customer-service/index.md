@@ -1,17 +1,22 @@
 ---
 title: Dynamics 365 Virtual Agent for Customer Service 2019 年リリース ウェーブ 2 の概要
 description: Dynamics 365 Virtual Agent for Customer Service 2019 年リリース ウェーブ 2 の概要
-author: relnotes
+author: ''
 ms.reviewer: shellyha
-ms.date: 05/09/2019
+ms.date: 06/13/2019
 ms.assetid: 85a3fad1-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: emarcher
 dynamics365pdf: true
+ms.openlocfilehash: c7857b0f09f91fbacc0656c12df92de2ae1717a8
+ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1693563"
 ---
-
-# Dynamics 365 Virtual Agent for Customer Service 2019 年リリース ウェーブ 2 の概要
+# <a name="overview-of-dynamics-365-virtual-agent-for-customer-service-2019-release-wave-2"></a>Dynamics 365 Virtual Agent for Customer Service 2019 年リリース ウェーブ 2 の概要
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 
 Dynamics 365 Virtual Agent for Customer Service により、組織は顧客とチャットしてサポート トピックを支援する AI を利用したボットを作成でき、デジタル変革を通じて組織が顧客サービスを向上させるための新しい機会が提供されます。 Virtual Agent for Customer Service によりサポート チームの貴重なサイクルが解放され、人のエージェントはより複雑で戦略的なサポート案件に集中できるようになります。 さらに、ボットは常に利用可能であり、保留時間を必要とせず、顧客がすぐに支援を受けることができるため、顧客満足度を大幅に向上させることができます。

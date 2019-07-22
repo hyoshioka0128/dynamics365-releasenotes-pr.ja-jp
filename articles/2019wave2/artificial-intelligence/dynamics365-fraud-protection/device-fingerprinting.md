@@ -3,14 +3,20 @@ title: デバイス フィンガープリンティング
 description: デバイス フィンガープリンティング
 author: relnotes
 ms.reviewer: v-jegrif
-ms.date: 05/22/2019
+ms.date: 06/19/2019
 ms.assetid: 3a10e4fc-0771-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: v-jowigh
 dynamics365pdf: true
+ms.openlocfilehash: 070c1e42e66dfaf7c0ef6165f51fa01138b25158
+ms.sourcegitcommit: 38a8478625bbe51d90e5b9d2af65933331c1fdb6
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "1718866"
 ---
-# デバイス フィンガープリンティング
+# <a name="device-fingerprinting"></a>デバイス フィンガープリンティング
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -22,7 +28,7 @@ dynamics365pdf: true
 
 
 
-## 機能の詳細
+## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 Dynamics 365 Fraud Protection では、最先端の機械学習と人工知能に基づくデバイスのフィンガープリントが提供されています。 これにより、サービスは保護された業者と関わるデバイスを識別することができます。 デバイスのフィンガープリントは Azure 上で実行されます。 クラウドによるスケーラビリティと信頼性、およびエンタープライズ レベルのセキュリティが提供されます。 市場の類似製品に対する主な利点は、デバイスのフィンガープリントは最新のフィンガープリント回避ツールに対して継続的にテストされていることです。
 <!--feature detail end -->

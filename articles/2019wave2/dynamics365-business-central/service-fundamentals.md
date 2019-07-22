@@ -1,16 +1,22 @@
 ---
 title: サービスの基本
-description: パフォーマンス、信頼性、サポート可能性、およびセキュリティに注目することは、サービス品質をサービス利用の増加に先んじて維持するために不可欠です。 アクセシビリティ機能も改善されています。
+description: パフォーマンス、信頼性、サポート可能性、およびセキュリティに注目することは、サービス品質をサービス利用の増加に先んじて維持するために不可欠です。 アクセシビリティは、既に強い立場にありますが、維持されなければなりません。
 author: relnotes
 ms.reviewer: edupont04
-ms.date: 05/15/2019
+ms.date: 06/13/2019
 ms.assetid: 97714c13-d96c-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: clausba
 dynamics365pdf: true
+ms.openlocfilehash: 681401930bccea8e3226b8924533853ee0958825
+ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "1722743"
 ---
-# サービスの基本
+# <a name="service-fundamentals"></a>サービスの基本
 
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 

@@ -1,16 +1,21 @@
 ---
 title: Dynamics 365 for Project Service Automation の新機能と予定されている機能 (2019 年リリース ウェーブ 2)
 description: Dynamics 365 for Project Service Automation で計画されている機能の概要。
-author: relnotes
+author: ''
 ms.reviewer: kfend
-ms.date: 06/03/2019
+ms.date: 06/18/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: msalam
 dynamics365pdf: true
+ms.openlocfilehash: 6e7ed22af84f2380731d9557dab827fba9ff0798
+ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "1689945"
 ---
-
-# Dynamics 365 for Project Service Automation の新機能と予定されている機能
+# <a name="whats-new-and-planned-for-dynamics-365-for-project-service-automation"></a>Dynamics 365 for Project Service Automation の新機能と予定されている機能
 
 このトピックでは、2019 年 10 月から 2020 年 3 月までのリリースで予定されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
@@ -18,9 +23,9 @@ dynamics365pdf: true
 
 | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- |---------------- | --------------- |-------------- |
- | [包括的なプロジェクト運用](comprehensive-project-operations.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト |   | 2020 年 1 月 |  
- | [プロジェクト ベースの組織向けに Dynamics 365 と Office のオファリングを結合する](joint-dynamics-office-offering-project-based-organizations.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト |  2019 年 12 月 | 2020 年 1 月 |  
- | [Dynamics 365 for Project Service Automation から連携性の強化へのアップグレード](upgrade-dynamics-365-psa-better-together.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト |   | 2020 年 3 月 |  
+| [包括的なプロジェクト運用](comprehensive-project-operations.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2020 年 2 月|  
+| [プロジェクト ベースの組織向けに Dynamics 365 と Office のオファリングを結合する](joint-dynamics-office-offering-project-based-organizations.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2020 年 2 月|  
+| [Dynamics 365 for Project Service Automation から連携性の強化へのアップグレード](upgrade-dynamics-365-psa-better-together.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2020 年 3 月|  
 
 **有効対象**列の値の説明
 
