@@ -1,7 +1,7 @@
 ---
 title: Dynamics 365 Layout 2019 年リリース ウェーブ 2 の概要
 description: Dynamics 365 Layout 2019 年リリース ウェーブ 2 の概要
-author: ''
+author: relnotes
 ms.reviewer: v-brycho
 ms.date: 06/13/2019
 ms.assetid: bfa3fad1-755d-e911-a977-000d3a4e307a
@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: jille
 dynamics365pdf: true
-ms.openlocfilehash: abd80418e782759895dd6a641fc2f3fecade597b
-ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.openlocfilehash: a2d509f17a1aefcce0cb11e929e7622fbdb5ae7a
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "1685871"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854418"
 ---
 # <a name="overview-of-dynamics-365-layout-2019-release-wave-2"></a>Dynamics 365 Layout 2019 年リリース ウェーブ 2 の概要
 [!include[mixed-reality/dynamics365-layout banner](../includes/mixed-reality/dynamics365-layout.md)]

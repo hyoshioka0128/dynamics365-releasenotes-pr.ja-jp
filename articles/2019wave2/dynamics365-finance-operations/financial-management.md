@@ -1,7 +1,7 @@
 ---
 title: 財務管理
 description: 2019 年リリース ウェーブ 2 では、財務における分析情報とデジタル変革およびデータ主導経済の支援に焦点が当てられています。
-author: ''
+author: relnotes
 ms.reviewer: sericks007
 ms.date: 06/17/2019
 ms.assetid: b8096b69-725d-e911-a973-000d3a1c79c5
@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: 36414bbb5b9bb17313b1456fd52611dc135b3365
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 92464e7167855e9e12167d092721a217b3371feb
+ms.sourcegitcommit: 0aab460e7666eea9a76ca4f6620751335ad8cbc5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1702074"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "1775876"
 ---
 # <a name="financial-management"></a>財務管理
 

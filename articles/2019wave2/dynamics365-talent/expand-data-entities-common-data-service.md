@@ -1,20 +1,20 @@
 ---
 title: Common Data Service でデータ エンティティを展開する
 description: Common Data Service でデータ エンティティを展開する
-author: ''
+author: relnotes
 ms.reviewer: anbichse
-ms.date: 06/11/2019
+ms.date: 07/31/2019
 ms.assetid: ea7e7ce6-556c-e911-a95f-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: JCart
 dynamics365pdf: true
-ms.openlocfilehash: fa1a0e4431dee311c2eedb1cc4033dbf05256af9
-ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.openlocfilehash: 4bf8898be2b45f56a365b32572a2814a2924d50b
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "1689862"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1855452"
 ---
 # <a name="expand-data-entities-in-common-data-service"></a>Common Data Service でデータ エンティティを展開する
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
@@ -38,6 +38,7 @@ ms.locfileid: "1689862"
 - 健康と安全
 - コンプライアンス
 <!--feature detail end -->
+
 
 
 

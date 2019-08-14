@@ -1,20 +1,20 @@
 ---
 title: クロスプロジェクト管理
 description: クロスプロジェクト管理
-author: ''
+author: relnotes
 ms.reviewer: sericks
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: 0e63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: meeram
 dynamics365pdf: true
-ms.openlocfilehash: d4e68503ed814434338fb4ec5e6ca64f2330840e
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 65abaa6efdd449a7234af5b9450a642c878d13d3
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1702151"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854187"
 ---
 # <a name="cross-project-management"></a>クロスプロジェクト管理
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -34,6 +34,7 @@ ms.locfileid: "1702151"
 
 パートナー、システム インテグレーター、ISV は、多くの場合、複数の顧客環境を管理します。 現在は、顧客プロジェクトへのアクセス権が付与されている場合に、これらの環境を個別に表示することのみできます。 複数の機能を管理しやすくするために、LCS には新しい顧客間ワークスペースが導入されます。 たとえば、このワークスペースを使用すると、環境モニタリングで使用状況や発生する問題を確認したり、プロジェクト全体の更新を管理したりできます。
 <!--feature detail end -->
+
 
 
 

@@ -1,27 +1,27 @@
 ---
 title: システム主導のクラスター
 description: システム主導のクラスター ピッキングの設定では、システム生成のクラスターに基づいてピッキング作業ヘッダーをクラスター化することができます。
-author: ''
+author: relnotes
 ms.reviewer: josaw
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: 6e62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
-ms.openlocfilehash: adcd2c9994d53823ba0c8bfce81971dcf0f2e184
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 9c31a03fdd32b392b852ec03151f6d57d2bd90e4
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1701469"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854737"
 ---
 # <a name="system-directed-clustering"></a>システム主導のクラスター
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 6 月| 2019 年 10 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 8 月| 2019 年 10 月|
 
 
 
@@ -34,6 +34,7 @@ ms.locfileid: "1701469"
 
 システム手動のクラスター ピッキングには、目的のクラスター プロファイル ID を指定する新しい [指示者] オプションが含まれる新しいモバイル デバイス メニュー項目を使用する必要があります。 作業指示書の割り当ては、システム指示のクエリ順序でカスタマイズされた並べ替え基準を指定することによって、さらに最適化することができます。これにより、会社固有の基準に基づいて注文をグループ化できます。 システム指図のクラスターによるピッキング時に、倉庫作業員には、ピッキング順序がクラスター位置に事前に割り当てられている作成済みのクラスターが自動的に提示されます。 したがって、作業者は、ピッキング場所に 1 回だけアクセスすることで、複数の作業指示書に対する品目のピッキングを開始できます。 この機能のピッキング プロセスは、ユーザー主導のクラスター ピッキングの場合と同じです。
 <!--feature detail end -->
+
 
 
 

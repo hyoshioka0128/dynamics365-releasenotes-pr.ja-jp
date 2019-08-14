@@ -1,23 +1,23 @@
 ---
 title: CW 統合の強化 10.0.4
 description: CW 統合の強化 10.0.4
-author: ''
+author: relnotes
 ms.reviewer: josaw
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: ae62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: perlynne
 dynamics365pdf: true
-ms.openlocfilehash: ca0fbe004de694301a92e3d5b552b466f96e27c8
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 6962e1076c4788739f84a4d9835bc1739e727b52
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1702096"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1855287"
 ---
 # <a name="further-catch-weight-integration-1004"></a>CW 統合の強化 10.0.4
-
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
@@ -40,6 +40,7 @@ ms.locfileid: "1702096"
 
 -    最終的なピッキング プット作業明細行ペアに対する "作業完了" 機能を有効にします。
 <!--feature detail end -->
+
 
 
 

@@ -1,27 +1,27 @@
 ---
 title: cXML による発注書の配信
 description: cXML による発注書の配信
-author: ''
+author: relnotes
 ms.reviewer: josaw
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: 3e62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: lcash
 dynamics365pdf: true
-ms.openlocfilehash: c7332e75122130f87936dc1b99aa61f8fac533e4
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: be2a0423e8c5549d6b74e4f1b82cffd34c1abfc5
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1701656"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1855045"
 ---
 # <a name="purchase-order-delivery-via-cxml"></a>cXML による発注書の配信
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 8 月| 2019 年 10 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 9 月| 2019 年 11 月|
 
 
 
@@ -38,6 +38,7 @@ ms.locfileid: "1701656"
 
 ![発注書の要求](media/purchase-order-delivery-via-cxml-2.png "")
 <!--feature detail end -->
+
 
 
 

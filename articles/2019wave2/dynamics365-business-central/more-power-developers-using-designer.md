@@ -3,18 +3,18 @@ title: デザイナーを使用する開発者のパワー アップ
 description: ロール センターのアクションの調整、ナビゲーション メニューの作成、プロファイルのカスタマイズにより、デザイナーの機能を強化します。
 author: mikebcMSFT
 ms.reviewer: edupont
-ms.date: 07/01/2019
+ms.date: 07/22/2019
 ms.assetid: e5e5ca37-e66b-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 59739ab281642d9da5f2f55c5d3459914b70f0cf
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 78fe8049aa982d389bb4482689b017072a0f64d5
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1722886"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795485"
 ---
 # <a name="more-power-to-developers-using-designer"></a>デザイナーを使用する開発者のパワー アップ
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -39,6 +39,7 @@ Visual Studio Code でのコードの作成は効率的ですが、ページの�
  - 関連リストをメニューに固定してメニューを最初から作成するなど、ナビゲーション メニューの項目とロール センターのグループ化を調整します。
  - 拡張機能で特定のプロファイルにのみ適用されるページの変更を設計することによって、ユーザー プロファイルをカスタマイズします。
 <!--feature detail end -->
+
 
 
 

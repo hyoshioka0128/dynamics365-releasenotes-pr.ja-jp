@@ -3,18 +3,18 @@ title: レポート用の強力なフィルター処理
 description: より多くのフィルター フィールドを追加できるようにするなど、コミュニティのトップ リクエストのいくつかに対処して、レポートのフィルター処理エクスペリエンスを改善しています。
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 07/01/2019
+ms.date: 07/22/2019
 ms.assetid: b863278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 6194f827ef501f5ad7602bffc786ecaf20b3fe0d
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 8a87c3ec7f9388e258c21b24cd8c245008b13011
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1722776"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795353"
 ---
 # <a name="powerful-filtering-for-reports"></a>レポート用の強力なフィルター処理
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -37,6 +37,7 @@ Business Central でレポートを実行するときは、さまざまなオプ
 
 <!--note from editor: If you have "includes" in the sentence, you don't also need "and more". -->
 <!--feature detail end -->
+
 
 
 

@@ -1,20 +1,20 @@
 ---
 title: ユーザーの生産性の新しいグリッド
 description: ユーザーの生産性の新しいグリッド
-author: ''
+author: relnotes
 ms.reviewer: sericks
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: e662278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
-ms.openlocfilehash: f5f72ad9d08be0562ba95fa6433992a0c2f4be56
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 17c6a01f697cc4b00aee5465d1d5dcc02d4345fc
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1701425"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854715"
 ---
 # <a name="user-productivity-new-grid"></a>ユーザーの生産性の新しいグリッド
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -25,7 +25,6 @@ ms.locfileid: "1701425"
 
 
 
-<!--note from editor: In first sentence below, should "October 2019" be "2019 release wave 2"?  -->
 
 
 
@@ -45,6 +44,7 @@ ms.locfileid: "1701425"
 
 - **高速データ入力**: この機能は、グリッド内の別の行に移動する前にユーザーがサーバーによる行の検証を待つ必要性を最小限に抑えながら、ユーザーがグリッドにデータを可能な限りすばやく入力できるようにすることを目的としています。
 <!--feature detail end -->
+
 
 
 

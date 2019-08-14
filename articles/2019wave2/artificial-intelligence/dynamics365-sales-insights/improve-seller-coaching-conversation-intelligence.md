@@ -1,20 +1,20 @@
 ---
 title: 会話インテリジェンスでの販売担当者コーチングの改善
 description: 2019 年 4 月の時点で、営業マネージャーは販売担当者に対してよりスマートなコーチングを提供することができるようになっています。 今後は、会話インテリジェンス機能を販売担当者にも提供します。 また、新しいモデルの追加、NLP ベースのデータ探索の導入、より深い分析情報の提供を行い、それらでの販売データと会話データの統合によって、スマート コーチングも改善します。
-author: ''
+author: relnotes
 ms.reviewer: udag
-ms.date: 06/11/2019
+ms.date: 07/22/2019
 ms.assetid: cc63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: ashpodar
 dynamics365pdf: true
-ms.openlocfilehash: 40daed42b32dfa42a95d37b26c0c17546342ceda
-ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.openlocfilehash: 5fdc76d81fb5126fe64f5376e792f6b095a55c5c
+ms.sourcegitcommit: c1d66f6454e35fb8191632683ff09e1362b8cfcd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "1688093"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "1790385"
 ---
 # <a name="improve-seller-coaching-with-conversation-intelligence"></a>会話インテリジェンスでの販売担当者コーチングの改善
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
@@ -45,8 +45,9 @@ ms.locfileid: "1688093"
  
 - **会話レビュー:** 会話の詳細なビューにより、有効な領域と失敗した領域が示され、販売担当者のコーチングの効果があるブランドの言及とギャップが強調して示されます。 
 
-![Sales coaching journey.png](media/releasenotes0ct19.png "Sales coaching journey.png")
+![営業コーチング体験](media/releasenotes0ct19.png "営業コーチング体験")
 <!--feature detail end -->
+
 
 
 

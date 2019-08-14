@@ -3,18 +3,18 @@ title: C/AL テーブルから AL テーブルへのパフォーマンス デー
 description: C/AL を AL コード カスタマイズに変換すると、AL アプリケーションの AppId を含むようにデータ テーブルの名前が変更され、変換されたソリューションでデータを使用できることが保証されます。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 07/01/2019
+ms.date: 07/22/2019
 ms.assetid: ced261a0-2177-e911-a960-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: pborring
 dynamics365pdf: true
-ms.openlocfilehash: 59e43c1db5d228481646190d87f82f88f231ef84
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 97e6d986bd612ac712a360bd34802064d07b1ce6
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1722699"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795430"
 ---
 # <a name="support-for-performant-data-upgrade-from-cal-tables-to-al-tables"></a>C/AL テーブルから AL テーブルへのパフォーマンス データのアップグレードのサポート
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -37,6 +37,7 @@ Business Central ベースのアプリケーションから AL への変換な�
 
 PowerShell のコマンドレット Sync-NAVApp を使用することで、パートナーは、データベースのオーバーヘッドを最小限に抑えながら、アップグレード コードを記述する必要なく、すべての C/AL テーブルを AL テーブルに変換できます。 コマンド `Sync-NAVApp -Mode BaseAppUpgrade` を使用すると、テナント データベースのテーブルの名前が、AL テーブルの命名規則に準拠するように変更されます。 これは、テナントのテクニカル プラットフォームのアップグレードに対応し、基本アプリケーションのテーブル構造が拡張機能のテーブル構造に移行されます。
 <!--feature detail end -->
+
 
 
 

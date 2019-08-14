@@ -1,7 +1,7 @@
 ---
 title: Supply Chain Management
 description: ''
-author: ''
+author: relnotes
 ms.reviewer: sericks007
 ms.date: 06/17/2019
 ms.assetid: b6096b69-725d-e911-a973-000d3a1c79c5
@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: lcash
 dynamics365pdf: true
-ms.openlocfilehash: ddd44764d91f8478dc465968f34d3b3bb6e9e3f1
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 2947335f128a98399ff199a4aac7700ae9ee7f31
+ms.sourcegitcommit: 4fda5d3d5b445e291dd7eefae4b90d3718712060
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1701513"
+ms.lasthandoff: 07/23/2019
+ms.locfileid: "1782078"
 ---
 # <a name="supply-chain-management"></a>Supply Chain Management
 

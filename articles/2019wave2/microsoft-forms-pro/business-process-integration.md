@@ -1,10 +1,10 @@
 ---
 redirect_url: planned-features
-ms.openlocfilehash: 1d5aeb73ecd99b300fc32a9867d9ba67a8bebf9e
-ms.sourcegitcommit: 3f82863eb87b95859df3b5bd727b8b08f7dbed32
+ms.openlocfilehash: 3d2a58557d2eaa2b9d72b6785e4347f999b799e8
+ms.sourcegitcommit: 6fa74e359a9bc284c369b2fe0625be06d0e479ea
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "1696317"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "1732236"
 ---
 リダイレクト ファイルのみ - コンテンツは含まれていません

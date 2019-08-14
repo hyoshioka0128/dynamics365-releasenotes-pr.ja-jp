@@ -3,18 +3,18 @@ title: Azure Machine Learning で Customer Insights を拡張する
 description: ユーザーを結び付け、統一された Customer Insights データに基づいて Azure Machine Learning モデルを実行できるようにします。 
 author: relnotes
 ms.reviewer: jimholtz
-ms.date: 06/19/2019
+ms.date: 07/31/2019
 ms.assetid: 3664278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: f867ed7c5f02c85869b1d36cf2c878940dc25ab1
-ms.sourcegitcommit: 2e060add192b3a266865b9359307aca104fdee20
+ms.openlocfilehash: 22bcda8d82300476c112db6d4a2e69828aa4deeb
+ms.sourcegitcommit: ff402b48c827ee8174bf3747d1c43e272102ace9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "1718624"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1848057"
 ---
 # <a name="extend-customer-insights-with-azure-machine-learning"></a>Azure Machine Learning で Customer Insights を拡張する
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
@@ -39,6 +39,7 @@ Azure Machine Learning で Customer Insights を拡張する:
 - Azure サブスクリプションへの Customer Insights 統合プロファイルのエクスポートを自動化し、Azure Machine Learning を使用してモデルを実行し、その結果を Customer Insights に取り込みます。   
 - モデル結果をメジャー、セグメント、レポート作成に使用する機能を追加します。
 <!--feature detail end -->
+
 
 
 

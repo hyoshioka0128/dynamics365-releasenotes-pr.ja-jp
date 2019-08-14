@@ -1,23 +1,23 @@
 ---
 title: CW 統合の強化 10.0.2
 description: CW 統合の強化 10.0.2
-author: ''
+author: relnotes
 ms.reviewer: josaw
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: 9462278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: perlynne
 dynamics365pdf: true
-ms.openlocfilehash: 55a2c5af05e8fe6cfa7e5adba8f473e9ff724229
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 7efed859fe4d2915eee8257eae7f0e89030b4340
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1702052"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1855309"
 ---
 # <a name="further-catch-weight-integration-1002"></a>CW 統合の強化 10.0.2
-
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
@@ -54,6 +54,7 @@ ms.locfileid: "1702052"
      
 - CW タグに対するデータ エンティティのサポート: パブリック OData 対応のデータ エンティティを有効にして、CW タグの作成と維持をサポートします。
 <!--feature detail end -->
+
 
 
 

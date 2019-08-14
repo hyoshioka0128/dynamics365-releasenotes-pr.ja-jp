@@ -3,18 +3,18 @@ title: 推奨されるセグメントとメジャー
 description: 特定のビジネス データ、目標、アクションに基づいて、セグメントおよびメジャーに関する状況に応じたレコメンデーションを提供します。
 author: relnotes
 ms.reviewer: jimholtz
-ms.date: 06/19/2019
+ms.date: 07/31/2019
 ms.assetid: 3264278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: b55c62c3d99178d3a1069b61cf0cd8f6fb5ea1f6
-ms.sourcegitcommit: 2e060add192b3a266865b9359307aca104fdee20
+ms.openlocfilehash: ff0f03c4928319db59f8ca5b03c5758b43ad2915
+ms.sourcegitcommit: ff402b48c827ee8174bf3747d1c43e272102ace9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "1718657"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1848047"
 ---
 # <a name="recommended-segments-and-measures"></a>推奨されるセグメントとメジャー
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
@@ -36,6 +36,7 @@ ms.locfileid: "1718657"
 <!--feature detail start -->
 統一顧客プロファイルで見つかるセグメント作成ベースのデータ パターンに対するシステム生成のレコメンデーション。
 <!--feature detail end -->
+
 
 
 

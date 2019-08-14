@@ -2,19 +2,19 @@
 title: コード ドキュメント属性
 description: 作成中にドキュメント属性のインライン コードを作成します。
 author: relnotes
-ms.reviewer: solsen
-ms.date: 07/01/2019
+ms.reviewer: edupont
+ms.date: 07/22/2019
 ms.assetid: 6ad49949-746d-e911-a95f-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: pborring
 dynamics365pdf: true
-ms.openlocfilehash: ba645464428a7f1e27655cec19c1025469dcf221
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 080bb54b753602f82fd1459d7a75663db8e16989
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1722596"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795826"
 ---
 # <a name="code-documentation-attributes"></a>コード ドキュメント属性
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -35,6 +35,7 @@ ms.locfileid: "1722596"
 <!--feature detail start -->
 C# と同様に、XML タグを使用してコードのコメントを入力できます。 これらのコメントは、IntelliSense やヘルプなど、開発者エクスペリエンスのドキュメントとして使用され、カスタム API 用の OpenAPI (Swagger) ドキュメントを生成するために使用することもできます。 
 <!--feature detail end -->
+
 
 
 

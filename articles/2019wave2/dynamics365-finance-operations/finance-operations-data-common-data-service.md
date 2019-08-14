@@ -1,27 +1,27 @@
 ---
-title: Common Data Service での Finance and Operations のデータ
+title: Common Data Service での Finance and Operations のデータ - フェーズ 1
 description: Common Data Service での Finance and Operations のデータ
 author: RamaKrishnamoorthy
 ms.reviewer: sericks
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: fc62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: ramasri
 dynamics365pdf: true
-ms.openlocfilehash: 5eb5d8a10a64938840504e20cd42618506ead8f9
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 0547e383fd114cd39d87881d1c0b193af6ad5e85
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1701876"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854220"
 ---
-# <a name="finance-and-operations-data-in-common-data-service"></a>Common Data Service での Finance and Operations のデータ
+# <a name="finance-and-operations-data-in-common-data-service---phase-1"></a>Common Data Service での Finance and Operations のデータ - フェーズ 1
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 6 月| 近日発表|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 7 月 24 日| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -39,7 +39,7 @@ Microsoft では、二重書き込みのセットアップを特別な設定が�
 
 すべてのビジネスが本質的に固有のものであることがわかっているので、二重書き込みフレームワークを拡張可能にしました。 これには、カスタム エンティティの有効化に加え、Common Data Service と最重要ビジネス データ用の関連ツールをフル活用するための既存のエンティティへの拡張が含まれます。
 
-<!--note from editor: Confirming that the terms "Phase 1 and Phase 2 still work, given the new naming of release "2019 release wave 2".   -->
+
 
 ## <a name="phase-1-release"></a>フェーズ 1 リリース
 フェーズ 1 リリースでは、顧客、仕入先、および製品にマルチマスター機能を提供します。Common Data Service での会社の概念および Dynamics 365 ユーザーのシングルユーザー管理エクスペリエンスも導入されています。 これらの機能は 6 月のパブリック プレビューでリリースされ、10 月には一般提供される予定です。 対象となっているエンティティは次のとおりです。 
@@ -86,3 +86,8 @@ NameAffix
 
 
 
+
+
+## <a name="see-also"></a>関連項目
+
+[プレビュー: Finance and Operations と Common Data Service の統合 - フェーズ 1](https://cloudblogs.microsoft.com/dynamics365/?p=78375&secret=DT7uTp)

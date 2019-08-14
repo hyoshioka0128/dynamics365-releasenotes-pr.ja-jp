@@ -9,16 +9,16 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: ramanasr
 dynamics365pdf: true
-ms.openlocfilehash: 71235c2b8aa2a4ef99e97f6fc461e96cfedb3e9d
-ms.sourcegitcommit: 7ebc77ecf1b392cdb10adbb4ffdf2375f96bfc7f
+ms.openlocfilehash: bf805d1e072e437950cd49ac52adeab7ab732fa8
+ms.sourcegitcommit: 42ab91d666a051d301d2e8849081ce68fd402530
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "1726515"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "1796556"
 ---
 # <a name="dynamics-365-2019-release-wave-2-plan"></a>Dynamics 365: 2019 年リリース ウェーブ 2 の予定 
 
-**[2019 年リリース ウェーブ 2 の PDF のダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2094533)** (2019 年 6 月 26 日最終更新)
+**[2019 年リリース ウェーブ 2 の PDF のダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2094533)** (2019 年 7 月 22 日最終更新)
 
 2019 年リリース ウェーブ 2 のリリース計画 (以前のリリース ノート) では、Dynamics 365 の 2019 年 10 月から 2020 年 3 月までのすべての新機能のリリースについて説明されています。 このリリース ノートは、[オンライン](https://aka.ms/Dynamics365ReleasePlan)で参照することも、[PDF ファイル](https://go.microsoft.com/fwlink/p/?linkid=2094533)のドキュメントとしてダウンロードすることもできます。 
 
@@ -42,7 +42,7 @@ Dynamics 365 アプリケーションの機能強化には、業務プロセス 
 2019 年リリース ウェーブ 2 では、組織が顧客サービス、営業、マーケティング機能の変革を加速するのを助けるために、人工知能機能が強化されます。  
 
 - **Sales Insights** により、チームはより先見の明があるようになり、営業ライフサイクル全体にわたって生産性が向上し、結果が予測されるようになります。 
-- **Customer Service Insights** では、業界最先端の人工知能を使用して、重要なパフォーマンス指標、運用データ、最新トレンドに関するアクション可能なビューが提供されます。   
+- **Customer Service Insights** では、業界最先端の人工知能を使用して、重要なパフォーマンス メトリック、運用データ、最新トレンドに関するアクション可能なビューが提供されます。   
 - **Virtual Agent for Customer Service** により、組織は顧客とチャットする AI を利用したボットを作成でき、デジタル変革を通じて組織が顧客サービスを向上させるための新しい機会が提供されます。  
 - **Customer Insights** では、すべての組織が顧客データを統合して理解し、インテリジェントなインサイトとアクションに利用できます。  
 - **Market Insights** を使用すると、ビジネス ユーザーは、消費者が自分のブランドや製品について話したり、探したり、感じたりしていることに基づいて、アクションにつながる分析情報を収集できます。  

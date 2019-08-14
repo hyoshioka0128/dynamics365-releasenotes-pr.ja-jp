@@ -1,19 +1,19 @@
 ---
 title: Dynamics 365 Market Insights の新機能と予定されている機能 (2019 年リリース ウェーブ 2)
 description: Dynamics 365 Market Insights で計画されている機能の概要。
-author: ''
+author: relnotes
 ms.reviewer: mhart
-ms.date: 07/01/2019
+ms.date: 08/01/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: waltsun
 dynamics365pdf: true
-ms.openlocfilehash: 324ccd05b3979bae79be74ac305826e81f5ecc8d
-ms.sourcegitcommit: b61ae70a7ffcd8c0454e03a5304491b3fd8fd3bd
+ms.openlocfilehash: b1bd735e6f4798df93ca47e962096a25369ac63a
+ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "1723315"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "1855964"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-market-insights"></a>Dynamics 365 Market Insights の新機能と予定されている機能
 
@@ -38,4 +38,5 @@ ms.locfileid: "1723315"
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化** – これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 

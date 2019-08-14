@@ -1,20 +1,20 @@
 ---
 title: 財務に関するインテリジェントな分析情報
 description: 分析情報では、顧客が未払いの残高を支払う時期の見込みが示されます。
-author: ''
-ms.reviewer: sericks
-ms.date: 06/18/2019
+author: relnotes
+ms.reviewer: roschlom
+ms.date: 08/01/2019
 ms.assetid: c862278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: 65544e975e17e923694ab499ce516580bc6252b7
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: be0c23e8e18f98071fb4440d96dfb8fcb45f30a6
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1701777"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1855210"
 ---
 # <a name="intelligent-insights-in-financials"></a>財務に関するインテリジェントな分析情報
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -33,28 +33,7 @@ ms.locfileid: "1701777"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-機能は次のとおりです。
-
-- 予測を実行するための事前予測をバッチで行い、予測データを後で使用するために Dynamics 365 for Finance and Operations に保存します 
-- リスト ページとワークスペースに予測を埋め込みます 
-- 請求書ごとの予測 
-     -  未処理請求書リスト ページ 
-     -  回収の詳細 
-     -  回収ワークスペース 
-     -  顧客トランザクション 
-     -  決済顧客トランザクション 
-     -  顧客請求書ワークスペース 
-     -  顧客支払ワークスペース 
-     -  すべての自由書式の請求書 
-     -  すべての販売注文 
--  顧客ごとの予測 
-     -  すべての顧客 
-     -  保留中の顧客 
-     -  期日が経過した顧客 
-     -  指定の期間に達している残高 
-     -  回収の詳細
-     -  回収ワークスペース 
-     -  すべての販売注文
+組織では、顧客がいつ請求書を支払うかを予測するのが難しいと感じることがよくあります。 この分析情報の欠如は、不正確なキャッシュ フロー予測と非効率的な取立プロセスにつながる可能性があります。 顧客支払に関する分析情報 (プレビュー) では、請求書がいつ支払われるかを機械学習を使用して予測します。 組織はこれらの支払予測を使用して、取立を積極的に行い、キャッシュ フロー予測の精度を向上させることができます。
 <!--feature detail end -->
 
 
@@ -66,3 +45,8 @@ ms.locfileid: "1701777"
 
 
 
+
+
+## <a name="see-also"></a>関連項目
+
+[財務](https://community.dynamics.com/365/financeandoperations/b/financials)

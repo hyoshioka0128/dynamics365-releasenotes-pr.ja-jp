@@ -1,20 +1,20 @@
 ---
 title: ユーザーの生産性フィルター処理の機能強化
 description: ユーザーの生産性フィルター処理の機能強化
-author: ''
+author: relnotes
 ms.reviewer: sericks
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: e862278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
-ms.openlocfilehash: b06c418a017cc3fa98ebc93eb9413885e0a17940
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 5cc0c6d2484c0a39896d63ccdfe8d714fb9102ad
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1701491"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854726"
 ---
 # <a name="user-productivity-filtering-enhancements"></a>ユーザーの生産性フィルター処理の機能強化
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -34,10 +34,11 @@ ms.locfileid: "1701491"
 
 -  フィルター処理するフィールドが見つけやすくなります。
 -  **列挙型**および**日時型**フィールドでのフィルター処理エクスペリエンスを改善します。 
--  パラメーター化されたクエリ用に使いやすいフィルター変数を導入します (例: \@Me、\@Today、\@ThisWeek、\@ThisMonth)。 
+-  パラメーター化されたクエリ用に使いやすいフィルター変数を導入します (例: \@自分、\@今日、\@今週、\@今月)。 
 
 これらの機能は、2020 年 1 月以降の月々のリリースの一部として徐々に利用可能になる予定です。
 <!--feature detail end -->
+
 
 
 

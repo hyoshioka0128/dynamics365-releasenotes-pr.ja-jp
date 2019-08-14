@@ -3,18 +3,18 @@ title: 顧客移行ツールの機能強化
 description: 顧客移行ツールの新機能により、Dynamics 365 Business Central に移行する顧客に対する移行エクスペリエンスが向上します。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 07/01/2019
+ms.date: 07/22/2019
 ms.assetid: e6e5c71c-9475-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: jenolson
 dynamics365pdf: true
-ms.openlocfilehash: f4a904d549ee368cfad2e4867c24b3b9dc339b67
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 69c86fbfdc194c95c036f30ccf38f210167dce83
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1722710"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795771"
 ---
 # <a name="enhancements-for-customer-migration-tools"></a>顧客移行ツールの機能強化
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -26,7 +26,7 @@ ms.locfileid: "1722710"
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-ISV が Business Central でソリューションをオンラインにした後の次のステップは、Dynamics 365 Business Central オンプレミス、Dynamics NAV 2018、Dynamics GP 2018 R2、Dynamics SL 2018 CU1 を使用している既存の Dynamics SMB の顧客の作業を簡素化することです。 
+ISV が Business Central でソリューションをオンラインにした後の次のステップは、Dynamics 365 Business Central オンプレミス、Dynamics NAV 2018、Dynamics GP 2018 R2、Dynamics SL 2018 CU1 を使用している既存の Dynamics SMB の顧客の作業を簡素化することです。
 <!-- bv end -->
 
 
@@ -37,6 +37,7 @@ ISV が Business Central でソリューションをオンラインにした後�
 
 このツールでは現在、ユーザーは Azure Data Factory を使用して SQL Server データベースを Business Central オンラインのテナントに接続し、データを共有することができます。 さらに、2019 年リリース ウェーブ 2 では、移行を完了するために必要な情報のチェックリストが追加されます。
 <!--feature detail end -->
+
 
 
 

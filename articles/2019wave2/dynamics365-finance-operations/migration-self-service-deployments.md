@@ -1,20 +1,20 @@
 ---
 title: セルフサービス配置への移行
 description: セルフサービス配置への移行
-author: ''
+author: relnotes
 ms.reviewer: kfend
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: 81b362b3-fd6d-e911-a95f-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: sarvanis
 dynamics365pdf: true
-ms.openlocfilehash: 63bb20f89ff7cf1154aae3bca5bd8669fe63f448
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 97e940a460b976f4ddea5ca2d7820e4009e05b01
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1701733"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1855144"
 ---
 # <a name="migration-to-self-service-deployments"></a>セルフサービス配置への移行
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -44,6 +44,7 @@ Microsoft は、2018 年秋に新規顧客向けのセルフサービス配置�
 2019 年リリース ウェーブ 2 では、お客様は Microsoft の毎月のサービス更新に対するゼロ ダウンタイム更新フローに追加されます。
 ゼロ ダウンタイムが有効になっているお客様は、更新が行われる更新ウィンドウを構成できます。 対話型ユーザーは、更新中に接続が失われることはありません。 まれに、指定されたウィンドウで更新を完了するためにユーザー セッションを終了する必要がある場合は、ユーザーに作業を保存してブラウザーを更新するよう通知されます。 実行中のバッチ ジョブはすべて、事前構成された更新ウィンドウの間は終了されます。 更新が完了すると、終了されたすべてのバッチ ジョブが再開されます。 更新ウィンドウの間に新しいバッチ ジョブを開始できます。 お客様には、メールおよび LCS の更新履歴を通じて、更新のステータスが通知されます。
 <!--feature detail end -->
+
 
 
 

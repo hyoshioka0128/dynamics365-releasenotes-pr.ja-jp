@@ -1,27 +1,27 @@
 ---
 title: 原産国の機能強化
 description: 原産国の機能強化
-author: ''
+author: relnotes
 ms.reviewer: josaw
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: 5262278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: lcash
 dynamics365pdf: true
-ms.openlocfilehash: 3f5815f958c4dc278ed0e3f0d988920e8235b969
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: add94df9f5050918a049b1d5335b40c153ed90d8
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1701887"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854330"
 ---
 # <a name="country-of-origin-enhancements"></a>原産国の機能強化
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 8 月| 2019 年 10 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 9 月| 2019 年 11 月|
 
 
 
@@ -32,6 +32,7 @@ ms.locfileid: "1701887"
 <!--feature detail start -->
 国境を越えた取引では、企業は移動している製品の原産国に関する情報を含めることが必要なことがよくあります。 Microsoft Dynamics 365 for Finance and Operations には、製品マスター ドキュメント上のフィールドが含まれます。 これらの機能強化は、その既存の機能の上に構築されます。 多くの場合、納入業者は有効期限と証明書番号のある証明書を顧客に提供します。 これらの機能強化により、調達組織はこの情報を文書化することができます。 その後この情報を使用して、出荷書類の事務処理を準備できます。 また、この機能を使用すると、調達組織は証明書の有効期限が切れたときに納入業者をフォローアップすることもできます。 販売組織も、販売する前にこの情報を確認できます。 たとえば、出荷部門で準備する必要がある関税や追加の事務処理のために、特定の国の製品を別の国に出荷するべきではない場合などです。 これらの更新は、組織が貿易コンプライアンス プロセスを構築するのに役立ちます。
 <!--feature detail end -->
+
 
 
 

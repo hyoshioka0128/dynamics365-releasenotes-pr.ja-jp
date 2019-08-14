@@ -3,18 +3,18 @@ title: Microsoft AppSource で利用できる Customer Insights のコンサル�
 description: コンサルティング サービスを Microsoft AppSource で利用できるようになります。
 author: relnotes
 ms.reviewer: jimholtz
-ms.date: 06/19/2019
+ms.date: 07/31/2019
 ms.assetid: 67306843-5972-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: 7d9e813249bfdb692116cfd7e53da2c653d1d793
-ms.sourcegitcommit: 2e060add192b3a266865b9359307aca104fdee20
+ms.openlocfilehash: 9915c1f781bcd4b97399fce68e3dccee000dce12
+ms.sourcegitcommit: ff402b48c827ee8174bf3747d1c43e272102ace9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "1718734"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1847980"
 ---
 # <a name="customer-insights-consulting-services-available-in-microsoft-appsource"></a>Microsoft AppSource で利用できる Customer Insights のコンサルティング サービス
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
@@ -36,6 +36,7 @@ Customer Insights の実装に役立つ Microsoft のパートナーを迅速に
 <!--feature detail start -->
 Microsoft AppSource に、ビジネス ユーザーがパートナーを見つけてすぐに関係を始められるようにするための Dynamics 365 Customer Insights 向けコンサルティング サービス オファーが含まれるようになります。
 <!--feature detail end -->
+
 
 
 

@@ -1,20 +1,20 @@
 ---
 title: 変数の機能
 description: 変数の機能
-author: ''
+author: relnotes
 ms.reviewer: shellyha
-ms.date: 06/11/2019
+ms.date: 07/31/2019
 ms.assetid: 0064278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
-ms.openlocfilehash: 410aa9fd4cc56223d941667ee460772b8bed3055
-ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.openlocfilehash: 40ab2b99aae10e92f5fbdc6ca23813217568e028
+ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1693387"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "1856063"
 ---
 # <a name="variable-capabilities"></a>変数の機能
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
@@ -44,6 +44,7 @@ ms.locfileid: "1693387"
 -  カスタム変数の型と同義語 
 -  システム提供の変数の型
 <!--feature detail end -->
+
 
 
 

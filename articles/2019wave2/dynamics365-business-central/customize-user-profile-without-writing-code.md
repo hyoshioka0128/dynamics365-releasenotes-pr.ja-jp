@@ -3,18 +3,18 @@ title: コードを書かずにユーザー プロファイルをカスタマイ
 description: ブラウザーまたは Windows 10 デスクトップ アプリでユーザー プロファイルを追加およびカスタマイズします。
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 07/01/2019
+ms.date: 07/22/2019
 ms.assetid: 846c8f04-e86b-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 44e1f8798571d9c54a39e4ecd80a1e23b057bd1a
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: a2798c508fae179962d5077a50360013fc793499
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1723003"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795804"
 ---
 # <a name="customize-a-user-profile-without-writing-code"></a>コードを書かずにユーザー プロファイルをカスタマイズする
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -41,6 +41,7 @@ Business Central は、企業、部門、ユーザーに固有のニーズに簡
 
 ユーザー プロファイルのカスタマイズでは、オブジェクトやデータへのアクセスはセキュリティで保護されません。 管理者は、関連するユーザー グループまたはアクセス許可セットを依然として適用する必要があります。
 <!--feature detail end -->
+
 
 
 

@@ -1,27 +1,27 @@
 ---
 title: ウェーブ ステップ コード
 description: この機能では、AWAX 機能と標準の WHS 機能が統合されます。 ウェーブ ステップ コードを使用すると、ユーザーは、特定のウェーブ メソッド インスタンスを対応するテンプレートにリンクするために使用されるコードを設定できます。
-author: ''
+author: relnotes
 ms.reviewer: josaw
-ms.date: 06/18/2019
+ms.date: 08/01/2019
 ms.assetid: 8862278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: henrikan
 dynamics365pdf: true
-ms.openlocfilehash: 2cfbce714cdd391a246f865221c5baf714fed269
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 053149a767a59d3549b6121b76d8fed5dc5a67e6
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1702239"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854642"
 ---
 # <a name="wave-step-code"></a>ウェーブ ステップ コード
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 6 月| 2019 年 10 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 8 月| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,3 +47,8 @@ ms.locfileid: "1702239"
 
 
 
+
+
+## <a name="see-also"></a>関連項目
+
+[ウェーブ ステップ コード](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/dynamics365-finance-operations/wave-step-code)

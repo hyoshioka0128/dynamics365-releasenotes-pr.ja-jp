@@ -1,19 +1,19 @@
 ---
 title: 'Dynamics 365 Customer Service Insights の新機能と予定されている機能 (2019 年リリース ウェーブ 2) '
 description: Dynamics 365 Customer Service Insights に対して計画されている機能の概要。
-author: ''
+author: relnotes
 ms.reviewer: shellyha
-ms.date: 06/18/2019
+ms.date: 08/01/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: fweigel
 dynamics365pdf: true
-ms.openlocfilehash: 64242ad4df2f65e9fea421495f7ebaeea64517a6
-ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.openlocfilehash: 5d446c9bc274fd4f73aadc597b36d8baa4296abb
+ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1693211"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "1855821"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-customer-service-insights"></a>Dynamics 365 Customer Service Insights の新機能と予定されている機能
 
@@ -39,4 +39,5 @@ ms.locfileid: "1693211"
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化** – これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 

@@ -1,19 +1,19 @@
 ---
 title: Microsoft Forms Pro の新機能と予定されている機能 (2019 年リリース ウェーブ 2)
 description: Microsoft Forms Pro で計画されている機能の概要。
-author: ''
+author: relnotes
 ms.reviewer: shjais
-ms.date: 06/18/2019
+ms.date: 07/25/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: akatz
 dynamics365pdf: true
-ms.openlocfilehash: 4b0f7ddc4b983be881e62d7893ba24887f53097d
-ms.sourcegitcommit: 3f82863eb87b95859df3b5bd727b8b08f7dbed32
+ms.openlocfilehash: 8f64504d9a349842d0cc346f6057fedd7f220b52
+ms.sourcegitcommit: 4e5c18a534fd5b7aaddfe01f66edb1d0b466497b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "1696372"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1793158"
 ---
 # <a name="whats-new-and-planned-for-microsoft-forms-pro"></a>Microsoft Forms Pro の新機能と予定されている機能
 
@@ -25,7 +25,7 @@ ms.locfileid: "1696372"
 
 ## <a name="survey-distribution"></a>調査の配布
 
-拡張配布により、調査所有者はより多くの回答を得られます。
+調査所有者がより多くの回答を得られる拡張配布。
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | ---------- |---------- |
@@ -48,4 +48,5 @@ ms.locfileid: "1696372"
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化** – これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 

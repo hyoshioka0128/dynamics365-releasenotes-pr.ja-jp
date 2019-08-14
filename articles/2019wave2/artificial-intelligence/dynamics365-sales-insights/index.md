@@ -1,7 +1,7 @@
 ---
 title: Dynamics 365 Sales Insights の 2019 年リリース ウェーブ 2 の概要
-description: Dynamics 365 Sales Insights の 2019 年リリース ウェーブ 2 の概要
-author: ''
+description: ''
+author: relnotes
 ms.reviewer: shujoshi
 ms.date: 06/13/2019
 ms.assetid: 7aa3fad1-755d-e911-a977-000d3a4e307a
@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: a65eec8d04d3c23f8e33ea010095c9f757e512be
-ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.openlocfilehash: 9000af3f90b3fcb1b34cdfe416d1e26e05760602
+ms.sourcegitcommit: 59f5bc1ad5c9bbbfbeff6608476b60c0b2da58c0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "1688060"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "1736155"
 ---
 # <a name="overview-of-dynamics-365-sales-insights-2019-release-wave-2"></a>Dynamics 365 Sales Insights の 2019 年リリース ウェーブ 2 の概要
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]

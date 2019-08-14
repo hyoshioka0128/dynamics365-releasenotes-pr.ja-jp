@@ -1,7 +1,7 @@
 ---
 title: Dynamics 365 for Field Service 2019 年リリース ウェーブ 2 の概要
 description: Dynamics 365 for Field Service 2019 年リリース ウェーブ 2 の概要
-author: ''
+author: relnotes
 ms.reviewer: krbjoran
 ms.date: 06/13/2019
 ms.assetid: bba2fad1-755d-e911-a977-000d3a4e307a
@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: kyley
 dynamics365pdf: true
-ms.openlocfilehash: 8fe687b8d51a70af7b8af7ecaebde0de8554ef30
-ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.openlocfilehash: 2e5c026a87e29961388f16f0e41a8a09aca2d85a
+ms.sourcegitcommit: bb19685b0035401c82bc72a388c475135999faba
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "1687125"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "1774491"
 ---
 # <a name="overview-of-dynamics-365-for-field-service-2019-release-wave-2"></a>Dynamics 365 for Field Service 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]

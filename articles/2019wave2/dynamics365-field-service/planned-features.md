@@ -1,19 +1,19 @@
 ---
 title: Dynamics 365 for Field Service の新機能と予定されている機能 (2019 年リリース ウェーブ 2)
 description: Dynamics 365 for Field Service で計画されている機能の概要。
-author: ''
+author: relnotes
 ms.reviewer: krbjoran
-ms.date: 06/18/2019
+ms.date: 08/01/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: jeffcom
 dynamics365pdf: true
-ms.openlocfilehash: 8e428392d5bc78da0d7534dc1dea35349e6fea50
-ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.openlocfilehash: 396c389da08ec7b9c6b75b936894d32a1f451d08
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "1687136"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854165"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-for-field-service"></a>Dynamics 365 for Field Service の新機能と予定されている機能
 
@@ -25,7 +25,7 @@ ms.locfileid: "1687136"
 | ---------- |---------------- | --------------- |-------------- | --------------- |
 | [Mixed Reality Guides for Field Service](mixed-reality-guides-field-service.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 10 月| はい |
 
-\* エンド ユーザーに影響するすべての必須の変更など、一部の機能は 2019 年 8 月 2 日に早期アクセスの一部としてオプトインできるようになります。 [早期アクセス](https://aka.ms/EarlyAccessFeatures)の詳細を確認してください。
+\* エンド ユーザーに影響するすべての必須の変更など、一部の機能は 2019 年 8 月 2 日に早期アクセスの一部としてオプトインできるようになります。 [早期アクセス](https://aka.ms/EarlyAccessFAQ)の詳細を確認してください。
 
 **有効対象**列の値の説明
 
@@ -35,4 +35,7 @@ ms.locfileid: "1687136"
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化** – これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 
+
+地域、データ センター (リージョン)、データ ストレージ、レプリケーションの詳細については、[データの場所のページ](https://www.microsoft.com/trust-center/privacy/data-location)で**すべて展開**をクリックして、この機能に対する Microsoft Cloud Service を確認してください。 

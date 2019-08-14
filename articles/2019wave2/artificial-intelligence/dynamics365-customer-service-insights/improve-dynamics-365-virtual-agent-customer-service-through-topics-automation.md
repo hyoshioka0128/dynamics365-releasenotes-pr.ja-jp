@@ -1,20 +1,20 @@
 ---
 title: 自動化のトピックを通じた Dynamics 365 Virtual Agent for Customer Service の改善
 description: 自動化のトピックを通じた Dynamics 365 Virtual Agent for Customer Service の改善
-author: ''
+author: relnotes
 ms.reviewer: shellyha
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: e863278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 dynamics365pdf: true
-ms.openlocfilehash: 9c10f9f17476ac3aa08281763d6c54dabbb96b7f
-ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.openlocfilehash: 0b0f90c1b3e1be099c5aa1b0d49b2d7607c80b87
+ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1693496"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "1855832"
 ---
 # <a name="improve-dynamics-365-virtual-agent-for-customer-service-through-topics-for-automation"></a>自動化のトピックを通じた Dynamics 365 Virtual Agent for Customer Service の改善
 [!include[artificial-intelligence/dynamics365-customer-service-insights banner](../includes/artificial-intelligence/dynamics365-customer-service-insights.md)]
@@ -36,6 +36,7 @@ Customer Service Insights では、Virtual Agent for Customer Service を使用�
 -  提案された各トピックの潜在的なビジネスへの影響 (たとえば、顧客満足度 (CSAT) やエージェントの処理時間などへの影響) を分析して提示します。  
 -  統合されたエクスペリエンスで提案されたトピックを選択して仮想エージェントにインポートすることで、すばやく仮想エージェント コンテンツを作成できます。
 <!--feature detail end -->
+
 
 
 

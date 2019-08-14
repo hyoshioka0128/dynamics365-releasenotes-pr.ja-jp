@@ -3,18 +3,18 @@ title: Web アプリで興味のあるトピックに関連するニュースや
 description: フィード内のトピックに関するニュースと分析情報、および特定の分析情報に関連する詳細ビューを表示する新しい Web アプリ。
 author: relnotes
 ms.reviewer: mhart
-ms.date: 07/01/2019
+ms.date: 07/31/2019
 ms.assetid: 101c13b4-2183-e911-a98e-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: victorhe
 dynamics365pdf: true
-ms.openlocfilehash: 21f8f67930c5f239d7d8cff72fc1a66fec835f8f
-ms.sourcegitcommit: b61ae70a7ffcd8c0454e03a5304491b3fd8fd3bd
+ms.openlocfilehash: 77c2c9b1243be7c9b5e408746bbb1749dcc9d7f3
+ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "1723282"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "1855906"
 ---
 # <a name="access-the-news-and-insights-related-to-topics-of-interest-in-a-web-app"></a>Web アプリで興味のあるトピックに関連するニュースや分析情報にアクセスする
 [!include[artificial-intelligence/dynamics365-market-insights banner](../includes/artificial-intelligence/dynamics365-market-insights.md)]
@@ -35,6 +35,7 @@ ms.locfileid: "1723282"
 <!--feature detail start -->
 関心のあるトピックに関する最新の更新、今後の予定、新たな分析情報をすべて、Insights フィードの 1 か所で見ることができます。  特定の分析情報を選択すると、その分析情報に関連する詳細が表示されます。
 <!--feature detail end -->
+
 
 
 

@@ -1,23 +1,23 @@
 ---
 title: Assistant Studio での次善のアクションによる販売担当者のガイド
 description: 販売担当者は、リレーションシップ アシスタントを使用して次善のアクションを見つけることができます。 Assistant Studio を使用することで、組織はビジネス ニーズに合わせてこれらのアクションを調整できます。 この機能は、2019 年リリース ウェーブ 2 で一般提供されます。
-author: ''
+author: relnotes
 ms.reviewer: udag
-ms.date: 06/11/2019
+ms.date: 07/22/2019
 ms.assetid: c463278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mney
 dynamics365pdf: true
-ms.openlocfilehash: 3b01a302a88ce78da7cc6b426bee71822bea6474
-ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.openlocfilehash: 5a88b7c2f7c304768136ae9b2dee9d489da2e92d
+ms.sourcegitcommit: c1d66f6454e35fb8191632683ff09e1362b8cfcd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "1688115"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "1790330"
 ---
 # <a name="guide-sellers-with-next-best-actions-through-the-assistant-studio"></a>Assistant Studio での次善のアクションによる販売担当者のガイド
-
+[!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
@@ -37,6 +37,7 @@ ms.locfileid: "1688115"
 
 - **対象ロール**: 各アクションに対して対応可能な対象ユーザーを選択することは、"次善のアクション" のレコメンデーションを適切な販売担当者ロールに絞り込むのに役立ちます。
 <!--feature detail end -->
+
 
 
 

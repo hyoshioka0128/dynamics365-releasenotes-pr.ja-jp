@@ -3,18 +3,18 @@ title: 高速で敏捷なデータ入力
 description: Business Central では、生産性機能、本来のパフォーマンス、および応答性の高いエクスペリエンスの組み合わせにより、リストへのデータの反復入力が大幅に高速化します。
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 07/01/2019
+ms.date: 07/22/2019
 ms.assetid: 609f0f02-0e6c-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: a1e2ece3774744aae0838341ccf9ab1c16481338
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 809dd41df35688c4b2c2ce02401d72c19e3ae287
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1722732"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795419"
 ---
 # <a name="speed-and-agility-of-data-entry"></a>高速で敏捷なデータ入力
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -36,6 +36,7 @@ ms.locfileid: "1722732"
 Business Central では、生産性機能、本来のパフォーマンス、および応答性の高いエクスペリエンスの組み合わせにより、リストへのデータの反復入力が大幅に高速化します。
 <!--note from editor: There are no details here. If you cannot add them now, please do so after June 10. -->
 <!--feature detail end -->
+
 
 
 

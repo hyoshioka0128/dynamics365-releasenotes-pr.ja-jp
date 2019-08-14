@@ -1,20 +1,20 @@
 ---
 title: 遅延プット処理
 description: プット プロセスを非同期に設定することができます。 作業明細行の特定のしきい値を超えるとプット処理が遅延されるように、システムをセットアップすることができます。
-author: ''
+author: relnotes
 ms.reviewer: josaw
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: 7862278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: pjacobse
 dynamics365pdf: true
-ms.openlocfilehash: 88a606032304b512603c01cc51a4ed821ab1aa64
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 73c8291d440f8dfa37752f88df1e5ed5848667a4
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1701810"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854308"
 ---
 # <a name="deferred-put-processing"></a>遅延プット処理
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -33,10 +33,10 @@ ms.locfileid: "1701810"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-これは、倉庫作業者の生産性向上に重点を置いたパフォーマンス関連の機能です。 モバイル デバイスが "フリーズ" する原因になる、プット完了のたびのさまざまなインベントリ更新のオンライン処理を行う必要がなく、そのプロセスを非同期的に実行できます。 倉庫作業者は、一定数の更新を必要とするすべての作業のパフォーマンスが向上します。たとえば、10 明細行を選択するプット登録には、関連する場所の 20 の在庫更新と 10 の元伝票明細行の更新が含まれます。 これらの操作はバッチによって自動化され、システムの負荷はよりバランスがとれたものになります。 倉庫作業者はシステムの散発的またはランダムなピーク使用率に依存しなくなります。 この機能は、一部の顧客でテストできるように提供されます。出荷文書のマニフェストと印刷などのさまざまなフォローアップ プロセスへの影響を理解したいと思います。
+これは、倉庫作業者の生産性向上に重点を置いたパフォーマンス関連の機能です。 モバイル デバイスが "フリーズ" する原因になる、プット完了のたびのさまざまなインベントリ更新のオンライン処理を行う必要がなく、そのプロセスを非同期的に実行できます。 倉庫作業者は、一定数の更新を必要とするすべての作業のパフォーマンスが向上します。たとえば、10 明細行を選択するプット登録には、関連する場所の 20 の在庫更新と 10 の元伝票明細行の更新が含まれます。 これらの操作はバッチによって自動化され、システムの負荷はよりバランスがとれたものになります。 倉庫作業者はシステムの散発的またはランダムなピーク使用率に依存しなくなります。 この機能は、一部の顧客でテストできるように提供されます。出荷ドキュメントのマニフェストと印刷などのさまざまなフォローアップ プロセスへの影響を理解したいと思います。
 <!--feature detail end -->
 
-![Work processing policies.png](media/work-processing-policies.png "Work processing policies.png")
+![作業処理ポリシー](media/work-processing-policies.png "作業処理ポリシー")
 <!-- Picture 1 -->
 
 

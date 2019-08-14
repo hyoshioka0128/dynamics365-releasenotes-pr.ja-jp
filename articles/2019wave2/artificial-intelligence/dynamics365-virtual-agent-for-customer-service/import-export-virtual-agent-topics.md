@@ -1,20 +1,20 @@
 ---
 title: 会話トピックのインポートとエクスポート
 description: 会話トピックのインポートとエクスポート
-author: ''
+author: relnotes
 ms.reviewer: shellyha
-ms.date: 06/11/2019
+ms.date: 07/31/2019
 ms.assetid: fe63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
-ms.openlocfilehash: a7a970ccaf542196f6912037660a424b060b53af
-ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.openlocfilehash: 238e68f16b0683a4fefe0dffd7cd23580cb71e2a
+ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1693970"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "1855917"
 ---
 # <a name="import-and-export-of-conversation-topics"></a>会話トピックのインポートとエクスポート
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
@@ -34,6 +34,7 @@ ms.locfileid: "1693970"
  
 会話トピックをインポートおよびエクスポートできると、ボット間でトピックを簡単に再利用および共有でき、ボット コンテンツのコラボレーションと転送が容易になります。
 <!--feature detail end -->
+
 
 
 

@@ -3,18 +3,18 @@ title: 顧客区分を作成するための AI 主導のエクスペリエンス
 description: AI 主導の分析情報で作成されたインテリジェントな区分を提供します。
 author: relnotes
 ms.reviewer: jimholtz
-ms.date: 06/19/2019
+ms.date: 07/31/2019
 ms.assetid: 7d58fbab-5872-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: ea417f37b9b1e7fd261e0aea2cfa313463bc7caf
-ms.sourcegitcommit: 2e060add192b3a266865b9359307aca104fdee20
+ms.openlocfilehash: c7684a5a6d3ea22d48a67bfb49405ab6a58183ff
+ms.sourcegitcommit: ff402b48c827ee8174bf3747d1c43e272102ace9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "1718723"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1847958"
 ---
 # <a name="ai-driven-experience-to-create-customer-segments"></a>顧客区分を作成するための AI 主導のエクスペリエンス
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
@@ -37,6 +37,7 @@ ms.locfileid: "1718723"
 <!--feature detail start -->
 新しい AI 主導のエクスペリエンスは、データ パターンに基づいて区分を作成するためのレコメンデーションを提供します。 例としては、解約する可能性がある顧客や、新しいサービスに関心を持つ可能性の高い顧客が挙げられます。
 <!--feature detail end -->
+
 
 
 

@@ -1,20 +1,20 @@
 ---
 title: フランス語、ドイツ語、およびスペイン語のサポート案件タイトルに基づくサポート トピックの生成
 description: フランス語、ドイツ語、およびスペイン語のサポート案件タイトルに基づくサポート トピックの生成
-author: ''
+author: relnotes
 ms.reviewer: shellyha
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: ec63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 dynamics365pdf: true
-ms.openlocfilehash: fd05a1e29be28e92e96653bcdf8449c18f757ed5
-ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.openlocfilehash: 91e48e87c7cd3d9bc40226a5b06c28d4d50a8748
+ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1693365"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "1855784"
 ---
 # <a name="support-topic-generation-based-on-case-titles-in-french-german-and-spanish"></a>フランス語、ドイツ語、およびスペイン語のサポート案件タイトルに基づくサポート トピックの生成
 [!include[artificial-intelligence/dynamics365-customer-service-insights banner](../includes/artificial-intelligence/dynamics365-customer-service-insights.md)]
@@ -32,6 +32,7 @@ ms.locfileid: "1693365"
 <!--feature detail start -->
 Customer Service Insights は、英語以外の言語でのサポート案件データから AI が生成したトピックをサポートするようになりました。 以前は、英語のみのモデルを使用してサポート案件のタイトルを理解し、類似のサポート案件をトピックに自動的にグループ化していました。 このモデルは他の言語のサポート案件タイトルでも使用できますが、サポート案件タイトルの完全な意味が理解されないため、トピックの正確性と関連性は低下します。 フランス語、ドイツ語、スペイン語を含む特定の言語モデルの追加により、これらの特定の言語でサポート案件を扱う顧客サービス マネージャーは、はるかに正確なトピック生成の恩恵を受けるようになります。 さらに、顧客サービス組織がサポートされる主要言語だけでなく英語のサポート案件タイトルでも顧客にサービスを提供している場合でも、言語固有のモデルが実行され、両方の言語で正確なトピック生成が提供されます。 追加言語のサポートは継続的にサービスに追加されます。
 <!--feature detail end -->
+
 
 
 

@@ -3,18 +3,18 @@ title: 更新のテストと準備の改善
 description: 更新のテストと準備の改善
 author: relnotes
 ms.reviewer: edupont
-ms.date: 07/01/2019
+ms.date: 07/22/2019
 ms.assetid: b5c1c411-b66d-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: jaredha
 dynamics365pdf: true
-ms.openlocfilehash: e2f9e38e0da3c3ba9ea9b5bfa37d090bed6debdc
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 6ab707599b4be72467353df53f52932cb0875c43
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1722941"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795540"
 ---
 # <a name="improvements-in-update-testing-and-preparation"></a>更新のテストと準備の改善
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -34,8 +34,9 @@ Business Central 環境の更新プロセスをさらに効率化するいくつ
 
 2 つ目の重要な機能強化は、環境の更新が失敗したときにテナント管理者に提供されるフィードバックです。 失敗の原因の修正に管理者のアクションが必要な場合の対処可能な情報など、更新の失敗に関する詳細情報が記載されたメールを管理者は受け取ります。
 
-3 つ目の機能強化では、AppSource 拡張機能に対する更新が利用可能かどうかを確認できます。 環境で公開されている AppSource 拡張機能に対する更新が利用可能になると、Business Central の拡張機能管理ページに管理者に対する通知が表示されます。 このオプションは、**拡張機能管理**ページから直接新しい更新を適用するためにも使用できます。
+3 つ目の機能強化では、AppSource 拡張機能に対する更新が利用可能かどうかを確認できます。 環境で公開されている AppSource 拡張機能に対する更新が利用可能になると、Business Central の拡張機能管理ページに管理者に対する通知が表示されます。 このオプションは、**拡張機能管理** ページから直接新しい更新を適用するためにも使用できます。
 <!--feature detail end -->
+
 
 
 

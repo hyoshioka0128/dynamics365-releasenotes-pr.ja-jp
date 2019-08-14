@@ -1,27 +1,27 @@
 ---
 title: QC 入庫ドック チェック
 description: この機能を使用すると、入庫ドック エリアへの入庫時にその場で迅速な品質チェックを実行できます。
-author: ''
+author: relnotes
 ms.reviewer: josaw
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: b462278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
-ms.openlocfilehash: c817f744faa5bdb37203ecad2474a03a2a6c9e2a
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: c28d59f6ce3825981f04ba1df3d7b51242a41c69
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1701612"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1855012"
 ---
 # <a name="qc-inbound-dock-check"></a>QC 入庫ドック チェック
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 6 月| 2020 年 2 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 8 月| 2019 年 10 月|
 
 
 
@@ -32,6 +32,7 @@ ms.locfileid: "1701612"
 <!--feature detail start -->
 この機能を使用すると、入庫ドック エリアへの入庫時にその場で迅速な品質チェックを実行できます。 これらのスポット チェックは、梱包またはその他の容易に認識できる品目の一部が検査されるときに有益です。 在庫を所定の場所にストックする前に、明らかに不良として目に付くものを簡単に確認するのに役立ちます。 この機能では、より高い柔軟性とより速い処理で、既存の品質チェック プロセスに代わる機能が提供されます。 ここで品質指示を作成する必要はなく、代わりにライセンス プレートが最初の検査で却下された後で品質指示を作成します。 入庫時に、作業者は所定の品質チェックを行う必要があり、スキャンした各ライセンス プレートを受け入れるか拒否するかを決定する必要があります。 承認されたライセンス プレートは通常通り保管場所に誘導され、拒否されたライセンス プレートはさらなる検査のために品質チェックの場所に送られます。 既存のプット アウェイ作業は取り消され、新しい "品質チェックでの品質" 作業指示書が作成され、ユーザーは自動的にプット ステップを続行します。 このプロセスを自動化し、スキャンしたすべてのライセンス プレートを直ちに品質チェックの場所に送ることもできます。
 <!--feature detail end -->
+
 
 
 

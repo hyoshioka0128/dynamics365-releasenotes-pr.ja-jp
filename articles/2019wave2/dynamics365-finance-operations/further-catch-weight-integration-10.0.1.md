@@ -1,23 +1,23 @@
 ---
 title: CW 統合の強化 10.0.1
 description: CW 統合の強化 10.0.1
-author: ''
+author: relnotes
 ms.reviewer: josaw
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: 7262278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: perlynne
 dynamics365pdf: true
-ms.openlocfilehash: 4bd1ae10c108617c4c9fc106b8bd6c1be2f3cb26
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 12478914af93828f3fa8c2bb4248c9f47d1f2228
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1701832"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854198"
 ---
 # <a name="further-catch-weight-integration-1001"></a>CW 統合の強化 10.0.1
-
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
@@ -41,6 +41,7 @@ ms.locfileid: "1701832"
 
  -  発注書と積荷入庫の混合ライセンス プレートの受取: CW 品目に対してこのプロセスを有効にします。
 <!--feature detail end -->
+
 
 
 

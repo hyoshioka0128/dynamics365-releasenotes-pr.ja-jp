@@ -3,18 +3,18 @@ title: サーバー接続のタイムアウト期間の延長
 description: サーバーとクライアント間の接続がタイムアウトになるまでの時間がはるかに長くなりました。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 07/01/2019
+ms.date: 07/22/2019
 ms.assetid: a6b94c95-8e96-e911-a962-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: kepontop
 dynamics365pdf: true
-ms.openlocfilehash: 6616d31555fea3b3c50c8cee01dc07c4ccdf26a9
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 740075f134305fce48c96c72a4af38adfcea7ba5
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1723106"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795507"
 ---
 # <a name="longer-timeout-period-for-the-server-connection"></a>サーバー接続のタイムアウト期間の延長
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]

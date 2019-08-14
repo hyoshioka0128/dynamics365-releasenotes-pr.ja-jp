@@ -1,27 +1,27 @@
 ---
 title: 危険物製品情報の管理
 description: 危険物製品情報の管理
-author: ''
+author: relnotes
 ms.reviewer: josaw
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: 4e62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: lcash
 dynamics365pdf: true
-ms.openlocfilehash: 421577da630b5024b266933326ef1f32cf33ef58
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: cd88c374cfed344d51371063dee991d6d39d7e8c
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1702063"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1855276"
 ---
 # <a name="hazardous-materials-product-information-management"></a>危険物製品情報の管理
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 8 月| 2019 年 10 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 9 月| 2019 年 11 月|
 
 
 
@@ -34,6 +34,7 @@ ms.locfileid: "1702063"
 
 ![危険物の設定](media/hazardous-materials-product-information-management-1.png "")
 <!--feature detail end -->
+
 
 
 

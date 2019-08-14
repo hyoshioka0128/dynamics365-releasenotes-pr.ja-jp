@@ -3,18 +3,18 @@ title: データの統一の向上
 description: 追加のコントロールは、プロファイルの統一を微調整するのに役立ちます。
 author: relnotes
 ms.reviewer: jimholtz
-ms.date: 06/19/2019
+ms.date: 07/31/2019
 ms.assetid: f4105f06-5972-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: d0fbebd02c21932fae32b7a7cf16cc73e0c928d2
-ms.sourcegitcommit: 2e060add192b3a266865b9359307aca104fdee20
+ms.openlocfilehash: dc7b40c148799e999bcbf5d0c6c0bca417e5b07a
+ms.sourcegitcommit: ff402b48c827ee8174bf3747d1c43e272102ace9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "1718591"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1848024"
 ---
 # <a name="data-unification-improvements"></a>データの統一の向上
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
@@ -40,6 +40,7 @@ ms.locfileid: "1718591"
 - システムがレコードを照合する方法をより適切に制御するために加重スコアを実装する機能。たとえば、名前と住所に異なる加重スコアを設定できます。
 - 照合結果の向上に役立つ住所を正規化する機能。
 <!--feature detail end -->
+
 
 
 

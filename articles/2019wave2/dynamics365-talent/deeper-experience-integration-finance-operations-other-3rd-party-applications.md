@@ -1,20 +1,20 @@
 ---
 title: Finance and Operations およびサード パーティ アプリケーションとのより深いエクスペリエンス統合
 description: Finance and Operations およびサード パーティ アプリケーションとのより深いエクスペリエンス統合
-author: ''
+author: relnotes
 ms.reviewer: anbichse
-ms.date: 06/11/2019
+ms.date: 07/31/2019
 ms.assetid: 4863278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: JCart
 dynamics365pdf: true
-ms.openlocfilehash: da2844eaee2555d51111db5e8477f204d70ad98b
-ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.openlocfilehash: a2d833be64410efd8e7404936defdf47a8b3daac
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "1686135"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854528"
 ---
 # <a name="deeper-experience-integration-with-finance-and-operations-and-third-party-applications"></a>Finance and Operations およびサード パーティ アプリケーションとのより深いエクスペリエンス統合
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
@@ -37,6 +37,7 @@ ms.locfileid: "1686135"
 - 状況に応じて Finance and Operations の画面を開く (作業者別、職務別など)。 
 - 状況に応じてサード パーティのアプリケーションの画面を開く (作業者別、職務別など)。
 <!--feature detail end -->
+
 
 
 

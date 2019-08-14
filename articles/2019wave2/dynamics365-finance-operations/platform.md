@@ -1,7 +1,7 @@
 ---
 title: プラットフォーム
 description: ''
-author: ''
+author: relnotes
 ms.reviewer: sericks007
 ms.date: 06/13/2019
 ms.assetid: bc096b69-725d-e911-a973-000d3a1c79c5
@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: robadawy
 dynamics365pdf: true
-ms.openlocfilehash: dff0cbc50fff4c07b3d98f7e791a5e27bb9ae62a
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: ac1ea7641509fa5204f702c7d491424aa4b1c400
+ms.sourcegitcommit: 4fda5d3d5b445e291dd7eefae4b90d3718712060
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1701678"
+ms.lasthandoff: 07/23/2019
+ms.locfileid: "1782738"
 ---
 # <a name="platform"></a>プラットフォーム
 
@@ -28,7 +28,7 @@ ms.locfileid: "1701678"
 2019 年リリース ウェーブ 2 では、バッチ ジョブとバッチ キューの管理が大幅に改善され、管理者はビジネス プロセスによってバッチ ジョブに優先順位を付けることができます。 さらに、ドキュメントのレポート作成、ルーティング、および印刷は、より柔軟に構成できるようになり、エンタープライズ シナリオまで拡張できます。
 
 ## <a name="developer-tools"></a>開発者ツール
-実装を評価するための必須の新しいフェーズが、パートナーとシステム インテグレーターのライフサイクルに導入されます。 パートナーは、サンドボックスおよび運用環境における静的分析と実行時分析の両方に基づいた指標を、Lifecycle Services 内から使用できるようになります。 これらの品質ゲートにより、運用環境に悪影響を及ぼす可能性があるカスタム パッケージの展開をブロックできます。 これらの指標は、パートナーの実装間で集約され、パートナー ポータルで利用可能になります。
+実装を評価するための必須の新しいフェーズが、パートナーとシステム インテグレーターのライフサイクルに導入されます。 パートナーは、サンドボックスおよび運用環境における静的分析と実行時分析の両方に基づいたメトリックを、Lifecycle Services 内から使用できるようになります。 これらの品質ゲートにより、運用環境に悪影響を及ぼす可能性があるカスタム パッケージの展開をブロックできます。 これらのメトリックは、パートナーの実装間で集約され、パートナー ポータルで利用可能になります。
 
 多くの大規模な顧客は Lifecycle Services 内に複数のプロジェクトを持っており、プロジェクト間で環境を管理、更新、および監視したいと考えています。 パートナーと ISV にも、顧客全体にわたる集約されたビューが必要です。 Lifecycle Services に新しいクロス プロジェクト ワークスペースが導入され、これらのプロジェクト全体で更新と機能を管理し、正常性を監視します。 これは、集中型 Microsoft Azure ISV ポータルとも統合されます。 開発者ツールは、スタンドアロンのインストール可能コンポーネントとして提供される予定です。
 

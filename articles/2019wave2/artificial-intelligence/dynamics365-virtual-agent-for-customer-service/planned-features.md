@@ -1,19 +1,19 @@
 ---
 title: Dynamics 365 Virtual Agent for Customer Service の新機能と予定されている機能 (2019 年リリース ウェーブ 2)
 description: Dynamics 365 Virtual Agent for Customer Service で計画されている機能の概要。
-author: ''
+author: relnotes
 ms.reviewer: shellyha
-ms.date: 06/18/2019
+ms.date: 08/01/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: fweigel
 dynamics365pdf: true
-ms.openlocfilehash: 2eb36807e1afd64a8e806fb80dc6462982041364
-ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.openlocfilehash: bfa84645c02a6ebbf77f6554537a2b1d96be32a6
+ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1694069"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "1856143"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-virtual-agent-for-customer-service"></a>Dynamics 365 Virtual Agent for Customer Service の新機能と予定されている機能
 
@@ -29,14 +29,14 @@ ms.locfileid: "1694069"
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | ---------- |---------- |
- | [Web チャネルへの展開](deployment-web-channels.md) | 管理者、作成者、またはアナリスト、自動的  |  2019 年 5 月   | 2019 年 10 月|  
+ | [Web チャネルへの展開](deployment-web-channels.md) | 管理者、作成者、またはアナリスト、自動的  |     | 2019 年 10 月|  
+ | [時間の節約](hours-saved.md) | 管理者、作成者、またはアナリスト、自動的  |     | 2019 年 10 月|  
  | [顧客満足度 (CSAT) ダッシュボード](customer-satisfaction-csat-dashboards.md) | 管理者、作成者、またはアナリスト、自動的  |  2019 年 7 月   | 2019 年 10 月|  
- | [時間の節約](hours-saved.md) | 管理者、作成者、またはアナリスト、自動的  |  2019 年 7 月   | 2019 年 10 月|  
 
 
 ## <a name="core-authoring"></a>コア オーサリング
 
-Virtual Agent の会話型エディターを使用して、ダイアログを作成し、変数や同義語を追加し、他のシステムに接続できる Microsoft Flow を組み込みます。
+Virtual Agent のオーサリング キャンバスを使用して、ダイアログを作成し、変数や同義語を追加し、他のシステムに接続できるフローを組み込みます。
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | ---------- |---------- |
@@ -54,9 +54,9 @@ AI および自然言語機能により、システムは複雑なユーザー�
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | ---------- |---------- |
- | [カスタム エンティティによるエンティティ抽出](entity-extraction-custom-entities.md) | 管理者、作成者、またはアナリスト、自動的  |  2019 年 7 月   | 2019 年 10 月|  
- | [システム エンティティによるエンティティ抽出](entity-extraction-system-entities.md) | 管理者、作成者、またはアナリスト、自動的  |  2019 年 7 月   | 2019 年 10 月|  
- | [スロット充足機能](slot-filling.md) | 管理者、作成者、またはアナリスト、自動的  |  2019 年 7 月   | 2019 年 10 月|  
+ | [カスタム エンティティによるエンティティ抽出](entity-extraction-custom-entities.md) | 管理者、作成者、またはアナリスト、自動的  |     | 2019 年 10 月|  
+ | [システム エンティティによるエンティティ抽出](entity-extraction-system-entities.md) | 管理者、作成者、またはアナリスト、自動的  |     | 2019 年 10 月|  
+ | [スロット充足機能](slot-filling.md) | 管理者、作成者、またはアナリスト、自動的  |     | 2019 年 10 月|  
 
 
 ## <a name="handoff-to-a-human-agent"></a>人間のエージェントへの引き継ぎ
@@ -65,9 +65,9 @@ AI および自然言語機能により、システムは複雑なユーザー�
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | ---------- |---------- |
- | [汎用ライブチャット プロバイダーへの引き継ぎ](hand-off-generic-live-chat-provider.md) | 管理者、作成者、またはアナリスト、自動的  |  2019 年 7 月   | 2019 年 10 月|  
- | [チャットへの引き継ぎ](hand-off-omnichannel-engagement-hub.md) | 管理者、作成者、またはアナリスト、自動的  |  2019 年 7 月   | 2019 年 10 月|  
- | [Dynamics 365 Customer Service Insights との統合](integration-dynamics-365-customer-service-insights.md) | 管理者、作成者、またはアナリスト、自動的  |  2019 年 8 月   | 2019 年 10 月|  
+ | [汎用ライブチャット プロバイダーへの引き継ぎ](hand-off-generic-live-chat-provider.md) | 管理者、作成者、またはアナリスト、自動的  |     | 2019 年 10 月|  
+ | [Dynamics 365 顧客サービス用オムニチャネルへの引き継ぎ](hand-off-omnichannel-engagement-hub.md) | 管理者、作成者、またはアナリスト、自動的  |     | 2019 年 10 月|  
+ | [Dynamics 365 Customer Service Insights との統合](integration-dynamics-365-customer-service-insights.md) | 管理者、作成者、またはアナリスト、自動的  |     | 2019 年 10 月|  
 
 **有効対象**列の値の説明
 
@@ -77,4 +77,5 @@ AI および自然言語機能により、システムは複雑なユーザー�
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化** – これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 

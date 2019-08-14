@@ -1,7 +1,7 @@
 ---
 title: Microsoft Forms Pro 2019 年リリース ウェーブ 2 の概要
 description: ''
-author: ''
+author: relnotes
 ms.reviewer: shjais
 ms.date: 06/13/2019
 ms.assetid: 68a3fad1-755d-e911-a977-000d3a4e307a
@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: a59175f70f5b623a45ac60a8a7761b2fb8390304
-ms.sourcegitcommit: 3f82863eb87b95859df3b5bd727b8b08f7dbed32
+ms.openlocfilehash: da862e0057d4bae21d2c54e87beb63acc5b19fb9
+ms.sourcegitcommit: a466db83093a7fcb224b7525d0e0c807397a817b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "1696352"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "1773764"
 ---
 # <a name="overview-of-microsoft-forms-pro-2019-release-wave-2"></a>Microsoft Forms Pro 2019 年リリース ウェーブ 2 の概要
 [!include[microsoft-forms-pro banner](../includes/microsoft-forms-pro.md)]

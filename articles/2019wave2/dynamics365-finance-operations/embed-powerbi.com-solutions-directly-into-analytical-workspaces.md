@@ -1,23 +1,23 @@
 ---
 title: Power BI ソリューションを分析ワークスペースに直接埋め込む
 description: Power BI でホストされている会社のソリューションを、アプリケーション ワークスペースに直接埋め込みます
-author: ''
+author: relnotes
 ms.reviewer: kfend
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: f862278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: tjvass
 dynamics365pdf: true
-ms.openlocfilehash: a1354fd36f20e474507da08b1eb138fbdb67cf4b
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 1651d5ad730505117234f7d2c6cb7b52d2010cb9
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1702107"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854275"
 ---
 # <a name="embed-power-bi-solutions-directly-into-analytical-workspaces"></a>Power BI ソリューションを分析ワークスペースに直接埋め込む
-
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
@@ -47,3 +47,8 @@ Dynamics 365 for Finance and Operations のパワー ユーザーは、Microsoft
 
 
 
+
+
+## <a name="see-also"></a>関連項目
+
+[Power BI ソリューションを分析ワークスペースに直接埋め込む](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/analytics/select-analytical-workspace)

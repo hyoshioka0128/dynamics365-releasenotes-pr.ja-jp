@@ -1,20 +1,20 @@
 ---
 title: いっそうパーソナライズされたガイド付きアシスタンス
 description: アシスタントは営業の各フェーズで実用的な分析情報により販売担当者を支援します。 今後、アシスタントは特定のニーズに基づいて、異なるロールの販売担当者をガイドします。 2019 年リリース ウェーブ 2 では、アシスタントを Microsoft Teams および Sales Insights アプリケーションで使用できるようにすることに焦点が当てられます。
-author: ''
+author: relnotes
 ms.reviewer: udag
-ms.date: 06/11/2019
+ms.date: 07/22/2019
 ms.assetid: c263278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: 4d2cfc1e707fcf01da02c01fbf01d33a16aef205
-ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.openlocfilehash: 4c53ebfcca7e44052d81e6f17a9510c1af92bdcf
+ms.sourcegitcommit: c1d66f6454e35fb8191632683ff09e1362b8cfcd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "1688049"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "1790370"
 ---
 # <a name="more-personalized-and-guided-assistance"></a>いっそうパーソナライズされたガイド付きアシスタンス
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
@@ -49,8 +49,8 @@ ms.locfileid: "1688049"
 <!-- Picture 12 -->
 
 **マネージャー用 Sales Insights でのアシスタント**: アシスタントでは、マネージャーがすぐに注意または行動を必要とする問題を認識するのを助けるため、各販売担当者に関連する分析情報が表示されます。 Dynamics 365 の営業結果およびプロセスと、Office 365 のアクティビティおよびセールス コールを結び付けることにより、アシスタントはすぐに使えるコーチング分析情報をマネージャーと販売担当者にアプリ内で直接表示できます。
-
 <!--feature detail end -->
+
 
 
 

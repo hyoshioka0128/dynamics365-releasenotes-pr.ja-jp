@@ -1,20 +1,20 @@
 ---
 title: 手持在庫サービス
 description: この機能は、手持在庫の情報を専用のサービスを通して利用可能にします。
-author: ''
+author: relnotes
 ms.reviewer: josaw
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: 4c62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: sorenand
 dynamics365pdf: true
-ms.openlocfilehash: 16d3ff9599e2ddb8f3f82879ff76c21a09ad5b70
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: e3a67b51f5acd803bedff04ec54cc6cdd4ea99da
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1702019"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1855199"
 ---
 # <a name="inventory-on-hand-service"></a>手持在庫サービス
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -35,6 +35,7 @@ ms.locfileid: "1702019"
 <!--feature detail start -->
 手持在庫の管理に Dynamics 365 for Finance and Operations を活用している組織は、手持在庫情報によってメリットが得られる他の外部システムを使用している場合があります。 そのようなものとしては、外部販売ソリューションやモバイル ソリューションがありますが、取引相手と手持在庫情報を共有している可能性もあります。 この情報がサービスを介して入手可能であれば、統合作業が簡素化され、Dynamics 365 for Finance and Operations と外部システムのパフォーマンスが向上するものと考えます。
 <!--feature detail end -->
+
 
 
 

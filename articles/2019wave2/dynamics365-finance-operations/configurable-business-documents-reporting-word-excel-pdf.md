@@ -1,33 +1,32 @@
 ---
-title: Word、Excel、PDF で構成可能なビジネス ドキュメント レポート
-description: この機能では、買掛金勘定、売掛金勘定、プロジェクト会計、倉庫および輸送管理の主要ビジネス ドキュメント用の構成可能で優れたデザインの Word、Excel、PDF テンプレートと共に、カスタマイズとルーティングのためのシンプルなビジネス ユーザー エクスペリエンスが提供されます。
+title: Word や Excel で構成可能なビジネス ドキュメント レポート
+description: この機能では、買掛金勘定、売掛金勘定、プロジェクト会計、倉庫および輸送管理の主要ビジネス ドキュメント用の構成可能で優れたデザインの Word および Excel テンプレートと、カスタマイズとルーティングのためのシンプルなビジネス ユーザー エクスペリエンスが提供されます。
+author: relnotes
 ms.reviewer: kfend
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: d662278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: sshvedov
 dynamics365pdf: true
-ms.openlocfilehash: bafc140070691fdc5384cc51d93d8bd4aacd7249
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 3ca9ecc4e46019623479b63b5402e030b1da7197
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1701909"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854055"
 ---
 # <a name="configurable-business-documents-reporting-in-word-and-excel"></a>Word や Excel で構成可能なビジネス ドキュメント レポート
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 10 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 8 月| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-
- 顧客から報告された最大の問題点の 1 つは、印刷可能なビジネス ドキュメントをカスタマイズするためのビジネス ユーザー エクスペリエンスがないことです。 Microsoft Office ベースのテンプレートと PDF テンプレートを使用することで、ビジネス ドキュメントをカスタマイズするための市場で最も一般的なツールで、定義済みのドキュメントを顧客に提供します。 これにより、Microsoft Dynamics 365 for Finance and Operations によってカバーされていない特定の産業や地域用に調整された標準および規制に関するビジネス ドキュメントの市場を創造するための扉も開かれます。
-
+顧客から報告された最大の問題点の 1 つは、印刷可能なビジネス ドキュメントをカスタマイズするためのビジネス ユーザー エクスペリエンスがないことです。 Microsoft Office ベースのテンプレートを使用することで、ビジネス ドキュメントをカスタマイズするための市場で最も一般的なツールで、定義済みのドキュメントを顧客に提供します。 これにより、Microsoft Dynamics 365 for Finance and Operations によってカバーされていない特定の産業や地域用に調整された標準および規制に関するビジネス ドキュメントの市場を創造するための扉も開かれます。
 <!-- bv end -->
 
 
@@ -38,10 +37,13 @@ ms.locfileid: "1701909"
 
 **売掛金勘定** (一般提供 - 2019 年 10 月):
 
+
 - 督促状
 - 顧客勘定明細書
+- 顧客請求書
 - 利子計算書
 - 支払通知
+- 販売前請求書
 - 販売契約書の確認
 - 販売注文確認
 - 販売注文梱包明細票
@@ -102,9 +104,9 @@ ms.locfileid: "1701909"
 - データ モデルの拡張
 - 複雑な式
 - 複雑なルーティング
-- PDF でのレポートのカスタマイズ (高精度レポートを含む)
 - ドキュメント ライフサイクル管理、バージョン管理 (Microsoft および ISV からの新しい構成のベース変更を含む)
 <!--feature detail end -->
+
 
 
 

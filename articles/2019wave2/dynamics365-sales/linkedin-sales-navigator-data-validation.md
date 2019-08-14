@@ -3,18 +3,18 @@ title: LinkedIn Sales Navigator のデータ検証
 description: LinkedIn Sales Navigator 統合は、引き続き 2 つの製品 Microsoft Dynamics 365 for Sales と LinkedIn Sales Navigator の価値を合わせて提供します。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 06/21/2019
+ms.date: 07/22/2019
 ms.assetid: fec074bf-7f7d-e911-a960-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: 7f1b3ef12c0bf0f51b8ee550e3f9e587ed4173a2
-ms.sourcegitcommit: 0c53eb8711a7594ec968a8d531a78b6ab5b98bf6
+ms.openlocfilehash: 8259d0e6e6a8e6185a3fba7f29e176bfa6edabf0
+ms.sourcegitcommit: 0b8be9c5138c1e2b7f46527bd303cae5207cced7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "1725493"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "1791310"
 ---
 # <a name="linkedin-sales-navigator-data-validation"></a>LinkedIn Sales Navigator のデータ検証
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -41,6 +41,7 @@ CRM 同期が有効になっている Microsoft Relationship Sales ユーザー�
 
 > [!NOTE]
 > この機能は、統一インターフェイスでのみ使用できます。
+
 
 
 

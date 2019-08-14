@@ -3,18 +3,18 @@ title: 複数の値によるオプション フィールドのフィルター処
 description: 複数のオプション値でのフィルター処理は、リストやレポートでの強力なフィルター処理機能を補完します。
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 07/01/2019
+ms.date: 07/22/2019
 ms.assetid: 823f20c6-e26b-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: ba35b04cfeabb0ef1cefa6f1ed6604700cbc18d6
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 3a7727daf65918cb2405b6d0e776aed6eaf4c509
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1722622"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795738"
 ---
 # <a name="filtering-option-fields-by-multiple-values"></a>複数の値によるオプション フィールドのフィルター処理
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -35,6 +35,7 @@ ms.locfileid: "1722622"
 <!--feature detail start -->
 オプション フィールドは基本的に定義済みの値を持つ列挙です。 これまで、ユーザーはオプション フィールドでフィルターを設定するときに 1 つの値しか選択できませんでした。 このウェーブでは、ユーザーが複数の値でフィルター処理できるように、新しい複数選択コントロールが導入されました。 これは OR 演算として扱われます。 たとえば、**色**フィールドを赤、緑、または青でフィルター処理できます。 値の複数選択を使用できるのはフィルター処理のときだけであり、レコードでフィールド値を指定するときは使用できません。
 <!--feature detail end -->
+
 
 
 

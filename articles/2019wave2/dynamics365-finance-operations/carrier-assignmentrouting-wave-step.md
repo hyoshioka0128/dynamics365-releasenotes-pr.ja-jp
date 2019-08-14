@@ -1,20 +1,20 @@
 ---
 title: 配送業者割り当て/ルート指定ウェーブ ステップ
 description: AssignCarrierRate ステップが選択されているウェーブ テンプレートを使用して出荷がウェーブ処理されると、システムは関連する販売注文のレート ショップを自動的に行い、最も安いレートを適用します。
-author: ''
+author: relnotes
 ms.reviewer: josaw
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: b862278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
-ms.openlocfilehash: a6219cb0f7f224d0558f63e3ff2efe8a7b76b64a
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 8f31f46b12d4ad9177de1a350c6098904be54966
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1701942"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854001"
 ---
 # <a name="carrier-assignmentrouting-wave-step"></a>配送業者割り当て/ルート指定ウェーブ ステップ
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -32,6 +32,7 @@ ms.locfileid: "1701942"
 <!--feature detail start -->
 一部の流通業者は、注文が倉庫で処理されるときに輸送業者を割り当てる必要がありますが、このプロセスを手動で行うことを望んでいません。 ウェーブ プロセス中に注文を自動的に評価できるようにする新しいウェーブ ステップが導入されました。 AssignCarrierRate ステップが選択されているウェーブ テンプレートを使用して出荷がウェーブ処理されると、システムは関連する販売注文のレート ショップを自動的に行い、最も安いレートを適用します。 注文が評価されると、残りの倉庫処理では割り当てられた配送業者/サービスを考慮して、注文を正しいドック ドアに送ったり、ラベルを印刷したりすることができます。
 <!--feature detail end -->
+
 
 
 

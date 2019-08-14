@@ -1,20 +1,20 @@
 ---
 title: 職務明細書における偏った表現やわかりにくい表現の検出による多様な採用の改善
 description: 職務明細書における偏った表現やわかりにくい表現の検出による多様な採用の改善
-author: ''
+author: relnotes
 ms.reviewer: anbichse
-ms.date: 06/11/2019
+ms.date: 07/31/2019
 ms.assetid: c673fcc4-ba7c-e911-a960-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: yukom
 dynamics365pdf: true
-ms.openlocfilehash: 33e7a5733b3e44cca17537015fd359aa102ad7cd
-ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.openlocfilehash: 09786cc0ca66ff716df2bfc9394bb9468e1ebdb1
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "1689861"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854506"
 ---
 # <a name="improve-diverse-hiring-with-detection-of-bias-and-cryptic-language-in-job-descriptions"></a>職務明細書における偏った表現やわかりにくい表現の検出による多様な採用の改善
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
@@ -36,6 +36,7 @@ Attract は、職務明細書において非包括的である可能性がある
 
 Attract は、オーサリング プロセス中に、職務明細書をインテリジェントに分析し、非包括的な言語を含む可能性のある部分を強調表示することによって、ユーザーを支援します。 Attract のカスタマイズ可能な言語アシスタントを使用すると、多様な応募者プールを引き付けることができます。
 <!--feature detail end -->
+
 
 
 

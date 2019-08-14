@@ -1,20 +1,20 @@
 ---
 title: 分析レポートをカスタマイズおよび拡張する
 description: 分析レポートをカスタマイズおよび拡張する
-author: ''
+author: relnotes
 ms.reviewer: anbichse
-ms.date: 06/11/2019
+ms.date: 07/31/2019
 ms.assetid: 1a63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: yukom
 dynamics365pdf: true
-ms.openlocfilehash: 0018ea2265677097f0c4cb6fb54e6f5f4efa7d85
-ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.openlocfilehash: c8ab944b5a0895b12abc59d43d3ace4b06f377fa
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "1689872"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1855474"
 ---
 # <a name="customize-and-extend-analytics-reports"></a>分析レポートをカスタマイズおよび拡張する
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
@@ -35,6 +35,7 @@ Attract の既定のレポートは、採用チームに採用プロセスに関
 -  既存の Attract レポートを修正します。
 -  Attract データ モデルを活用したカスタム レポートを作成します。
 <!--feature detail end -->
+
 
 
 

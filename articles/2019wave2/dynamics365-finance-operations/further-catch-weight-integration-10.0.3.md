@@ -1,23 +1,23 @@
 ---
 title: CW 統合の強化 10.0.3
 description: CW 統合の強化 10.0.3
-author: ''
+author: relnotes
 ms.reviewer: josaw
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: a662278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: perlynne
 dynamics365pdf: true
-ms.openlocfilehash: 87a79a99cbfd657cd3df3fd7d69d19968f45226b
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 8b1334d2fd5e0f9cf2390262f7ebd0c008761d4c
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1701843"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1855298"
 ---
 # <a name="further-catch-weight-integration-1003"></a>CW 統合の強化 10.0.3
-
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
@@ -46,6 +46,7 @@ ms.locfileid: "1701843"
 
 - CW 製品の在庫状態の変更 (定期): 非 CW タグ製品に対して在庫状態変更プロセスを有効にします。
 <!--feature detail end -->
+
 
 
 

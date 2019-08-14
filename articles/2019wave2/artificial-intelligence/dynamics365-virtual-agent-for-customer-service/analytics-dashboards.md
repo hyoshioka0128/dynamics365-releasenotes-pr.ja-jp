@@ -1,7 +1,7 @@
 ---
 title: 分析ダッシュボード
 description: ボットのパフォーマンスを一目で確認し、どのトピックにさらなる改善が必要かを特定します。
-author: ''
+author: relnotes
 ms.reviewer: shellyhaverkamp
 ms.date: 06/17/2019
 ms.assetid: ca096b69-725d-e911-a973-000d3a1c79c5
@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: emarcher
 dynamics365pdf: true
-ms.openlocfilehash: 04d5a1d2d6eae42fd6cba1adc9d53793ead66a23
-ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.openlocfilehash: db70a9c4de9ea74edce975d349fd53efa6f6cb77
+ms.sourcegitcommit: 59f5bc1ad5c9bbbfbeff6608476b60c0b2da58c0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1693508"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "1736122"
 ---
 # <a name="analytics-dashboards"></a>分析ダッシュボード
 

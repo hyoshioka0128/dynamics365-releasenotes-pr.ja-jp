@@ -1,20 +1,20 @@
 ---
 title: プロジェクトからプロジェクト タイプの依存関係を削除する
 description: ''
-author: ''
+author: relnotes
 ms.reviewer: kfend
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: 8a3df4f6-3686-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: rumant
 dynamics365pdf: true
-ms.openlocfilehash: cd9b77b1d12650b0fabeb72ce3d07df18d7d1bf6
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: ac045a34fb317100ec2698e86073453f3f88ed9a
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1702592"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854952"
 ---
 # <a name="remove-project-type-dependency-from-project"></a>プロジェクトからプロジェクト タイプの依存関係を削除する
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -32,6 +32,7 @@ ms.locfileid: "1702592"
 <!--feature detail start -->
 この機能が有効になっていると、プロジェクトは固定価格、時間/実費払い、原価、時間、内部、または投資のタイプを持たなくなります。 プロジェクト契約品目によってプロジェクトが固定価格と時間/実費払いのどちらであるかが決まり、同じプロジェクトが固定価格コンポーネントと時間/実費払いコンポーネントの両方を持てるようになります。 契約を結んでいないプロジェクトでは原価が追跡されますが、収益は追跡されません。
 <!--feature detail end -->
+
 
 
 

@@ -3,18 +3,18 @@ title: サブスクリプション リストの簡単な設定
 description: サブスクリプション リストの簡単な設定
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 06/11/2019
+ms.date: 07/31/2019
 ms.assetid: b461278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: b2f0fade59cad8bd06d4c2fdef1af6ead5844d4e
-ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.openlocfilehash: 3bc55a35be0de32e4105432d6479f11f411e1c8f
+ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1694377"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "1856026"
 ---
 # <a name="easy-setup-for-subscription-lists"></a>サブスクリプション リストの簡単な設定
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
@@ -36,6 +36,7 @@ ms.locfileid: "1694377"
 -  Dynamics 365 for Marketing から直接サブスクリプション リストの読み取り、作成、編集、削除を行います。
 -  新しい*サブスクリプション リスト* デザイン要素を使用して、サブスクリプション フォームにリストを追加します。
 <!--feature detail end -->
+
 
 
 

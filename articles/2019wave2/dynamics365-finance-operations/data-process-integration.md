@@ -1,7 +1,7 @@
 ---
 title: データとプロセスの統合
 description: ''
-author: ''
+author: relnotes
 ms.reviewer: sericks007
 ms.date: 06/17/2019
 ms.assetid: be096b69-725d-e911-a973-000d3a1c79c5
@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: robadawy
 dynamics365pdf: true
-ms.openlocfilehash: 0353b9e54861806946969984c4a8be77b9988a77
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: e14a367122fda09285973b264ad65c24872f6c9a
+ms.sourcegitcommit: 0aab460e7666eea9a76ca4f6620751335ad8cbc5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1702129"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "1775931"
 ---
 # <a name="data-and-process-integration"></a>データとプロセスの統合
 

@@ -1,7 +1,7 @@
 ---
 title: Dynamics 365 for Project Service Automation 2019 年リリース ウェーブ 2 の概要
 description: Dynamics 365 for Project Service Automation 2019 年リリース ウェーブ 2 の概要
-author: ''
+author: relnotes
 ms.reviewer: kfend
 ms.date: 06/13/2019
 ms.assetid: bea2fad1-755d-e911-a977-000d3a4e307a
@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: rumant
 dynamics365pdf: true
-ms.openlocfilehash: ac934b34d85c9d83dc989a3f7a396a6717b03e5c
-ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.openlocfilehash: 7ca8ea1299e729be999c64355188c6baf880aba1
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "1686542"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854594"
 ---
 # <a name="overview-of-dynamics-365-for-project-service-automation-2019-release-wave-2"></a>Dynamics 365 for Project Service Automation 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-project-service-automation banner](../includes/dynamics365-project-service-automation.md)]

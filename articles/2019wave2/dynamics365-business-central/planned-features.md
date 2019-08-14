@@ -1,19 +1,19 @@
 ---
-title: Dynamics 365 Business Central の新機能と予定されている機能
+title: Dynamics 365 Business Central の新機能と予定されている機能 (2019 年リリース ウェーブ 2)
 description: Dynamics 365 Business Central で計画されている機能の概要。
-author: ''
+author: relnotes
 ms.reviewer: edupont
-ms.date: 07/01/2019
+ms.date: 07/25/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: msalam
 dynamics365pdf: true
-ms.openlocfilehash: 214648ad5ec813fdf181979bf3c9678daf32521f
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 88c7c6a44c50dbf90a9ab8ab1eb615925ced75d9
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1722831"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795441"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-business-central"></a>Dynamics 365 Business Central の新機能と予定されている機能
 
@@ -31,6 +31,7 @@ ms.locfileid: "1722831"
  | ---------- | ---------- | ---------- |---------- |
  | [発行されたアラームと利息メモをキャンセルする](cancel-issued-reminders-finance-charge-memos.md) | エンド ユーザー、自動的  |  2019 年 8 月   | 2019 年 10 月|  
  | [転記時に明細行の説明を総勘定元帳エントリに繰り越す](carry-line-descriptions-general-ledger-entries-when-posting.md) | エンド ユーザー、自動的  |  2019 年 8 月   | 2019 年 10 月|  
+ | [一部の行がブロックされている場合でもドキュメントのコピー機能を使用する](use-copy-document-function-even-when-some-lines-are-blocked.md) | エンド ユーザー、自動的  |  2019 年 8 月   | 2019 年 10 月|  
  | [大きな品目相互参照番号を書き込む](write-larger-item-cross-reference-numbers.md) | エンド ユーザー、自動的  |  2019 年 8 月   | 2019 年 10 月|  
 
 
@@ -40,10 +41,10 @@ ms.locfileid: "1722831"
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | ---------- |---------- |
+ | [複数の運用環境](multiple-production-environments.md) | 管理者、作成者、またはアナリスト、自動的  |     | 2019 年 10 月|  
  | [技術的アップグレードのサポート](support-technical-upgrades.md) | 管理者、作成者、またはアナリスト、自動的  |     | 2019 年 10 月|  
  | [データベース バックアップ ファイルをダウンロードする機能](ability-download-database-backup-file.md) | 管理者、作成者、またはアナリスト、自動的  |  2019 年 8 月   | 2019 年 10 月|  
  | [更新のテストと準備の改善](improvements-update-testing-preparation.md) | 管理者、作成者、またはアナリスト、自動的  |  2019 年 8 月   | 2019 年 10 月|  
- | [複数の運用環境](multiple-production-environments.md) | 管理者、作成者、またはアナリスト、自動的  |  2019 年 8 月   | 2019 年 10 月|  
  | [Business Central 管理センターで運用停止を報告する新しいオプション](new-option-report-production-outage-business-central-administration-center.md) | 管理者、作成者、またはアナリスト、自動的  |  2019 年 8 月   | 2019 年 10 月|  
  | [C/AL テーブルから AL テーブルへのパフォーマンス データのアップグレードのサポート](support-performant-data-upgrade-cal-tables-al-tables.md) | 管理者、作成者、またはアナリスト、自動的  |  2019 年 8 月   | 2019 年 10 月|  
 
@@ -128,4 +129,7 @@ Dynamics NAV ビジネスは、アドオン ソリューションに囲まれた
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化** – これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 
+
+地域、データ センター (リージョン)、データ ストレージ、レプリケーションの詳細については、[データの場所のページ](https://www.microsoft.com/trust-center/privacy/data-location)で**すべて展開**をクリックして、この機能に対する Microsoft Cloud Service を確認してください。 

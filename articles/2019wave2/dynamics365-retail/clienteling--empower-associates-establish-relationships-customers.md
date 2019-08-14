@@ -1,27 +1,27 @@
 ---
 title: クライアンテリング - 販売担当者が信頼できるアドバイザーになり、顧客と長期的な関係を築けるようにする
 description: クライアンテリング - 販売担当者が信頼できるアドバイザーになり、顧客と長期的な関係を築けるようにする
-author: ''
+author: relnotes
 ms.reviewer: josaw
-ms.date: 06/18/2019
+ms.date: 07/22/2019
 ms.assetid: 4219cbd5-546c-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: shajain
 dynamics365pdf: true
-ms.openlocfilehash: fe161e889b43f0e51214138892ee24bbad02f67d
-ms.sourcegitcommit: ce44199897bc0c276cd02c99cc1d216f198734b0
+ms.openlocfilehash: 4946bfb622ed068e8c1536688b94dcfdfcc9b790
+ms.sourcegitcommit: 4101748c25acf79b22e31a01b73969500926ff91
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1691926"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1794643"
 ---
-# <a name="clienteling---empower-sales-associates-to-become-trusted-advisors-and-establish-long-term-relationships-with-customers"></a>クライアンテリング - 販売担当者が信頼できるアドバイザーになり、顧客と長期的な関係を築けるようにする
+# <a name="clienteling--empower-sales-associates-to-become-trusted-advisors-and-establish-long-term-relationships-with-customers"></a>クライアンテリング - 販売担当者が信頼できるアドバイザーになり、顧客と長期的な関係を築けるようにする
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 10 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 9 月| 2019 年 11 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -41,3 +41,14 @@ ms.locfileid: "1691926"
 
 最後に、販売担当者は、製品のコレクションを作成し、それを顧客の希望する通信手段 (メール、WhatsApp、WeChat、Messenger など) で顧客に送信できます。 また、担当者は、顧客に送信された通信の有効性についての分析を見ることもできます。
 <!--feature detail end -->
+
+
+
+
+
+
+
+
+
+
+

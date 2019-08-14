@@ -1,20 +1,20 @@
 ---
 title: より多くの顧客とのコミュニケーションを取り込む
 description: 顧客とのコミュニケーションを頻繁に記録することで、Dynamics 365 のデータ品質が向上し、その結果として分析情報が強化されます。 自動取り込みにより、販売担当者は、共有対象をきめ細かく制御しながら、より多くの顧客とのコミュニケーションを取り込み、Dynamics 365 を労力なしで更新できます。
-author: ''
+author: relnotes
 ms.reviewer: udag
-ms.date: 06/11/2019
+ms.date: 07/22/2019
 ms.assetid: d463278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: nataln
 dynamics365pdf: true
-ms.openlocfilehash: 35f3b2c26ee20893df59bf5414540b36b8c7145e
-ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.openlocfilehash: 4a423a8eeb5d6a5ab3277c50f344f47eb9fd4f0d
+ms.sourcegitcommit: c1d66f6454e35fb8191632683ff09e1362b8cfcd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "1689922"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "1790341"
 ---
 # <a name="capture-more-customer-communications"></a>より多くの顧客とのコミュニケーションを取り込む
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
@@ -26,7 +26,7 @@ ms.locfileid: "1689922"
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-販売担当者は、Dynamics 365 の更新やすべての顧客関連活動の記録ではなく販売に時間をかけることを望んでいます。 自動取り込みでは、顧客とのメールを取り込むだけでなく、カレンダー上の会議を取り込んで適切なレコードに記録します。 自動取り込みは、コミュニケーションに基づいて新しい取引先担当者を作成するための提案を行い、これらの面倒な作業に費やす全体的な時間を短縮して、販売担当者が最も重要な作業に集中できるようにします。 
+販売担当者は、Dynamics 365 の更新やすべての顧客関連活動の記録ではなく販売に時間をかけることを望んでいます。 自動取り込みでは、顧客とのメールを取り込むだけでなく、カレンダー上の会議を取り込んで適切なレコードに記録します。 自動取り込みは、コミュニケーションに基づいて新しい取引先担当者を作成するための提案を行い、これらの面倒な作業に費やす全体的な時間を短縮して、販売担当者が最も重要な作業に集中できるようにします。
 <!-- bv end -->
 
 
@@ -38,7 +38,7 @@ ms.locfileid: "1689922"
 - **プライバシー管理**: 管理者が非常にきめ細かな制御でプライバシー設定を管理できるようにします。
 <!--feature detail end -->
 
-![Zero-click Auto capture.png](media/zero-click-auto-capture.png "Zero-click Auto capture.png")
+![ゼロクリックの自動取り込み](media/zero-click-auto-capture.png "ゼロクリックの自動取り込み")
 <!-- Picture 1 -->
 
 

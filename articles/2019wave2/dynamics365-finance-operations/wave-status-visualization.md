@@ -1,27 +1,27 @@
 ---
 title: ウェーブ ステータスのビジュアル化
 description: ウェーブ ステータスのビジュアル化
-author: ''
+author: relnotes
 ms.reviewer: josaw
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: 6262278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
-ms.openlocfilehash: 5012bf0a7e67dc58f08c2b077150833d52ec0f90
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: ba19034b92e81fac09ce93f6a7dd54fc2c7db55f
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1701447"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854648"
 ---
 # <a name="wave-status-visualization"></a>ウェーブ ステータスのビジュアル化
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、自動的|2019 年 3 月| 2019 年 10 月|
+|エンド ユーザー、自動的|2019 年 8 月| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -45,6 +45,7 @@ ms.locfileid: "1701447"
 
 -  ウェーブ サブメソッド、それぞれに対する処理済み積荷明細行数の更新
 <!--feature detail end -->
+
 
 
 

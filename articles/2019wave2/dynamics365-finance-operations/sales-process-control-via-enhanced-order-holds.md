@@ -1,27 +1,27 @@
 ---
 title: 拡張注文保留による販売プロセス管理
 description: 拡張注文保留による販売プロセス管理
-author: ''
+author: relnotes
 ms.reviewer: josaw
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: 4662278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: lcash
 dynamics365pdf: true
-ms.openlocfilehash: 43af030ed7cf7d0d92587247b9e58f4e8f12f9ca
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 96e2973283a5d6a4c2417fc6a4601b46d4c5ab16
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1701546"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854869"
 ---
 # <a name="sales-process-control-via-enhanced-order-holds"></a>拡張注文保留による販売プロセス管理
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 8 月| 2019 年 10 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 9 月| 2019 年 11 月|
 
 
 
@@ -34,6 +34,7 @@ B2B 取引のシナリオでは、部門は組織を通じて販売注文の処�
 
 ![拡張注文保留](media/sales-process-control-via-enhanced-order-holds-1.png "")
 <!--feature detail end -->
+
 
 
 

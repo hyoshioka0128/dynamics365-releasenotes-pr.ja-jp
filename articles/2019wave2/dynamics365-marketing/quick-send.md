@@ -3,18 +3,18 @@ title: クイック送信
 description: クイック送信
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 06/11/2019
+ms.date: 07/31/2019
 ms.assetid: ae61278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: 3d254b98f8c30209989646922318259caf816ffc
-ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.openlocfilehash: 025a2d262ea0f81bb8155ae284b38daf66fac82d
+ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1694366"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "1856008"
 ---
 # <a name="quick-send"></a>クイック送信
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]

@@ -1,20 +1,20 @@
 ---
 title: Regulatory Configuration Service での簡素化されたローカライズ構成管理
 description: Regulatory Configuration Service (RCS) を使用すると、企業やパワー ユーザーは、法的要件の変更によって頻繁に影響を受ける規制レポート、請求書、支払方法、および税規則を構成できます。 これらの構成は、複数のアプリケーションで共有して再利用できます。 これらの構成の保存、処理、および共有を簡素化するために、RCS では新しいタイプのグローバル リポジトリがサポートされます。これを使用して、ユーザーは自分の構成を直接 RCS で一元的に格納および管理できます。
-author: ''
+author: relnotes
 ms.reviewer: kfend
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: dc62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: janeaug
 dynamics365pdf: true
-ms.openlocfilehash: 3394a3ef0980b38504eeb91d353ffcbf0839e49c
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 37a2f9ecb6f9f3563872c1845d40b84d946869bf
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1702316"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854836"
 ---
 # <a name="simplified-localization-configuration-management-in-regulatory-configuration-service"></a>Regulatory Configuration Service での簡素化されたローカライズ構成管理
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -40,6 +40,7 @@ ms.locfileid: "1702316"
 -  ユーザーは、外部のユーザーまたは組織と構成を共有することができます。 
 -  ユーザーは、新しい構成を外部のユーザーまたは組織に配信 (プッシュ) できます。
 <!--feature detail end -->
+
 
 
 

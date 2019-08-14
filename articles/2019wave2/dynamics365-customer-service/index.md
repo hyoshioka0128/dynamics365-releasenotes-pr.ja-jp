@@ -1,20 +1,20 @@
 ---
 title: Dynamics 365 for Customer Service 2019 年リリース ウェーブ 2 の概要
 description: Dynamics 365 for Customer Service 2019 年リリース ウェーブ 2 の概要
-author: ''
-ms.reviewer: anjgup
+author: relnotes
+ms.reviewer: shujoshi
 ms.date: 06/13/2019
 ms.assetid: 83f1f7cb-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: craigm
 dynamics365pdf: true
-ms.openlocfilehash: 780ab1c9e208cf56ff08457a110198dd640c0d6e
-ms.sourcegitcommit: ee44b28e9799b06d7bb98c91d30c40dd9aadeb75
+ms.openlocfilehash: d0727a2076a9825aac8fba80c8d502c24655b7e4
+ms.sourcegitcommit: 59f5bc1ad5c9bbbfbeff6608476b60c0b2da58c0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "1696519"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "1735803"
 ---
 # <a name="overview-of-dynamics-365-for-customer-service-2019-release-wave-2"></a>Dynamics 365 for Customer Service 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]

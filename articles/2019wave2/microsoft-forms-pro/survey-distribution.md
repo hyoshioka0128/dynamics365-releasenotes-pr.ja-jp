@@ -1,20 +1,20 @@
 ---
 title: 調査の配布
-description: 拡張配布により、調査所有者はより多くの調査回答を得られます。
-author: ''
+description: 調査所有者がより多くの回答を得られる拡張配布。
+author: relnotes
 ms.reviewer: sbmjais
-ms.date: 06/17/2019
+ms.date: 07/19/2019
 ms.assetid: d4096b69-725d-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: welee
 dynamics365pdf: true
-ms.openlocfilehash: 4e912b9eb01415e03974caa17a3c94d1cf048598
-ms.sourcegitcommit: 3f82863eb87b95859df3b5bd727b8b08f7dbed32
+ms.openlocfilehash: 8515ed32f0ceef60fbb9203ccb3994a7f207f620
+ms.sourcegitcommit: 4e5c18a534fd5b7aaddfe01f66edb1d0b466497b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "1696361"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1793092"
 ---
 # <a name="survey-distribution"></a>調査の配布
 

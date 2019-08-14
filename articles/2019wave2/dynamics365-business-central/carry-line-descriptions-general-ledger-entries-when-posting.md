@@ -2,19 +2,19 @@
 title: 転記時に明細行の説明を総勘定元帳エントリに繰り越す
 description: 伝票明細行タイプ別に伝票明細行から総勘定元帳エントリに説明をコピーすることができます。
 author: relnotes
-ms.reviewer: sgroespe
-ms.date: 07/01/2019
+ms.reviewer: edupont
+ms.date: 07/22/2019
 ms.assetid: 54915d1e-4f75-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: a24bf2dd584de8826d285ddd6b17266beae59947
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 379cb127f0f768d93acc0300bafe944aaab5c1df
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1722567"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795837"
 ---
 # <a name="carry-line-descriptions-to-general-ledger-entries-when-posting"></a>転記時に明細行の説明を総勘定元帳エントリに繰り越す
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]

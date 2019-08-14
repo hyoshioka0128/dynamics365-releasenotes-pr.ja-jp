@@ -3,18 +3,18 @@ title: Web データ、検索アクティビティ、閲覧行動からビジネ
 description: 2019 年リリース ウェーブ 2 の製品リリースには、人気急上昇中のトピック、検索トレンド、製品発売ニュース、最も話題になっている製品属性、コンテンツへのナビゲート方法、視聴者層など、トピックを理解するのに役立ついくつかの新しい種類の分析情報が含まれています。
 author: relnotes
 ms.reviewer: mhart
-ms.date: 07/01/2019
+ms.date: 07/31/2019
 ms.assetid: 5e77e83a-2283-e911-a98e-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: victorhe
 dynamics365pdf: true
-ms.openlocfilehash: 6822246486ae8c3ee3ddda2bfc745e5bdfcb5caa
-ms.sourcegitcommit: b61ae70a7ffcd8c0454e03a5304491b3fd8fd3bd
+ms.openlocfilehash: 16b7bc0185932feb4ba632c155935c3640755901
+ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "1723293"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "1855887"
 ---
 # <a name="get-additional-insights-related-to-business-topics-from-web-data-search-activity-and-browsing-behavior-us-only"></a>Web データ、検索アクティビティ、閲覧行動からビジネス トピックに関連する追加の分析情報を得る (米国のみ)
 [!include[artificial-intelligence/dynamics365-market-insights banner](../includes/artificial-intelligence/dynamics365-market-insights.md)]
@@ -44,6 +44,7 @@ ms.locfileid: "1723293"
 
 分析情報は英語でのみ利用可能であり、米国からのデータに焦点を当てています。
 <!--feature detail end -->
+
 
 
 

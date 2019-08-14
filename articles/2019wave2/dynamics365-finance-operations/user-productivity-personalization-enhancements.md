@@ -1,20 +1,20 @@
 ---
 title: ユーザーの生産性の個人用設定の機能強化
 description: ユーザーの生産性の個人用設定の機能強化
-author: ''
+author: relnotes
 ms.reviewer: sericks
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: ea62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
-ms.openlocfilehash: 4795184e768bfcce75d05666e52191641cc28fe3
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 35e0000ec575f209b7c26eabd33ee8ea3adcbaa7
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1701480"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854704"
 ---
 # <a name="user-productivity-personalization-enhancements"></a>ユーザーの生産性の個人用設定の機能強化
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -41,6 +41,7 @@ ms.locfileid: "1701480"
 
 これらの機能は、2020 年 1 月以降の月々のリリースの一部として徐々に利用可能になる予定です。
 <!--feature detail end -->
+
 
 
 

@@ -3,18 +3,18 @@ title: 顧客パターンを予測するためのガイド付きエクスペリ�
 description: コーディングの経験を必要とせずに、顧客のパターンと属性を予測する機能を提供します。
 author: relnotes
 ms.reviewer: jimholtz
-ms.date: 06/19/2019
+ms.date: 07/31/2019
 ms.assetid: 2251a77b-5872-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: a3601c32b7583dce676de1c8a06a7c121778ba2d
-ms.sourcegitcommit: 2e060add192b3a266865b9359307aca104fdee20
+ms.openlocfilehash: c44a15ecb1f27ffe6330fe0066d673814a883869
+ms.sourcegitcommit: ff402b48c827ee8174bf3747d1c43e272102ace9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "1718690"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1848083"
 ---
 # <a name="guided-experience-to-predict-customer-patterns"></a>顧客パターンを予測するためのガイド付きエクスペリエンス
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
@@ -39,6 +39,7 @@ ms.locfileid: "1718690"
 - 統一された顧客プロファイルに基づく予測の作成を助けます。 
 - 結果をメジャー、セグメント、レポート作成に使用する機能を追加します。
 <!--feature detail end -->
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Dynamics 365 for Finance and Operations 2019 年リリース ウェーブ 2 の概要
-description: ''
-author: ''
+description: Dynamics 365 for Finance and Operations 2019 年リリース ウェーブ 2 の概要
+author: relnotes
 ms.reviewer: sericks
 ms.date: 06/13/2019
 ms.assetid: c1a2fad1-755d-e911-a977-000d3a4e307a
@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: carinaha
 dynamics365pdf: true
-ms.openlocfilehash: 445d1bf795d58f4945362cee605b059e0ce87d9a
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 05f93e6de40ada9fe97bb44755a620528444b4f1
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1701766"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1855221"
 ---
 # <a name="overview-of-dynamics-365-for-finance-and-operations-2019-release-wave-2"></a>Dynamics 365 for Finance and Operations 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

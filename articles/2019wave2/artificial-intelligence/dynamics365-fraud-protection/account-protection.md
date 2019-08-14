@@ -3,18 +3,18 @@ title: アカウントの保護
 description: アカウント保護のためのサインアップとサインインのリスク評価
 author: relnotes
 ms.reviewer: v-jegrif
-ms.date: 06/19/2019
+ms.date: 07/24/2019
 ms.assetid: 75a5392d-c56d-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: amyhre
 dynamics365pdf: true
-ms.openlocfilehash: f12e0711424210ce29319b258b375baafe1e550b
-ms.sourcegitcommit: 38a8478625bbe51d90e5b9d2af65933331c1fdb6
+ms.openlocfilehash: a93b88c464e7987515ef014bf31e143dfd0a0116
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1718910"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795584"
 ---
 # <a name="account-protection"></a>アカウントの保護
 [!include[artificial-intelligence/dynamics365-fraud-protection banner](../includes/artificial-intelligence/dynamics365-fraud-protection.md)]
@@ -38,6 +38,7 @@ ATO は、企業にとってますます大きな課題となっており、チ�
 ### <a name="fraud-protection-network"></a>不正保護ネットワーク
 Dynamics 365 Fraud Protection には、複数の企業にまたがる不正パターンを検出し、重大な損害が発生する前にそれらを防ぐことができる、既存の詐欺防止ネットワークがあります。 このネットワークでは、Dynamics 365 Fraud Protection の対象となるすべての既存と新規の詐欺シナリオに対する保護を強化するアカウント保護固有の知識がエンリッチされます。
 <!--feature detail end -->
+
 
 
 

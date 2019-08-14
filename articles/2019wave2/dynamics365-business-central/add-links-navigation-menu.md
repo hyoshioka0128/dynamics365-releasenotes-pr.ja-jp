@@ -3,18 +3,18 @@ title: ナビゲーション メニューにリンクを追加する
 description: 任意のページへのリンクを追加することにより、ナビゲーション メニューをパーソナライズします。
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 07/01/2019
+ms.date: 07/22/2019
 ms.assetid: e83a8d44-e56b-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 6b577e83dbcbb12303f644ab53824fad675f2412
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 62ae9f9939358a676b928d14bd49a21066b9d32d
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1722556"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795892"
 ---
 # <a name="add-links-to-your-navigation-menu"></a>ナビゲーション メニューにリンクを追加する
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -35,6 +35,7 @@ Business Central は、各企業、部門、ユーザーに固有のニーズに
 <!--feature detail start -->
 Business Central で任意のページへのリンクをブックマークして、ホーム ページのナビゲーション メニューにそのリンクを追加します。
 <!--feature detail end -->
+
 
 
 

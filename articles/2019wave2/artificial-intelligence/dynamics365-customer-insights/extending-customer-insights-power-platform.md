@@ -3,18 +3,18 @@ title: Power Platform で Customer Insights を拡張する
 description: 組織が Power Platform コネクタを使用して Customer Insights のエクスペリエンスを調整および拡張できるようにします。 
 author: relnotes
 ms.reviewer: jimholtz
-ms.date: 06/19/2019
+ms.date: 07/31/2019
 ms.assetid: 3e64278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: 6932ef40c2fd637e88698d3e22467b6a53cd4b3f
-ms.sourcegitcommit: 2e060add192b3a266865b9359307aca104fdee20
+ms.openlocfilehash: 8ee1dc68a151b32c9b90d996f7f16a542149c74c
+ms.sourcegitcommit: ff402b48c827ee8174bf3747d1c43e272102ace9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "1718602"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1848068"
 ---
 # <a name="extending-customer-insights-with-power-platform"></a>Power Platform で Customer Insights を拡張する
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
@@ -40,6 +40,7 @@ Power Platform で Customer Insights を拡張します。
 - 強化された Microsoft Flow コネクタには、ワークフローを設定するためのトリガーが含まれています。
 - 更新された Power BI コネクタでは、データ取得のエクスペリエンスとパフォーマンスが向上しています。
 <!--feature detail end -->
+
 
 
 
