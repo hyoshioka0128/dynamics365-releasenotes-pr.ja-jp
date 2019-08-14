@@ -1,39 +1,40 @@
 ---
 title: システム主導のクラスター
 description: システム主導のクラスター ピッキングの設定では、システム生成のクラスターに基づいてピッキング作業ヘッダーをクラスター化することができます。
-author: ''
+author: relnotes
 ms.reviewer: josaw
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: 6e62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
-ms.openlocfilehash: adcd2c9994d53823ba0c8bfce81971dcf0f2e184
-ms.sourcegitcommit: d6ff62c145bfdd7742034a67a29bf75938823eb0
+ms.openlocfilehash: 9c31a03fdd32b392b852ec03151f6d57d2bd90e4
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "1701469"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854737"
 ---
-# <a name="system-directed-clustering"></a><span data-ttu-id="1b536-103">システム主導のクラスター</span><span class="sxs-lookup"><span data-stu-id="1b536-103">System-directed clustering</span></span>
+# <a name="system-directed-clustering"></a><span data-ttu-id="ce82e-103">システム主導のクラスター</span><span class="sxs-lookup"><span data-stu-id="ce82e-103">System-directed clustering</span></span>
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
-| <span data-ttu-id="1b536-104">有効対象</span><span class="sxs-lookup"><span data-stu-id="1b536-104">Enabled for</span></span>    |  <span data-ttu-id="1b536-105">パブリック プレビュー</span><span class="sxs-lookup"><span data-stu-id="1b536-105">Public preview</span></span> | <span data-ttu-id="1b536-106">一般提供</span><span class="sxs-lookup"><span data-stu-id="1b536-106">General availability</span></span> | 
+| <span data-ttu-id="ce82e-104">有効対象</span><span class="sxs-lookup"><span data-stu-id="ce82e-104">Enabled for</span></span>    |  <span data-ttu-id="ce82e-105">パブリック プレビュー</span><span class="sxs-lookup"><span data-stu-id="ce82e-105">Public preview</span></span> | <span data-ttu-id="ce82e-106">一般提供</span><span class="sxs-lookup"><span data-stu-id="ce82e-106">General availability</span></span> | 
 | ---------- | ---------- |---------- |
-|<span data-ttu-id="1b536-107">エンド ユーザー、管理者/作成者による有効化、またはアナリスト</span><span class="sxs-lookup"><span data-stu-id="1b536-107">End users by admins, makers, or analysts</span></span>|<span data-ttu-id="1b536-108">2019 年 6 月</span><span class="sxs-lookup"><span data-stu-id="1b536-108">June 2019</span></span>| <span data-ttu-id="1b536-109">2019 年 10 月</span><span class="sxs-lookup"><span data-stu-id="1b536-109">October 2019</span></span>|
+|<span data-ttu-id="ce82e-107">エンド ユーザー、管理者/作成者による有効化、またはアナリスト</span><span class="sxs-lookup"><span data-stu-id="ce82e-107">End users by admins, makers, or analysts</span></span>|<span data-ttu-id="ce82e-108">2019 年 8 月</span><span class="sxs-lookup"><span data-stu-id="ce82e-108">August 2019</span></span>| <span data-ttu-id="ce82e-109">2019 年 10 月</span><span class="sxs-lookup"><span data-stu-id="ce82e-109">October 2019</span></span>|
 
 
 
 
 
 
-## <a name="feature-details"></a><span data-ttu-id="1b536-110">機能の詳細</span><span class="sxs-lookup"><span data-stu-id="1b536-110">Feature details</span></span>
+## <a name="feature-details"></a><span data-ttu-id="ce82e-110">機能の詳細</span><span class="sxs-lookup"><span data-stu-id="ce82e-110">Feature details</span></span>
 <!--feature detail start -->
-<span data-ttu-id="1b536-111">システム主導のクラスター ピッキングの設定では、システム生成のクラスターに基づいてピッキング作業ヘッダーをクラスター化することができます。</span><span class="sxs-lookup"><span data-stu-id="1b536-111">With the setup of system-directed cluster picking, you can cluster pick work headers based on a system-generated cluster.</span></span> <span data-ttu-id="1b536-112">システムでは、クラスター プロファイルで指定されたポジション数までピッキング順序がクラスター化され、ユーザーは手動でクラスターを作成することなく、複数の注文を同時にピッキングできます。</span><span class="sxs-lookup"><span data-stu-id="1b536-112">The system clusters picking orders up to the number of positions specified on the cluster profile and allows the user to pick multiple orders at the same time without having to create a cluster manually.</span></span> <span data-ttu-id="1b536-113">この機能は、システムがクラスターを作成するために使用するクラスター プロファイルを提供することによって、手動のクラスター構築に代わる方法を提供します。</span><span class="sxs-lookup"><span data-stu-id="1b536-113">This feature offers an alternative to manual cluster building by offering to use a cluster profile that the system will use to create a cluster.</span></span> <span data-ttu-id="1b536-114">使用前に、いくつかの設定明細行をクラスター プロファイルで決定する必要があります。</span><span class="sxs-lookup"><span data-stu-id="1b536-114">Several setup lines should be determined on the cluster profile before use.</span></span> <span data-ttu-id="1b536-115">[職位の数] は、クラスターに入れられる注文の数、つまりトートの数に対応します。[クラスターの分割] は、いつクラスターを分割するかを決定します。[クラスター ID の生成] は、システムによってクラスター ID を生成するか、またはユーザーが入力するかを制御します。[並べ替え検証タイプ] は、位置の検証が必要かどうかを決定します。</span><span class="sxs-lookup"><span data-stu-id="1b536-115">"Number of positions" will correspond with the number of orders that will be put on a cluster and consequently to the number of totes; "Break cluster at" will determine when the cluster should be broken; "Generate cluster ID" will control whether the cluster ID will be generated by the system or entered by the user; and "Sort verification type" will determine whether any position verification is needed or not.</span></span> 
+<span data-ttu-id="ce82e-111">システム主導のクラスター ピッキングの設定では、システム生成のクラスターに基づいてピッキング作業ヘッダーをクラスター化することができます。</span><span class="sxs-lookup"><span data-stu-id="ce82e-111">With the setup of system-directed cluster picking, you can cluster pick work headers based on a system-generated cluster.</span></span> <span data-ttu-id="ce82e-112">システムでは、クラスター プロファイルで指定されたポジション数までピッキング順序がクラスター化され、ユーザーは手動でクラスターを作成することなく、複数の注文を同時にピッキングできます。</span><span class="sxs-lookup"><span data-stu-id="ce82e-112">The system clusters picking orders up to the number of positions specified on the cluster profile and allows the user to pick multiple orders at the same time without having to create a cluster manually.</span></span> <span data-ttu-id="ce82e-113">この機能は、システムがクラスターを作成するために使用するクラスター プロファイルを提供することによって、手動のクラスター構築に代わる方法を提供します。</span><span class="sxs-lookup"><span data-stu-id="ce82e-113">This feature offers an alternative to manual cluster building by offering to use a cluster profile that the system will use to create a cluster.</span></span> <span data-ttu-id="ce82e-114">使用前に、いくつかの設定明細行をクラスター プロファイルで決定する必要があります。</span><span class="sxs-lookup"><span data-stu-id="ce82e-114">Several setup lines should be determined on the cluster profile before use.</span></span> <span data-ttu-id="ce82e-115">[職位の数] は、クラスターに入れられる注文の数、つまりトートの数に対応します。[クラスターの分割] は、いつクラスターを分割するかを決定します。[クラスター ID の生成] は、システムによってクラスター ID を生成するか、またはユーザーが入力するかを制御します。[並べ替え検証タイプ] は、位置の検証が必要かどうかを決定します。</span><span class="sxs-lookup"><span data-stu-id="ce82e-115">"Number of positions" will correspond with the number of orders that will be put on a cluster and consequently to the number of totes; "Break cluster at" will determine when the cluster should be broken; "Generate cluster ID" will control whether the cluster ID will be generated by the system or entered by the user; and "Sort verification type" will determine whether any position verification is needed or not.</span></span> 
 
-<span data-ttu-id="1b536-116">システム手動のクラスター ピッキングには、目的のクラスター プロファイル ID を指定する新しい [指示者] オプションが含まれる新しいモバイル デバイス メニュー項目を使用する必要があります。</span><span class="sxs-lookup"><span data-stu-id="1b536-116">The new mobile-device menu item should be used for system-directed cluster picking with the new "Directed by" option, where the wanted cluster profile ID must be specified.</span></span> <span data-ttu-id="1b536-117">作業指示書の割り当ては、システム指示のクエリ順序でカスタマイズされた並べ替え基準を指定することによって、さらに最適化することができます。これにより、会社固有の基準に基づいて注文をグループ化できます。</span><span class="sxs-lookup"><span data-stu-id="1b536-117">The assignment of work orders can be further optimized by specifying customized sorting criteria on the system-directed query order, which can group orders based on company-specific criteria.</span></span> <span data-ttu-id="1b536-118">システム指図のクラスターによるピッキング時に、倉庫作業員には、ピッキング順序がクラスター位置に事前に割り当てられている作成済みのクラスターが自動的に提示されます。</span><span class="sxs-lookup"><span data-stu-id="1b536-118">At the time of picking via system-directed cluster, warehouse workers will be automatically presented with a created cluster where picking orders have been pre-assigned to cluster positions.</span></span> <span data-ttu-id="1b536-119">したがって、作業者は、ピッキング場所に 1 回だけアクセスすることで、複数の作業指示書に対する品目のピッキングを開始できます。</span><span class="sxs-lookup"><span data-stu-id="1b536-119">The worker can therefore start picking an item for multiple work orders by visiting the pick location only once.</span></span> <span data-ttu-id="1b536-120">この機能のピッキング プロセスは、ユーザー主導のクラスター ピッキングの場合と同じです。</span><span class="sxs-lookup"><span data-stu-id="1b536-120">The picking process for this feature is the same as for user-directed cluster picking.</span></span>
+<span data-ttu-id="ce82e-116">システム手動のクラスター ピッキングには、目的のクラスター プロファイル ID を指定する新しい [指示者] オプションが含まれる新しいモバイル デバイス メニュー項目を使用する必要があります。</span><span class="sxs-lookup"><span data-stu-id="ce82e-116">The new mobile-device menu item should be used for system-directed cluster picking with the new "Directed by" option, where the wanted cluster profile ID must be specified.</span></span> <span data-ttu-id="ce82e-117">作業指示書の割り当ては、システム指示のクエリ順序でカスタマイズされた並べ替え基準を指定することによって、さらに最適化することができます。これにより、会社固有の基準に基づいて注文をグループ化できます。</span><span class="sxs-lookup"><span data-stu-id="ce82e-117">The assignment of work orders can be further optimized by specifying customized sorting criteria on the system-directed query order, which can group orders based on company-specific criteria.</span></span> <span data-ttu-id="ce82e-118">システム指図のクラスターによるピッキング時に、倉庫作業員には、ピッキング順序がクラスター位置に事前に割り当てられている作成済みのクラスターが自動的に提示されます。</span><span class="sxs-lookup"><span data-stu-id="ce82e-118">At the time of picking via system-directed cluster, warehouse workers will be automatically presented with a created cluster where picking orders have been pre-assigned to cluster positions.</span></span> <span data-ttu-id="ce82e-119">したがって、作業者は、ピッキング場所に 1 回だけアクセスすることで、複数の作業指示書に対する品目のピッキングを開始できます。</span><span class="sxs-lookup"><span data-stu-id="ce82e-119">The worker can therefore start picking an item for multiple work orders by visiting the pick location only once.</span></span> <span data-ttu-id="ce82e-120">この機能のピッキング プロセスは、ユーザー主導のクラスター ピッキングの場合と同じです。</span><span class="sxs-lookup"><span data-stu-id="ce82e-120">The picking process for this feature is the same as for user-directed cluster picking.</span></span>
 <!--feature detail end -->
+
 
 
 
