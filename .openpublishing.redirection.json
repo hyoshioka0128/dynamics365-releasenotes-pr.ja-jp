@@ -1,9 +1,559 @@
 {
-    "redirections": [
-      {
-        "source_path": "articles/2019wave2/artificial-intelligence/dynamics365-sales-insights/better-privacy-controls-‘who-knows-whom’.md",
-        "redirect_url": "better-privacy-controls-who-knows-whom",
-        "redirect_document_id": "false"
-      }
-    ]
+  "redirections": [
+    {
+      "source_path": "articles/2019wave2/artificial-intelligence/dynamics365-sales-insights/better-privacy-controls-‘who-knows-whom’.md",
+      "redirect_url": "better-privacy-controls-who-knows-whom",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/advanced-allocation-strategies---fifo-lifo.md",
+      "redirect_url": "../finance-operations/advanced-allocation-strategies---fifo-lifo",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/advanced-cross-docking.md",
+      "redirect_url": "../finance-operations/advanced-cross-docking",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/advanced-load-building-during-wave.md",
+      "redirect_url": "../finance-operations/advanced-load-building-during-wave",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/advanced-transportation-planning.md",
+      "redirect_url": "../finance-operations/advanced-transportation-planning",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/attachment-recovery.md",
+      "redirect_url": "../finance-operations/attachment-recovery",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/auto-release-shipment-cross-dock.md",
+      "redirect_url": "../finance-operations/auto-release-shipment-cross-dock",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/automate-routing-distribution-procedures-business-documents.md",
+      "redirect_url": "../finance-operations/automate-routing-distribution-procedures-business-documents",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/automatic-ledger-settlements.md",
+      "redirect_url": "../finance-operations/automatic-ledger-settlements",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/billing-schedules.md",
+      "redirect_url": "../finance-operations/billing-schedules",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/blind-returns-receiving.md",
+      "redirect_url": "../finance-operations/blind-returns-receiving",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/calculate-po-delivery-date-based-lead-times-working-days-public-sector.md",
+      "redirect_url": "../finance-operations/calculate-po-delivery-date-based-lead-times-working-days-public-sector",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/cancel-bank-reconciliation.md",
+      "redirect_url": "../finance-operations/cancel-bank-reconciliation",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/cancel-work.md",
+      "redirect_url": "../finance-operations/cancel-work",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/carrier-assignmentrouting-wave-step.md",
+      "redirect_url": "../finance-operations/carrier-assignmentrouting-wave-step",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/change-work-pool-button.md",
+      "redirect_url": "../finance-operations/change-work-pool-button",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/cloud-operations-lifecycle-services.md",
+      "redirect_url": "../finance-operations/cloud-operations-lifecycle-services",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/cluster-full.md",
+      "redirect_url": "../finance-operations/cluster-full",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/configurable-business-documents-reporting-word-excel-pdf.md",
+      "redirect_url": "../finance-operations/configurable-business-documents-reporting-word-excel-pdf",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/confirm-transfer.md",
+      "redirect_url": "../finance-operations/confirm-transfer",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/consolidate-shipment-enhancements.md",
+      "redirect_url": "../finance-operations/consolidate-shipment-enhancements",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/country-origin-enhancements.md",
+      "redirect_url": "../finance-operations/country-origin-enhancements",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/create-checks-blank-status-checks-page.md",
+      "redirect_url": "../finance-operations/create-checks-blank-status-checks-page",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/credit-management.md",
+      "redirect_url": "../finance-operations/credit-management",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/cross-project-management.md",
+      "redirect_url": "../finance-operations/cross-project-management",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/data-feeds-third-party-integrations.md",
+      "redirect_url": "../finance-operations/data-feeds-third-party-integrations",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/data-process-integration.md",
+      "redirect_url": "../finance-operations/data-process-integration",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/deferred-put-processing.md",
+      "redirect_url": "../finance-operations/deferred-put-processing",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/developer-tools-as-installable-components.md",
+      "redirect_url": "../finance-operations/developer-tools-as-installable-components",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/dock-management-planning.md",
+      "redirect_url": "../finance-operations/dock-management-planning",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/dynamics-365-asset-management.md",
+      "redirect_url": "../finance-operations/dynamics-365-asset-management",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/dynamics365-finance.md",
+      "redirect_url": "../finance-operations/dynamics365-finance",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/dynamics365-supply-chain-management.md",
+      "redirect_url": "../finance-operations/dynamics365-supply-chain-management",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/embed-powerbi.com-solutions-directly-into-analytical-workspaces.md",
+      "redirect_url": "../finance-operations/embed-powerbi.com-solutions-directly-into-analytical-workspaces",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/expanded-regional-coverage-regulatory-configuration-service-china--europe.md",
+      "redirect_url": "../finance-operations/expanded-regional-coverage-regulatory-configuration-service-china--europe",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/expanded-regional-coverage-regulatory-configuration-service-china.md",
+      "redirect_url": "../finance-operations/expanded-regional-coverage-regulatory-configuration-service-china",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/extended-chart-control-options-now-include-solid-gauge-visualizations.md",
+      "redirect_url": "../finance-operations/extended-chart-control-options-now-include-solid-gauge-visualizations",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/external-catalog-enhancements.md",
+      "redirect_url": "../finance-operations/external-catalog-enhancements",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/dynamics365-finance-operations-data-common-data-service-phase-2.md",
+      "redirect_url": "../finance-operations/finance-operations-data-common-data-service-phase-2",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/dynamics365-finance-operations-data-common-data-service.md",
+      "redirect_url": "../finance-operations/finance-operations-data-common-data-service",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/further-catch-weight-integration-10.0.1.md",
+      "redirect_url": "../finance-operations/further-catch-weight-integration-10.0.1",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/further-catch-weight-integration-10.0.2.md",
+      "redirect_url": "../finance-operations/further-catch-weight-integration-10.0.2",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/further-catch-weight-integration-10.0.3.md",
+      "redirect_url": "../finance-operations/further-catch-weight-integration-10.0.3",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/further-catch-weight-integration-10.0.4.md",
+      "redirect_url": "../finance-operations/further-catch-weight-integration-10.0.4",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/further-catch-weight-integration-10.0.5.md",
+      "redirect_url": "../finance-operations/further-catch-weight-integration-10.0.5",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/geo-expansion-south-africa-uae-france.md",
+      "redirect_url": "../finance-operations/geo-expansion-south-africa-uae-france",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/globalization.md",
+      "redirect_url": "../finance-operations/globalization",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/hazardous-materials-product-information-management.md",
+      "redirect_url": "../finance-operations/hazardous-materials-product-information-management",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/hazardous-materials-shipping-documentation.md",
+      "redirect_url": "../finance-operations/hazardous-materials-shipping-documentation",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/implementation-metrics.md",
+      "redirect_url": "../finance-operations/implementation-metrics",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/improved-experience-mobile-devices.md",
+      "redirect_url": "../finance-operations/improved-experience-mobile-devices",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/index.md",
+      "redirect_url": "../finance-operations/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/intelligent-insights-financials.md",
+      "redirect_url": "../finance-operations/intelligent-insights-financials",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/inventory-on-hand-service.md",
+      "redirect_url": "../finance-operations/inventory-on-hand-service",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/location-product-dimension-mixing.md",
+      "redirect_url": "../finance-operations/location-product-dimension-mixing",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/location-status-logic.md",
+      "redirect_url": "../finance-operations/location-status-logic",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/location-wizard-enhancements.md",
+      "redirect_url": "../finance-operations/location-wizard-enhancements",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/material-handlingwarehouse-automation.md",
+      "redirect_url": "../finance-operations/material-handlingwarehouse-automation",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/migration-self-service-deployments.md",
+      "redirect_url": "../finance-operations/migration-self-service-deployments",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/packing-vs-storage-dimensions.md",
+      "redirect_url": "../finance-operations/packing-vs-storage-dimensions",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/pallet-building-post-packing-station.md",
+      "redirect_url": "../finance-operations/pallet-building-post-packing-station",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/pick-line-grouping.md",
+      "redirect_url": "../finance-operations/pick-line-grouping",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/planned-features.md",
+      "redirect_url": "../finance-operations/planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/platform.md",
+      "redirect_url": "../finance-operations/platform",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/preview-documents-using-embedded-viewer-control.md",
+      "redirect_url": "../finance-operations/preview-documents-using-embedded-viewer-control",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/priority-based-scheduling-batch-jobs.md",
+      "redirect_url": "../finance-operations/priority-based-scheduling-batch-jobs",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/product-variant-uptake-volumetric.md",
+      "redirect_url": "../finance-operations/product-variant-uptake-volumetric",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/purchase-agreement-enhancements.md",
+      "redirect_url": "../finance-operations/purchase-agreement-enhancements",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/purchase-order-delivery-via-cxml.md",
+      "redirect_url": "../finance-operations/purchase-order-delivery-via-cxml",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/put-away-clusters.md",
+      "redirect_url": "../finance-operations/put-away-clusters",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/put-wallput-store.md",
+      "redirect_url": "../finance-operations/put-wallput-store",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/qc-inbound-dock-check.md",
+      "redirect_url": "../finance-operations/qc-inbound-dock-check",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/quality-management---item-sampling.md",
+      "redirect_url": "../finance-operations/quality-management---item-sampling",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/receive-sortation-cluster-putaway.md",
+      "redirect_url": "../finance-operations/receive-sortation-cluster-putaway",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/release-warehouse-rule.md",
+      "redirect_url": "../finance-operations/release-warehouse-rule",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/remove-project-group-dependency-project.md",
+      "redirect_url": "../finance-operations/remove-project-group-dependency-project",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/remove-project-type-dependency-project.md",
+      "redirect_url": "../finance-operations/remove-project-type-dependency-project",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/replenishment-slotting-plan---part-i-slotting.md",
+      "redirect_url": "../finance-operations/replenishment-slotting-plan---part-i-slotting",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/reset-workflow-status-vendor-invoices-unrecoverable-draft.md",
+      "redirect_url": "../finance-operations/reset-workflow-status-vendor-invoices-unrecoverable-draft",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/retail-store-pack-ship.md",
+      "redirect_url": "../finance-operations/retail-store-pack-ship",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/retained-earnings-calculation-enhancements-financial-reporting-when-using-currency-translation.md",
+      "redirect_url": "../finance-operations/retained-earnings-calculation-enhancements-financial-reporting-when-using-currency-translation",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/revenue-recognition.md",
+      "redirect_url": "../finance-operations/revenue-recognition",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/reverse-journal-posting.md",
+      "redirect_url": "../finance-operations/reverse-journal-posting",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/rfq-activities.md",
+      "redirect_url": "../finance-operations/rfq-activities",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/sales-process-control-via-enhanced-order-holds.md",
+      "redirect_url": "../finance-operations/sales-process-control-via-enhanced-order-holds",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/select-consolidation-amount-control-consolidate-online-dual-currency-consolidation.md",
+      "redirect_url": "../finance-operations/select-consolidation-amount-control-consolidate-online-dual-currency-consolidation",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/self-billing-invoice-control-procurement.md",
+      "redirect_url": "../finance-operations/self-billing-invoice-control-procurement",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/self-billing-invoice-control-sales.md",
+      "redirect_url": "../finance-operations/self-billing-invoice-control-sales",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/service-industries.md",
+      "redirect_url": "../finance-operations/service-industries",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/shipment-auto-update.md",
+      "redirect_url": "../finance-operations/shipment-auto-update",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/simplified-localization-configuration-management-regulatory-configuration-service.md",
+      "redirect_url": "../finance-operations/simplified-localization-configuration-management-regulatory-configuration-service",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/simplifying-configuration-tax-extensions-india.md",
+      "redirect_url": "../finance-operations/simplifying-configuration-tax-extensions-india",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/small-package-shipping-sps.md",
+      "redirect_url": "../finance-operations/small-package-shipping-sps",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/split-demand-replenishment-work-create-pick-work-step.md",
+      "redirect_url": "../finance-operations/split-demand-replenishment-work-create-pick-work-step",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/split-work.md",
+      "redirect_url": "../finance-operations/split-work",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/system-directed-cluster-picking.md",
+      "redirect_url": "../finance-operations/system-directed-cluster-picking",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/system-directed-clustering.md",
+      "redirect_url": "../finance-operations/system-directed-clustering",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/trigger-monitor-directly-dynamics365-finance-operations.md",
+      "redirect_url": "../finance-operations/trigger-monitor-directly-finance-operations",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/turn-insignts-into-action-using-context-menu-commands-embedded-power-bi-reports.md",
+      "redirect_url": "../finance-operations/turn-insignts-into-action-using-context-menu-commands-embedded-power-bi-reports",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/urs-based-resource-management-projects-fo.md",
+      "redirect_url": "../finance-operations/urs-based-resource-management-projects-fo",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/user-productivity-filtering-enhancements.md",
+      "redirect_url": "../finance-operations/user-productivity-filtering-enhancements",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/user-productivity-new-grid.md",
+      "redirect_url": "../finance-operations/user-productivity-new-grid",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/user-productivity-personalization-enhancements.md",
+      "redirect_url": "../finance-operations/user-productivity-personalization-enhancements",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/user-productivity-saved-views.md",
+      "redirect_url": "../finance-operations/user-productivity-saved-views",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/vendor-bidding---questions-vendors-summarized-responses.md",
+      "redirect_url": "../finance-operations/vendor-bidding---questions-vendors-summarized-responses",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/visual-refresh-web-client-align-fluent-design-language.md",
+      "redirect_url": "../finance-operations/visual-refresh-web-client-align-fluent-design-language",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/wave-label-printing-enhancements.md",
+      "redirect_url": "../finance-operations/wave-label-printing-enhancements",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/wave-status-visualization.md",
+      "redirect_url": "../finance-operations/wave-status-visualization",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/wave-step-code.md",
+      "redirect_url": "../finance-operations/wave-step-code",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/wave-template-grouping.md",
+      "redirect_url": "../finance-operations/wave-template-grouping",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance-operations/zone-based-replenishment.md",
+      "redirect_url": "../finance-operations/zone-based-replenishment",
+      "redirect_document_id": "false"
+    }
+  ]
 }
