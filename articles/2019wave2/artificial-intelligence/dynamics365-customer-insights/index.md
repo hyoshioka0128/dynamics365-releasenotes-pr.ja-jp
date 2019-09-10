@@ -1,6 +1,6 @@
 ---
 title: Dynamics 365 Customer Insights 2019 年リリース ウェーブ 2 の概要
-description: ''
+description: Dynamics 365 Customer Insights 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: jimholtz
 ms.date: 06/12/2019
@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: 036bc1e5663782255bf2338e5bad56e8534dbffb
-ms.sourcegitcommit: 2e060add192b3a266865b9359307aca104fdee20
+ms.openlocfilehash: 2f6993f08bc1bec6833bb22fefd517770d67cc0f
+ms.sourcegitcommit: ff402b48c827ee8174bf3747d1c43e272102ace9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "1718646"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1848002"
 ---
 # <a name="overview-of-dynamics-365-customer-insights-2019-release-wave-2"></a>Dynamics 365 Customer Insights 2019 年リリース ウェーブ 2 の概要
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]

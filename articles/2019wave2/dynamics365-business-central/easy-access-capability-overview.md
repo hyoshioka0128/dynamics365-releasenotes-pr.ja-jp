@@ -3,18 +3,18 @@ title: 機能概要への容易なアクセス
 description: ロール センターの内容に基づいた製品概要で、Business Central のすぐに使用可能な機能の概要をユーザーに提供します。
 author: kotelko
 ms.reviewer: sgroespe
-ms.date: 07/01/2019
+ms.date: 07/22/2019
 ms.assetid: 134ed6eb-967c-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: blazkote
 dynamics365pdf: true
-ms.openlocfilehash: c7d3c601b915bbaa1e61e8bc3d6beea0dd84f02e
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: a369bcba998be3662015c366ee9b108ba16a8d55
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1723018"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795782"
 ---
 # <a name="easy-access-to-a-capability-overview"></a>機能概要への容易なアクセス
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -35,6 +35,7 @@ ms.locfileid: "1723018"
 <!--feature detail start -->
 さまざまなロール センターの内容に基づく製品の概要がすべてあるので、機能を見つけやすくなります。 これにより、ユーザーは適切なページのナビゲートと発見がずっと簡単になります。これは、ロール センターの概要とその内容としても機能します。 現在のロール センター ナビゲーション バー、コマンド バー、または操作アシストを使用するための補足として、この新しい機能概要では、Business Central のさまざまな領域が提供されており、お客様は集中して生産的な状態を維持できます。
 <!--feature detail end -->
+
 
 
 

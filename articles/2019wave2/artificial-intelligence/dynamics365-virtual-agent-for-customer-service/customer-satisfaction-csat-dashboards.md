@@ -1,20 +1,20 @@
 ---
 title: 顧客満足度 (CSAT) ダッシュボード
 description: 顧客満足度 (CSAT) ダッシュボード
-author: ''
+author: relnotes
 ms.reviewer: shellyha
-ms.date: 06/11/2019
+ms.date: 07/31/2019
 ms.assetid: 1264278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
-ms.openlocfilehash: 31c0080e8e618708062b8a0c1a767bb141cc11a0
-ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.openlocfilehash: ac1e34eb862f966db44c2c513ba62250702b5058
+ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1693574"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "1856162"
 ---
 # <a name="customer-satisfaction-csat-dashboards"></a>顧客満足度 (CSAT) ダッシュボード
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
@@ -34,6 +34,7 @@ ms.locfileid: "1693574"
  
 CSAT 推進要因には、指定期間における顧客満足度への影響の順にトピックが表示されます。 これらの実用的な分析情報により、顧客サービス マネージャーは、全体的なカスタマー エクスペリエンスを促進するためのトピックの管理に関する情報を得られます。
 <!--feature detail end -->
+
 
 
 

@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: clausba
 dynamics365pdf: true
-ms.openlocfilehash: f54b3e13fa54b30ec3d250b6f440a74d968dbf34
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 7d13ac1dc481bbdf6636d8b0480dc01892149394
+ms.sourcegitcommit: cd3da2e6c7296236bd0b4f3d9d23c8724d64296b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1723029"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "1732024"
 ---
 # <a name="application-lifecycle-management"></a>アプリケーション ライフサイクル管理
 

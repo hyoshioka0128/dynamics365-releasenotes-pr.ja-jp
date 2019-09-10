@@ -3,18 +3,18 @@ title: 顧客モデルで取引先企業と取引先担当者をリンクする�
 description: ユーザーが取引先担当者 (個人) と取引先企業 (組織) の間にリレーションシップを作成して、作成されたすべての統一、活動、分析情報を組織 (B2B)、個人 (B2C)、またはその両方に適用できるようにします。
 author: relnotes
 ms.reviewer: jimholtz
-ms.date: 06/19/2019
+ms.date: 07/31/2019
 ms.assetid: 2c64278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: 6982ea7620f2003d15cad696302490709d6405ae
-ms.sourcegitcommit: 2e060add192b3a266865b9359307aca104fdee20
+ms.openlocfilehash: 081d786a73de7ec91345fa53f1bb1bae21ea656c
+ms.sourcegitcommit: ff402b48c827ee8174bf3747d1c43e272102ace9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "1718613"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1847969"
 ---
 # <a name="ability-to-link-accounts-and-contacts-in-the-customer-model"></a>顧客モデルで取引先企業と取引先担当者をリンクする機能
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
@@ -38,6 +38,7 @@ ms.locfileid: "1718613"
 
 そのリレーションシップは、セグメントやメジャーなど、Customer Insights の他の分野でも利用可能になります。
 <!--feature detail end -->
+
 
 
 

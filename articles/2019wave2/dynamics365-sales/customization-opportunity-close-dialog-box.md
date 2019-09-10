@@ -3,18 +3,18 @@ title: '[営業案件のクローズ] ダイアログ ボックスのカスタ�
 description: この機能強化により、営業案件クローズという重要なステップのために製品をさらにカスタマイズすることができます。 [営業案件のクローズ] ダイアログ ボックスは、組織固有のビジネス ニーズに基づいてカスタマイズできます。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 06/19/2019
+ms.date: 07/22/2019
 ms.assetid: ce61278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: pachatte
 dynamics365pdf: true
-ms.openlocfilehash: 734486f4ab960aafb19f990b53c5c01f26cec1d4
-ms.sourcegitcommit: 0c53eb8711a7594ec968a8d531a78b6ab5b98bf6
+ms.openlocfilehash: f2f36fb9d93b0d8149196d98f6670f1398644788
+ms.sourcegitcommit: 0b8be9c5138c1e2b7f46527bd303cae5207cced7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "1725460"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "1791398"
 ---
 # <a name="customization-of-opportunity-close-dialog-box"></a>[営業案件のクローズ] ダイアログ ボックスのカスタマイズ
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -43,7 +43,7 @@ ms.locfileid: "1725460"
 - 営業担当者は、デスクトップまたはモバイル アプリで営業案件をクローズし、営業案件のクローズに関して組織が必要とする関連詳細情報を提供することができます。
 <!--feature detail end -->
 
-![営業案件のクローズ エクスペリエンス](media/opportunity-close.jpg "営業案件のクローズ エクスペリエンス")
+![営業案件のクローズ](media/opportunity-close.jpg "営業案件のクローズ")
 <!-- Picture 1 -->
 
 > [!NOTE]

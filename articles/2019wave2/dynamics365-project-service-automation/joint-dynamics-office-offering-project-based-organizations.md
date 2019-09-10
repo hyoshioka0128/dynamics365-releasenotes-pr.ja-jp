@@ -1,20 +1,20 @@
 ---
 title: プロジェクト ベースの組織向けに Dynamics 365 と Office のオファリングを結合する
 description: Microsoft Project と Dynamics 365 Project Service Automation の最善の活用
-author: ''
+author: relnotes
 ms.reviewer: kfend
-ms.date: 06/18/2019
+ms.date: 08/01/2019
 ms.assetid: 2662278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: rumant
 dynamics365pdf: true
-ms.openlocfilehash: 62d9836ba28541e0444c6e1c22170628c40f4650
-ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.openlocfilehash: e2084157df90ab22e82ce902198f38d39c8e1ff9
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "1689946"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854583"
 ---
 # <a name="joint-dynamics-365-and-office-offering-for-project-based-organizations"></a>プロジェクト ベースの組織向けに Dynamics 365 と Office のオファリングを結合する
 [!include[dynamics365-project-service-automation banner](../includes/dynamics365-project-service-automation.md)]
@@ -34,6 +34,7 @@ Common Data Service に基づく新しいプロジェクト サービスソ リ�
 
 2019 年リリース ウェーブ 2 はこの新しいプロジェクト サービスを基に構築され、Microsoft Project での Dynamics 365 for Project Service Automation の機能が単一のエクスペリエンスで提供されます。 これには、予約、販売、価格設定、原価計算、時間と経費の獲得、承認とプロジェクト実績などの機能が含まれます。 これらの機能は、**プロジェクト用の Dynamics Sales Extension** を表すソリューションとしてパッケージ化されます。 現時点では、新しいお客様はこれらの共同機能を利用することができます。 この新しいエクスペリエンスが利用可能になった後、既存の Project Service Automation のお客様のためにアップグレード戦略をリリースします。
 <!--feature detail end -->
+
 
 
 

@@ -1,20 +1,20 @@
 ---
 title: 英語以外のサポート案件タイトルのトピック生成に対するサポートの向上
 description: 英語以外のサポート案件タイトルのトピック生成に対するサポートの向上
-author: ''
+author: relnotes
 ms.reviewer: shellyha
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: a6c5c9b7-a471-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 dynamics365pdf: true
-ms.openlocfilehash: 1e65431a9ccaff55c36d23ee160d785fc07088f1
-ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.openlocfilehash: 86a9ce47cbc3c11b3692b41eea9ddf0472dc356c
+ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1693343"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "1855843"
 ---
 # <a name="improved-support-for-topic-generation-for-non-english-case-titles"></a>英語以外のサポート案件タイトルのトピック生成に対するサポートの向上
 [!include[artificial-intelligence/dynamics365-customer-service-insights banner](../includes/artificial-intelligence/dynamics365-customer-service-insights.md)]

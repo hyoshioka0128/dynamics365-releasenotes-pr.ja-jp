@@ -3,18 +3,18 @@ title: C/AL 定義から AL テーブル定義にテーブルを変換する
 description: Sync-NAVApp PowerShell コマンドレットを使用することで、パートナーは、データベースのオーバーヘッドを最小限に抑えながら、アップグレード コードを記述する必要なく、C/AL で定義されたデータベース内のすべてのテーブルを AL で定義されたテーブルに変換できます。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 07/01/2019
+ms.date: 07/22/2019
 ms.assetid: 0d941009-b786-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: kepontop
 dynamics365pdf: true
-ms.openlocfilehash: a055d97e9d18cf843e9416d109366efa681d2017
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 8882c18272d09b1e29c90b45165cf6fff1e92879
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1723010"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795815"
 ---
 # <a name="convert-tables-from-cal-definitions-to-al-table-definitions"></a>C/AL 定義から AL テーブル定義にテーブルを変換する
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -32,6 +32,7 @@ ms.locfileid: "1723010"
 <!--feature detail start -->
 Windows PowerShell のコマンドレット Sync-NAVApp が更新され、データベースのオーバーヘッドを最小限に抑えながら、アップグレード コードを記述する必要なく、すべての C/AL テーブルを AL テーブルに変換できます。 コマンド `Sync-NAVApp -Mode BaseAppUpgrade` を使用すると、テナント データベースのテーブルの名前が、AL テーブルの命名規則に準拠するように変更されます。 これは、テナントの技術的なアップグレードに対応し、以前のバージョンの基本アプリケーションのテーブル構造が AL アプリ用のテーブル構造に変換されます。
 <!--feature detail end -->
+
 
 
 

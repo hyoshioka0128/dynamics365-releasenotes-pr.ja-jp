@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: clausba
 dynamics365pdf: true
-ms.openlocfilehash: 6a0ecb8db0cd3381243612ec2033dbd01ac767f5
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 50046787d3074552df05419dd74c7efcf42402e8
+ms.sourcegitcommit: cd3da2e6c7296236bd0b4f3d9d23c8724d64296b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1723051"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "1731914"
 ---
 # <a name="modern-developer-tools"></a>最新の開発者ツール
 

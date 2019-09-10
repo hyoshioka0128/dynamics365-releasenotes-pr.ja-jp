@@ -1,7 +1,7 @@
 ---
 title: Dynamics 365 for Retail 2019 年リリース ウェーブ 2 の概要
-description: Dynamics 365 for Retail 2019 年リリース ウェーブ 2 の概要
-author: ''
+description: ''
+author: relnotes
 ms.reviewer: josaw
 ms.date: 06/17/2019
 ms.assetid: 47a3fad1-755d-e911-a977-000d3a4e307a
@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: jeffbl
 dynamics365pdf: true
-ms.openlocfilehash: 807d7276c1578f1ed65b43d98e15442bc8b78718
-ms.sourcegitcommit: ce44199897bc0c276cd02c99cc1d216f198734b0
+ms.openlocfilehash: 96740fca4e6d99402051984a799190d7099c5773
+ms.sourcegitcommit: d227be86ff2309663c0001fda5a2cd2caf26158a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1691812"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "1780331"
 ---
 # <a name="overview-of-dynamics-365-for-retail-2019-release-wave-2"></a>Dynamics 365 for Retail 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]

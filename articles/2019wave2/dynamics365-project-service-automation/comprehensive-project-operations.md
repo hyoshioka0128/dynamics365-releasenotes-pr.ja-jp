@@ -1,20 +1,20 @@
 ---
 title: 包括的なプロジェクト運用
 description: プロジェクトベースの組織に包括的なエンドツーエンドの運用ソリューションを提供する新しいイニシアチブ。
-author: ''
+author: relnotes
 ms.reviewer: kfend
-ms.date: 06/17/2019
+ms.date: 08/01/2019
 ms.assetid: 2862278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: rumant
 dynamics365pdf: true
-ms.openlocfilehash: 48ee46e449577d1cfa01a53a7798e20dbdeeeac5
-ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.openlocfilehash: 770cd1a868452fbc3a7ab9954539fab8e8205f9a
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "1689947"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854605"
 ---
 # <a name="comprehensive-project-operations"></a>包括的なプロジェクト運用
 [!include[dynamics365-project-service-automation banner](../includes/dynamics365-project-service-automation.md)]
@@ -46,6 +46,7 @@ ms.locfileid: "1689947"
 
 - **Project Service Automation プロジェクトの収益認識**: Project Service Automation で発生し、Project Service Automation アプリで管理されているプロジェクトの場合、そのデータの Finance and Operations サービス業モジュールへの統合がすぐに可能になります。これにより、Finance and Operations でビジネス プロセスを継続できます。 プロジェクトは、Project Service Automation で販売から見積送り状作成までを管理でき、Finance and Operations サービス業では顧客向けの請求書の生成と収益認識が可能になります。
 <!--feature detail end -->
+
 
 
 

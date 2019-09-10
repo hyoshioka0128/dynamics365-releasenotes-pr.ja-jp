@@ -1,27 +1,27 @@
 ---
 title: スロット充足機能
 description: スロット充足機能
-author: ''
+author: relnotes
 ms.reviewer: shellyha
-ms.date: 06/11/2019
+ms.date: 07/31/2019
 ms.assetid: 1064278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
-ms.openlocfilehash: 2e4748b8e63b1191d976171ba44dd9c330bd62ca
-ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.openlocfilehash: 0bf8b34e5227f8e9f365fc1d5ac3cc110edc1d1b
+ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1694103"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "1856121"
 ---
 # <a name="slot-filling-capabilities"></a>スロット充足機能
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|2019 年 7 月| 2019 年 10 月|
+|管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
 
 
 
@@ -58,6 +58,7 @@ ms.locfileid: "1694103"
 
 **ボット:**    *ワシントン州レドモンドの木曜日の天気予報は、晴れですが雨が降るかもしれません...*
 <!--feature detail end -->
+
 
 
 

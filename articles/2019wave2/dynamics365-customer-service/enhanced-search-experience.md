@@ -1,27 +1,27 @@
 ---
 title: 検索エクスペリエンスの強化
 description: 検索エクスペリエンスの強化
-author: ''
+author: relnotes
 ms.reviewer: kabala
-ms.date: 06/11/2019
+ms.date: 07/24/2019
 ms.assetid: 0262278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: ramakri
+ms.author: mahesh
 dynamics365pdf: true
-ms.openlocfilehash: 6122d38aadb49004936ce475ea197b8ef91062fe
-ms.sourcegitcommit: ee44b28e9799b06d7bb98c91d30c40dd9aadeb75
+ms.openlocfilehash: 235c3016736e0e4cdbde3c4ac44541ee98b66660
+ms.sourcegitcommit: 4e5c18a534fd5b7aaddfe01f66edb1d0b466497b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "1696937"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1793114"
 ---
 # <a name="enhanced-search-experience"></a>検索エクスペリエンスの強化
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
 | ---------- | ---------- |---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2020 年 1 月|いいえ |
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 2020 年 1 月|いいえ |
 
 
 
@@ -34,10 +34,11 @@ ms.locfileid: "1696937"
 
 主な機能強化は次のとおりです。
 
-- 検索のカスタマイズ: 企業には、すぐに使用可能な属性のリストに含まれていない属性に基づいて検索するためのエージェントが必要です。 検索エクスペリエンスの強化により、検索フィールドを簡単にカスタマイズできます。
+- **検索のカスタマイズ**: 企業には、すぐに使用可能な属性のリストに含まれていない属性に基づいて検索するためのエージェントが必要です。 検索エクスペリエンスの強化により、検索フィールドを簡単にカスタマイズできます。
 
-- より迅速で直感的なエージェントのエクスペリエンス: エージェントは、使いやすさが向上した検索とリンクのエクスペリエンス向上の恩恵を受けるため、生産性の KPI を達成できます。
+- **より迅速で直感的なエージェントのエクスペリエンス**: エージェントは、使いやすさが向上した検索とリンクのエクスペリエンス向上の恩恵を受けるため、生産性の KPI を達成できます。
 <!--feature detail end -->
+
 
 
 

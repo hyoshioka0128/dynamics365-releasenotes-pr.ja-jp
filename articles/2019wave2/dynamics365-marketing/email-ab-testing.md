@@ -3,18 +3,18 @@ title: メールの A/B テスト
 description: メールの A/B テスト
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 06/11/2019
+ms.date: 07/31/2019
 ms.assetid: b861278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: bcd8f3a51d5ffa1aab4b309ee3dccc3da7f2f7bb
-ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.openlocfilehash: 029be1e7366004323d18f620de2e9ddddc5e638d
+ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1693937"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "1856195"
 ---
 # <a name="email-ab-testing"></a>メールの A/B テスト
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]

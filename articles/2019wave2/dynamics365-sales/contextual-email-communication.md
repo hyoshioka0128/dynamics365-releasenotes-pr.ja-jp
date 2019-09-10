@@ -3,25 +3,25 @@ title: 状況依存のメール通信
 description: メールは、顧客とコミュニケーションをとる事実上すべての営業担当者にとって中心的なシナリオです。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 07/01/2019
+ms.date: 07/22/2019
 ms.assetid: ca61278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: goravi
 dynamics365pdf: true
-ms.openlocfilehash: 3116a5b1d39a9e9ad8299afa520ba8f392c1d309
-ms.sourcegitcommit: 0c53eb8711a7594ec968a8d531a78b6ab5b98bf6
+ms.openlocfilehash: 79c9dcb201f2aa9ebcac5e7be9d151b0160d2021
+ms.sourcegitcommit: 0b8be9c5138c1e2b7f46527bd303cae5207cced7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "1725471"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "1791431"
 ---
 # <a name="contextual-email-communication"></a>状況依存のメール通信
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
 | ---------- | ---------- |---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| |いいえ |
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| |いいえ |
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -44,6 +44,7 @@ Microsoft は Dynamics 365 for Sales と Outlook の統合をいくつか提供�
 
 > [!NOTE]
 > この機能は、統一インターフェイスでのみ使用できます。
+
 
 
 

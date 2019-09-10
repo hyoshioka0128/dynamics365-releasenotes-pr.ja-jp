@@ -1,7 +1,7 @@
 ---
 title: Attract
 description: ''
-author: ''
+author: relnotes
 ms.reviewer: andreabichsel
 ms.date: 06/13/2019
 ms.assetid: c4096b69-725d-e911-a973-000d3a1c79c5
@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: yukom
 dynamics365pdf: true
-ms.openlocfilehash: 2d4887af3e0dc97319a1d93ce1129d49796b212d
-ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.openlocfilehash: 38c4779d9285a88d93c3994405300954a0b62f17
+ms.sourcegitcommit: 4be2e013c683c32cf589f36d339bded404666b38
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "1686157"
+ms.lasthandoff: 07/08/2019
+ms.locfileid: "1731090"
 ---
 # <a name="attract"></a>Attract
 

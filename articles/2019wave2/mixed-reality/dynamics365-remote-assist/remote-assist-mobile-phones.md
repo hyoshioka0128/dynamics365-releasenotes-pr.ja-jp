@@ -1,20 +1,20 @@
 ---
 title: モバイル デバイス向け Remote Assist
 description: モバイル デバイス向け Remote Assist
-author: ''
+author: relnotes
 ms.reviewer: v-brycho
-ms.date: 06/11/2019
+ms.date: 08/01/2019
 ms.assetid: 6a64278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: jaarmeni
 dynamics365pdf: true
-ms.openlocfilehash: 25e9bf2d4514fc095c7e8c04560a6abee2a83b23
-ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.openlocfilehash: 04022af2ff7cd5be12e49ef429c1cc0f3cacfd51
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "1689932"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1854352"
 ---
 # <a name="remote-assist-for-mobile-phones"></a>モバイル デバイス向け Remote Assist
 [!include[mixed-reality/dynamics365-remote-assist banner](../includes/mixed-reality/dynamics365-remote-assist.md)]
@@ -34,6 +34,7 @@ ms.locfileid: "1689932"
 
 Remote Assist モバイル アプリケーションでは、HoloLens デバイスの能力の制限のために Remote Assist のニーズのすべてを満たすことができないお客様のための経路が提供されます。 携帯電話が備えているスケールのため、このアプリでは Remote Assist の使用方法も広くなります。
 <!--feature detail end -->
+
 
 
 

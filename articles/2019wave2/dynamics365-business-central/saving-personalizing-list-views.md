@@ -2,19 +2,19 @@
 title: リスト ビューの保存とパーソナライズ
 description: リスト ビューの保存とパーソナライズ
 author: mikebcMSFT
-ms.reviewer: sgroespe
-ms.date: 07/01/2019
+ms.reviewer: edupont
+ms.date: 07/22/2019
 ms.assetid: 386fe1f3-5f76-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: ede80c22b615969d99432b8110789a85531435e2
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 2441e5c6f2b8db5825641cee648ae4a0bd6b818c
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1722754"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795309"
 ---
 # <a name="saving-and-personalizing-list-views"></a>リスト ビューの保存とパーソナライズ
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -36,7 +36,7 @@ ms.locfileid: "1722754"
 ユーザーは、自分のリスト フィルターや同様の個人用設定を保存して、異なるデータ スライス方法を作成できるようになります。 リスト ビューには名前が付けられ ("販売している商品" など)、次のような内容になります。
 
 - 合計と分析コードについてのフィルター。
-- 正しいデータに動的にフィルター処理するためのフィルター トークン (%MyCustomers など)。
+- 正しいデータに動的にフィルター処理するためのフィルター トークン ("%自分の顧客" など)。
 - リストのより複雑で調整されたビューを可能にするさまざまなソート。
 
 ユーザーはリストの異なるビューをすばやく切り替えることができます。これには、独自の個人的なビューや、ビジネス アプリケーション、アプリ、ロールに標準で付属するビューが含まれます。
@@ -46,6 +46,7 @@ ms.locfileid: "1722754"
 
 ![リスト ビューへの変更保存の概念設計](media/list-views.png "リスト ビューへの変更保存の概念設計")
 <!-- Picture 1 -->
+
 
 
 

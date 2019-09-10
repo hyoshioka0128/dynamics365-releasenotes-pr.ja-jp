@@ -3,18 +3,18 @@ title: サインアップの評価
 description: サインアップの評価
 author: relnotes
 ms.reviewer: v-jegrif
-ms.date: 06/19/2019
+ms.date: 07/24/2019
 ms.assetid: 8f8437b5-cf78-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: v-jegrif
 dynamics365pdf: true
-ms.openlocfilehash: ac1fd1034cb6f1885801a9fbe91c5c2ad0893251
-ms.sourcegitcommit: 38a8478625bbe51d90e5b9d2af65933331c1fdb6
+ms.openlocfilehash: 9142c11fa7dbfda484e5acc8a4b670b5c4e3ca9a
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1718800"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795749"
 ---
 # <a name="sign-up-assessment"></a>サインアップの評価
 [!include[artificial-intelligence/dynamics365-fraud-protection banner](../includes/artificial-intelligence/dynamics365-fraud-protection.md)]
@@ -32,6 +32,7 @@ ms.locfileid: "1718800"
 <!--feature detail start -->
 詐欺行為を犯そうとしているユーザーは、新しいユーザーとして無料やプロモーションの利益を得るために偽のアカウントを作成したり、企業に対する詐欺攻撃のために後で利用できる休眠アカウントを作成することがあります。 これらの行為は経済的損失につながる可能性があります。 Dynamics 365 Fraud Protection では、エコシステムで作成されたアカウントを評価し、悪用や自動化された攻撃から身を守る機能が、業者に提供されます。 また、正規の顧客への影響を最小限に抑え、シームレスなサインアップを維持するのにも役立ちます。
 <!--feature detail end -->
+
 
 
 

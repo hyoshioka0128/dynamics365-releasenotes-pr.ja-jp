@@ -1,19 +1,19 @@
 ---
 title: Dynamics 365 Guides の新機能と予定されている機能 (2019 年リリース ウェーブ 2)
 description: Dynamics 365 Guides で計画されている機能の概要。
-author: ''
+author: relnotes
 ms.reviewer: v-brycho
-ms.date: 06/18/2019
+ms.date: 08/01/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: lorrainb
 dynamics365pdf: true
-ms.openlocfilehash: 5c235311cb606f9b67765b8bc630c70f9a164421
-ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.openlocfilehash: 2f7b66ca3eb947379581bc66746b72c8686b60d8
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "1688368"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1855408"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-guides"></a>Dynamics 365 Guides の新機能と予定されている機能
 
@@ -35,4 +35,5 @@ ms.locfileid: "1688368"
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化** – これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 

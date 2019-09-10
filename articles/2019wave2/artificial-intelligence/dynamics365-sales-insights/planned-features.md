@@ -1,19 +1,19 @@
 ---
 title: Dynamics 365 Sales Insights の新機能と予定されている機能 (2019 年リリース ウェーブ 2)
 description: Dynamics 365 Sales Insights で計画されている機能の概要。
-author: ''
+author: relnotes
 ms.reviewer: shujoshi
-ms.date: 06/18/2019
+ms.date: 07/25/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: akatz
 dynamics365pdf: true
-ms.openlocfilehash: a84f2f25363640a74652050c3dc9b9bec163d7e5
-ms.sourcegitcommit: 0c53eb8711a7594ec968a8d531a78b6ab5b98bf6
+ms.openlocfilehash: 30f125f83ebbcf5bdfff6b23edd7ae0624cd0cc5
+ms.sourcegitcommit: c1d66f6454e35fb8191632683ff09e1362b8cfcd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "1725339"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "1790352"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-sales-insights"></a>Dynamics 365 Sales Insights の新機能と予定されている機能
 
@@ -38,4 +38,5 @@ ms.locfileid: "1725339"
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化** – これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 

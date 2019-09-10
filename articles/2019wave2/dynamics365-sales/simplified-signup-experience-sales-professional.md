@@ -3,18 +3,18 @@ title: Sales Professional のシンプルなサインアップ エクスペリ�
 description: Dynamics 365 for Sales Professional の試用版のサインアップおよび購入エクスペリエンスの簡素化
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 06/19/2019
+ms.date: 07/22/2019
 ms.assetid: d80b5ad3-3c6c-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: bharavar
 dynamics365pdf: true
-ms.openlocfilehash: b5b1c505c0ef8addc3f85c3a51c6dc0eca40b6b0
-ms.sourcegitcommit: 0c53eb8711a7594ec968a8d531a78b6ab5b98bf6
+ms.openlocfilehash: a8934053407122c6c8bbbc19e96974a9d3001aab
+ms.sourcegitcommit: 0b8be9c5138c1e2b7f46527bd303cae5207cced7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "1725383"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "1791329"
 ---
 # <a name="simplified-signup-experience-for-sales-professional"></a>Sales Professional のシンプルなサインアップ エクスペリエンス
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -48,6 +48,7 @@ Dynamics 365 for Sales Professional の試用および購入のエクスペリ�
 
 > [!NOTE]
 > この機能は、統一インターフェイスでのみ使用できます。
+
 
 
 

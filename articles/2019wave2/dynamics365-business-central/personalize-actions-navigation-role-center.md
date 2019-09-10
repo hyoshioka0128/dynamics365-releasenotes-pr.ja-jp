@@ -3,18 +3,18 @@ title: ホーム ページでのアクションとナビゲーションのカス
 description: アクションやナビゲーション メニューなど、ロール センターでより多くのコンテンツを再編成して、ワークスペースをさらにパーソナライズします。
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 07/01/2019
+ms.date: 07/22/2019
 ms.assetid: 23b6ec94-e46b-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 59a433540567cedbae1c639c695d276043b8c77a
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 8d567884d2f099ff94d9e860d6bc366a8d98e403
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1722787"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795364"
 ---
 # <a name="personalize-actions-and-navigation-on-your-home-page"></a>ホーム ページでのアクションとナビゲーションのカスタマイズ
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -49,6 +49,7 @@ Business Central は、各企業、部門、ユーザーに固有のニーズに
 
 他のすべてのパーソナライズと同様に、変更はすぐに有効になり、ログインしているデバイスに関係なく、ユーザーと共に移動します。
 <!--feature detail end -->
+
 
 
 

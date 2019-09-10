@@ -1,20 +1,20 @@
 ---
 title: キャンバス テーマをカスタマイズする
 description: キャンバス テーマをカスタマイズする
-author: ''
+author: relnotes
 ms.reviewer: shellyha
-ms.date: 06/11/2019
+ms.date: 07/31/2019
 ms.assetid: 0264278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
-ms.openlocfilehash: c83f184d3e83ee2cafee4371b3f6d66e43c7167e
-ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.openlocfilehash: 367a63068541fdd177831a33bcee953ccce0ce4b
+ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1693607"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "1856151"
 ---
 # <a name="customize-the-canvas-themes"></a>キャンバス テーマをカスタマイズする
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
@@ -40,6 +40,7 @@ Dynamics 365 Virtual Agent for Customer Service では、アバター、背景�
 ![](media/customize-canvas-themes-1.png "") -->
 <!-- Picture 1427198134 -->
 <!--feature detail end -->
+
 
 
 

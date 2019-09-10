@@ -1,27 +1,27 @@
 ---
 title: Facebook メッセージング
 description: Facebook メッセンジャーを通じて顧客に働きかけ、時間のあるときに会話に参加できる利便性を提供します。
-author: ''
+author: relnotes
 ms.reviewer: shjais
-ms.date: 06/11/2019
+ms.date: 07/22/2019
 ms.assetid: fc61278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: chali
+ms.author: pbaja
 dynamics365pdf: true
-ms.openlocfilehash: 66e459dba9aa0ed69a57a154205ad150ec842e6a
-ms.sourcegitcommit: ee44b28e9799b06d7bb98c91d30c40dd9aadeb75
+ms.openlocfilehash: 7143a0abab031367a50bb4af7ea3c341b85f07f4
+ms.sourcegitcommit: 4e5c18a534fd5b7aaddfe01f66edb1d0b466497b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "1696541"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1793268"
 ---
 # <a name="facebook-messaging"></a>Facebook メッセージング
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
 | ---------- | ---------- |---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2020 年 1 月|いいえ |
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 2020 年 1 月|いいえ |
 
 
 
@@ -41,6 +41,7 @@ ms.locfileid: "1696541"
 - エージェントは、チャットで使用されているのと同じ統一された状況依存の生産的なインターフェイスを使用して顧客とやり取りし、顧客の問題を解決することができます。
 - スーパーバイザーとマネージャーは、サポート センターを効率的かつ効果的に運営するのに役立つ充実したレポートにアクセスできます。
 <!--feature detail end -->
+
 
 
 

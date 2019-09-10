@@ -1,23 +1,10 @@
 ---
-title: 調査管理
-description: 簡単に調査を追跡し、組織内での調査のメトリックと使用状況を監視する
-author: ''
-ms.reviewer: sbmjais
-ms.date: 06/13/2019
-ms.assetid: ec096b69-725d-e911-a973-000d3a1c79c5
-ms.topic: article
-ms.service: business-applications
-ms.author: welee
-dynamics365pdf: true
-ms.openlocfilehash: 1bcb4ed4ab664896b8d8da0990817c30c78fadcd
-ms.sourcegitcommit: 3f82863eb87b95859df3b5bd727b8b08f7dbed32
+redirect_url: planned-features
+ms.openlocfilehash: e0a99e62b4ac8c21fc840b619ebf7c727f6512f6
+ms.sourcegitcommit: 6fa74e359a9bc284c369b2fe0625be06d0e479ea
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "1696306"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "1732269"
 ---
-# <a name="survey-management"></a>調査管理
-
-[!include[microsoft-forms-pro banner](../includes/microsoft-forms-pro.md)]
-
-調査を受け取った人がどこで回答を止めるかを理解するためにさらに分析情報を取得し、この情報を使用して、調査を顧客に合わせて調整します。 調査管理者は、組織全体での Microsoft Forms Pro の使用状況を分析し、容量の追加に関して情報に基づく決定を行うこともできます。
+リダイレクト ファイルのみ - コンテンツは含まれていません

@@ -1,20 +1,20 @@
 ---
 title: Microsoft Flow でのバックエンド システムからのアクションまたはデータへのアクセスの有効化
 description: Microsoft Flow でのバックエンド システムからのアクションまたはデータへのアクセスの有効化
-author: ''
+author: relnotes
 ms.reviewer: shellyha
-ms.date: 06/11/2019
+ms.date: 07/31/2019
 ms.assetid: fc63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
-ms.openlocfilehash: 858911dee8200147108c0e625544c3faa97b2201
-ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.openlocfilehash: 2c243ccdd7690fd261bcff6f3be0fc1c2ff3b1ed
+ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1693926"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "1856109"
 ---
 # <a name="enable-actions-or-access-data-from-back-end-systems-with-microsoft-flow"></a>Microsoft Flow でのバックエンド システムからのアクションまたはデータへのアクセスの有効化
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
@@ -44,6 +44,7 @@ Microsoft Flow には、一般的なサービスへの何百ものコネクタ�
 <!--
 ![](media/enable-actions-or-access-data-backend-systems-using-flows-2.png "")--> <!-- Picture 1566914757 -->
 <!--feature detail end -->
+
 
 
 

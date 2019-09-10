@@ -2,19 +2,19 @@
 title: 大きな品目相互参照番号を書き込む
 description: 最大 50 文字の長さの品目相互参照番号を入力して保管できます。 以前は 20 文字でした。
 author: relnotes
-ms.reviewer: sgroespe
-ms.date: 07/01/2019
+ms.reviewer: edupont
+ms.date: 07/22/2019
 ms.assetid: 3ad3b355-5075-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: e092dcf06066f925d8a1e82138e443b4b98697b0
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 25b95062ea01eaee05655c43dd4870ceea8b1522
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1722644"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795287"
 ---
 # <a name="write-larger-item-cross-reference-numbers"></a>大きな品目相互参照番号を書き込む
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -44,7 +44,7 @@ ms.locfileid: "1722644"
 
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
-Dynamics 365 Business Central の機能向上のためのアイデア、提案、フィードバックをお寄せください。 フォーラム (https://aka.ms/bcideas) をご利用ください。
+Dynamics 365 Business Central の機能向上のためのアイデア、提案、フィードバックをお寄せください。 フォーラム ([https://aka.ms/bcideas](https://aka.ms/bcideas)) をご利用ください。
 
 
 

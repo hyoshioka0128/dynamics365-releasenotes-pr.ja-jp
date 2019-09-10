@@ -2,19 +2,19 @@
 title: ビルドと展開でのアプリの依存関係の処理の改善
 description: 依存関係を含む拡張機能のコンパイルと展開では、依存関係グラフが自動的に走査されて、これらが正しい順序で行われることが確認されるので、手動で処理する必要はありません。
 author: relnotes
-ms.reviewer: solsen
-ms.date: 07/01/2019
+ms.reviewer: edupont
+ms.date: 07/22/2019
 ms.assetid: 7e1c615d-886d-e911-a95f-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: pborring
 dynamics365pdf: true
-ms.openlocfilehash: 018d8671cefb5bcbfd95905dccfdbec2d4028d41
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 834a55b29527ab5c5773db477891f8b022562f8c
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1722952"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795551"
 ---
 # <a name="improved-app-dependency-handling-on-build-and-deploy"></a>ビルドと展開でのアプリの依存関係の処理の改善
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -35,6 +35,7 @@ ms.locfileid: "1722952"
 <!--feature detail start -->
 これまでは、依存関係のあるプロジェクトが正しい順序でビルドされることを手動で確認する必要があり、依存関係のある拡張機能を展開するには依存する拡張機能を手動でアンインストールして再インストールする必要がありました。 2019 年リリース ウェーブ 2 では、これはツールによる依存関係グラフの走査によって管理されるようになります。
 <!--feature detail end -->
+
 
 
 

@@ -1,19 +1,19 @@
 ---
 title: Dynamics 365 Layout の新機能と予定されている機能 (2019 年リリース ウェーブ 2)
 description: Dynamics 365 Layout で計画されている機能の概要。
-author: ''
+author: relnotes
 ms.reviewer: v-brycho
-ms.date: 06/18/2019
+ms.date: 08/01/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: lorrainb
 dynamics365pdf: true
-ms.openlocfilehash: c190415ade566f74251bf479151be4f988210ce6
-ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.openlocfilehash: f11c2e78a2ae3fb3c23b9a68cb0f16ee1bc7faa7
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "1688346"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1855397"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-layout"></a>Dynamics 365 Layout の新機能と予定されている機能
 
@@ -35,4 +35,5 @@ ms.locfileid: "1688346"
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化** – これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 

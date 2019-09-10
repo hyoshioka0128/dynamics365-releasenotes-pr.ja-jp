@@ -1,20 +1,20 @@
 ---
 title: 会話のテストとデバッグの強化
 description: 会話のテストとデバッグの強化
-author: ''
+author: relnotes
 ms.reviewer: shellyha
-ms.date: 06/11/2019
+ms.date: 07/31/2019
 ms.assetid: fa63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
-ms.openlocfilehash: 0deb6b483274d810a4b2255a83a801b231d64a6c
-ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.openlocfilehash: ec82ced51324c6a7336efa95283a567328475495
+ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1693332"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "1856206"
 ---
 # <a name="enhanced-conversation-testing-and-debugging"></a>会話のテストとデバッグの強化
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
@@ -36,6 +36,7 @@ Virtual Agent for Customer Service では、ボットを広く展開する前に
 
 対話型チャット バブルを使用すると、ダイアログ内の特定のノードにすばやく移動できるため、ボット作成者は簡単かつ効率的に作成した会話内の問題を識別して修正できます。
 <!--feature detail end -->
+
 
 
 

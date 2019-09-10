@@ -3,18 +3,18 @@ title: Dynamics 365 for Customer Engagement への Customer Insights の注入
 description: 顧客カードの機能強化により、ユーザーは Customer Insights からの分析情報をより簡単に利用できるようになります。
 author: relnotes
 ms.reviewer: jimholtz
-ms.date: 06/19/2019
+ms.date: 07/31/2019
 ms.assetid: 3a64278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: 34e41db65054f18154e0f688026b45958ee15acf
-ms.sourcegitcommit: 2e060add192b3a266865b9359307aca104fdee20
+ms.openlocfilehash: 3031554c96e67e8af627b52592658b421d7ef031
+ms.sourcegitcommit: ff402b48c827ee8174bf3747d1c43e272102ace9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "1718668"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1847998"
 ---
 # <a name="infusing-customer-insights-into-dynamics-365-for-customer-engagement"></a>Dynamics 365 for Customer Engagement への Customer Insights の注入
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
@@ -36,6 +36,7 @@ ms.locfileid: "1718668"
 <!--feature detail start -->
 顧客カードのさまざまな機能強化には、メジャーの視覚的インジケーター、ユーザーにソース ドキュメントを指示するためのデータ ソースの表示機能、フィールドの並べ替えオプション、タイムライン コントロールの展開と折りたたみの機能などがあります。
 <!--feature detail end -->
+
 
 
 

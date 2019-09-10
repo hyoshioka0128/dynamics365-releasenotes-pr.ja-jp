@@ -3,18 +3,18 @@ title: ユーザーによる KPI とダッシュボードの作成を助ける�
 description: 解約の削減、アップセルの機会の拡大、顧客ロイヤルティの向上などのビジネス目標をユーザーが定義するのに役立つガイド付きエクスペリエンスを提供します。 ビジネス目標の分析情報を強化するためのデータのオンボード、統合、形成を支援するために、関連するセグメント、メジャー、Customer Insights を自動的に推奨します。
 author: relnotes
 ms.reviewer: jimholtz
-ms.date: 06/19/2019
+ms.date: 07/31/2019
 ms.assetid: 3064278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: 9f25cb050038189c186f54011791a642441e8c5d
-ms.sourcegitcommit: 2e060add192b3a266865b9359307aca104fdee20
+ms.openlocfilehash: da351f3c41b63164672e7d5b89ec482ad0f9c8b0
+ms.sourcegitcommit: ff402b48c827ee8174bf3747d1c43e272102ace9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "1718679"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1848090"
 ---
 # <a name="guided-experience-helps-users-to-create-kpis-and-dashboards"></a>ユーザーによる KPI とダッシュボードの作成を助けるガイド付きエクスペリエンス
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
@@ -39,6 +39,7 @@ ms.locfileid: "1718679"
 - **ガイド付きエクスペリエンス**により、ユーザーは事前定義されたビジネス目標 (例: 顧客解約の削減) のリストから選択することができます。 このウィザードでは、どの分析情報を作成するかについてのレコメンデーションが提供されます。
 - **ビジネス目標ダッシュボード**では、ユーザーはビジネス目標の達成に向けた進捗状況を追跡できます。
 <!--feature detail end -->
+
 
 
 

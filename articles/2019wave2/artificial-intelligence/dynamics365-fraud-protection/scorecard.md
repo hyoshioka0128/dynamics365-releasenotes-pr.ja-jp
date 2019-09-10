@@ -3,21 +3,21 @@ title: スコアカード
 description: スコアカード
 author: relnotes
 ms.reviewer: v-jegrif
-ms.date: 06/19/2019
+ms.date: 07/24/2019
 ms.assetid: a646b46f-547b-e911-a960-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: v-jegrif
 dynamics365pdf: true
-ms.openlocfilehash: 04b269600fc9ad9700a28d8faccd4036ece5d9f4
-ms.sourcegitcommit: 38a8478625bbe51d90e5b9d2af65933331c1fdb6
+ms.openlocfilehash: f67c1e41fb8c7825edbe275be85cfa590decd46a
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1718932"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795628"
 ---
 # <a name="scorecard"></a>スコアカード
-
+[!include[artificial-intelligence/dynamics365-fraud-protection banner](../includes/artificial-intelligence/dynamics365-fraud-protection.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
@@ -32,6 +32,7 @@ ms.locfileid: "1718932"
 <!--feature detail start -->
 スコアカードを使用して、詐欺防止の月ごとのパフォーマンスを把握します。 評価エクスペリエンスでは、スコアカードを使用して Dynamics 365 Fraud Protection の能力を評価できます。 保護エクスペリエンスでは、記録システムとしての Dynamics 365 Fraud Protection のリアルタイム パフォーマンスを監視できます。 スコアカードは、事前定義された属性、市場、および製品カテゴリに基づいてフィルター処理およびピボットすることができ、主要業績評価指標 (KPI) の傾向に関する貴重なスナップショットを提供します。
 <!--feature detail end -->
+
 
 
 

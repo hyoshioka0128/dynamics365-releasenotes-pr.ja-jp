@@ -1,19 +1,19 @@
 ---
-title: Dynamics 365 Fraud Protection の新機能と予定されている機能
+title: Dynamics 365 Fraud Protection の新機能と予定されている機能 (2019 年リリース ウェーブ 2)
 description: Dynamics 365 Fraud Protection で計画されている機能の概要。
-author: ''
+author: relnotes
 ms.reviewer: v-jegrif
-ms.date: 07/01/2019
+ms.date: 07/25/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: jayna
 dynamics365pdf: true
-ms.openlocfilehash: 2573965d7b9d7db9b45c3cd45c03bf5de8edeee1
-ms.sourcegitcommit: 38a8478625bbe51d90e5b9d2af65933331c1fdb6
+ms.openlocfilehash: 08524a03f7bd9f6cde5d399f60a17e1ea1d0f810
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1718888"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795573"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-fraud-protection"></a>Dynamics 365 Fraud Protection の新機能と予定されている機能
 
@@ -46,4 +46,5 @@ ms.locfileid: "1718888"
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化** – これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 

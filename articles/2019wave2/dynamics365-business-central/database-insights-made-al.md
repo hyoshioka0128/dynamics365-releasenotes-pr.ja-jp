@@ -3,18 +3,18 @@ title: AL で利用可能なデータベース分析情報
 description: デバッガーの 2019 年 4 月リリースから利用できるようになった選択したデータベースの分析情報が、AL から利用可能になります。
 author: relnotes
 ms.reviewer: jswymer
-ms.date: 07/01/2019
+ms.date: 07/22/2019
 ms.assetid: 512e704b-316c-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: kepontop
 dynamics365pdf: true
-ms.openlocfilehash: a017a8587711ab74b8ef160dfb8343b4bf6607a2
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 9e5465674f6e8abc88cedf0eb8dfa377d43a10d6
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1723041"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795793"
 ---
 # <a name="database-insights-made-available-in-al"></a>AL で利用可能なデータベース分析情報
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -35,6 +35,7 @@ AL 開発者は、データベース使用量に関するテストを含むテ�
 <!--feature detail start -->
 デバッガーの 2019 年 4 月リリースから利用できるようになった選択したデータベースの分析情報が、AL から利用可能になります。
 <!--feature detail end -->
+
 
 
 

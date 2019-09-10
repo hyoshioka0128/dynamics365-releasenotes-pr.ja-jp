@@ -1,20 +1,20 @@
 ---
 title: 事前構築されたエンティティまたはカスタム エンティティを通じてガイドを割り当てる
 description: 事前構築されたエンティティまたはカスタム エンティティを通じてガイドを割り当てる
-author: ''
+author: relnotes
 ms.reviewer: v-brycho
-ms.date: 06/11/2019
+ms.date: 08/01/2019
 ms.assetid: 9864278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: algodin
 dynamics365pdf: true
-ms.openlocfilehash: e93a4f011cf59865b01c2d2d05360628eb65f399
-ms.sourcegitcommit: 65042f47a66d9146de8d869a6d1f92b9a5ca9524
+ms.openlocfilehash: 91995075cf9804129c2ef1c82899170ecfe9d1dc
+ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "1688390"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "1855430"
 ---
 # <a name="assign-guides-through-prebuilt-or-custom-entities"></a>事前構築されたエンティティまたはカスタム エンティティを通じてガイドを割り当てる
 [!include[mixed-reality/dynamics365-guides banner](../includes/mixed-reality/dynamics365-guides.md)]
@@ -32,6 +32,7 @@ ms.locfileid: "1688390"
 <!--feature detail start -->
 Dynamics 365 Guides では、お客様が Guides エンティティでビューを定義できるようにする構成が公開されます。 このビューを使用して、サインインしているユーザーに割り当てられるガイドを指定できます。 ユーザーが HoloLens アプリにログインするとガイドの順序指定済みリストが表示されます。これにより、割り当てられたタスクを実行するために必要なコンテンツを簡単に見つけられるようになります。 このビューは、Common Data Service のエンティティから情報を取得します。これにより、お客様は Common Data Service API を通じて Dynamics 365 Guides を既存のシステムと簡単に統合できるようになります。
 <!--feature detail end -->
+
 
 
 

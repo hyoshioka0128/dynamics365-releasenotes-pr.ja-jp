@@ -3,18 +3,18 @@ title: 名刺のスキャン
 description: 名刺をスキャンして Dynamics 365 に読み取ると、入力に無駄な時間を使わなくてすみます。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 07/01/2019
+ms.date: 07/22/2019
 ms.assetid: cc61278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: e537ef8c50b7da9f76062fb2dfdc3f390d51ee77
-ms.sourcegitcommit: 0c53eb8711a7594ec968a8d531a78b6ab5b98bf6
+ms.openlocfilehash: 2dd15ff18ab252aa395b27949da432b9aa77cf5c
+ms.sourcegitcommit: 0b8be9c5138c1e2b7f46527bd303cae5207cced7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "1725450"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "1791409"
 ---
 # <a name="business-card-scan"></a>名刺のスキャン
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -40,11 +40,12 @@ ms.locfileid: "1725450"
 - 名刺スキャン機能は、米国および EU 地域でのみ利用可能です。
 <!--feature detail end -->
 
-![名刺スキャン](media/businesscardscan.png "名刺スキャン")
-<!-- Picture 1 -->
+![名刺スキャン](media/businesscardscan_mockups.png "名刺スキャン")
+<!-- Picture 2 -->
 
 > [!NOTE]
 > この機能は、統一インターフェイスでのみ使用できます。
+
 
 
 

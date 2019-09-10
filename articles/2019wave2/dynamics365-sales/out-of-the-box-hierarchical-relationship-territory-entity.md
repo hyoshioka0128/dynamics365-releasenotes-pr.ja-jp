@@ -3,18 +3,18 @@ title: 担当地域エンティティですぐに使える階層関係
 description: すぐに使用可能な階層関係を使用して、担当地域の階層構造を表示および探索します。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 06/19/2019
+ms.date: 07/22/2019
 ms.assetid: 840e9f34-497e-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: dandalla
 dynamics365pdf: true
-ms.openlocfilehash: df785b9b93c43e9451a9b761cd8a0878b0fda56e
-ms.sourcegitcommit: 0c53eb8711a7594ec968a8d531a78b6ab5b98bf6
+ms.openlocfilehash: 473aab05901c3f1944cb47c0df6cb4ae3d5604db
+ms.sourcegitcommit: 0b8be9c5138c1e2b7f46527bd303cae5207cced7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "1725350"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "1791365"
 ---
 # <a name="out-of-the-box-hierarchical-relationship-on-the-territory-entity"></a>担当地域エンティティですぐに使える階層関係
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -39,6 +39,7 @@ ms.locfileid: "1725350"
 
 > [!NOTE]
 > この機能は、統一インターフェイスでのみ使用できます。
+
 
 
 

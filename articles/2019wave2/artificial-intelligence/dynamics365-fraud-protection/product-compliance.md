@@ -3,18 +3,18 @@ title: 外部コンプライアンスの認定
 description: 外部コンプライアンスの認定
 author: relnotes
 ms.reviewer: v-jegrif
-ms.date: 06/19/2019
+ms.date: 07/24/2019
 ms.assetid: e321143a-c86d-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: amyhre
 dynamics365pdf: true
-ms.openlocfilehash: c02369b5b93d4629b2e68b713cc34b8569d8d17e
-ms.sourcegitcommit: 38a8478625bbe51d90e5b9d2af65933331c1fdb6
+ms.openlocfilehash: 21ff963eb9832180fb4fabb2db807c53f1a2365c
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1718954"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795683"
 ---
 # <a name="external-compliance-certification"></a>外部コンプライアンスの認定
 [!include[artificial-intelligence/dynamics365-fraud-protection banner](../includes/artificial-intelligence/dynamics365-fraud-protection.md)]
@@ -34,6 +34,7 @@ ms.locfileid: "1718954"
 
 Dynamics 365 Fraud Protection は、認定された第三者認証機関により ISO/IEC 27001 および ISO/IEC 27018 に準拠することが認定されます。 これにより、適用されるセキュリティ管理が実施され有効に機能していることの独立した検証が提供されます。 このコンプライアンス検証プロセスの一環として、監査人により、Microsoft のスコープ内のクラウド サービスに Azure の PII 保護のための ISO/IEC 27018 コントロールが組み込まれていることも、適用性の声明において検証されます。 準拠を維持するため、Dynamics 365 Fraud Protection は毎年行われる第三者によるレビューの対象となります。
 <!--feature detail end -->
+
 
 
 

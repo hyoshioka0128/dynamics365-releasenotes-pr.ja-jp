@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: clausba
 dynamics365pdf: true
-ms.openlocfilehash: e44f7d10fdc0c014f860162934cd8950eb526522
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 309ca09bebf762a60f3d62fa1f7d5e9c06d7096e
+ms.sourcegitcommit: cd3da2e6c7296236bd0b4f3d9d23c8724d64296b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1722985"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "1731936"
 ---
 # <a name="empower-isv-acceleration"></a>ISV アクセラレーションを強化する
 

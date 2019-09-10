@@ -3,18 +3,18 @@ title: 発行されたアラームと利息メモをキャンセルする
 description: 発行されたアラームと利息メモを、1 つずつ、またはまとめてキャンセルできます。
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 07/01/2019
+ms.date: 07/22/2019
 ms.assetid: 0a98f298-dc65-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 25ca65b166cc0d3ad465a9e7407cb02fc291358b
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 70fee7b898c3d86bb339bc1d3ffe05045a0a7055
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1722611"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795859"
 ---
 # <a name="cancel-issued-reminders-and-finance-charge-memos"></a>発行されたアラームと利息メモをキャンセルする
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]

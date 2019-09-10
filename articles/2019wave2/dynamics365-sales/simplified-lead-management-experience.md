@@ -3,18 +3,18 @@ title: 簡素化されたリード管理エクスペリエンス
 description: 営業担当者による製品での手作業や不要なナビゲーションを減らし、それによってエンド ユーザーの生産性と顧客満足度を向上させるためのいくつかの改善が、一般的なワークフローとプロセスに対して行われています。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 06/19/2019
+ms.date: 07/22/2019
 ms.assetid: c861278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: pachatte
 dynamics365pdf: true
-ms.openlocfilehash: 6914cee8dacfbd7d3f037623e79d44cb8e6cff67
-ms.sourcegitcommit: 0c53eb8711a7594ec968a8d531a78b6ab5b98bf6
+ms.openlocfilehash: 5ba26a27f4dd4371e596f5869b09dd6dbb9207d4
+ms.sourcegitcommit: 0b8be9c5138c1e2b7f46527bd303cae5207cced7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "1725394"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "1791420"
 ---
 # <a name="simplified-lead-management-experience"></a>簡素化されたリード管理エクスペリエンス
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -45,6 +45,7 @@ ms.locfileid: "1725394"
 
 > [!NOTE]
 > この機能は、従来の Web クライアントと統一インターフェイスの両方で使用できます。
+
 
 
 

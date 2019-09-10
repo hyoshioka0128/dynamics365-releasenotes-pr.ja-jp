@@ -3,18 +3,18 @@ title: データベース バックアップ ファイルをダウンロード�
 description: テナント管理者は、Business Central 環境用のデータベース バックアップ ファイルをダウンロードできます。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 07/01/2019
+ms.date: 07/22/2019
 ms.assetid: 16083fba-b36d-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: jaredha
 dynamics365pdf: true
-ms.openlocfilehash: 88a544e13d5406954f3fb994ed1f9d818466140e
-ms.sourcegitcommit: e5523d6228bfee2d93355b170028731509aed19a
+ms.openlocfilehash: 58cb6a43b52c26d6fa7d7c763f40342744747f5d
+ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "1723084"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1795914"
 ---
 # <a name="ability-to-download-a-database-backup-file"></a>データベース バックアップ ファイルをダウンロードする機能
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]

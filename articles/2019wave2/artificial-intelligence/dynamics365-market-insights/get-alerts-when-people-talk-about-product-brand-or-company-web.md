@@ -3,21 +3,21 @@ title: 自分のトピックについてニュースや新しい分析情報が�
 description: Market Insights アラートを使用して、自社のブランド、製品、会社、業界についての顧客や競合企業による Web 上での発言を追跡します。 毎日または毎週受け取るメールで、特定のトピックに関連した最も重要な出来事を数分で把握します。
 author: relnotes
 ms.reviewer: mhart
-ms.date: 07/01/2019
+ms.date: 07/31/2019
 ms.assetid: 2064278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: victorhe
 dynamics365pdf: true
-ms.openlocfilehash: f88d061b51cd826e35586b1ae9c85493aa26b101
-ms.sourcegitcommit: b61ae70a7ffcd8c0454e03a5304491b3fd8fd3bd
+ms.openlocfilehash: f3e69ce8b046a474f378adeba3eb6b9a9629c45f
+ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "1723260"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "1855854"
 ---
 # <a name="get-email-notifications-when-there-is-news-or-new-insights-about-your-topics"></a>自分のトピックについてニュースや新しい分析情報があるときにメール通知を受け取る
-
+[!include[artificial-intelligence/dynamics365-market-insights banner](../includes/artificial-intelligence/dynamics365-market-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
@@ -71,6 +71,7 @@ Web 上で人が見たり探したりしているものを監視し、話題に�
 
 -  **アラートのグループ化**: 簡単に整理および消費できるように複数の関連トピックを 1 つのダイジェスト通知にまとめることができ、時間の節約と効率の向上に役立ちます。
 <!--feature detail end -->
+
 
 
 

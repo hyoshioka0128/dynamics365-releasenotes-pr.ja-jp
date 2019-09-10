@@ -3,18 +3,18 @@ title: Microsoft Teams 統合の機能拡張
 description: Microsoft Teams の統合によるコラボレーションのメリットに関するフィードバックを顧客やパートナーから取得し、機能の導入をサポートするため、Dynamics 365 では統合エクスペリエンスが強化されています。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 06/19/2019
+ms.date: 07/22/2019
 ms.assetid: de61278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: cindyliu
 dynamics365pdf: true
-ms.openlocfilehash: 4d4892ea2452c674b56818a16e18ae3c88c730c5
-ms.sourcegitcommit: 0c53eb8711a7594ec968a8d531a78b6ab5b98bf6
+ms.openlocfilehash: ebae9f87381cce54d72477fefdf9a8d222208b5d
+ms.sourcegitcommit: 0b8be9c5138c1e2b7f46527bd303cae5207cced7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "1725405"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "1791299"
 ---
 # <a name="microsoft-teams-integration-enhancements"></a>Microsoft Teams 統合の機能拡張
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -41,6 +41,7 @@ Dynamics 365 と Teams の統合は、2019 年 4 月に導入されました。 
 
 > [!NOTE]
 > この機能は、統一インターフェイスでのみ使用できます。
+
 
 
 

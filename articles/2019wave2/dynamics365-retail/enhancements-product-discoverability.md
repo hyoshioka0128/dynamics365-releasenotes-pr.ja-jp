@@ -1,20 +1,20 @@
 ---
 title: 製品の見つけやすさの改善
 description: 製品の見つけやすさの改善
-author: ''
+author: relnotes
 ms.reviewer: josaw
-ms.date: 06/18/2019
+ms.date: 07/22/2019
 ms.assetid: 8463278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: asharchw
 dynamics365pdf: true
-ms.openlocfilehash: e3fe93939ded4eadba80aa13052e81eb3a6f03d6
-ms.sourcegitcommit: ce44199897bc0c276cd02c99cc1d216f198734b0
+ms.openlocfilehash: 17a9e8731947b0d66920b5c92651a58a8ea0cb53
+ms.sourcegitcommit: 4101748c25acf79b22e31a01b73969500926ff91
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1691702"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1794621"
 ---
 # <a name="enhancements-for-product-discoverability"></a>製品の見つけやすさの改善
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
@@ -47,6 +47,7 @@ Microsoft が市場に提供しているソリューションで使用可能な�
 
 - **並べ替え**: この機能拡張により、ユーザーは価格、製品名、製品番号、新規、ベストセラー、最近追加されたものなどの詳細で検索結果を並べ替え、参照し、絞り込むことができます。
 <!--feature detail end -->
+
 
 
 

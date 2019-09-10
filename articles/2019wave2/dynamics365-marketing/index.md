@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: c0e95e06fb5733a8efd5a5186eb85c1117780917
-ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.openlocfilehash: ea099a95c937aec0e0894818de7be25d731e1c8e
+ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1693893"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "1856027"
 ---
 # <a name="overview-of-dynamics-365-for-marketing-2019-release-wave-2"></a>Dynamics 365 for Marketing 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]

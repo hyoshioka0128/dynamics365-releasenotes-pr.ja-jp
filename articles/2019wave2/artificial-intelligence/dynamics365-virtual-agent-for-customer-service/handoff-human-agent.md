@@ -1,7 +1,7 @@
 ---
 title: 人間のエージェントへの引き継ぎ
 description: ボットから人のエージェントに顧客の会話を適切に引き渡します。
-author: ''
+author: relnotes
 ms.reviewer: shellyhaverkamp
 ms.date: 06/13/2019
 ms.assetid: cc096b69-725d-e911-a973-000d3a1c79c5
@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: omaraf
 dynamics365pdf: true
-ms.openlocfilehash: ab336740c4efdfe8b34641cfcf3f518af350050c
-ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.openlocfilehash: 327ae484591b3c17a83bbae9fc8fabe58f2b58c0
+ms.sourcegitcommit: 59f5bc1ad5c9bbbfbeff6608476b60c0b2da58c0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1693992"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "1735990"
 ---
 # <a name="handoff-to-a-human-agent"></a>人間のエージェントへの引き継ぎ
 

@@ -1,20 +1,20 @@
 ---
 title: 追加のトピック管理やユーザー フィードバックの機会などのトピックの継続的改善
 description: 追加のトピック管理やユーザー フィードバックの機会などのトピックの継続的改善
-author: ''
+author: relnotes
 ms.reviewer: shellyha
-ms.date: 06/18/2019
+ms.date: 07/31/2019
 ms.assetid: ee63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 dynamics365pdf: true
-ms.openlocfilehash: 9cc51669862d171ef70bd0ea89339d86ec6dcc91
-ms.sourcegitcommit: 4620697dc1f4fc6903504a55406f3d22af75e361
+ms.openlocfilehash: 3b8d0aeaca70d3fba85c7dee4f6f84344e23cad7
+ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1693376"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "1855876"
 ---
 # <a name="continuous-topic-improvement-such-as-additional-topic-controls-opportunities-for-user-feedback"></a>追加のトピック管理やユーザー フィードバックの機会などのトピックの継続的改善
 [!include[artificial-intelligence/dynamics365-customer-service-insights banner](../includes/artificial-intelligence/dynamics365-customer-service-insights.md)]
@@ -32,6 +32,7 @@ ms.locfileid: "1693376"
 <!--feature detail start -->
 Customer Service Insights では、システムにインポートされたサポート案件タイトルに基づく AI 主導のトピック生成が提供されます。 AI モデルは顧客サービスのシナリオに合わせて調整されていますが、Microsoft ではすべてのビジネスが同じでないことを理解しており、製品内で複数の制御とフィードバックの手段を有効にしているので、お客様は自分に最適なモデルを使用できます。 このウェーブでは、トピックの強調表示や最もフィードバックが必要なサポート案件など、モデルに影響を与え、フィードバックを提供するための、トピック生成に関する追加機能とさまざまなコントロールが使用可能です。 これにより、ユーザーはトピックのクラスタリング結果をより効率的かつ効果的に改善できます。
 <!--feature detail end -->
+
 
 
 
