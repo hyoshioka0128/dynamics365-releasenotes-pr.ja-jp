@@ -1,27 +1,28 @@
 ---
+redirect_url: ../change-history#dynamics-365-for-retail
 title: 販売注文の変更の改善
 description: 販売注文の変更の改善
 author: hhainesms
 ms.reviewer: josaw
-ms.date: 07/22/2019
+ms.date: 08/09/2019
 ms.assetid: 7463278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: hhaines
 dynamics365pdf: true
-ms.openlocfilehash: bdb80e61d94c74d62b77421d67507c8555ac9425
-ms.sourcegitcommit: 4101748c25acf79b22e31a01b73969500926ff91
+ms.openlocfilehash: 180cad68efd53da4caccace952da6af291afdaeb
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1793961"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2141824"
 ---
 # <a name="sales-order-modification-improvements"></a>販売注文の変更の改善
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 2020 年 1 月|
+|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 10 月| 2020 年 1 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

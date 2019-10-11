@@ -3,25 +3,25 @@ title: 顧客パターンを予測するためのガイド付きエクスペリ�
 description: コーディングの経験を必要とせずに、顧客のパターンと属性を予測する機能を提供します。
 author: relnotes
 ms.reviewer: jimholtz
-ms.date: 07/31/2019
+ms.date: 08/02/2019
 ms.assetid: 2251a77b-5872-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: c44a15ecb1f27ffe6330fe0066d673814a883869
-ms.sourcegitcommit: ff402b48c827ee8174bf3747d1c43e272102ace9
+ms.openlocfilehash: a403b229b2a30b0e1a1e747ef80e7d563ae00327
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "1848083"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2139998"
 ---
 # <a name="guided-experience-to-predict-customer-patterns"></a>顧客パターンを予測するためのガイド付きエクスペリエンス
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|2019 年 10 月| |
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|2019 年 10 月| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

@@ -3,25 +3,25 @@ title: Dynamics 365 Virtual Agent for Customer Service の統合
 description: 受信した要求を Dynamics 365 仮想エージェントにルーティングし、仮想エージェントから人間のエージェントに会話を完全なコンテキストでエスカレートします。
 author: relnotes
 ms.reviewer: shjais
-ms.date: 07/22/2019
+ms.date: 08/29/2019
 ms.assetid: 24d91c8a-106d-e911-a95f-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: yangao
 dynamics365pdf: true
-ms.openlocfilehash: e449c007ceca9ccdac80a0a932a69f80a5ff9e3a
-ms.sourcegitcommit: 4e5c18a534fd5b7aaddfe01f66edb1d0b466497b
+ms.openlocfilehash: 4e66241f7683535f5e0d2cca38b3792def91904e
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1793323"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2142176"
 ---
 # <a name="integration-with-dynamics-365-virtual-agent-for-customer-service"></a>Dynamics 365 Virtual Agent for Customer Service の統合
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
-| 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
-| ---------- | ---------- |---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 8 月| 2019 年 10 月|いいえ |
+| 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
+| ---------- | :----------: |:----------: |:----------: |
+|ユーザー、管理者/作成者/アナリストによる有効化|-|2019 年 10 月| 2019 年 12 月|
 
 
 
@@ -47,3 +47,6 @@ ms.locfileid: "1793323"
 
 
 
+
+## <a name="see-also"></a>関連項目
+[機能の探索](https://aka.ms/ROGCS19RW2ROV2) (ビデオ)

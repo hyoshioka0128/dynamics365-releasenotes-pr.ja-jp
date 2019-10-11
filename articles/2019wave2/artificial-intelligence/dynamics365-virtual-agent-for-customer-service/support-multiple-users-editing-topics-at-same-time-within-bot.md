@@ -2,26 +2,26 @@
 title: ボット内での複数のユーザーによる同時トピック編集のサポート
 description: ボット内での複数のユーザーによる同時トピック編集のサポート
 author: relnotes
-ms.reviewer: shellyha
-ms.date: 07/31/2019
+ms.reviewer: iawilt
+ms.date: 08/27/2019
 ms.assetid: 0464278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: omaraf
+ms.author: clmori
 dynamics365pdf: true
-ms.openlocfilehash: 36f9a0848d4a1080c8ef74181fcaf94c4ff88726
-ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
+ms.openlocfilehash: 2ac5e81b1e002f857ced1a89ccc688fe736fd76d
+ms.sourcegitcommit: 856d36597ee54f817177a3682a0048ad1390c936
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "1856074"
+ms.lasthandoff: 09/19/2019
+ms.locfileid: "2003594"
 ---
 # <a name="support-for-multiple-users-editing-topics-at-the-same-time-within-a-bot"></a>ボット内での複数のユーザーによる同時トピック編集のサポート
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|-| 2019 年 12 月|
 
 
 

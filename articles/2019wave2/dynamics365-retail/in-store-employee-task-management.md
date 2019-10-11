@@ -3,25 +3,25 @@ title: 店内従業員のタスク管理
 description: 店内従業員のタスク管理
 author: relnotes
 ms.reviewer: josaw
-ms.date: 07/22/2019
+ms.date: 08/28/2019
 ms.assetid: 8063278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: gmohanv
 dynamics365pdf: true
-ms.openlocfilehash: 2d27d2af35b3224148aeca989154ac4834e15ce1
-ms.sourcegitcommit: 4101748c25acf79b22e31a01b73969500926ff91
+ms.openlocfilehash: 0b9ed05e633aadc97130ca24194de73c58f90e42
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1793422"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2143529"
 ---
 # <a name="in-store-employee-task-management"></a>店内従業員のタスク管理
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 12 月|
+|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 11 月| 2020 年 1 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

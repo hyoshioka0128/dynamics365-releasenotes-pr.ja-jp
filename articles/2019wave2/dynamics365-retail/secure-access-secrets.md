@@ -3,25 +3,25 @@ title: シークレットへの安全なアクセス
 description: シークレットへの安全なアクセス
 author: relnotes
 ms.reviewer: josaw
-ms.date: 07/22/2019
+ms.date: 09/16/2019
 ms.assetid: 5c63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: aamiral
 dynamics365pdf: true
-ms.openlocfilehash: 8a7ac2e8486f6ce37b64a0e8a4d62bee1d5f1ea9
-ms.sourcegitcommit: 4101748c25acf79b22e31a01b73969500926ff91
+ms.openlocfilehash: 49f553682beb32ecf657dd748518af05d62cf481
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1794016"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2143489"
 ---
 # <a name="secure-access-to-secrets"></a>シークレットへの安全なアクセス
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|2019 年 9 月| 2019 年 11 月|
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 3 日| 2019 年 11 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -41,8 +41,6 @@ ms.locfileid: "1794016"
 
 
 
+## <a name="see-also"></a>関連項目
 
-
-
-
-
+[小売チャネルのシークレットを管理する](https://docs.microsoft.com/dynamics365/unified-operations/retail/dev-itpro/manage-secrets) (ドキュメント)

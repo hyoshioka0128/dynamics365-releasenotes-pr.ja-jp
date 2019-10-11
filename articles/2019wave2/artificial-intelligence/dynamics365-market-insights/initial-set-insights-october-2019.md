@@ -3,25 +3,25 @@ title: Web データ、検索アクティビティ、閲覧行動からビジネ
 description: 2019 年リリース ウェーブ 2 の製品リリースには、人気急上昇中のトピック、検索トレンド、製品発売ニュース、最も話題になっている製品属性、コンテンツへのナビゲート方法、視聴者層など、トピックを理解するのに役立ついくつかの新しい種類の分析情報が含まれています。
 author: relnotes
 ms.reviewer: mhart
-ms.date: 07/31/2019
+ms.date: 09/16/2019
 ms.assetid: 5e77e83a-2283-e911-a98e-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
-ms.author: victorhe
+ms.author: ebahat
 dynamics365pdf: true
-ms.openlocfilehash: 16b7bc0185932feb4ba632c155935c3640755901
-ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
+ms.openlocfilehash: 35f2ada237223e566e7f723abc088fe16c2f51ae
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "1855887"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2142550"
 ---
 # <a name="get-additional-insights-related-to-business-topics-from-web-data-search-activity-and-browsing-behavior-us-only"></a>Web データ、検索アクティビティ、閲覧行動からビジネス トピックに関連する追加の分析情報を得る (米国のみ)
 [!include[artificial-intelligence/dynamics365-market-insights banner](../includes/artificial-intelligence/dynamics365-market-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、自動的|2019 年 9 月| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|ユーザー、自動的|2019 年 9 月| 2020 年 3 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

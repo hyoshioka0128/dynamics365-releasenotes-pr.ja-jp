@@ -3,25 +3,25 @@ title: 自分のトピックについてニュースや新しい分析情報が�
 description: Market Insights アラートを使用して、自社のブランド、製品、会社、業界についての顧客や競合企業による Web 上での発言を追跡します。 毎日または毎週受け取るメールで、特定のトピックに関連した最も重要な出来事を数分で把握します。
 author: relnotes
 ms.reviewer: mhart
-ms.date: 07/31/2019
+ms.date: 08/02/2019
 ms.assetid: 2064278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: victorhe
+ms.author: ebahat
 dynamics365pdf: true
-ms.openlocfilehash: f3e69ce8b046a474f378adeba3eb6b9a9629c45f
-ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
+ms.openlocfilehash: 4a8b41aae1f297dcba8a6ae498d78282ad9c771d
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "1855854"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2140185"
 ---
 # <a name="get-email-notifications-when-there-is-news-or-new-insights-about-your-topics"></a>自分のトピックについてニュースや新しい分析情報があるときにメール通知を受け取る
 [!include[artificial-intelligence/dynamics365-market-insights banner](../includes/artificial-intelligence/dynamics365-market-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、自動的|2019 年 4 月 1 日| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 1 日| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -65,7 +65,7 @@ Web 上で人が見たり探したりしているものを監視し、話題に�
 
 -  **市場からの充実した分析情報**: 消費者や競合企業がオンラインで行っていることについて、さらに多くの分析情報を取得します。 
 
--  **センチメントとトーンの分析情報**: コンテンツ開発に関する全体的な一般のセンチメントやメディアのトーンを一目で理解できます。 
+-  **センチメントとトーンの分析情報**: コンテンツ開発に関する全体的な一般のセンチメントやメディアのトーンをひとめで理解できます。 
 
 -  **高度なアラートの調整**: ブール演算子を使用してトピックの詳細を指定します。 
 

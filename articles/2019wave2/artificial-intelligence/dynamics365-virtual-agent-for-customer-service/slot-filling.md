@@ -2,26 +2,26 @@
 title: スロット充足機能
 description: スロット充足機能
 author: relnotes
-ms.reviewer: shellyha
-ms.date: 07/31/2019
+ms.reviewer: iawilt
+ms.date: 08/27/2019
 ms.assetid: 1064278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: omaraf
+ms.author: clmori
 dynamics365pdf: true
-ms.openlocfilehash: 0bf8b34e5227f8e9f365fc1d5ac3cc110edc1d1b
-ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
+ms.openlocfilehash: a0aea05871f63f6e24bc16a9e79210ff14f8dd4e
+ms.sourcegitcommit: 856d36597ee54f817177a3682a0048ad1390c936
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "1856121"
+ms.lasthandoff: 09/19/2019
+ms.locfileid: "2003616"
 ---
 # <a name="slot-filling-capabilities"></a>スロット充足機能
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|-| 2019 年 12 月|
 
 
 
@@ -32,11 +32,9 @@ ms.locfileid: "1856121"
 <!--feature detail start -->
 ユーザーがボットとの対話で何かを言うたびに、応答には会話を導くのに役立つ有用な情報が含まれている可能性があります。 システムは、ユーザーの応答で、会話をガイドするために使用する情報を継続的に解析します。 
 
-ほとんどの業界のチャットボットでは、ユーザーの回答で情報が不足しているものや情報が過剰なものは無視され、会話を調整せずに次のスクリプト形式の質問に進みます。 
+これは、ユーザーが既に提供した情報または不足している情報をボットが認識し、必要に応じて明確化のための質問をして、対話を続けられることを意味します。 この機能はスロット充足と呼ばれます。
 
-これに対し、インテリジェントな会話 AI である Virtual Agent for Customer Service は、ユーザーが既に提供した情報または不足している情報を認識し、必要な場合は明確化のための質問をして、対話を続け、本当に楽しい会話を提供します。 この機能はスロット充足と呼ばれます。
-
-たとえば、天気について尋ねる場合、ユーザーは自然にトピック (天気予報)、場所 (レドモンド)、時間 (木曜日) を含める可能性があります。 たとえば次のようなものです。
+たとえば、天気についてたずねる場合、ユーザーは自然にトピック (天気予報)、場所 (レドモンド)、時間 (木曜日) を含める可能性があります。 次に例を示します。
 
  **ユーザー:**      *レドモンドの木曜日の天気はどうですか?*
  
@@ -46,15 +44,11 @@ ms.locfileid: "1856121"
 
 たとえば、天気についての質問の会話でスロット充足が使われると次のようになります。
 
-**ユーザー:**   *天気はどうですか?*
+**ユーザー:**   *木曜日の天気はどうですか?*
 
 **ボット:**    *天気をお調べできます。どこをチェックしますか?*
 
 **ユーザー:**   *ワシントン州レドモンド*
-
-**ボット:**    *わかりました、いつですか?*
-
-**ユーザー:**   *木曜日*
 
 **ボット:**    *ワシントン州レドモンドの木曜日の天気予報は、晴れですが雨が降るかもしれません...*
 <!--feature detail end -->

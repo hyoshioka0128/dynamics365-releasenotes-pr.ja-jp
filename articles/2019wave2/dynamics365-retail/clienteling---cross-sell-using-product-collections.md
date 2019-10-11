@@ -1,27 +1,28 @@
 ---
+redirect_url: ../change-history#dynamics-365-for-retail
 title: クライアンテリング - 製品コレクションを使用したクロス セル
 description: クライアンテリング - 製品コレクションを使用したクロス セル
 author: relnotes
 ms.reviewer: josaw
-ms.date: 07/22/2019
+ms.date: 07/31/2019
 ms.assetid: cde02389-9b6b-e911-a95f-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: shajain
 dynamics365pdf: true
-ms.openlocfilehash: ad77d4b7a6809aefc87e5f1b49567b2bbf10a0c5
-ms.sourcegitcommit: 4101748c25acf79b22e31a01b73969500926ff91
+ms.openlocfilehash: b1fb725021d2d689339326cdd9e6e327e4dfb2ff
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1793444"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2143627"
 ---
 # <a name="clienteling--cross-sell-using-product-collections"></a>クライアンテリング - 製品コレクションを使用したクロス セル
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 2020 年 1 月|
+|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 10 月| 2020 年 1 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

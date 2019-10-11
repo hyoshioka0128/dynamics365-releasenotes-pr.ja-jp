@@ -3,25 +3,25 @@ title: ナレッジ記事のテンプレート
 description: ナレッジ記事テンプレートを使用すると、お客様の組織内のすべてのペルソナが構造化サポート情報の構築に簡単に参加できるため、ナレッジの収集が簡単になります。
 author: relnotes
 ms.reviewer: shjais
-ms.date: 07/22/2019
+ms.date: 08/06/2019
 ms.assetid: e2e0bf1b-fc98-e911-a990-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: karthig
 dynamics365pdf: true
-ms.openlocfilehash: 7ae093c6ab5e63c0030beda2eb8bcdb6982ec6b4
-ms.sourcegitcommit: 4e5c18a534fd5b7aaddfe01f66edb1d0b466497b
+ms.openlocfilehash: 8611bf444fe3e574833471657873ddfb3bef3f80
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1793257"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2142153"
 ---
 # <a name="knowledge-article-templates"></a>ナレッジ記事のテンプレート
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
-| 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
-| ---------- | ---------- |---------- |---------- |
-|エンド ユーザー、自動的|| 2019 年 10 月|はい |
+| 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
+| ---------- | :----------: |:----------: |:----------: |
+|ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -46,3 +46,9 @@ ms.locfileid: "1793257"
 
 
 
+## <a name="thank-you-for-your-idea"></a>アイデアをありがとうございます
+[このアイデア](https://experience.dynamics.com/ideas/idea/?ideaid=6e73b862-131a-e611-80e2-c4346badc228)をお送りいただき、ありがとうございました。 アイデア、コメント、投票を参考に、製品のロードマップに追加するものを決定しています。
+
+## <a name="see-also"></a>関連項目
+
+[テンプレートを使用してナレッジ記事を作成する](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#create-knowledge-articles-using-templates) (ドキュメント)

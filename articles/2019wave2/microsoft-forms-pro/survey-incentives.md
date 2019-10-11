@@ -3,25 +3,25 @@ title: 調査インセンティブ
 description: 調査の所有者は、調査を完了した調査参加者にインセンティブを提供することができます。
 author: relnotes
 ms.reviewer: shjais
-ms.date: 07/20/2019
+ms.date: 08/05/2019
 ms.assetid: 25b23e66-417f-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
-ms.author: arvp
+ms.author: pap
 dynamics365pdf: true
-ms.openlocfilehash: e77e8d843aa50bfd3a32c0c101e5996c57566eb0
-ms.sourcegitcommit: 4e5c18a534fd5b7aaddfe01f66edb1d0b466497b
+ms.openlocfilehash: 38a47778ab74f76cc2fc2d221bb7a3c284c93c91
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1793191"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2141087"
 ---
 # <a name="survey-incentives"></a>調査インセンティブ
 [!include[microsoft-forms-pro banner](../includes/microsoft-forms-pro.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、自動的|2019 年 9 月| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|ユーザー、自動的|2019 年 9 月| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

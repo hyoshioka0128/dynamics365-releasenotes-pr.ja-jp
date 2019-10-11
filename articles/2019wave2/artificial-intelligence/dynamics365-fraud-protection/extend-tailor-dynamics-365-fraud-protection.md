@@ -3,25 +3,25 @@ title: Dynamics 365 Fraud Protection の拡張と調整
 description: 詐欺防止に関連する属性のセットを Dynamics 365 Fraud Protection 加盟店が拡張できるようにすることで、顧客の収益をさらに増加させ、詐欺損失を削減します。 この拡張により、Dynamics 365 Fraud Protection を特定のビジネスや加盟店向けに特化させることができます。
 author: relnotes
 ms.reviewer: v-jegrif
-ms.date: 07/24/2019
+ms.date: 08/19/2019
 ms.assetid: 802f9f0d-c96d-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: v-jowigh
 dynamics365pdf: true
-ms.openlocfilehash: 3150d12d12463af150eea835bf563a00cca4f111
-ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
+ms.openlocfilehash: e53e3c54b5b916d92b0df45120aa683d9e6bb2b2
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1795661"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2142374"
 ---
 # <a name="extend-and-tailor-dynamics-365-fraud-protection"></a>Dynamics 365 Fraud Protection の拡張と調整
 [!include[artificial-intelligence/dynamics365-fraud-protection banner](../includes/artificial-intelligence/dynamics365-fraud-protection.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 近日発表|
+| ---------- | :----------: |:----------: |
+|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 12 月| 近日発表|
 
 
 
@@ -38,7 +38,7 @@ ms.locfileid: "1795661"
 
 ### <a name="define-custom-rules"></a>カスタム ルールの定義
 
-カスタム知識を使用して、特殊なデータを利用したモデル運用ポイントを作成および更新することができます。 これらのモデル運用ポイントは、利用可能なあらゆる領域の知識を使用して、各種のイベントに対して決定を下すことができます。
+カスタム知識を使用して、特殊なデータを使用したルール構成を作成および更新することができます。 これらのモデル運用ポイントは、利用可能なあらゆる領域の知識を使用して、各種のイベントに対して決定を下すことができます。
 <!--feature detail end -->
 
 

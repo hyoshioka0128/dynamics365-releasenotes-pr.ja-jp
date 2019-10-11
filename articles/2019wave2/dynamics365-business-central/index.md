@@ -3,23 +3,24 @@ title: Dynamics 365 Business Central 2019 年リリース ウェーブ 2 の概�
 description: Dynamics 365 Business Central 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: edupont
-ms.date: 06/13/2019
+ms.date: 09/03/2019
 ms.assetid: 4ba3fad1-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: jannikb
 dynamics365pdf: true
-ms.openlocfilehash: 4dfdb8e2a321196f05d8e93107c560d581d23cda
-ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
+ms.openlocfilehash: 0abfa0ca68e72b5b906dba1c8a124ea8a9ca5e08
+ms.sourcegitcommit: 75d7957117cc5eabbf102167fba80fb2072d686a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1795529"
+ms.lasthandoff: 09/06/2019
+ms.locfileid: "1990372"
 ---
 # <a name="overview-of-dynamics-365-business-central-2019-release-wave-2"></a>Dynamics 365 Business Central 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
-Dynamics 365 Business Central では、中小企業の組織向けに設計および最適化された完全なビジネス アプリケーション ソリューションが提供されます。 2018 年 4 月の発売以来、Dynamics 365 Business Central はビジネスをデジタルに変革しようとしている組織による採用が増えています。 2018 年 10 月更新プログラムでは、オンプレミス展開も含むように Business Central を更新しました。 最新バージョンの 2019 年 4 月更新プログラムでは、ユーザーの生産性が向上するように Business Central を更新しました。
+<!--overview start-->
+Dynamics 365 Business Central では、中小企業の組織向けに設計および最適化された完全なビジネス アプリケーション ソリューションが提供されます。 2018 年 4 月の発売以来、Business Central はビジネスをデジタルに変革しようとしている組織による採用が増えています。 2018 年 10 月更新プログラムでは、オンプレミス展開も含むように Business Central を更新しました。 最新バージョンの 2019 年 4 月更新プログラムでは、ユーザーの生産性が向上するように Business Central を更新しました。
 
 独立系ソフトウェア ベンダー (ISV) のエコシステムは、Business Central 向けの垂直型または水平型ソリューションを希望するお客様にとって重要です。 この ISV エコシステムを加速して、新規および既存のお客様の Business Central オンラインへの移行を開始します。 その目標を達成するため、2019 年リリース ウェーブ 2 の更新プログラムでは以下の開発の柱が定義されています。
 
@@ -30,3 +31,4 @@ Dynamics 365 Business Central では、中小企業の組織向けに設計お�
 - **顧客移行ツール**: Dynamics NAV ISV が自社のソリューションを Business Central オンラインに移行できるようにした後、次のステップでは、Dynamics NAV、Dynamics GP、または Dynamics SL の既存の Dynamics SMB のお客様が現在のオンプレミス ソリューションから Business Central オンラインに移行する過程を簡素化します。 一連のツールは既に存在します。これらは 2019 年リリース ウェーブ 2 で強化されます。
 
 2019 年リリース ウェーブ 2 には、サービス基盤の拡大に先立ってサービスの基本の作業が優先されるため、Business Central オンラインのローカライズへの限定的な拡張が予定されています。 2019 年リリース ウェーブ 2 後に、パートナーが開発したローカライズの追加が予定されています。
+<!--overview end-->

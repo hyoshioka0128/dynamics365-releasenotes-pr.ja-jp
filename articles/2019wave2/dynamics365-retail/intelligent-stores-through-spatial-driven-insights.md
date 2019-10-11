@@ -1,27 +1,28 @@
 ---
+redirect_url: ../change-history#dynamics-365-for-retail
 title: 空間主導の分析情報によるインテリジェント ストア
 description: 空間主導の分析情報によるインテリジェント ストア
 author: anpurush
 ms.reviewer: josaw
-ms.date: 07/22/2019
+ms.date: 07/31/2019
 ms.assetid: a9e58046-746b-e911-a95f-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: anpurush
 dynamics365pdf: true
-ms.openlocfilehash: a920e5dfc6a4aa4e665b2db8b36f45f82f47c24d
-ms.sourcegitcommit: 4101748c25acf79b22e31a01b73969500926ff91
+ms.openlocfilehash: d283a63dcc996bda97032fad7bd7cc32c77e94cf
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1793400"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2141901"
 ---
 # <a name="intelligent-stores-through-spatial-driven-insights"></a>空間主導の分析情報によるインテリジェント ストア
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 2020 年 1 月|
+|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 10 月| 2020 年 1 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

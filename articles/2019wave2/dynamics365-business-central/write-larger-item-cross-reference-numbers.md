@@ -3,25 +3,25 @@ title: 大きな品目相互参照番号を書き込む
 description: 最大 50 文字の長さの品目相互参照番号を入力して保管できます。 以前は 20 文字でした。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 07/22/2019
+ms.date: 07/31/2019
 ms.assetid: 3ad3b355-5075-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 25b95062ea01eaee05655c43dd4870ceea8b1522
-ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
+ms.openlocfilehash: d7adc63a7bce58fc11d04380e4f7b2c3bfae1025
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1795287"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2140273"
 ---
 # <a name="write-larger-item-cross-reference-numbers"></a>大きな品目相互参照番号を書き込む
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、自動的|2019 年 8 月| 2019 年 10 月|
+|ユーザー、自動的|2019 年 8 月| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

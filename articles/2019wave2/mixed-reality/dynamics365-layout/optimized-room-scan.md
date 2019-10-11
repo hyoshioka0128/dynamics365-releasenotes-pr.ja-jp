@@ -3,25 +3,25 @@ title: 最適化された部屋のスキャン
 description: 最適化された部屋のスキャン
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 08/01/2019
+ms.date: 08/02/2019
 ms.assetid: 7464278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: sudhees
 dynamics365pdf: true
-ms.openlocfilehash: 9f1245b9fecd8ad95f8a108d7554d07903f632ef
-ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
+ms.openlocfilehash: f586a258286c474895cc32f18990cc00a6e294e7
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "1854396"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2142628"
 ---
 # <a name="optimized-room-scan"></a>最適化された部屋のスキャン
 [!include[mixed-reality/dynamics365-layout banner](../includes/mixed-reality/dynamics365-layout.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、自動的|| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|ユーザー、自動的|-| 2019 年 10 月|
 
 
 

@@ -2,26 +2,26 @@
 title: つながり検索のプライバシー管理の強化
 description: つながり検索は、販売担当者が組織内の共通のつながりを見つけて、コールド リードをウォーム リードに変換し、回答率を高めたり、関心を高めたりするのに役立ちます。 ヨーロッパのプライバシー要件を満たすために、つながり検索に対して追加のプライバシー管理が有効になっています。
 author: relnotes
-ms.reviewer: shujoshi
-ms.date: 07/22/2019
+ms.reviewer: udag
+ms.date: 08/28/2019
 ms.assetid: e60b4e91-6673-e911-a98e-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
-ms.author: jasonhui
+ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: baaf278f9ae0d7f3330a62f1e565b288db17c60a
-ms.sourcegitcommit: c1d66f6454e35fb8191632683ff09e1362b8cfcd
+ms.openlocfilehash: 2c45190d2f5933fdfe7f0d0735431f27f29bd831
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "1790396"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2142363"
 ---
 # <a name="better-privacy-controls-for-who-knows-whom"></a>つながり検索のプライバシー管理の強化
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 10 月|
+|ユーザー、管理者/作成者/アナリストによる有効化|| 2019 年 12 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -36,12 +36,10 @@ ms.locfileid: "1790396"
 - **ユーザー コントロール**: 販売担当者は、テナント管理者の関与を必要とせずに、つながりグラフから独立してオプトインおよびオプトアウトできます。 
   
 - **組織ユーザーの匿名コントロール**: 組織ユーザーは、つながりグラフで匿名のままにして、アクセス許可が要求されて付与された場合にのみ自分の身元を明らかにすることができます。
-
-
 <!--feature detail end -->
 
-<!--
-![Privacy improvements](media/who-knows-whom-user-privacy-improvements-1.png "Privacy improvements") -->
+![つながりを探す](media/wkw.png "つながりを探す")
+<!-- Picture 1 -->
 
 
 

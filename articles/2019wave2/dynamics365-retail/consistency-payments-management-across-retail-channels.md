@@ -1,27 +1,28 @@
 ---
+redirect_url: ../change-history#dynamics-365-for-retail
 title: 小売チャネル間での支払管理の一貫性
 description: オムニチャネルの小売では、注文の支払いを管理するときに一貫性が必要です。 これには、チャネル間での払戻の処理、支払いの変更、ポリシーの有効化が含まれます。 この機能により、eコマース、コール センター、販売時点情報の間で支払いの一貫性が保たれます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 07/22/2019
+ms.date: 07/31/2019
 ms.assetid: ce1a4e4d-426c-e911-a95f-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: rubendel
 dynamics365pdf: true
-ms.openlocfilehash: 58983b043e4170bf5708f1b7652f9f932f203082
-ms.sourcegitcommit: 4101748c25acf79b22e31a01b73969500926ff91
+ms.openlocfilehash: 4f19f0e81c0316dc59ca24220cf6c9c87e3095bb
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1794335"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2143650"
 ---
 # <a name="consistency-in-payments-management-across-retail-channels"></a>小売チャネル間での支払管理の一貫性
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 12 月|
+|ユーザー、管理者/作成者/アナリストによる有効化|| 2019 年 12 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

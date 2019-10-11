@@ -3,25 +3,25 @@ title: 製品の見つけやすさの改善
 description: 製品の見つけやすさの改善
 author: relnotes
 ms.reviewer: josaw
-ms.date: 07/22/2019
+ms.date: 08/01/2019
 ms.assetid: 8463278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: asharchw
 dynamics365pdf: true
-ms.openlocfilehash: 17a9e8731947b0d66920b5c92651a58a8ea0cb53
-ms.sourcegitcommit: 4101748c25acf79b22e31a01b73969500926ff91
+ms.openlocfilehash: d4651813f6353d839f491f8c9068ef78a4992d77
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1794621"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2141945"
 ---
 # <a name="enhancements-for-product-discoverability"></a>製品の見つけやすさの改善
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| |
+| ---------- | :----------: |:----------: |
+|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 10 月| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -30,7 +30,7 @@ ms.locfileid: "1794621"
 
 顧客は、Web 検索エンジン、洗練された eコマース Web サイト、入力中に関連検索を提案するソーシャル アプリ、ファセット ナビゲーション、一致用語ハイライト表示などの機能をすべてほぼ瞬時の応答時間で利用することに慣れています。 消費者は、適切な製品を十分にすばやく見つけられないと、パフォーマンスがより優れた別の小売サイトに躊躇なく移動します。 
 
-Dynamics 365 for Retail での製品の見つけやすさを向上させるこの取り組みにより、小売業者は消費者のショッピング体験を支援してその期待を満たすことができ、eコマースや POS などのすべてのチャネルにおいて消費者の維持率とコンバージョン率を高めるのに役立ちます。
+Dynamics 365 Retail での製品の見つけやすさを向上させるこの取り組みにより、小売業者は消費者のショッピング体験を支援してその期待を満たすことができ、eコマースや POS などのすべてのチャネルにおいて消費者の維持率とコンバージョン率を高めるのに役立ちます。
 <!-- bv end -->
 
 

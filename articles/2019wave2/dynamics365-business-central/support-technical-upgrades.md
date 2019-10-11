@@ -3,25 +3,25 @@ title: 技術的アップグレードのサポート
 description: 2019 年 4 月のリリースから最新バージョンへの技術的アップグレードでデータベースをアップグレードできます。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 07/22/2019
+ms.date: 08/02/2019
 ms.assetid: f0e36afe-868f-e911-a98e-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: kepontop
 dynamics365pdf: true
-ms.openlocfilehash: 73628aef4369809912f98b19fa879f25fa0c5218
-ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
+ms.openlocfilehash: f3c4d1413ce039c1b63378f94c2b066cdb3925b0
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1795323"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2140326"
 ---
 # <a name="support-for-technical-upgrades"></a>技術的アップグレードのサポート
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|-| 2019 年 10 月|
 
 
 

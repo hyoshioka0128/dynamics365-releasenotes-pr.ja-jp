@@ -3,25 +3,25 @@ title: ユーザーのビジネス領域でトピックの特性を定義して�
 description: ビジネス領域を意味的に理解するためのトピックを定義することによって、関連する分析情報を生成して監督します。
 author: relnotes
 ms.reviewer: mhart
-ms.date: 07/31/2019
+ms.date: 09/16/2019
 ms.assetid: e57041f6-2183-e911-a98e-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
-ms.author: victorhe
+ms.author: ebahat
 dynamics365pdf: true
-ms.openlocfilehash: c7e503812d308ce161472184fc350925db78ce12
-ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
+ms.openlocfilehash: 5cc939cff0d4c72dc798b9bacd9c060d431d0840
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "1855939"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2142468"
 ---
 # <a name="get-more-relevant-insights-by-defining-topic-characteristics-in-a-users-business-universe"></a>ユーザーのビジネス領域でトピックの特性を定義して、より関連性の高い分析情報を得る
 [!include[artificial-intelligence/dynamics365-market-insights banner](../includes/artificial-intelligence/dynamics365-market-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、自動的|2019 年 9 月| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|ユーザー、自動的|2019 年 9 月| 2020 年 3 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

@@ -3,25 +3,25 @@ title: パートナーは Business Central 管理センターでサポート連�
 description: 再販パートナーは、Business Central 管理センターでサポート連絡先の詳細を入力できるため、顧客は正しいサポート チャネルを確認できます。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 07/22/2019
+ms.date: 08/02/2019
 ms.assetid: 0b58d17b-3e77-e911-a960-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: jchrist
 dynamics365pdf: true
-ms.openlocfilehash: 0d581f059df9f53a3f2f475597325eeb6d782ac5
-ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
+ms.openlocfilehash: 92cd8b5a02115a6d9c7953b895c61f4281e4cb38
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1795386"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2140428"
 ---
 # <a name="partners-can-enter-support-contact-details-in-the-business-central-administration-center"></a>パートナーは Business Central 管理センターでサポート連絡先の詳細を入力できる
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|2019 年 8 月| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|-| 2019 年 10 月|
 
 
 

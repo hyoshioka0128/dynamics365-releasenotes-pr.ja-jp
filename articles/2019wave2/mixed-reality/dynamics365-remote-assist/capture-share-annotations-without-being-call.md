@@ -3,25 +3,25 @@ title: 通話せずに注釈を取り込んで共有する
 description: 通話せずに注釈を取り込んで共有する
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 08/01/2019
+ms.date: 08/02/2019
 ms.assetid: 6e64278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: jaarmeni
 dynamics365pdf: true
-ms.openlocfilehash: dbabfa09bf58c4cc852cd15983f80c910278869a
-ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
+ms.openlocfilehash: 0f0e1b3b673adac63167ce27d5bbbd3a66ad9ca1
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "1854363"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2142671"
 ---
 # <a name="capture-and-share-annotations-without-being-in-a-call"></a>通話せずに注釈を取り込んで共有する
 [!include[mixed-reality/dynamics365-remote-assist banner](../includes/mixed-reality/dynamics365-remote-assist.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、自動的|| 2020 年 1 月|
+| ---------- | :----------: |:----------: |
+|ユーザー、自動的|-| 2020 年 1 月|
 
 
 
@@ -30,7 +30,7 @@ ms.locfileid: "1854363"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-リモート アシスタンスが必要なシナリオのサポートを求めるフィードバックをお客様からいただきましたが、ネットワークの制限により通話を確立できません。 
+リモート アシスタンスが必要であるものの、ネットワークの制限により通話を確立できないシナリオのサポートを求めるフィードバックがお客様からありました。 
 
 シナリオの例: 
 

@@ -1,27 +1,27 @@
 ---
-title: 転記時に明細行の説明を総勘定元帳エントリに繰り越す
+title: 転記時に明細行の説明を G/L エントリに繰り越す
 description: 伝票明細行タイプ別に伝票明細行から総勘定元帳エントリに説明をコピーすることができます。
 author: relnotes
-ms.reviewer: edupont
-ms.date: 07/22/2019
+ms.reviewer: sgroespe
+ms.date: 09/14/2019
 ms.assetid: 54915d1e-4f75-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 379cb127f0f768d93acc0300bafe944aaab5c1df
-ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
+ms.openlocfilehash: e4d78dbb183d0916d970578d27fceda1efea1e36
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1795837"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2140691"
 ---
-# <a name="carry-line-descriptions-to-general-ledger-entries-when-posting"></a>転記時に明細行の説明を総勘定元帳エントリに繰り越す
+# <a name="carry-line-descriptions-to-gl-entries-when-posting"></a>転記時に明細行の説明を G/L エントリに繰り越す
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、自動的|2019 年 8 月| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -33,7 +33,7 @@ ms.locfileid: "1795837"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-**総勘定元帳の設定**ページから、**ソース説明転記設定**アクションを選択し、販売、購買、およびサービス ドキュメントについて、明細行タイプに応じて、明細説明テキストを結果の明細元帳エントリに引き継ぐかどうかを定義できます。 ソース明細行の説明を結果のエントリにコピーすることを選択した場合、そのような G/L エントリもドキュメント明細行ごとにグループ化されることに注意してください。
+**販売および売掛金設定**ページと**購買および買掛金設定**ページで、**明細行の説明を G/L エントリにコピーする**チェック バックスをオンにして、タイプが G/L 勘定である明細行の説明テキストを結果の総勘定元帳エントリに繰り越すことができます。  
 <!--feature detail end -->
 
 

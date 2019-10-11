@@ -3,25 +3,25 @@ title: Azure Machine Learning で Customer Insights を拡張する
 description: ユーザーを結び付け、統一された Customer Insights データに基づいて Azure Machine Learning モデルを実行できるようにします。 
 author: relnotes
 ms.reviewer: jimholtz
-ms.date: 07/31/2019
+ms.date: 08/02/2019
 ms.assetid: 3664278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: 22bcda8d82300476c112db6d4a2e69828aa4deeb
-ms.sourcegitcommit: ff402b48c827ee8174bf3747d1c43e272102ace9
+ms.openlocfilehash: fbff491b3286cfd5a3d78c9e0ada4b0cb2f10bb8
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "1848057"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2140056"
 ---
 # <a name="extend-customer-insights-with-azure-machine-learning"></a>Azure Machine Learning で Customer Insights を拡張する
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|-| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

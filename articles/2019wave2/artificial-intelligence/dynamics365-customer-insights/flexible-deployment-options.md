@@ -3,25 +3,25 @@ title: 柔軟な展開オプション
 description: 柔軟な展開オプションにより、管理者は取り込みから統合結果まで、自分の Azure インスタンスにデータを保存できます。 
 author: relnotes
 ms.reviewer: jimholtz
-ms.date: 07/31/2019
+ms.date: 08/02/2019
 ms.assetid: ffae2bd0-5872-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: 830acbb426520890c4585a09d1e918f25990affe
-ms.sourcegitcommit: ff402b48c827ee8174bf3747d1c43e272102ace9
+ms.openlocfilehash: bf0225eb31800b8dc80732126edde420c3ef5e0d
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "1848101"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2139965"
 ---
 # <a name="flexible-deployment-options"></a>柔軟な展開オプション
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|-| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

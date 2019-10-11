@@ -3,25 +3,25 @@ title: C/AL テーブルから AL テーブルへのパフォーマンス デー
 description: C/AL を AL コード カスタマイズに変換すると、AL アプリケーションの AppId を含むようにデータ テーブルの名前が変更され、変換されたソリューションでデータを使用できることが保証されます。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 07/22/2019
+ms.date: 08/13/2019
 ms.assetid: ced261a0-2177-e911-a960-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: pborring
 dynamics365pdf: true
-ms.openlocfilehash: 97e6d986bd612ac712a360bd34802064d07b1ce6
-ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
+ms.openlocfilehash: 136886552a4333c9d4414e354a0ac862742ecce5
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1795430"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2140350"
 ---
 # <a name="support-for-performant-data-upgrade-from-cal-tables-to-al-tables"></a>C/AL テーブルから AL テーブルへのパフォーマンス データのアップグレードのサポート
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|2019 年 8 月| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

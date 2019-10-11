@@ -3,25 +3,25 @@ title: ビルドと展開でのアプリの依存関係の処理の改善
 description: 依存関係を含む拡張機能のコンパイルと展開では、依存関係グラフが自動的に走査されて、これらが正しい順序で行われることが確認されるので、手動で処理する必要はありません。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 07/22/2019
+ms.date: 08/13/2019
 ms.assetid: 7e1c615d-886d-e911-a95f-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: pborring
 dynamics365pdf: true
-ms.openlocfilehash: 834a55b29527ab5c5773db477891f8b022562f8c
-ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
+ms.openlocfilehash: 6d9d643a287a86257e438d74751502a4051300a6
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1795551"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2140582"
 ---
 # <a name="improved-app-dependency-handling-on-build-and-deploy"></a>ビルドと展開でのアプリの依存関係の処理の改善
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|2019 年 8 月| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

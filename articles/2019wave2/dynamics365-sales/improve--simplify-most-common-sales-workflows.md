@@ -1,27 +1,27 @@
 ---
 title: 最も一般的な販売ワークフローの改善または簡素化
-description: 営業担当者が簡単に Dynamics 365 for Sales アプリを使用できるよう、最も一般的な営業ワークフローを改善または簡素化します。
+description: 営業担当者が簡単に Dynamics 365 Sales アプリを使用できるよう、最も一般的な営業ワークフローを改善または簡素化します。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 07/22/2019
+ms.date: 09/09/2019
 ms.assetid: e061278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: 68163218b10885762a1a249c1f3f2b9659a0c19b
-ms.sourcegitcommit: 0b8be9c5138c1e2b7f46527bd303cae5207cced7
+ms.openlocfilehash: b33a755b9b8860eec103cc4bc67bbcd08afc6454
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/29/2019
-ms.locfileid: "1791387"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2143452"
 ---
 # <a name="improve-or-simplify-most-common-sales-workflows"></a>最も一般的な販売ワークフローの改善または簡素化
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-| 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
-| ---------- | ---------- |---------- |---------- |
-|エンド ユーザー、自動的|| 2019 年 10 月|はい |
+| 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
+| ---------- | :----------: |:----------: |:----------: |
+|ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -50,3 +50,7 @@ ms.locfileid: "1791387"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[最も一般的な販売ワークフローの改善または簡素化](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/dynamics365-sales/improve--simplify-most-common-sales-workflows) (ブログ)

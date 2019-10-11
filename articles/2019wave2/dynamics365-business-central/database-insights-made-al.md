@@ -3,25 +3,25 @@ title: AL で利用可能なデータベース分析情報
 description: デバッガーの 2019 年 4 月リリースから利用できるようになった選択したデータベースの分析情報が、AL から利用可能になります。
 author: relnotes
 ms.reviewer: jswymer
-ms.date: 07/22/2019
+ms.date: 08/02/2019
 ms.assetid: 512e704b-316c-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: kepontop
 dynamics365pdf: true
-ms.openlocfilehash: 9e5465674f6e8abc88cedf0eb8dfa377d43a10d6
-ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
+ms.openlocfilehash: ef2b921273aef71feb9ff61aa3503f41db760663
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1795793"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2140669"
 ---
 # <a name="database-insights-made-available-in-al"></a>AL で利用可能なデータベース分析情報
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|-| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

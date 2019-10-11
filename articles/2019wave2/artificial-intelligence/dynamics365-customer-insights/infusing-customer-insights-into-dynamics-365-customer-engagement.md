@@ -1,27 +1,27 @@
 ---
-title: Dynamics 365 for Customer Engagement への Customer Insights の注入
+title: Dynamics 365 アプリへの Customer Insights の注入
 description: 顧客カードの機能強化により、ユーザーは Customer Insights からの分析情報をより簡単に利用できるようになります。
 author: relnotes
 ms.reviewer: jimholtz
-ms.date: 07/31/2019
+ms.date: 08/02/2019
 ms.assetid: 3a64278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: 3031554c96e67e8af627b52592658b421d7ef031
-ms.sourcegitcommit: ff402b48c827ee8174bf3747d1c43e272102ace9
+ms.openlocfilehash: cc9d104223667375010c9c9a70d205321ea7566f
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "1847998"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2139954"
 ---
-# <a name="infusing-customer-insights-into-dynamics-365-for-customer-engagement"></a>Dynamics 365 for Customer Engagement への Customer Insights の注入
+# <a name="infusing-customer-insights-into-dynamics-365-apps"></a>Dynamics 365 アプリへの Customer Insights の注入
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| |
+| ---------- | :----------: |:----------: |
+|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 10 月| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

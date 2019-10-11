@@ -3,25 +3,25 @@ title: 店舗内コンポーネントの大量展開
 description: 店舗内コンポーネントの大量展開
 author: relnotes
 ms.reviewer: josaw
-ms.date: 07/22/2019
+ms.date: 08/27/2019
 ms.assetid: 5063278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: jashanno
 dynamics365pdf: true
-ms.openlocfilehash: 800acb85b3438fe8fa03a735201d8387a5f9f6f4
-ms.sourcegitcommit: 4101748c25acf79b22e31a01b73969500926ff91
+ms.openlocfilehash: 189166d9d9363719d1f22eed2c922358aa5e271d
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1793433"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2143573"
 ---
 # <a name="in-store-components-mass-deployment"></a>店舗内コンポーネントの大量展開
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|2019 年 9 月| 2019 年 11 月|
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|2019 年 11 月| 2020 年 1 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

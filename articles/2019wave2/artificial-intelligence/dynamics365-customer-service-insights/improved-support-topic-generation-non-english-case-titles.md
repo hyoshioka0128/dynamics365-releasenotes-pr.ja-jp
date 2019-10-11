@@ -3,25 +3,25 @@ title: 英語以外のサポート案件タイトルのトピック生成に対�
 description: 英語以外のサポート案件タイトルのトピック生成に対するサポートの向上
 author: relnotes
 ms.reviewer: shellyha
-ms.date: 07/31/2019
+ms.date: 08/27/2019
 ms.assetid: a6c5c9b7-a471-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 dynamics365pdf: true
-ms.openlocfilehash: 86a9ce47cbc3c11b3692b41eea9ddf0472dc356c
-ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
+ms.openlocfilehash: b1e20eb7379411ec315594c73c72c5dce1aac502
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "1855843"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2140955"
 ---
 # <a name="improved-support-for-topic-generation-for-non-english-case-titles"></a>英語以外のサポート案件タイトルのトピック生成に対するサポートの向上
 [!include[artificial-intelligence/dynamics365-customer-service-insights banner](../includes/artificial-intelligence/dynamics365-customer-service-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|| 2019 年 12 月|
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|2019 年 10 月| 2019 年 12 月|
 
 
 

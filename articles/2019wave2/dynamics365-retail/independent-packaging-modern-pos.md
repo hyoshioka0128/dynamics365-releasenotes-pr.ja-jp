@@ -3,18 +3,18 @@ title: 最新 POS 用の独立したパッケージ化
 description: 最新 POS 用の独立したパッケージ化
 author: mugunthanm
 ms.reviewer: josaw
-ms.date: 07/22/2019
+ms.date: 07/31/2019
 ms.assetid: 6063278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mumani
 dynamics365pdf: true
-ms.openlocfilehash: 1eb2588db30c6bb0e44f03be7639016a7dd8dd49
-ms.sourcegitcommit: 4101748c25acf79b22e31a01b73969500926ff91
+ms.openlocfilehash: 41063e6783c6914c83a39de4275924ccdeed4f68
+ms.sourcegitcommit: ee76a2a33ee72c4527d76633a64036d7db0ba3b3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1793411"
+ms.lasthandoff: 08/08/2019
+ms.locfileid: "1866236"
 ---
 # <a name="independent-packaging-for-modern-pos"></a>最新 POS 用の独立したパッケージ化
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]

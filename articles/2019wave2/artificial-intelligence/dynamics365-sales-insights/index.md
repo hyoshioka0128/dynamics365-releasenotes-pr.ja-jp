@@ -1,24 +1,25 @@
 ---
 title: Dynamics 365 Sales Insights の 2019 年リリース ウェーブ 2 の概要
-description: ''
+description: Dynamics 365 Sales Insights の 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 06/13/2019
+ms.date: 09/14/2019
 ms.assetid: 7aa3fad1-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: 9000af3f90b3fcb1b34cdfe416d1e26e05760602
-ms.sourcegitcommit: 59f5bc1ad5c9bbbfbeff6608476b60c0b2da58c0
+ms.openlocfilehash: 5a562fcb572e86ef5c252d3a5967c1a4c70089e3
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "1736155"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2142539"
 ---
 # <a name="overview-of-dynamics-365-sales-insights-2019-release-wave-2"></a>Dynamics 365 Sales Insights の 2019 年リリース ウェーブ 2 の概要
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
 
+<!--overview start-->
 長年、顧客間関係管理 (CRM) は一次元の記録システムでした。 営業チームはシステムにデータを入力するのに長い時間がかかり、実際には "システムのために働いて" いました。 Dynamics 365 Sales Insights は、予測とパーソナライズされたインテリジェンスの力を活用して、営業チームが CRM システムを自分の代わりに機能するように変換するのを支援します。   
 
 Dynamics 365 Sales Insights により、チームはより先見の明があるようになり、営業ライフサイクル全体にわたって生産性が向上し、よりよい予測結果が得られるようになります。  この強化により、販売担当者は各顧客のニーズと競合各社の潜在的な動きより常に先行することができます。   
@@ -35,6 +36,7 @@ Dynamics 365 Sales Insights を使用すると、販売組織全体のすべて�
 
 - **有意義で関連性のある会話**: 複数の会話チャネルを通してシームレスで自動化された分析を提供することにより、販売担当者が顧客と有意義なやり取りを行えるよう支援することに、引き続き取り組みます。 ギャップおよび説得力のある製品ピッチを強調することで、チームはエンゲージメントの質を向上させることができ、よい結果につながる可能性のある行動に焦点を当てることができます。  
 
-- **自動化とプライバシーの強化**: お客様からの継続的なフィードバックに基づいて、インテリジェント サービスを強化し続けます。 これには、徹底的で柔軟な自動化、および組織全体での採用促進に役立つ、より詳細なプライバシー管理が含まれます。 
+- **自動化とプライバシーの強化**: お客様からの継続的なフィードバックに基づいて、インテリジェント サービスを強化し続けます。 これには、徹底的で柔軟な自動化、および組織全体での採用促進に役立つ、より詳細なプライバシー管理が含まれます。
 
- 
+[概要ビデオを見る](https://aka.ms/ROGSI19RW2ROV) 
+<!--overview end-->

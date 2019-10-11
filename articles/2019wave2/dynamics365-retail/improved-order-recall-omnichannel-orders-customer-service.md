@@ -1,27 +1,28 @@
 ---
+redirect_url: ../change-history#dynamics-365-for-retail
 title: Customer Service におけるオムニチャネル注文の注文取り消しの改善
 description: Customer Service におけるオムニチャネル注文の注文取り消しの改善
 author: relnotes
 ms.reviewer: josaw
-ms.date: 07/22/2019
+ms.date: 07/31/2019
 ms.assetid: 7863278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: asharchw
 dynamics365pdf: true
-ms.openlocfilehash: 442ce70c63ae239b46c8922280cbd7a93e816ba0
-ms.sourcegitcommit: 4101748c25acf79b22e31a01b73969500926ff91
+ms.openlocfilehash: 23921cf1cb6df51c796f56029f5e7cb7781f5acb
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1794280"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2141923"
 ---
 # <a name="improved-order-recall-for-omnichannel-orders-in-customer-service"></a>Customer Service におけるオムニチャネル注文の注文取り消しの改善
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 9 月| 2019 年 11 月|
+|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 9 月| 2019 年 11 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
