@@ -1,5 +1,370 @@
 {
-  "redirections": [
+  "redirections": [    {
+      "source_path": "articles/index.md",
+      "redirect_url": "2019wave2/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/artificial-intelligence/dynamics365-customer-service-insights/get-combined-overview-human-virtual-agents.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/artificial-intelligence/dynamics365-fraud-protection/get-alerting-integrate.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/artificial-intelligence/dynamics365-fraud-protection/get-support-challenge-experience-cvv-3ds2-etc..md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/artificial-intelligence/dynamics365-market-insights/additional-types-insights-march-2020.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/artificial-intelligence/dynamics365-market-insights/integrate-dynamics-365-sales.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/artificial-intelligence/dynamics365-sales-insights/better-privacy-controls-who-knows-whom.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/artificial-intelligence/dynamics365-sales-insights/who-knows-whom-now-worldwide.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/artificial-intelligence/dynamics365-virtual-agent-for-customer-service/analysis-reporting.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/artificial-intelligence/dynamics365-virtual-agent-for-customer-service/bot-takes-actions-authenticated-user.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/artificial-intelligence/dynamics365-virtual-agent-for-customer-service/business-process-integration.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/artificial-intelligence/dynamics365-virtual-agent-for-customer-service/easy-onboarding.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/artificial-intelligence/dynamics365-virtual-agent-for-customer-service/hours-saved.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/artificial-intelligence/dynamics365-virtual-agent-for-customer-service/survey-authoring.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/artificial-intelligence/dynamics365-virtual-agent-for-customer-service/team-collaboration.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-business-central/code-documentation-attributes.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-business-central/improved-printing-pages-reports.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-business-central/support-technical-upgrades.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-business-central/write-larger-item-cross-reference-numbers.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-customer-service/automatic-record-creation-arc-enhancements.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-customer-service/email-usability-enhancements.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-marketing/dynamic-email-content-enhancements.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-marketing/enhanced-visibility-into-current-upcoming-customer-journeys.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-retail/clienteling---cross-sell-using-product-collections.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-retail/consistency-payments-management-across-retail-channels.md",
+      "redirect_url": "../change-history#dynamics-365-for-retail",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-retail/enhanced-inventory-dimension-support-retail-order-processing.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-retail/franchising.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-retail/improved-order-recall-omnichannel-orders-customer-service.md",
+      "redirect_url": "../change-history#dynamics-365-for-retail",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-retail/improved-support-batch-inventory-dimension-store.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-retail/in-store-employee-task-management.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-retail/independent-packaging-modern-pos.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-retail/intelligent-stores-through-spatial-driven-insights.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-retail/retail-autocharges-configured-channel.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-retail/sales-order-modification-improvements.md",
+      "redirect_url": "../change-history#dynamics-365-for-retail",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-retail/warranty-set-up-sell.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-sales/account-management.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-sales/lead-management.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-sales/quote-pdf-generation.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/auto-create-guide-employee-milestones.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/better-integration-corehr.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/branded-embeddable-improved-candidate-experiences.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/bulk-candidate-submissions-sourcing-agencies.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/configure-save-list-views.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/deeper-experience-integration-finance-operations-other-3rd-party-applications.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/easily-discover-access-resources-search.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/employees-onboard-themselves.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/enable-posting-more-job-sites.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/initiate-paperless-onboarding-using-e-signatures.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/keep-talent-network-engaged-tracking-relationships.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/pay-it-forward-next-guide-users.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/finance-operations/automate-routing-distribution-procedures-business-documents.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/finance-operations/automatic-ledger-settlements.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/finance-operations/data-feeds-third-party-integrations.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/finance-operations/dock-management-planning.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/finance-operations/expanded-regional-coverage-regulatory-configuration-service-china.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/finance-operations/planning-optimization-support-materials-requirements-planning-mrp.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/finance-operations/planning-optimization-support-production-scheduling.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/finance-operations/regulatory-configuration-service-regulatory-update-discovery.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/finance-operations/system-directed-cluster-picking.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/finance-operations/urs-based-resource-management-projects-fo.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/microsoft-forms-pro/actions-triggers-templates.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/microsoft-forms-pro/analysis-reporting.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/microsoft-forms-pro/business-process-integration.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/microsoft-forms-pro/capacity-management.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/microsoft-forms-pro/categorize-survey-comments-automatically.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/microsoft-forms-pro/custom-sender.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/microsoft-forms-pro/email-embedded-survey.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/microsoft-forms-pro/migration-apis.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/microsoft-forms-pro/power-bi-templates.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/microsoft-forms-pro/survey-insights.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/microsoft-forms-pro/survey-management.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/microsoft-forms-pro/survey-tracking.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/mixed-reality/dynamics365-guides/localization-wave-2.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+
     {
       "source_path": "articles/2019wave2/artificial-intelligence/dynamics365-sales-insights/better-privacy-controls-‘who-knows-whom’.md",
       "redirect_url": "better-privacy-controls-who-knows-whom",
