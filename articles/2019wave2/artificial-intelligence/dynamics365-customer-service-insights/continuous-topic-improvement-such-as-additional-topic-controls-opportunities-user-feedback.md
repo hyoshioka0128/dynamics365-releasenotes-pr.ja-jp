@@ -3,25 +3,25 @@ title: 追加のトピック管理やユーザー フィードバックの機会
 description: 追加のトピック管理やユーザー フィードバックの機会などのトピックの継続的改善
 author: relnotes
 ms.reviewer: shellyha
-ms.date: 07/31/2019
+ms.date: 08/02/2019
 ms.assetid: ee63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 dynamics365pdf: true
-ms.openlocfilehash: 3b8d0aeaca70d3fba85c7dee4f6f84344e23cad7
-ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
+ms.openlocfilehash: 062dace3d489a0b29bb8fe8d9c2768c8a337a0ba
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "1855876"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2140977"
 ---
 # <a name="continuous-topic-improvement-such-as-additional-topic-controls-opportunities-for-user-feedback"></a>追加のトピック管理やユーザー フィードバックの機会などのトピックの継続的改善
 [!include[artificial-intelligence/dynamics365-customer-service-insights banner](../includes/artificial-intelligence/dynamics365-customer-service-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|2019 年 12 月| |
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|2019 年 12 月| -|
 
 
 

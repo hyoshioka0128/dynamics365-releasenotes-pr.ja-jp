@@ -3,25 +3,25 @@ title: Modern POS のオフライン可用性の向上
 description: Modern POS のオフライン シナリオの可用性の拡大
 author: relnotes
 ms.reviewer: josaw
-ms.date: 07/22/2019
+ms.date: 08/06/2019
 ms.assetid: 859dc757-73aa-e911-a964-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: jashanno
 dynamics365pdf: true
-ms.openlocfilehash: c05c1b4b8282d5ac7e19b3ff4738d2c7bdf63575
-ms.sourcegitcommit: 4101748c25acf79b22e31a01b73969500926ff91
+ms.openlocfilehash: 496a25e31a76786a520f49d9f0e78fbfebcc76b7
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1793367"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2141879"
 ---
 # <a name="modern-pos-offline-availability-improvements"></a>Modern POS のオフライン可用性の向上
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、自動的|2019 年 8 月| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -35,14 +35,6 @@ Modern POS (MPOS) のオフライン機能は、ビジネス継続性と継続�
 <!--feature detail start -->
 この機能は、MPOS に存在するシームレスなオフライン機能をさらに拡張します。 拡張されるシナリオには、MPOS にサインインする前に手動でオフラインに切り替える機能が含まれます。 これにより、災害時でもオフラインに移行して引き続き POS 操作を使用することができます。 サインイン プロセスは、端末がオフラインに切り替わるシナリオが最も多く発生する可能性がある箇所です。 これに対応するため、サインイン中に MPOS がより迅速かつ頻繁にオフラインにシームレスに切り替わる高度なシナリオ向けに、本社で有効または無効にできるオフライン構成が実装されました。 例としては、レジ係またはマネージャーがアプリケーションにサインインするときなどが挙げられます。
 <!--feature detail end -->
-
-
-
-
-
-
-
-
 
 
 

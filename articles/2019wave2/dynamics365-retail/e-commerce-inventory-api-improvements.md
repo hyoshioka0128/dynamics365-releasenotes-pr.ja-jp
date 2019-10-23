@@ -3,25 +3,25 @@ title: eコマース在庫 API の改善
 description: この機能で導入される新しい API を使用して、小売業者は在庫の利用可能性を見積もることができます。 これらの API によって提供される情報を eコマース アプリケーションで使用し、商品を出荷または店頭での集荷に使用できるかどうかを顧客に知らせることができます。 この目的のために以前提供されていた既存の API はパフォーマンスが良くなく、計算ロジックも最適ではありませんでした。
 author: hhainesms
 ms.reviewer: rhaertle
-ms.date: 07/22/2019
+ms.date: 08/13/2019
 ms.assetid: c5ff120b-f182-e911-a98e-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: hhaines
 dynamics365pdf: true
-ms.openlocfilehash: 744df3c9bb3bb65bbbf7744d78a72a853cdb71f4
-ms.sourcegitcommit: 4101748c25acf79b22e31a01b73969500926ff91
+ms.openlocfilehash: f85a2740f5ea8079857e27f3a82b0f4c693cec34
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1794632"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2141934"
 ---
 # <a name="e-commerce-inventory-api-improvements"></a>eコマース在庫 API の改善
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 9 月| 2019 年 11 月|
+| ---------- | :----------: |:----------: |
+|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 10 月| 2020 年 1 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

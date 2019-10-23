@@ -3,25 +3,25 @@ title: C/AL 定義から AL テーブル定義にテーブルを変換する
 description: Sync-NAVApp PowerShell コマンドレットを使用することで、パートナーは、データベースのオーバーヘッドを最小限に抑えながら、アップグレード コードを記述する必要なく、C/AL で定義されたデータベース内のすべてのテーブルを AL で定義されたテーブルに変換できます。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 07/22/2019
+ms.date: 08/02/2019
 ms.assetid: 0d941009-b786-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: kepontop
 dynamics365pdf: true
-ms.openlocfilehash: 8882c18272d09b1e29c90b45165cf6fff1e92879
-ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
+ms.openlocfilehash: d83630fd8a603793f53c366dcf1268c7cacd4185
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1795815"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2140680"
 ---
 # <a name="convert-tables-from-cal-definitions-to-al-table-definitions"></a>C/AL 定義から AL テーブル定義にテーブルを変換する
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|-| 2019 年 10 月|
 
 
 

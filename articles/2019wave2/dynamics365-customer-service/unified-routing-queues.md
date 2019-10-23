@@ -3,25 +3,25 @@ title: エンティティ レコードの統合ルーティング
 description: 統合ルーティングとキュー
 author: relnotes
 ms.reviewer: kabala
-ms.date: 07/22/2019
+ms.date: 09/12/2019
 ms.assetid: 1062278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: karthig
 dynamics365pdf: true
-ms.openlocfilehash: b3f0aa96a4b7d8fb8948ae673baac0b0ab2b4813
-ms.sourcegitcommit: 4e5c18a534fd5b7aaddfe01f66edb1d0b466497b
+ms.openlocfilehash: 394b4f39c27e8242abbe08d173f7cab427c0bd0d
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1793081"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2143789"
 ---
 # <a name="unified-routing-for-entity-records"></a>エンティティ レコードの統合ルーティング
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
-| 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
-| ---------- | ---------- |---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 8 月| 2019 年 10 月|いいえ |
+| 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
+| ---------- | :----------: |:----------: |:----------: |
+|ユーザー、管理者/作成者/アナリストによる有効化|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 31 日| 2019 年 10 月|
 
 
 
@@ -43,6 +43,9 @@ ms.locfileid: "1793081"
  
 > [!NOTE]
 > 現在、Dynamics 365 ポータルを使用することで、サポート案件を作成してサポートを要求できるようになりました。 統合ルーティングを使用すると、ポータルから発信されるこれらのサポート作業項目を、空いている最適なエージェントにルーティングし、自動的に割り当てることができます。
+
+> [!NOTE]
+> サポート案件エンティティ レコードのルーティングは、パブリック プレビュー リリースで利用できます。 他のエンティティ レコードのルーティングは、GA (一般提供) リリースで利用可能になります。
 <!--feature detail end -->
 
 
@@ -55,3 +58,7 @@ ms.locfileid: "1793081"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[エンティティ レコードのルーティング](https://docs.microsoft.com/dynamics365/customer-engagement/omnichannel/administrator/entity-channel) (ドキュメント)

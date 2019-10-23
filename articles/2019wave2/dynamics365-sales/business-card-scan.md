@@ -1,34 +1,34 @@
 ---
 title: 名刺のスキャン
-description: 名刺をスキャンして Dynamics 365 に読み取ると、入力に無駄な時間を使わなくてすみます。
+description: 名刺をスキャンして Dynamics 365 に読み込むと、入力に時間を費やさずにすみます。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 07/22/2019
+ms.date: 08/20/2019
 ms.assetid: cc61278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: 2dd15ff18ab252aa395b27949da432b9aa77cf5c
-ms.sourcegitcommit: 0b8be9c5138c1e2b7f46527bd303cae5207cced7
+ms.openlocfilehash: c0a30eafcd19bf57e5fec87d9d88b8e655157482
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/29/2019
-ms.locfileid: "1791409"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2143451"
 ---
 # <a name="business-card-scan"></a>名刺のスキャン
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-| 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
-| ---------- | ---------- |---------- |---------- |
-|エンド ユーザー、自動的|| 2019 年 10 月|はい |
+| 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
+| ---------- | :----------: |:----------: |:----------: |
+|ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-顧客から最も多い要求です。 
+顧客から最も多い要望です。 
 
-名刺は一般に会議で受け取りますが、その後どこかに置き忘れたりなくしたりしがちです。 営業のプロフェッショナルは、これらの名刺から情報をすばやく収集して、より重要なタスクに集中できるようにする方法を必要とします。 名刺のスキャンは、カンファレンスやオフサイトでの会議などの外出中に特に便利です。
+会議でよく名刺を受け取りますが、その後どこかに置き忘れたり、なくしたりしがちです。 営業のプロフェッショナルは、これらの名刺から情報をすばやく収集して、より重要なタスクに集中できるようにする方法を必要とします。 名刺のスキャンは、カンファレンスやオフサイトでの会議などの外出中に特に便利です。
 <!-- bv end -->
 
 
@@ -40,8 +40,8 @@ ms.locfileid: "1791409"
 - 名刺スキャン機能は、米国および EU 地域でのみ利用可能です。
 <!--feature detail end -->
 
-![名刺スキャン](media/businesscardscan_mockups.png "名刺スキャン")
-<!-- Picture 2 -->
+![名刺のスキャン](media/BusinessCardScan_Mockups.png "名刺のスキャン")
+<!-- Picture 1 -->
 
 > [!NOTE]
 > この機能は、統一インターフェイスでのみ使用できます。
@@ -53,3 +53,9 @@ ms.locfileid: "1791409"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[名刺のスキャン](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/dynamics365-sales/business-card-scan) (ブログ)
+
+[名刺のスキャン](https://docs.microsoft.com/dynamics365/customer-engagement/sales-enterprise/scan-business-cards) (ドキュメント)

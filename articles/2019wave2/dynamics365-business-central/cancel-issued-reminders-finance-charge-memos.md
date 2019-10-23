@@ -1,39 +1,39 @@
 ---
-title: 発行されたアラームと利息メモをキャンセルする
+title: アラームと利息メモをキャンセルする
 description: 発行されたアラームと利息メモを、1 つずつ、またはまとめてキャンセルできます。
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 07/22/2019
+ms.date: 09/10/2019
 ms.assetid: 0a98f298-dc65-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 70fee7b898c3d86bb339bc1d3ffe05045a0a7055
-ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
+ms.openlocfilehash: af686ec40d764f020c4ce36ae837e15d36c3eb7f
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1795859"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2140702"
 ---
-# <a name="cancel-issued-reminders-and-finance-charge-memos"></a>発行されたアラームと利息メモをキャンセルする
+# <a name="cancel-reminders-and-finance-charge-memos"></a>アラームと利息メモをキャンセルする
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、自動的|2019 年 8 月| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-発行されたアラームまたは利息メモをキャンセルすることで、期間終了作業の間違いをすばやく修正できます。
+発行されたアラームまたは利息メモをキャンセルすることで、期間終了作業中の間違いをすばやく修正できます。
 <!-- bv end -->
 
 
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-アラームと利息メモは、通常、たとえば月末などに一括で作成され、請求書の期限や期限切れの請求書を顧客に知らせます。 この忙しい期間に誤った情報が検出された場合は、発行されたアラームまたは利息メモをキャンセルすることによって、そのようなエラーを迅速に修正することができなければなりません。
+アラームと利息メモは、通常、たとえば月末などに一括で作成され、請求書の期限や期限切れの請求書を顧客に知らせます。 この忙しい期間中に誤った情報が検出された場合は、発行されたアラームまたは利息メモをキャンセルすることによって、そのようなエラーを迅速に修正することができなければなりません。
 <!--feature detail end -->
 
 

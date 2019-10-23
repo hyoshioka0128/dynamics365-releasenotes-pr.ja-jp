@@ -3,25 +3,25 @@ title: Facebook メッセージング
 description: Facebook メッセンジャーを通じて顧客に働きかけ、時間のあるときに会話に参加できる利便性を提供します。
 author: relnotes
 ms.reviewer: shjais
-ms.date: 07/22/2019
+ms.date: 08/05/2019
 ms.assetid: fc61278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: pbaja
 dynamics365pdf: true
-ms.openlocfilehash: 7143a0abab031367a50bb4af7ea3c341b85f07f4
-ms.sourcegitcommit: 4e5c18a534fd5b7aaddfe01f66edb1d0b466497b
+ms.openlocfilehash: f45d76e281b1b8b938e0a3d8b509981fbcc37338
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1793268"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2142220"
 ---
 # <a name="facebook-messaging"></a>Facebook メッセージング
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
-| 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
-| ---------- | ---------- |---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 2020 年 1 月|いいえ |
+| 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
+| ---------- | :----------: |:----------: |:----------: |
+|ユーザー、管理者/作成者/アナリストによる有効化|-|2019 年 10 月| 2020 年 1 月|
 
 
 

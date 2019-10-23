@@ -3,24 +3,24 @@ title: デバイス ライセンス認証トークンの自動更新
 description: デバイス ライセンス認証トークンの自動更新
 author: relnotes
 ms.reviewer: josaw
-ms.date: 07/22/2019
+ms.date: 08/01/2019
 ms.assetid: 5463278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: jashanno
 dynamics365pdf: true
-ms.openlocfilehash: 7aca54f849b30156fddec68497d592ada85e45bf
-ms.sourcegitcommit: 4101748c25acf79b22e31a01b73969500926ff91
+ms.openlocfilehash: ef16839be02b9a673727754ed8d658379167dfa9
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1793455"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2141978"
 ---
 # <a name="auto-refresh-device-activation-token"></a>デバイス ライセンス認証トークンの自動更新
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
+| ---------- | :----------: |:----------: |
 |管理者、作成者、またはアナリスト、自動的|2020 年 1 月| 近日発表|
 
 

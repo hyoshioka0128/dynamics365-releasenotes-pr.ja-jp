@@ -3,25 +3,25 @@ title: フル キーボード ショートカットのサポート
 description: ショートカットが追加されており、開発者はカスタム アクション用に独自のキーボード ショートカットを追加できます。
 author: kotelko
 ms.reviewer: sgroespe
-ms.date: 07/22/2019
+ms.date: 09/10/2019
 ms.assetid: b663278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: blazkote
 dynamics365pdf: true
-ms.openlocfilehash: 1e067dc10f98ad83d2bc797138c57a004f8a6d38
-ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
+ms.openlocfilehash: ce98521ddd6372396c584f4c2947c599c6b10ac5
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1795721"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2140603"
 ---
 # <a name="full-keyboard-shortcut-support"></a>フル キーボード ショートカットのサポート
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、自動的|2019 年 8 月| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -33,7 +33,16 @@ ms.locfileid: "1795721"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-開発者は、AL プロパティによってほとんどのアクションや操作にキーボード ショートカットを追加できます。 つまり、アプリケーション開発者は、基本アプリケーションのアクションや、拡張機能の独自のオブジェクトに対して、キーボード ショートカットを指定できます。 これにより、Business Central のキーボード ショートカットの定義済みリストが補完され、パートナーはいっそう柔軟に開発できるようになります。
+Business Central 用の拡張機能を作成する開発者は、AL プロパティによってほとんどのアクションや操作にキーボード ショートカットを追加できます。 つまり、アプリケーション開発者は、基本アプリケーションのアクションや、拡張機能の独自のオブジェクトに対して、キーボード ショートカットを指定できます。 そのためには、開発者は AL (Business Central 拡張機能用のプログラミング言語) の [ShortCutKey プロパティ](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/properties/devenv-shortcutkey-property "ShortCutKey プロパティ")を使用する必要があります。
+
+この機能により、Business Central のキーボード ショートカットの定義済みリストが補完され、パートナーはいっそう柔軟に開発できるようになります。
+
+追加のキーボード ショートカットは 2019 年リリース ウェーブ 2 で追加されます。 これらのほとんどはビジネス アプリケーション領域で定義されたショートカットに基づいており、今後、柔軟性向上のために変更される可能性があります。
+
+
+更新されたキーボード ショートカットの完全な一覧は、常に「[キーボード ショートカット](https://go.microsoft.com/fwlink/?LinkId=2064754)」で公開されます。 たとえば、新しく追加されたキーボード ショートカットの 1 つとして、ドキュメントを転記するための *F9* があります。
+
+![キーボード ショートカットを使用した請求書の転記](media/posting.png "キーボード ショートカットを使用した請求書の転記")
 <!--feature detail end -->
 
 

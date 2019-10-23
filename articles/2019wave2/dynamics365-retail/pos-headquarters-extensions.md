@@ -3,30 +3,30 @@ title: POS および本社の拡張機能
 description: POS および本社の拡張機能
 author: mugunthanm
 ms.reviewer: josaw
-ms.date: 07/22/2019
+ms.date: 09/16/2019
 ms.assetid: 5e63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mumani
 dynamics365pdf: true
-ms.openlocfilehash: 1b1b496d3524568b063e2348a44a6d576d2f71c9
-ms.sourcegitcommit: 4101748c25acf79b22e31a01b73969500926ff91
+ms.openlocfilehash: bf753a4ff3a5b5deeeab1e4b84f96a1b0552c8db
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1793345"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2141857"
 ---
 # <a name="pos-and-headquarters-extensions"></a>POS および本社の拡張機能
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|2019 年 8 月| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-ほぼすべての小売業者が、ビジネス目標を達成するために、Dynamics 365 for Retail を拡張して、既存のビジネス ロジックを変更したり、製品に新しい機能を追加したりすることを必要とするか選択しています。 販売時点管理 (POS)、Commerce Runtime (CRT)、および本社では、カスタム ビジネス シナリオをサポートするための拡張ポイントを追加しています。 この機能の目標は、拡張シナリオをサポートするために製品に必要なコア拡張ポイントを追加することです。
+多くの小売業者が、ビジネス目標を達成するために、Dynamics 365 Retail を拡張して、既存のビジネス ロジックを変更したり、製品に新しい機能を追加したりすることを必要とするか選択しています。 販売時点管理 (POS)、Commerce Runtime (CRT)、および本社 (HQ) では、カスタム ビジネス シナリオをサポートするための拡張ポイントを追加しています。 この機能の目標は、拡張シナリオをサポートするために製品に必要なコア拡張ポイントを追加することです。
 <!-- bv end -->
 
 
@@ -41,16 +41,6 @@ POS フレームワークを継続的に拡張し、拡張機能でロジック�
 
 ### <a name="pos-overridable-requests-and-triggers"></a>POS オーバーライド可能な要求とトリガー
 POS ワークフローまたは POS ビジネス ロジックをオーバーライドし、カスタム ロジックまたは検証を追加するために、新しいオーバーライド可能な要求が POS に追加されています。 POS トリガー フレームワークは、コア POS ロジックの前後でカスタム ロジックを実行するのに役立ちます。 この新しいパターンにより、開発者は POS のワークフローを簡単にカスタマイズできます。
-
-### <a name="dev-infrastructure-and-tools-improvements"></a>開発インフラストラクチャとツールの改善
-
-**NuGet への参照**: Commerce Runtime を含む Retail SDK 参照および Retail サーバー参照が、拡張機能で使用するために Retail SDK に同梱されていますが、現在は、拡張プロジェクトで簡単に参照を使用できるよう、NuGet パッケージ マネージャーにすべての参照を公開することが計画されています。 このアプローチを使用すると、拡張プロジェクトでは、Lifecycle Services (LCS) 更新フローを経由するのではなく、数回クリックするだけで参照ライブラリの最新の更新を取得できます。
-
-**サンプルを GitHub へ**: 現在、Retail 拡張機能の開発サンプルはすべて SDK に含まれていますが、すべてのサンプルを GitHub に移動することが計画されています。 それにより、簡単に使用および更新できるようになります。
-
-**Commerce Runtime アナライザー**: Commerce Runtime アナライザー ツールは、POS の操作またはワークフロー用に CRT で使用されている要求と応答を特定するのに役立ちます。 たとえば、開発者が CRT で正しい要求を変更するのに必要な追加情報を取得するために検索ワークフローをカスタマイズしたい場合、このツールはそのシナリオで使用されている正確な要求を識別するのに役立ちます。  
-
-**コード サンプルとドキュメント**: あらゆる開発シナリオに役立つように、多くの新しいコード サンプルとドキュメントが公開されます。 これらの新しいサンプルを使用すると、開発者は実質的に、コードをコピーして貼り付け、いくつか変更を行うだけで、拡張機能を完成させることができます。
 <!--feature detail end -->
 
 
@@ -63,3 +53,7 @@ POS ワークフローまたは POS ビジネス ロジックをオーバーラ�
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[Retail POS API](https://docs.microsoft.com/dynamics365/unified-operations/retail/dev-itpro/pos-apis) (ドキュメント)

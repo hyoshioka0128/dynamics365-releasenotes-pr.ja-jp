@@ -3,25 +3,25 @@ title: サード パーティのアプリを埋め込む
 description: サード パーティのアプリを埋め込む
 author: relnotes
 ms.reviewer: anbichse
-ms.date: 07/31/2019
+ms.date: 08/22/2019
 ms.assetid: 4663278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: JCart
+ms.author: dkrame
 dynamics365pdf: true
-ms.openlocfilehash: 9a3170f45a93a58375a8782eb7e4c326fb6610a3
-ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
+ms.openlocfilehash: 604e4a3843816356982d3267db7a9a819b55556f
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "1854517"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2143339"
 ---
 # <a name="embed-third-party-apps"></a>サード パーティのアプリを埋め込む
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 9 月| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 11 月| 2019 年 12 月|
 
 
 

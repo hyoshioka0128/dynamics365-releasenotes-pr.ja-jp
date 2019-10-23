@@ -3,25 +3,25 @@ title: Customer Insights の統合
 description: Customer Insights の統合
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 07/31/2019
+ms.date: 09/09/2019
 ms.assetid: c461278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: 0f468db8d2d32105bb7a311603d53056f03f50c2
-ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
+ms.openlocfilehash: 089b965d1ecb3e81cd8765dc95b2ab15c2451784
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "1856052"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2142055"
 ---
 # <a name="customer-insights-integration"></a>Customer Insights の統合
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
 
-| 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
-| ---------- | ---------- |---------- |---------- |
-|エンド ユーザー、自動的|| 2019 年 10 月|はい |
+| 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
+| ---------- | :----------: |:----------: |:----------: |
+|ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| 2019 年 10 月|
 
 
 
@@ -30,11 +30,11 @@ ms.locfileid: "1856052"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-Dynamics 365 用の新しい Customer Insights アプリでは、人工インテリジェンスが適用されて、Dynamics 365 for Sales、Service、Marketing のような他のアプリから収集された豊富な顧客データのプールが分析されます。 その標準機能では取引先担当者ごとに強力な分析表示が生成され、簡単に情報を理解して使用できるようになります。 統合ソリューションでは次のことができます。
+Dynamics 365 用の新しい Customer Insights アプリには人工知能が採用されており、Dynamics 365 Sales、Service、Marketing のような他のアプリから収集された豊富な顧客データのプールを分析します。 その標準機能では取引先担当者ごとに強力な分析表示が生成され、簡単に情報を理解して使用できるようになります。 統合ソリューションでは次のことができます。
 
--  マーケティングの対話を Customer Insights データ レイクにプッシュして、取引先担当者ごとに完全な 360&deg; ビューを生成します。
+-  マーケティングの対話を Customer Insights データ レイクにプッシュして、取引先担当者ごとに完全な 360 ビューを生成します。
 -  データ クレンジング、エンリッチメント、およびファジー マッチングを適用します。 
--  Customer Insights によって作成されたセグメントを使用して、Dynamics 365 for Marketing で顧客体験をターゲットにします。
+-  Customer Insights によって作成されたセグメントを使用して、Dynamics 365 Marketing 内で顧客体験をターゲットにします。
 <!--feature detail end -->
 
 
@@ -47,3 +47,10 @@ Dynamics 365 用の新しい Customer Insights アプリでは、人工インテ
 
 
 
+
+## <a name="see-also"></a>関連項目
+[機能の探索](https://aka.ms/rogm19RW2ROV1) (ビデオ)
+
+[8 月の更新プログラムと早期アクセス](https://cloudblogs.microsoft.com/dynamics365/it/2019/08/03/dynamics-365-for-marketing-august-update-and-early-access-are-rolling-out-now/) (ブログ)
+
+[Marketing で Customer Insights のセグメントを使用する](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/customer-insights-segments) (ドキュメント)

@@ -1,27 +1,27 @@
 ---
 title: 会話インテリジェンスでの販売担当者コーチングの改善
-description: 2019 年 4 月の時点で、営業マネージャーは販売担当者に対してよりスマートなコーチングを提供することができるようになっています。 今後は、会話インテリジェンス機能を販売担当者にも提供します。 また、新しいモデルの追加、NLP ベースのデータ探索の導入、より深い分析情報の提供を行い、それらでの販売データと会話データの統合によって、スマート コーチングも改善します。
+description: 2019 年 4 月の時点で、営業マネージャーは販売担当者に対してよりスマートなコーチングを提供することができるようになっています。 今後は、販売担当者に会話インテリジェンス機能も提供します。 また、新しいモデルの追加、NLP ベースのデータ探索の導入、より深い分析情報の提供を行い、それらでの販売データと会話データの統合によって、スマート コーチングも改善します。
 author: relnotes
 ms.reviewer: udag
-ms.date: 07/22/2019
+ms.date: 09/12/2019
 ms.assetid: cc63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: ashpodar
+ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: 5fdc76d81fb5126fe64f5376e792f6b095a55c5c
-ms.sourcegitcommit: c1d66f6454e35fb8191632683ff09e1362b8cfcd
+ms.openlocfilehash: 4b5ad35ca276b19a51f35e02d9c881581443dfbd
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "1790385"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2142594"
 ---
 # <a name="improve-seller-coaching-with-conversation-intelligence"></a>会話インテリジェンスでの販売担当者コーチングの改善
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|ユーザー、管理者/作成者/アナリストによる有効化|-| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -37,7 +37,7 @@ ms.locfileid: "1790385"
 
 - **タイムリーな分析情報**: アプリのアシスタントが、独自のタイムリーな分析情報を継続して提供します。  
 
-- **自然言語での Q&A:** 販売と会話データに関するデータ探査により、英語で簡単な質問をして、それに答えるレポートを動的に受け取る機会が提供されます。 
+- **自然言語での Q&A:** 販売と会話データのデータ探査により、英語で簡単な質問をして、それに答えるレポートを動的に受け取る機会が提供されます。 
 
 - **販売担当者の行動の分析:** トップ販売担当者の行動の分析により、マネージャーは売上向上につながる共通パターンを理解できます。 
 
@@ -58,3 +58,6 @@ ms.locfileid: "1790385"
 
 
 
+
+## <a name="see-also"></a>関連項目
+[機能の探索](https://aka.ms/ROGSI19RW2ROV5) (ビデオ)

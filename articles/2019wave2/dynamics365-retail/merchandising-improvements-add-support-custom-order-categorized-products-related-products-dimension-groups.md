@@ -3,30 +3,30 @@ title: 販売促進の改善 – カテゴリ化製品、関連製品、分析�
 description: 販売促進関連のシナリオのサポートは、現在は実装パートナーからの拡張機能が必要な既存のシナリオとよく一致するように強化されます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 07/22/2019
+ms.date: 08/26/2019
 ms.assetid: aeb2e25b-69aa-e911-a963-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: asharchw
 dynamics365pdf: true
-ms.openlocfilehash: c4fd2d5f1696c82ed7d4672591db1c9f022a89da
-ms.sourcegitcommit: 4101748c25acf79b22e31a01b73969500926ff91
+ms.openlocfilehash: 5587a63fb84c7f193b4f804c2a1bc632c40d9f77
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1793378"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2141890"
 ---
 # <a name="merchandising-improvements--add-support-for-custom-order-for-categorized-products-related-products-and-dimension-groups"></a>販売促進の改善 – カテゴリ化製品、関連製品、分析コード グループに対するカスタム順序のサポートの追加
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 9 月| 2019 年 11 月|
+| ---------- | :----------: |:----------: |
+|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 10 月| 2020 年 1 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-より多くの企業や大規模な組織がオンライン、コール センター、店舗のチャネルに Dynamics 365 for Retail の機能を利用するようになっているので、これらの組織が必要とするいっそう複雑なビジネス プロセスをサポートするように Retail ソリューションも成長する必要があります。 
+より多くの企業や大規模な組織がオンライン、コール センター、店舗のチャネルに Dynamics 365 Retail の機能を利用するようになっているので、これらの組織が必要とするいっそう複雑なビジネス プロセスをサポートするように Retail ソリューションも成長する必要があります。 
 
 これらの複雑なビジネス シナリオの一部に対するサポートを標準製品に追加することで、組織が新しい販売チャネルを迅速に設定して稼働する能力を遅らせる可能性がある、複雑な拡張やカスタマイズの必要性をなくします。 
 

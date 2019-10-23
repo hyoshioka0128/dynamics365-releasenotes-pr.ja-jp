@@ -3,25 +3,25 @@ title: POS の在庫入荷フォームでテンキーを常に画面に表示す
 description: POS の在庫入荷フォームでテンキーを常に表示する
 author: hhainesms
 ms.reviewer: josaw
-ms.date: 07/22/2019
+ms.date: 08/05/2019
 ms.assetid: 99e3f447-9297-e911-a962-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: hhaines
 dynamics365pdf: true
-ms.openlocfilehash: 8b552b2da2c9403a988da2d0202048e9eb3979df
-ms.sourcegitcommit: 4101748c25acf79b22e31a01b73969500926ff91
+ms.openlocfilehash: d4a4f5b28d233a52332a6ed9d7b14e757f9f586b
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1794566"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2143518"
 ---
 # <a name="numpad-to-remain-on-screen-in-pos-inventory-receiving-form"></a>POS の在庫入荷フォームでテンキーを常に画面に表示する
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|2019 年 8 月| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| 2019 年 10 月|
 
 
 
@@ -43,3 +43,7 @@ ms.locfileid: "1794566"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[店舗在庫管理](https://docs.microsoft.com/dynamics365/unified-operations/retail/work-with-store-inventory) (ドキュメント)

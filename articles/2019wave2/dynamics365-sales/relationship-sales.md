@@ -1,34 +1,34 @@
 ---
 title: LinkedIn Sales Navigator 統合の機能拡張
-description: LinkedIn Sales Navigator 統合は、引き続き 2 つの製品 Dynamics 365 for Sales と LinkedIn Sales Navigator の価値を合わせて提供します。 最新の改良の目的は、LinkedIn InMail を営業ユーザーからもっとアクセスしやすくすることです。
+description: LinkedIn Sales Navigator 統合は、引き続き 2 つの製品 Dynamics 365 Sales と LinkedIn Sales Navigator の価値を合わせて提供します。 最新の改良の目的は、LinkedIn InMail を営業ユーザーからもっとアクセスしやすくすることです。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 07/22/2019
+ms.date: 09/09/2019
 ms.assetid: d461278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: e3f3547e3f0b55d9a74e844594476608570ac8bb
-ms.sourcegitcommit: 0b8be9c5138c1e2b7f46527bd303cae5207cced7
+ms.openlocfilehash: d1d0b9de87fc4a2c670a0f018bb100a1039d053c
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/29/2019
-ms.locfileid: "1791358"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2143410"
 ---
 # <a name="linkedin-sales-navigator-integration-enhancements"></a>LinkedIn Sales Navigator 統合の機能拡張
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-| 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
-| ---------- | ---------- |---------- |---------- |
-|エンド ユーザー、自動的|| 2019 年 10 月|はい |
+| 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
+| ---------- | :----------: |:----------: |:----------: |
+|ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-Microsoft Relationship Sales ソリューションは LinkedIn Sales Navigator と Dynamics 365 for Sales を連携させて、社内の販売担当者がよりパーソナライズされた有意義な関係を購入者と築けるようにします。 LinkedIn の InMails は、営業担当者が顧客と連絡をとるためによく使用される通信チャネルです。 Dynamics 365 for Sales は、営業担当者が Dynamics 365 for Sales エンティティ内から InMail を作成して送信できるようにすることで、効率的な顧客エンゲージメントを促進します。
+Microsoft Relationship Sales は LinkedIn Sales Navigator と Dynamics 365 Sales を連携して、販売担当者がよりパーソナライズされた有意義な関係を購入者と築けるようにします。 LinkedIn の InMails は、営業担当者が顧客と連絡をとるためによく使用される通信チャネルです。 Dynamics 365 Sales は、営業担当者が Dynamics 365 Sales エンティティ内から InMail を作成して送信できるようにすることで、効率的な顧客エンゲージメントを促進します。
 
-販売担当者が取引先担当者をより簡単に識別できるように、LinkedIn からのプロフィール写真を Dynamics 365 for Sales 内で使用できるようになります。
+販売担当者が取引先担当者をより簡単に識別できるように、LinkedIn からのプロフィール写真を Dynamics 365 Sales 内で使用できるようになります。
 <!-- bv end -->
 
 
@@ -37,7 +37,7 @@ Microsoft Relationship Sales ソリューションは LinkedIn Sales Navigator �
 <!--feature detail start -->
 - LinkedIn InMail コンポーネントをホストするための新しい LinkedIn ウィジェットが、Dynamics 365 レコード内に導入されます。 この LinkedIn ウィジェットを使用すると、営業担当者は、LinkedIn のプロフィール情報を並べて表示しながら、取引先担当者、営業案件、リード、およびエンティティ連絡先に InMails を送信できます。
 
-- セールス ユーザーは、Dynamics 365 for Sales の組織図機能で作業しながら、InMail コンポーネントにアクセスできます。 組織図ノードをダブルクリックして、InMail アイコンを選択するだけで、Dynamics 365 for Sales から直接 LinkedIn InMail を送信できます。
+- セールス ユーザーは、Dynamics 365 Sales の組織図機能で作業しながら、InMail コンポーネントにアクセスできます。 組織図ノードをダブルクリックして、InMail アイコンを選択するだけで、Dynamics 365 Sales から直接 LinkedIn InMail を送信できます。
 
 - 組織で同期が有効になっている場合、送信された InMail は、InMail が送信された場所から、取引先担当者、営業案件、リード、および取引先企業エンティティのアクティビティ タイムラインにもアクティビティとして追加されます。
 
@@ -55,3 +55,7 @@ Microsoft Relationship Sales ソリューションは LinkedIn Sales Navigator �
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[LinkedIn Sales Navigator 統合の機能拡張](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/dynamics365-sales/relationship-sales) (ブログ)

@@ -3,25 +3,25 @@ title: フランス語、ドイツ語、およびスペイン語のサポート�
 description: フランス語、ドイツ語、およびスペイン語のサポート案件タイトルに基づくサポート トピックの生成
 author: relnotes
 ms.reviewer: shellyha
-ms.date: 07/31/2019
+ms.date: 08/02/2019
 ms.assetid: ec63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 dynamics365pdf: true
-ms.openlocfilehash: 91e48e87c7cd3d9bc40226a5b06c28d4d50a8748
-ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
+ms.openlocfilehash: ffe5c57f2a62bac7f93a6d36cf022c6415789b2c
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "1855784"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2140911"
 ---
 # <a name="support-topic-generation-based-on-case-titles-in-french-german-and-spanish"></a>フランス語、ドイツ語、およびスペイン語のサポート案件タイトルに基づくサポート トピックの生成
 [!include[artificial-intelligence/dynamics365-customer-service-insights banner](../includes/artificial-intelligence/dynamics365-customer-service-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|-| 2019 年 10 月|
 
 
 

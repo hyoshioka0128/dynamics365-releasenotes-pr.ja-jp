@@ -1,27 +1,27 @@
 ---
 title: いっそうパーソナライズされたガイド付きアシスタンス
-description: アシスタントは営業の各フェーズで実用的な分析情報により販売担当者を支援します。 今後、アシスタントは特定のニーズに基づいて、異なるロールの販売担当者をガイドします。 2019 年リリース ウェーブ 2 では、アシスタントを Microsoft Teams および Sales Insights アプリケーションで使用できるようにすることに焦点が当てられます。
+description: アシスタントは営業の各フェーズでアクション可能な分析情報により販売担当者を支援します。 今後、アシスタントは特定のニーズに基づいて、異なるロールの販売担当者をガイドします。 2019 年リリース ウェーブ 2 では、アシスタントを Microsoft Teams および Sales Insights アプリケーションで使用できるようにすることに焦点が当てられます。
 author: relnotes
 ms.reviewer: udag
-ms.date: 07/22/2019
+ms.date: 09/12/2019
 ms.assetid: c263278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: 4c53ebfcca7e44052d81e6f17a9510c1af92bdcf
-ms.sourcegitcommit: c1d66f6454e35fb8191632683ff09e1362b8cfcd
+ms.openlocfilehash: 180c3ac7716ee5fe9322a1ec649f38831361775d
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "1790370"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2142572"
 ---
 # <a name="more-personalized-and-guided-assistance"></a>いっそうパーソナライズされたガイド付きアシスタンス
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| |
+| ---------- | :----------: |:----------: |
+|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 10 月| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -61,3 +61,6 @@ ms.locfileid: "1790370"
 
 
 
+
+## <a name="see-also"></a>関連項目
+[機能の探索](https://aka.ms/ROGSI19RW2ROV1) (ビデオ)

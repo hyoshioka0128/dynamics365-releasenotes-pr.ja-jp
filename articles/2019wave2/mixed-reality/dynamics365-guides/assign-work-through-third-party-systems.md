@@ -1,27 +1,27 @@
 ---
-title: 事前構築されたエンティティまたはカスタム エンティティを通じてガイドを割り当てる
-description: 事前構築されたエンティティまたはカスタム エンティティを通じてガイドを割り当てる
+title: 事前構築されたエンティティまたはカスタム エンティティを通じてガイドの割り当てまたはフィルターを行う
+description: 事前構築されたエンティティまたはカスタム エンティティを通じてガイドの割り当てまたはフィルターを行う
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 08/01/2019
+ms.date: 09/05/2019
 ms.assetid: 9864278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: algodin
 dynamics365pdf: true
-ms.openlocfilehash: 91995075cf9804129c2ef1c82899170ecfe9d1dc
-ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
+ms.openlocfilehash: 97e0c0c1b0469d24988bdb46b856d9ed71c7f39d
+ms.sourcegitcommit: 856d36597ee54f817177a3682a0048ad1390c936
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "1855430"
+ms.lasthandoff: 09/19/2019
+ms.locfileid: "2003264"
 ---
-# <a name="assign-guides-through-prebuilt-or-custom-entities"></a>事前構築されたエンティティまたはカスタム エンティティを通じてガイドを割り当てる
+# <a name="assign-or-filter-guides-through-prebuilt-or-custom-entities"></a>事前構築されたエンティティまたはカスタム エンティティを通じてガイドの割り当てまたはフィルターを行う
 [!include[mixed-reality/dynamics365-guides banner](../includes/mixed-reality/dynamics365-guides.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|-| 2019 年 10 月|
 
 
 

@@ -3,25 +3,25 @@ title: Microsoft Teams 統合の機能拡張
 description: Microsoft Teams の統合によるコラボレーションのメリットに関するフィードバックを顧客やパートナーから取得し、機能の導入をサポートするため、Dynamics 365 では統合エクスペリエンスが強化されています。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 07/22/2019
+ms.date: 09/05/2019
 ms.assetid: de61278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: cindyliu
+ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: ebae9f87381cce54d72477fefdf9a8d222208b5d
-ms.sourcegitcommit: 0b8be9c5138c1e2b7f46527bd303cae5207cced7
+ms.openlocfilehash: 6deb894d17d1d5d16aea23d0855c77c7a9bc3e67
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/29/2019
-ms.locfileid: "1791299"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2143397"
 ---
 # <a name="microsoft-teams-integration-enhancements"></a>Microsoft Teams 統合の機能拡張
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-| 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
-| ---------- | ---------- |---------- |---------- |
-|エンド ユーザー、自動的|| 2019 年 10 月|はい |
+| 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
+| ---------- | :----------: |:----------: |:----------: |
+|ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -49,3 +49,8 @@ Dynamics 365 と Teams の統合は、2019 年 4 月に導入されました。 
 
 
 
+
+## <a name="see-also"></a>関連項目
+[機能の探索](https://aka.ms/ROGS19RW2ROV3) (ビデオ)
+
+[Microsoft Teams 統合](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/dynamics365-sales/teams-integration-enhancements) (ブログ)

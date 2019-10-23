@@ -3,32 +3,32 @@ title: 営業案件/見積/発注/請求書の製品の追加または編集エ�
 description: この機能強化により、営業案件や見積もりなどの製品明細品目を追加するときに、商品を簡単に検索およびフィルター処理するためのより単純で直感的なエクスペリエンスが提供されます。 さらに、価格表を必須にする必要があるかどうかを設定するための組織レベルのオプションも提供されます。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 07/22/2019
+ms.date: 08/19/2019
 ms.assetid: d061278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: naitikds
+ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: a1cf6a36dafd2d892ff232e9f694fa50af4fdaf2
-ms.sourcegitcommit: 0b8be9c5138c1e2b7f46527bd303cae5207cced7
+ms.openlocfilehash: 9be98dbd17166668b7e66f1e70223218c7c6be7b
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/29/2019
-ms.locfileid: "1791343"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2141785"
 ---
 # <a name="enhance-the-adding-or-editing-opportunityquoteorderinvoice-products-experience"></a>営業案件/見積/発注/請求書の製品の追加または編集エクスペリエンスの強化
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-| 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
-| ---------- | ---------- |---------- |---------- |
-|エンド ユーザー、自動的|| 2019 年 10 月|はい |
+| 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
+| ---------- | :----------: |:----------: |:----------: |
+|ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-顧客から最も多い要求です。 
+顧客から最も多い要望です。 
 
-この機能の機能強化では、営業担当者が任意の明細行品目の製品を選択し、生産性を向上させ、不要なコンテキスト切り替えを回避できるようにすることで、検索やフィルタリングのエクスペリエンスの向上を支援します。
+この機能強化では、営業担当者が任意の明細行品目の製品を選択できるようにすることで、検索やフィルター処理操作を改善します。これにより、生産性を高め、不要なコンテキストの切り替えを行わずに済むようになります。
 <!-- bv end -->
 
 
@@ -45,7 +45,6 @@ ms.locfileid: "1791343"
 ![価格表オプション](media/pricelist-optional.png "価格表オプション")
 
 ![保存して新規作成するオプション](media/save-create-new.png "保存して新規作成するオプション")
-
 <!--feature detail end -->
 
 
@@ -59,3 +58,9 @@ ms.locfileid: "1791343"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[追加または編集操作の強化](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/dynamics365-sales/enhance-experience-adding-or-editing-opportunityquoteorderinvoice-products) (ブログ)
+
+[価格表の選択を任意にする](https://docs.microsoft.com/dynamics365/customer-engagement/sales-enterprise/make-price-list-optional) (ドキュメント)

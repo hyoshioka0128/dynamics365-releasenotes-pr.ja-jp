@@ -3,25 +3,25 @@ title: 通知のカスタマイズ
 description: 通知のカスタマイズ
 author: relnotes
 ms.reviewer: anjgup
-ms.date: 07/24/2019
+ms.date: 08/05/2019
 ms.assetid: 0862278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mahesh
 dynamics365pdf: true
-ms.openlocfilehash: 46d65bb6270f69cee80e83e87dacc70875ab7e49
-ms.sourcegitcommit: 4e5c18a534fd5b7aaddfe01f66edb1d0b466497b
+ms.openlocfilehash: 0adf2b32d230bb86c41c39c1f5f6b63947b68177
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1793103"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2142110"
 ---
 # <a name="notification-customization"></a>通知のカスタマイズ
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
-| 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
-| ---------- | ---------- |---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 2020 年 1 月|いいえ |
+| 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
+| ---------- | :----------: |:----------: |:----------: |
+|ユーザー、管理者/作成者/アナリストによる有効化|-|2019 年 10 月| 2020 年 1 月|
 
 
 

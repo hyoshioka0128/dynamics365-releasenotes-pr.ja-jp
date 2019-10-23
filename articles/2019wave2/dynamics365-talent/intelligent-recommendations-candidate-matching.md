@@ -3,25 +3,25 @@ title: インテリジェントな候補者のレコメンデーション
 description: インテリジェントな候補者のレコメンデーション
 author: relnotes
 ms.reviewer: anbichse
-ms.date: 07/31/2019
+ms.date: 09/03/2019
 ms.assetid: c178bc85-616d-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: yukom
 dynamics365pdf: true
-ms.openlocfilehash: 83542d06a37517fb335578d26ae6a9d7589af190
-ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
+ms.openlocfilehash: 26e85d11b3c407d6eac37d73528dc9e85e1664d2
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "1855463"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2143332"
 ---
 # <a name="intelligent-candidate-recommendations"></a>インテリジェントな候補者のレコメンデーション
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 4 月 1 日| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 1 日| 近日発表|
 
 
 

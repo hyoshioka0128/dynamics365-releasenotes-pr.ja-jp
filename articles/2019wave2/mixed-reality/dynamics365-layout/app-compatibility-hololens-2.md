@@ -3,25 +3,25 @@ title: HoloLens 2 とのアプリの互換性
 description: HoloLens 2 とのアプリの互換性
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 08/01/2019
+ms.date: 08/02/2019
 ms.assetid: 7264278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: sudhees
 dynamics365pdf: true
-ms.openlocfilehash: 365235560f6d2620274811b988f6433b3e96066e
-ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
+ms.openlocfilehash: 07969e6c100438539c835b10d7a7d17842c2a74a
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "1854429"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2142617"
 ---
 # <a name="app-compatibility-with-hololens-2"></a>HoloLens 2 とのアプリの互換性
 [!include[mixed-reality/dynamics365-layout banner](../includes/mixed-reality/dynamics365-layout.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、自動的|| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|ユーザー、自動的|-| 2019 年 10 月|
 
 
 

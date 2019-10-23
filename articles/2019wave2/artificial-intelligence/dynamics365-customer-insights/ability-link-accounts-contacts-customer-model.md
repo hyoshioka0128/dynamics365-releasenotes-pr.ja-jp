@@ -3,30 +3,30 @@ title: 顧客モデルで取引先企業と取引先担当者をリンクする�
 description: ユーザーが取引先担当者 (個人) と取引先企業 (組織) の間にリレーションシップを作成して、作成されたすべての統一、活動、分析情報を組織 (B2B)、個人 (B2C)、またはその両方に適用できるようにします。
 author: relnotes
 ms.reviewer: jimholtz
-ms.date: 07/31/2019
+ms.date: 09/18/2019
 ms.assetid: 2c64278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: 081d786a73de7ec91345fa53f1bb1bae21ea656c
-ms.sourcegitcommit: ff402b48c827ee8174bf3747d1c43e272102ace9
+ms.openlocfilehash: 7cc3f1f818fce2e67cc799569b29445b128c143d
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "1847969"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2140097"
 ---
 # <a name="ability-to-link-accounts-and-contacts-in-the-customer-model"></a>顧客モデルで取引先企業と取引先担当者をリンクする機能
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|2019 年 10 月| |
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|2019 年 10 月| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-組織 (B2B) と個人 (B2C) の両方のビジネス モデルに応じて、より実用的な顧客分析情報を作成します。 
+組織 (B2B) と個人 (B2C) の両方のビジネス モデルに合わせて、Customer Insights でよりいっそうアクション可能な顧客分析情報を作成します。 
 
 <!-- bv end -->
 

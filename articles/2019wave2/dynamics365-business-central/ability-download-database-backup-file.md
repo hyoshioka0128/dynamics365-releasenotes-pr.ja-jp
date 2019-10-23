@@ -1,39 +1,39 @@
 ---
-title: データベース バックアップ ファイルをダウンロードする機能
-description: テナント管理者は、Business Central 環境用のデータベース バックアップ ファイルをダウンロードできます。
+title: データベース エクスポート ファイルをダウンロードする機能
+description: テナント管理者は、Business Central 環境用のデータベース エクスポート ファイルをダウンロードできます。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 07/22/2019
+ms.date: 09/02/2019
 ms.assetid: 16083fba-b36d-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: jaredha
 dynamics365pdf: true
-ms.openlocfilehash: 58cb6a43b52c26d6fa7d7c763f40342744747f5d
-ms.sourcegitcommit: f28876e2cf349523ecec57dd71f4cb6db56e6695
+ms.openlocfilehash: 313ab550ea67fcf7e9ae79386a1dde461d530d60
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1795914"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2140812"
 ---
-# <a name="ability-to-download-a-database-backup-file"></a>データベース バックアップ ファイルをダウンロードする機能
+# <a name="ability-to-download-a-database-export-file"></a>データベース エクスポート ファイルをダウンロードする機能
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|2019 年 8 月| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|-| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-多くの国には、顧客がデータ ファイルにアクセスできることを求める法的要件があります。 さらに、これにより、顧客にはファイルをローカル環境にダウンロードしてローカル データベースにインポートするオプションが提供されます。
+多くの国には、顧客が自身のデータ ファイルにアクセスできなければならないとする法的要件があります。 さらに、この機能によって、顧客がファイルをローカル データベースにインポートするためにローカル環境にダウンロードする方法が提供されます。
 <!-- bv end -->
 
 
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-Business Central 管理センターでは、テナント管理者はそのテナントの各環境用のデータベース バックアップを作成してダウンロードできます。
+Business Central 管理センターでは、テナント管理者はそのテナントの各環境用のデータベース エクスポートを作成してダウンロードできます。
 <!--feature detail end -->
 
 

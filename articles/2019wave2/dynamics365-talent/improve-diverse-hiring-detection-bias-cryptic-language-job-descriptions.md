@@ -3,25 +3,25 @@ title: 職務明細書における偏った表現やわかりにくい表現の�
 description: 職務明細書における偏った表現やわかりにくい表現の検出による多様な採用の改善
 author: relnotes
 ms.reviewer: anbichse
-ms.date: 07/31/2019
+ms.date: 09/03/2019
 ms.assetid: c673fcc4-ba7c-e911-a960-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: yukom
 dynamics365pdf: true
-ms.openlocfilehash: 09786cc0ca66ff716df2bfc9394bb9468e1ebdb1
-ms.sourcegitcommit: 2fe3cfa4d291dfe6492f1095c2f01a4fd8b7719a
+ms.openlocfilehash: 93630cdd7764f735a1de59e05d3bc1d622dac1c8
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "1854506"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2141714"
 ---
 # <a name="improve-diverse-hiring-with-detection-of-bias-and-cryptic-language-in-job-descriptions"></a>職務明細書における偏った表現やわかりにくい表現の検出による多様な採用の改善
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 8 月| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|ユーザー、管理者/作成者/アナリストによる有効化|近日発表| 近日発表|
 
 
 

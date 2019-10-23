@@ -3,25 +3,25 @@ title: 支払/入金ベースの割引
 description: 支払/入金ベースの割引
 author: relnotes
 ms.reviewer: josaw
-ms.date: 07/22/2019
+ms.date: 08/01/2019
 ms.assetid: b7b43518-5d6c-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: shajain
 dynamics365pdf: true
-ms.openlocfilehash: d65392a548024c0b18fbf3e90058af72325dc5a5
-ms.sourcegitcommit: 4101748c25acf79b22e31a01b73969500926ff91
+ms.openlocfilehash: f8e208e007002aed8c1ad6eb76f4d4ea6ee561a9
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1793862"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2143495"
 ---
 # <a name="tender-based-discounts"></a>支払/入金ベースの割引
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 2020 年 1 月|
+| ---------- | :----------: |:----------: |
+|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 10 月| 2020 年 1 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

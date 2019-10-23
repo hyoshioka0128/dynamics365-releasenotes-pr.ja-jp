@@ -3,25 +3,25 @@ title: 顧客とエージェントの対話ガイドのスクリプト
 description: 顧客とエージェントの対話ガイドのスクリプト
 author: relnotes
 ms.reviewer: kabala
-ms.date: 07/24/2019
+ms.date: 08/05/2019
 ms.assetid: 0462278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: askuma
 dynamics365pdf: true
-ms.openlocfilehash: 8c90393d75d65f1dd0ce60ab6785d3344da38640
-ms.sourcegitcommit: 4e5c18a534fd5b7aaddfe01f66edb1d0b466497b
+ms.openlocfilehash: b979a051005421ba9a401e2034c6376c443e98fc
+ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "1793071"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "2142198"
 ---
 # <a name="guide-customer-interactions-with-agent-scripts"></a>顧客とエージェントの対話ガイドのスクリプト
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
-| 有効対象    |  パブリック プレビュー | 一般提供 | 早期アクセス |
-| ---------- | ---------- |---------- |---------- |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 2020 年 1 月|いいえ |
+| 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
+| ---------- | :----------: |:----------: |:----------: |
+|ユーザー、管理者/作成者/アナリストによる有効化|-|2019 年 10 月| 2020 年 1 月|
 
 
 

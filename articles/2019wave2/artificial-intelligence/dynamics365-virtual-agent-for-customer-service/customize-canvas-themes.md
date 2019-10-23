@@ -2,26 +2,26 @@
 title: キャンバス テーマをカスタマイズする
 description: キャンバス テーマをカスタマイズする
 author: relnotes
-ms.reviewer: shellyha
-ms.date: 07/31/2019
+ms.reviewer: iawilt
+ms.date: 08/27/2019
 ms.assetid: 0264278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: omaraf
+ms.author: clmori
 dynamics365pdf: true
-ms.openlocfilehash: 367a63068541fdd177831a33bcee953ccce0ce4b
-ms.sourcegitcommit: d7e3131b7435c3c6581f61ee059895f9045cc379
+ms.openlocfilehash: 5785662df9687999de24e7d75efce31e08ba911b
+ms.sourcegitcommit: 856d36597ee54f817177a3682a0048ad1390c936
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "1856151"
+ms.lasthandoff: 09/19/2019
+ms.locfileid: "2003396"
 ---
 # <a name="customize-the-canvas-themes"></a>キャンバス テーマをカスタマイズする
 [!include[artificial-intelligence/dynamics365-virtual-agent-for-customer-service banner](../includes/artificial-intelligence/dynamics365-virtual-agent-for-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | ---------- |---------- |
-|管理者、作成者、またはアナリスト、自動的|| 2019 年 10 月|
+| ---------- | :----------: |:----------: |
+|管理者、作成者、またはアナリスト、自動的|-| 2019 年 12 月|
 
 
 
