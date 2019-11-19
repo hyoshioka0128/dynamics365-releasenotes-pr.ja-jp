@@ -1,27 +1,27 @@
 ---
-title: Microsoft Flow を使用した承認のサポート
-description: Microsoft Flow を使用した承認のサポート
+title: Power Automate を使用した承認のサポート
+description: Power Automate を使用した承認のサポート
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 09/09/2019
+ms.date: 10/07/2019
 ms.assetid: c661278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: 53c041b32bb7b1026d2510be6a950a6bf199d11a
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: b5e5431b701c02fa6390e344c467075b08b7fff1
+ms.sourcegitcommit: 5d6e90743e29603bfc5d06566a6966de05931982
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2143705"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "2669171"
 ---
-# <a name="support-approvals-using-microsoft-flow"></a>Microsoft Flow を使用した承認のサポート
-[!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
+# <a name="support-approvals-using-power-automate"></a>Power Automate を使用した承認のサポート
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| 2019 年 10 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 
@@ -40,13 +40,11 @@ Dynamics 365 Marketing では、カスタマイズ可能な承認ワークフロ
 -  承認依頼を委任する
 -  期限切れの承認要求を管理する 
 
-承認システムは、コア マーケティング エンティティに基づいて簡単な承認プロセスを強制することができる Microsoft Flow アプリとして配布されます。 各組織にはそれぞれ独自のビジネス プロセスと階層があるため、Microsoft Flow ではビジネス ユーザー、作成者、またはパートナーによる簡単なカスタマイズに必要な柔軟性が提供されます。
+承認システムは、コア マーケティング エンティティに基づいて簡単な承認プロセスを強制することができる Power Automate アプリとして配布されます。 各組織にはそれぞれ独自のビジネス プロセスと階層があるため、Power Automate ではビジネス ユーザー、作成者、またはパートナーによる簡単なカスタマイズに必要な柔軟性が提供されます。
 <!--feature detail end -->
 
 ![承認ワークフロー デザイナー](media/approval-workflow.png "承認ワークフロー デザイナー")
 <!-- Picture 1 -->
-
-
 
 
 

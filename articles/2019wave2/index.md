@@ -3,26 +3,26 @@ title: Dynamics 365 の 2019 年リリース ウェーブ 2 の概要
 description: 2019 年リリース ウェーブ 2 の予定では、2019 年 10 月から 2020 年 3 月の間にリリースされる予定の Dynamics 365 の機能が説明されています。
 author: DesaiDarshan
 ms.reviewer: renwe
-ms.date: 9/23/2019
+ms.date: 11/4/2019
 ms.assetid: ''
 ms.topic: overview
 ms.service: business-applications
 ms.author: ramanasr
 dynamics365pdf: true
-ms.openlocfilehash: 78b2ebc4a43a776a7651eee8d5b2b386c188d975
-ms.sourcegitcommit: 45c7b06b901a9d2fb99f5dbec773ad62d1ccd525
+ms.openlocfilehash: a93861301a1b85a49c62644407804dda155bc019
+ms.sourcegitcommit: c14f70686c0f960a3fc67685fb09a0b923b96d58
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2154010"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "2751800"
 ---
 # <a name="dynamics-365-2019-release-wave-2-plan"></a>Dynamics 365: 2019 年リリース ウェーブ 2 の予定 
 
-**[2019 年 リリース ウェーブ 2 PDF のダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2094533)** (2019 年 9 月 23 日最終更新)
+**[2019 年リリース ウェーブ 2 の PDF のダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2094533)** (最終更新日 2019 年 10 月 29 日)
 
-2019 年リリース ウェーブ 2 の Dynamics 365 リリース計画 (以前のリリース ノート) では、2019 年 10 月から 2020 年 3 月までのすべての新機能のリリースについて説明されています。 このリリース計画は、[オンライン](https://aka.ms/Dynamics365ReleasePlan)で参照することも、[PDF ファイル](https://go.microsoft.com/fwlink/p/?linkid=2094533)のドキュメントとしてダウンロードすることもできます。 PDF ファイルには、PowerApps、Microsoft Flow、Common Data Model、およびデータ統合に関する情報も含まれています。
+2019 年リリース ウェーブ 2 の Dynamics 365 リリース計画 (旧称リリース ノート) では、2019 年 10 月から 2020 年 3 月中にリリースされるすべての新機能について説明します。 このリリース計画は、[オンライン](https://aka.ms/Dynamics365ReleasePlan)で参照することも、[PDF ファイル](https://go.microsoft.com/fwlink/p/?linkid=2094533)のドキュメントとしてダウンロードすることもできます。 PDF ファイルには、Power Apps、Power Automate、Power Virtual Agents、および Common Data Model とデータ統合に関する情報も含まれています。
 
-ウェーブ 2 の新機能: 2019 年リリース ウェーブ 2 に含まれる Power Platform (PowerApps, Microsoft Flow、Power BI) の機能は、別の[リリース計画](https://aka.ms/PowerPlatformReleasePlan)とダウンロード可能な [PDF](https://go.microsoft.com/fwlink/?linkid=2094633) にまとめられています。 
+ウェーブ 2 の新機能: 2019 年リリース ウェーブ 2 に含まれる Power Platform の機能は、別の[リリース計画](https://aka.ms/PowerPlatformReleasePlan)とダウンロード可能な [PDF](https://go.microsoft.com/fwlink/?linkid=2094633) にまとめられています。 
 
 ## <a name="2019-release-wave-2-overview"></a>2019 年リリース ウェーブ 2 の概要  
 Dynamics 365 の 2019 年リリース ウェーブ 2 では、ビジネスを変革するための重要な機能を提供する新しい革新が導入されます。
@@ -53,10 +53,12 @@ Dynamics 365 アプリケーションの機能強化には、業務プロセス 
 
 - **Sales Insights** により、チームはより先見の明があるようになり、営業ライフサイクル全体にわたって生産性が向上し、結果が予測されるようになります。 
 - **Customer Service Insights** では、業界最先端の人工知能を使用して、重要なパフォーマンス メトリック、運用データ、最新トレンドに関するアクション可能なビューが提供されます。   
-- **Virtual Agent for Customer Service** により、組織は顧客とチャットする AI を利用したボットを作成でき、デジタル変革を通じて組織が顧客サービスを向上させるための新しい機会が提供されます。  
 - **Customer Insights** では、すべての組織が顧客データを統合して理解し、インテリジェントなインサイトとアクションに利用できます。  
 - **Market Insights** を使用すると、ビジネス ユーザーは、消費者が自分のブランドや製品について話したり、探したり、感じたりしていることに基づいて、アクションにつながる分析情報を収集できます。  
 - **Fraud Protection** では、eコマース業者は詐欺損失を減らし、銀行の受入率を上げて、より高い収益を生み出し、オンライン ショッピングの利便性を向上させることができます。 
+
+> [!NOTE]
+> 2019 年 11 月をもって、Dynamics 365 Virtual Agent for Customer Service は **Power Virtual Agents** に名称変更され、[Power Platform リリース計画](https://aka.ms/PowerPlatformReleasePlan)に移動しました。 
 
 #### <a name="new-additions-to-the-ai-apps"></a>AI アプリへの新たな追加
 2019 年 10 月から、2 つの追加の人工知能アプリが提供されます。
@@ -71,11 +73,12 @@ Dynamics 365 アプリケーションの機能強化には、業務プロセス 
 - **Dynamics 365 Remote Assist** は、初めての問題を早期に解決できるように技術者を支援します。
 - 空間プランナーは、**Dynamics 365 Layout** で提供される新しい方法を使用して、確実にすばやく、デザインをコンセプトから完全なものにすることができます。  
 - **Dynamics 365 Product Visualize** は、拡張現実の力をモバイル デバイスで活用することにより、営業担当者が自社製品の本当の可能性を顧客に伝えることを可能にします。  
-- **Dynamics 365 Guides** は、Microsoft HoloLens 用の Mixed Reality アプリケーションであり、必要なときに必要な場所でホログラフィック指示を提供することで、従業員は作業の流れを学ぶことができます。  
+- **Dynamics 365 Guides** は、Microsoft HoloLens 用の Mixed Reality アプリケーションであり、必要なときに必要な場所でホログラフィックによる指示を提供することで、従業員は作業の流れを学ぶことができます。  
  
-このリリース計画で説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ( [Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。 
 
 ## <a name="key-dates-for-the-2019-release-wave-2"></a>2019 年リリース ウェーブ 2 の主要日程 
+このリリース計画で説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ( [Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。 
+
 以下に、2019 年リリース ウェーブ 2 の[主要日程](https://aka.ms/bagreleasecalendar)を示します。
 
 | マイルストーン    |  日付 | 説明 | 
@@ -90,7 +93,7 @@ Dynamics 365 アプリケーションの機能強化には、業務プロセス 
 
 - **ユーザー、自動的**: これらの機能には、ユーザーに対するユーザー エクスペリエンスへの変更が含まれており、自動的に有効になります。 
 - **管理者、作成者、またはアナリスト、自動的**: これらの機能は、管理者、作成者、またはビジネス アナリストによって使用されることが意図されており、自動的に有効になります。 
-- **ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。 
+- **ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって機能が有効化または構成される必要があります。 
 
 いつどの機能が自動的に有効になるかがわかれば、確実に準備できます。 
 

@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: shalug
 dynamics365pdf: true
-ms.openlocfilehash: 8d364a9a4f2a512d9bcc46f4ee419c7eafc35a86
-ms.sourcegitcommit: 75d7957117cc5eabbf102167fba80fb2072d686a
+ms.openlocfilehash: 4a6f671936bc461ca2a324b3c85f79c16db6747f
+ms.sourcegitcommit: e2c3a2557be0960c6f3f47d7f5c8a65f5a5fe45d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/06/2019
-ms.locfileid: "1988491"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "2764756"
 ---
 # <a name="overview-of-dynamics-365-layout-2019-release-wave-2"></a>Dynamics 365 Layout 2019 年リリース ウェーブ 2 の概要
 [!include[mixed-reality/dynamics365-layout banner](../includes/mixed-reality/dynamics365-layout.md)]
@@ -29,4 +29,6 @@ ms.locfileid: "1988491"
 - 最適化された室内スキャン機能。
 
 - Dynamics 365 Layout レビュー用にロックされた資産ビュー。
+
+[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-layout-192%27)) Dynamics 365 Layout の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

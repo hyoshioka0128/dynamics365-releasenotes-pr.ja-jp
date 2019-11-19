@@ -3,17 +3,17 @@ title: Dynamics 365 Business Central の新機能と予定されている機能 
 description: Dynamics 365 Business Central で計画されている機能の概要。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 09/18/2019
+ms.date: 10/24/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: msalam
 dynamics365pdf: true
-ms.openlocfilehash: 7f88b158a7787f50d99d61bf031c89b68f98cc85
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: d37080c814b0b425e57b828efd2a93c9c9924fcd
+ms.sourcegitcommit: c9c3080a387acc6da2fe497a00c78ee4f7c65fb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140416"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "2688862"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-business-central"></a>Dynamics 365 Business Central の新機能と予定されている機能
 
@@ -31,14 +31,21 @@ ms.locfileid: "2140416"
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
- | [連続しない番号を許容する](allow-non-sequential-numbering.md) | ユーザー、自動的  | -|2019 年 10 月 | 
- | [アラームと利息メモをキャンセルする](cancel-issued-reminders-finance-charge-memos.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [転記時に明細行の説明を G/L エントリに繰り越す](carry-line-descriptions-general-ledger-entries-when-posting.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [優れたテンプレートを使用してレコードを作成し、見込顧客を変換する](improvements-configuration-templates-contact-conversion-templates.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [ブロックされている行でドキュメントのコピー機能を使用する](use-copy-document-function-even-when-some-lines-are-blocked.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [指定の期間に達している買掛金勘定に [外部ドキュメント番号] フィールドを追加](aged-accounts-payable-report-has-refreshed-layout-includes-external-document-number-field.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日|2019 年 10 月 | 
- | [買掛金と [外部ドキュメント番号] フィールドの調整](reconcile-payables-using-external-doc.-no-field-vendor-detail-trial-balance-balance-date-open-entries-reports.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日|2019 年 10 月 | 
-
+ | [連続しない番号を許容する](allow-non-sequential-numbering.md) | エンド ユーザー、自動的  | -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [アラームと利息メモをキャンセルする](cancel-issued-reminders-finance-charge-memos.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [転記時に明細行の説明を G/L エントリに繰り越す](carry-line-descriptions-general-ledger-entries-when-posting.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [優れたテンプレートを使用してレコードを作成し、見込顧客を変換する](improvements-configuration-templates-contact-conversion-templates.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [ブロックされている行でドキュメントのコピー機能を使用する](use-copy-document-function-even-when-some-lines-are-blocked.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [指定の期間に達している買掛金勘定に [外部ドキュメント番号] フィールドを追加](aged-accounts-payable-report-has-refreshed-layout-includes-external-document-number-field.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [販売と購入をスケジュールに従って一括転記する](batch-post-sales-purchases-as-scheduled.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [買掛金と [外部ドキュメント番号] フィールドの調整](reconcile-payables-using-external-doc.-no-field-vendor-detail-trial-balance-balance-date-open-entries-reports.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+| [品目カードで既定の購買方法を指定する](specify-default-purchasing-method-item-cards.md) | エンド ユーザー、自動的  |   2019 年 10 月 |2019 年 11 月 | 
+| [非品目タイプの出荷明細行または受領明細行を元に戻す](undo-shipment-or-receipt-lines-non-items-types.md) | エンド ユーザー、自動的  |   2019 年 10 月 |2019 年 11 月 | 
+| [発注書レポートのカスタマイズ時に入荷日を使用する](use-receipt-date-when-customizing-purchase-order-report.md) | 管理者、作成者、またはアナリスト、自動的  |   2019 年 10 月 |2019 年 11 月 | 
+| [購買ドキュメントで転記および新規アクションを使用する](use-post-new-action-purchase-documents.md) | エンド ユーザー、自動的  |   2019 年 10 月 |2019 年 11 月 | 
+| [さまざまなドキュメント タイプで VAT 条項を使用する](use-vat-clauses-different-document-types.md) | 管理者、作成者、またはアナリスト、自動的  |   2019 年 11 月 |2019 年 12 月 | 
+| [アーカイブされた販売や購買に関わるドキュメントにジョブ関連情報を含める](include-job-information-archived-sales-purchase-documents.md) | エンド ユーザー、自動的  |   2019 年 11 月 |2019 年 12 月 | 
+| [測定単位別に品目の在庫状態を表示する](view-item-availability-unit-measure.md) | エンド ユーザー、自動的  |   2019 年 11 月 |2019 年 12 月 | 
 
 ## <a name="application-lifecycle-management"></a>アプリケーション ライフサイクル管理
 
@@ -46,12 +53,11 @@ ms.locfileid: "2140416"
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
- | [データベース エクスポート ファイルをダウンロードする機能](ability-download-database-backup-file.md) | 管理者、作成者、またはアナリスト、自動的  | -|2019 年 10 月 | 
- | [更新イベントの詳細な通知](improvements-update-testing-preparation.md) | 管理者、作成者、またはアナリスト、自動的  | -|2019 年 10 月 | 
- | [複数の運用環境](multiple-production-environments.md) | 管理者、作成者、またはアナリスト、自動的  | -|2019 年 10 月 | 
- | [Business Central 管理センターでの稼働停止のレポート](new-option-report-production-outage-business-central-administration-center.md) | 管理者、作成者、またはアナリスト、自動的  | -|2019 年 10 月 | 
- | [技術的アップグレードのサポート](support-technical-upgrades.md) | 管理者、作成者、またはアナリスト、自動的  | -|2019 年 10 月 | 
- | [C/AL テーブルから AL テーブルへのパフォーマンス データのアップグレードのサポート](support-performant-data-upgrade-cal-tables-al-tables.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
+ | [更新イベントの詳細な通知](improvements-update-testing-preparation.md) | 管理者、作成者、またはアナリスト、自動的  | -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [複数の運用環境](multiple-production-environments.md) | 管理者、作成者、またはアナリスト、自動的  | -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [Business Central 管理センターでの稼働停止のレポート](new-option-report-production-outage-business-central-administration-center.md) | 管理者、作成者、またはアナリスト、自動的  | -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [C/AL テーブルから AL テーブルへのパフォーマンス データのアップグレードのサポート](support-performant-data-upgrade-cal-tables-al-tables.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [データベース エクスポート ファイルをダウンロードする機能](ability-download-database-backup-file.md) | 管理者、作成者、またはアナリスト、自動的  | -|2019 年 11 月 | 
 
 
 ## <a name="empower-isv-acceleration"></a>ISV アクセラレーションを強化する
@@ -60,7 +66,7 @@ Dynamics NAV ビジネスは、アドオン ソリューションに囲まれた
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
- | [拡張性のデザイン](system-application-application-foundation.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
+ | [拡張性のデザイン](system-application-application-foundation.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 
 
 ## <a name="migrations-to-business-central-online"></a>Business Central オンラインへの移行
@@ -69,7 +75,7 @@ Dynamics NAV ビジネスは、アドオン ソリューションに囲まれた
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
- | [顧客移行ツールの機能強化](enhancements-customer-migration.md) | 管理者、作成者、またはアナリスト、自動的  | -|2019 年 10 月 | 
+ | [顧客移行ツールの機能強化](enhancements-customer-migration.md) | 管理者、作成者、またはアナリスト、自動的  | -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 
 
 ## <a name="modern-clients"></a>最新のクライアント
@@ -78,24 +84,24 @@ Dynamics NAV ビジネスは、アドオン ソリューションに囲まれた
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
- | [ナビゲーション メニューにリンクを追加する](add-links-navigation-menu.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [データへのメモとリンクの追加](add-notes-links-data.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [Excel 統合の機能拡張](enhancements-excel-integration.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [レポートをより効率的にフィルター処理する](powerful-filtering-capabilities-reports.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [フル キーボード ショートカットのサポート](full-keyboard-shortcut-support.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [一般的なユーザー エクスペリエンスの調整](general-user-experience-adjustments.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [すべてのビジネス機能の概要を取得する](easy-access-capability-overview.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
-| [バッジで会社を識別する](identify-company-badge.md) | ユーザー、自動的  |   ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日 |2019 年 10 月 | 
- | [サーバー接続のタイムアウト期間の延長](longer-timeout-period-server-connection.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [Business Central 専用の最新クライアント](modern-clients-only-business-central-cloud-on-premises.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [ロール センターでのアクションのパーソナライズ](personalize-actions-navigation-role-center.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [少ないクリック数での列のサイズ変更](resize-columns.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [リスト ビューの保存とパーソナライズ](saving-personalizing-list-views.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [Outlook のビジネス受信トレイで会社を切り替える](switch-between-companies-business-inbox-outlook.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [複数ページにわたるマルチタスク](multi-tasking-across-multiple-pages.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 15 日|2019 年 10 月 | 
- | [コードを書かずにユーザー プロファイルをカスタマイズする](customize-user-profile-without-writing-code.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日|2019 年 10 月 | 
- | [高速で敏捷なデータ入力](speed-agility-data-entry.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日|2019 年 10 月 | 
- | [複数の値によるオプション フィールドのフィルター処理](filtering-option-fields-multiple-values.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日|2019 年 10 月 | 
+ | [ナビゲーション メニューにリンクを追加する](add-links-navigation-menu.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [データへのメモとリンクの追加](add-notes-links-data.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [Excel 統合の機能拡張](enhancements-excel-integration.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [レポートをより効率的にフィルター処理する](powerful-filtering-capabilities-reports.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [フル キーボード ショートカットのサポート](full-keyboard-shortcut-support.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [一般的なユーザー エクスペリエンスの調整](general-user-experience-adjustments.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [すべてのビジネス機能の概要を取得する](easy-access-capability-overview.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [バッジで会社を識別する](identify-company-badge.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [サーバー接続のタイムアウト期間の延長](longer-timeout-period-server-connection.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [Business Central 専用の最新クライアント](modern-clients-only-business-central-cloud-on-premises.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [ロール センターでのアクションのパーソナライズ](personalize-actions-navigation-role-center.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [少ないクリック数での列のサイズ変更](resize-columns.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [リスト ビューの保存とパーソナライズ](saving-personalizing-list-views.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [Outlook のビジネス受信トレイで会社を切り替える](switch-between-companies-business-inbox-outlook.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [複数ページにわたるマルチタスク](multi-tasking-across-multiple-pages.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 15 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [コードを書かずにユーザー プロファイルをカスタマイズする](customize-user-profile-without-writing-code.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [高速で敏捷なデータ入力](speed-agility-data-entry.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [複数の値によるオプション フィールドのフィルター処理](filtering-option-fields-multiple-values.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 
 
 ## <a name="modern-developer-tools"></a>最新の開発者ツール
@@ -104,16 +110,16 @@ Dynamics NAV ビジネスは、アドオン ソリューションに囲まれた
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
- | [C/AL 定義から AL テーブル定義にテーブルを変換する](convert-tables-cal-definitions-al-table-defintions.md) | 管理者、作成者、またはアナリスト、自動的  | -|2019 年 10 月 | 
- | [AL で利用可能なデータベース分析情報](database-insights-made-al.md) | 管理者、作成者、またはアナリスト、自動的  | -|2019 年 10 月 | 
- | [他の拡張機能の翻訳](translating-other-extensions.md) | 管理者、作成者、またはアナリスト、自動的  | -|2019 年 10 月 | 
- | [アクセス モディファイアー](access-modifiers.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [アタッチして次にデバッグ](attach-debug-next.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [AL アプリケーションとして提供される基本アプリケーション](base-application-delivered-as-al-appplications.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [XMLport オブジェクトのフィルター処理](filtering-xmlport-objects.md) | ユーザー、管理者/作成者/アナリストによる有効化  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [階層メニューの実装](implementing-hierarchical-menus.md) | ユーザー、管理者/作成者/アナリストによる有効化  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [ビルドと展開でのアプリの依存関係の処理の改善](improved-app-dependency-handling-build-deploy.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [デザイナーを使用する開発者のパワー アップ](more-power-developers-using-designer.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
+ | [他の拡張機能の翻訳](translating-other-extensions.md) | 管理者、作成者、またはアナリスト、自動的  | -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [アクセス モディファイアー](access-modifiers.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [アタッチして次にデバッグ](attach-debug-next.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [AL アプリケーションとして提供される基本アプリケーション](base-application-delivered-as-al-appplications.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [C/AL 定義から AL テーブル定義にテーブルを変換する](convert-tables-cal-definitions-al-table-defintions.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [AL で利用可能なデータベース分析情報](database-insights-made-al.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [XMLport オブジェクトのフィルター処理](filtering-xmlport-objects.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [階層メニューの実装](implementing-hierarchical-menus.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [ビルドと展開でのアプリの依存関係の処理の改善](improved-app-dependency-handling-build-deploy.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [デザイナーを使用する開発者のパワー アップ](more-power-developers-using-designer.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 
 
 ## <a name="service-fundamentals"></a>サービスの基本
@@ -122,19 +128,19 @@ Dynamics NAV ビジネスは、アドオン ソリューションに囲まれた
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
- | [Business Central 管理センターでの新しいサポートの要請オプション](new-support-request-option-tenant-admin-center.md) | 管理者、作成者、またはアナリスト、自動的  | -|2019 年 10 月 | 
- | [パートナーは Business Central 管理センターでサポート連絡先の詳細を入力できる](partners-enter-support-contact-details-business-central-administration-center.md) | 管理者、作成者、またはアナリスト、自動的  | -|2019 年 10 月 | 
- | [ロックフリー番号シリーズ](lock-free-number-series.md) | ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [ページ バックグラウンド タスク](page-background-tasks.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
- | [代理キー](surrogate-keys.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
+ | [Business Central 管理センターでの新しいサポートの要請オプション](new-support-request-option-tenant-admin-center.md) | 管理者、作成者、またはアナリスト、自動的  | -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [パートナーは Business Central 管理センターでサポート連絡先の詳細を入力できる](partners-enter-support-contact-details-business-central-administration-center.md) | 管理者、作成者、またはアナリスト、自動的  | -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [ロックフリー番号シリーズ](lock-free-number-series.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [ページ バックグラウンド タスク](page-background-tasks.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [代理キー](surrogate-keys.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 
 **有効対象**列の値の説明
 
-- **ユーザー、自動的**: これらの機能には、ユーザーに対するユーザー エクスペリエンスへの変更が含まれており、自動的に有効になります。
+- **エンド ユーザー、自動的**: これらの機能には、エンド ユーザーに対するユーザー エクスペリエンスへの変更が含まれており、自動的に有効になります。
 
 - **管理者、作成者、またはアナリスト、自動的**: これらの機能は、管理者、作成者、またはビジネス アナリストによって使用されることが意図されており、自動的に有効になります。
 
-- **ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
+- **エンド ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
 
 Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 

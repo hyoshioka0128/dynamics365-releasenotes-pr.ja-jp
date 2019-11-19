@@ -3,25 +3,25 @@ title: 小売明細転記の機能強化
 description: 小売明細転記の機能強化
 author: anpurush
 ms.reviewer: josaw
-ms.date: 09/03/2019
+ms.date: 10/23/2019
 ms.assetid: 1102a192-f76c-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: anpurush
 dynamics365pdf: true
-ms.openlocfilehash: 61f08d3b40f668ad5e8039447989f5615ad2c82a
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 72c7aec0f2f059cf8922200bce4ea830c6b0f8ed
+ms.sourcegitcommit: 5d6e90743e29603bfc5d06566a6966de05931982
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2143636"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "2668753"
 ---
 # <a name="enhancements-to-retail-statement-posting"></a>小売明細転記の機能強化
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| 2019 年 10 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -73,15 +73,22 @@ Microsoft Dynamics 365 Retail では、クラウド販売時点管理 (POS) ま�
 
 ### <a name="handling-of-return-lines"></a>返品明細行の処理
 
-返品明細行が正しい返品原価で転記されるようにするために、現在の小売明細書転記プロセスでは、返品を転記する前に元の販売が転記されている必要があります。 しかし、元の販売が転記されていないシナリオでは、返品トランザクションに関連する明細書も転記できません。 その結果、明細書がバックアップされ、ユーザーは明細書を正しい順序で手動で転記する前に依存関係を見つけなければならなくなります。 これを解決し、明細書間に時間的な依存関係が適用されることを避けるために、今後は返品が元の販売の営業日からの在庫原価を利用して転記されるようになります。
+返品明細行が正しい返品原価で転記されるようにするために、現在の小売明細書転記プロセスでは、返品を転記する前に元の販売が転記されている必要があります。しかし、元の販売が転記されていないシナリオでは、返品トランザクションに関連する明細書も転記できません。 その結果、明細書がバックアップされ、ユーザーは明細書を正しい順序で手動で転記する前に依存関係を見つけなければならなくなります。 これを解決し、明細書間に時間的な依存関係が適用されることを避けるために、今後は返品が元の販売の営業日からの在庫原価を利用して転記されるようになります。
 
 ### <a name="handling-of-batch-controlled-items"></a>バッチ管理される品目の処理
 
-バッチ管理される品目に対しては、Retail POS で販売時点のバッチ番号の取得がサポートされません。 しかし、これらの製品の販売を HQ で転記する際にはバッチ番号が必要です。 現在の明細書転記フレームワークでは、明細の転記時点で既存のバッチ番号を取得します。 しかし、これらの製品に対してバッチ番号を持つ数量が存在しないシナリオでは、製品でマイナス在庫が有効になっている場合でも明細書転記プロセスが失敗します。 この機能により、バッチ管理される品目でマイナス在庫が有効になっている場合は、品目の在庫がゼロであるかバッチ番号を利用できないときでも明細書の転記がブロックされなくなります。
+バッチ管理される品目に対しては、Retail POS で販売時点のバッチ番号の取得がサポートされません。しかし、これらの製品の販売を HQ で転記する際にはバッチ番号が必要です。 現在の明細書転記フレームワークでは、明細の転記時点で既存のバッチ番号を取得します。しかし、これらの製品に対してバッチ番号を持つ数量が存在しないシナリオでは、製品でマイナス在庫が有効になっている場合でも明細書転記プロセスが失敗します。 この機能により、バッチ管理される品目でマイナス在庫が有効になっている場合は、品目の在庫がゼロであるかバッチ番号を利用できないときでも明細書の転記がブロックされなくなります。
 <!--feature detail end -->
+
+
+
+
+
+
+
+
 
 
 ## <a name="see-also"></a>関連項目
 
-
-[明細書を転記するジョブの構成と実行](https://docs.microsoft.com/dynamics365/unified-operations/retail/tasks/run-job-post-statements) (ドキュメント)
+[小売トランザクションの整合性チェック](https://docs.microsoft.com/dynamics365/retail/valid-checker) (ドキュメント)

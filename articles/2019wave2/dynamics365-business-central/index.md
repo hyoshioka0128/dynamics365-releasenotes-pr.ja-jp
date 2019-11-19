@@ -3,18 +3,18 @@ title: Dynamics 365 Business Central 2019 年リリース ウェーブ 2 の概�
 description: Dynamics 365 Business Central 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: edupont
-ms.date: 09/03/2019
+ms.date: 10/01/2019
 ms.assetid: 4ba3fad1-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: jannikb
 dynamics365pdf: true
-ms.openlocfilehash: 0abfa0ca68e72b5b906dba1c8a124ea8a9ca5e08
-ms.sourcegitcommit: 75d7957117cc5eabbf102167fba80fb2072d686a
+ms.openlocfilehash: 6a703f33dbff59357fec4de476b654b4805fe979
+ms.sourcegitcommit: e2c3a2557be0960c6f3f47d7f5c8a65f5a5fe45d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/06/2019
-ms.locfileid: "1990372"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "2764903"
 ---
 # <a name="overview-of-dynamics-365-business-central-2019-release-wave-2"></a>Dynamics 365 Business Central 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -31,4 +31,8 @@ Dynamics 365 Business Central では、中小企業の組織向けに設計お�
 - **顧客移行ツール**: Dynamics NAV ISV が自社のソリューションを Business Central オンラインに移行できるようにした後、次のステップでは、Dynamics NAV、Dynamics GP、または Dynamics SL の既存の Dynamics SMB のお客様が現在のオンプレミス ソリューションから Business Central オンラインに移行する過程を簡素化します。 一連のツールは既に存在します。これらは 2019 年リリース ウェーブ 2 で強化されます。
 
 2019 年リリース ウェーブ 2 には、サービス基盤の拡大に先立ってサービスの基本の作業が優先されるため、Business Central オンラインのローカライズへの限定的な拡張が予定されています。 2019 年リリース ウェーブ 2 後に、パートナーが開発したローカライズの追加が予定されています。
+
+[概要ビデオを見る](https://aka.ms/ROGBC19RW2ROV)
+
+[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-business-central-192%27)) Dynamics 365 Business Central の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->
