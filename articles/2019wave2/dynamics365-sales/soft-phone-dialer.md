@@ -1,46 +1,46 @@
 ---
 title: ソフトフォン ダイヤラー
-description: 最高の生産性を実現するため、営業担当者は統合されたソフトフォンでアプリケーション内から直接番号をすばやくダイヤルできます。
+description: 最高の生産性を実現するため、営業担当者は統合されたソフトフォンでアプリから直接番号をすばやくダイヤルできます。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 09/09/2019
+ms.date: 10/22/2019
 ms.assetid: e261278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: naitikds
 dynamics365pdf: true
-ms.openlocfilehash: 5ee0b92ea72adc0103efca274d950ab339f582da
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 1826e7f10332fb658b12435d919ed42eafd044c6
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2141725"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661759"
 ---
-# <a name="softphone-dialer"></a><span data-ttu-id="d39d7-103">ソフトフォン ダイヤラー</span><span class="sxs-lookup"><span data-stu-id="d39d7-103">Softphone dialer</span></span>
-[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
+# <a name="softphone-dialer"></a><span data-ttu-id="ca1a6-103">ソフトフォン ダイヤラー</span><span class="sxs-lookup"><span data-stu-id="ca1a6-103">Softphone dialer</span></span>
 
-| <span data-ttu-id="d39d7-104">有効対象</span><span class="sxs-lookup"><span data-stu-id="d39d7-104">Enabled for</span></span>    |  <span data-ttu-id="d39d7-105">パブリック プレビュー</span><span class="sxs-lookup"><span data-stu-id="d39d7-105">Public preview</span></span> | <span data-ttu-id="d39d7-106">早期アクセス</span><span class="sxs-lookup"><span data-stu-id="d39d7-106">Early access</span></span> | <span data-ttu-id="d39d7-107">一般提供</span><span class="sxs-lookup"><span data-stu-id="d39d7-107">General availability</span></span> | 
+
+| <span data-ttu-id="ca1a6-104">有効対象</span><span class="sxs-lookup"><span data-stu-id="ca1a6-104">Enabled for</span></span>    |  <span data-ttu-id="ca1a6-105">パブリック プレビュー</span><span class="sxs-lookup"><span data-stu-id="ca1a6-105">Public preview</span></span> | <span data-ttu-id="ca1a6-106">早期アクセス</span><span class="sxs-lookup"><span data-stu-id="ca1a6-106">Early access</span></span> | <span data-ttu-id="ca1a6-107">一般提供</span><span class="sxs-lookup"><span data-stu-id="ca1a6-107">General availability</span></span> | 
 | ---------- | :----------: |:----------: |:----------: |
-|<span data-ttu-id="d39d7-108">ユーザー、管理者/作成者/アナリストによる有効化</span><span class="sxs-lookup"><span data-stu-id="d39d7-108">Users by admins, makers, or analysts</span></span>|-|-| <span data-ttu-id="d39d7-109">2019 年 10 月</span><span class="sxs-lookup"><span data-stu-id="d39d7-109">Oct 2019</span></span>|
+|<span data-ttu-id="ca1a6-108">エンド ユーザー、管理者/作成者による有効化、またはアナリスト</span><span class="sxs-lookup"><span data-stu-id="ca1a6-108">End users by admins, makers, or analysts</span></span>|-|-| <span data-ttu-id="ca1a6-109">![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。")</span><span class="sxs-lookup"><span data-stu-id="ca1a6-109">![This feature is released.](/dynamics365-release-plan/media/green-checkmark.png "This feature is released.")</span></span> <span data-ttu-id="ca1a6-110">2019 年 10 月 22 日</span><span class="sxs-lookup"><span data-stu-id="ca1a6-110">Oct 22, 2019</span></span>|
 
 
-## <a name="business-value"></a><span data-ttu-id="d39d7-110">ビジネス バリュー</span><span class="sxs-lookup"><span data-stu-id="d39d7-110">Business value</span></span>
+## <a name="business-value"></a><span data-ttu-id="ca1a6-111">ビジネス バリュー</span><span class="sxs-lookup"><span data-stu-id="ca1a6-111">Business value</span></span>
 <!-- bv start -->
-<span data-ttu-id="d39d7-111">遠隔販売は、オンラインおよび電話による購入の増加傾向に牽引されて、絶えず成長している分野です。</span><span class="sxs-lookup"><span data-stu-id="d39d7-111">Remote selling is a constantly growing segment, driven by the increasing trend of online and over-the-phone purchasing.</span></span> <span data-ttu-id="d39d7-112">販売担当者やインサイド販売担当者は、毎日電話で顧客と連絡を取っており、常にこれらのコミュニケーションを単純化および合理化しようとしています。</span><span class="sxs-lookup"><span data-stu-id="d39d7-112">Sellers and inside sellers reach out to their customers over the phone every day, always seeking to simplify and streamline these communications.</span></span> <span data-ttu-id="d39d7-113">通話エクスペリエンスを統合し、Dynamics 365 Sales でこれらのコミュニケーションをキャプチャする方法を自動化することによって、販売担当者が生産性を高め、より意味のある会話に集中できるようにします。</span><span class="sxs-lookup"><span data-stu-id="d39d7-113">By integrating the calling experience and automating how these communications are captured in Dynamics 365 Sales, we help sellers be more productive and focus on having more meaningful conversations.</span></span>
+<span data-ttu-id="ca1a6-112">遠隔販売は、オンラインおよび電話による購入の増加傾向に牽引されて、絶えず成長している分野です。</span><span class="sxs-lookup"><span data-stu-id="ca1a6-112">Remote selling is a constantly growing segment, driven by the increasing trend of online and over-the-phone purchasing.</span></span> <span data-ttu-id="ca1a6-113">販売担当者やインサイド販売担当者は、毎日電話で顧客と連絡を取っており、常にこれらのコミュニケーションを単純化および合理化しようとしています。</span><span class="sxs-lookup"><span data-stu-id="ca1a6-113">Sellers and inside sellers reach out to their customers over the phone every day, always seeking to simplify and streamline these communications.</span></span> <span data-ttu-id="ca1a6-114">通話エクスペリエンスを統合し、Dynamics 365 Sales でこれらのコミュニケーションをキャプチャする方法を自動化することによって、販売担当者が生産性を高め、より意味のある会話に集中できるようにします。</span><span class="sxs-lookup"><span data-stu-id="ca1a6-114">By integrating the calling experience and automating how these communications are captured in Dynamics 365 Sales, we help sellers be more productive and focus on having more meaningful conversations.</span></span>
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a><span data-ttu-id="d39d7-114">機能の詳細</span><span class="sxs-lookup"><span data-stu-id="d39d7-114">Feature details</span></span>
+## <a name="feature-details"></a><span data-ttu-id="ca1a6-115">機能の詳細</span><span class="sxs-lookup"><span data-stu-id="ca1a6-115">Feature details</span></span>
 <!--feature detail start -->
-<span data-ttu-id="d39d7-115">お客様は、Dynamics 365 Sales のチャネル統合フレームワークを利用して、電話会社のソフトフォン ダイヤラーを顧客エンゲージメント アプリに統合できます。</span><span class="sxs-lookup"><span data-stu-id="d39d7-115">Customers can leverage the channel integration framework in Dynamics 365 Sales to integrate the softphone dialer from their telephony provider, within the customer engagement app.</span></span> <span data-ttu-id="d39d7-116">営業担当者は、電話番号を選択することで、ブラウザーから直接番号をダイヤルして取引先担当者に電話をかけることができます。</span><span class="sxs-lookup"><span data-stu-id="d39d7-116">Sales reps can quickly dial numbers directly from the browser to call contacts by selecting a phone number.</span></span> <span data-ttu-id="d39d7-117">ソフトフォン ダイヤラーがすぐに表示され、通話が開始します。</span><span class="sxs-lookup"><span data-stu-id="d39d7-117">The softphone dialer immediately appears and initiates the call.</span></span>
+<span data-ttu-id="ca1a6-116">お客様は、Dynamics 365 のチャネル統合フレームワークを利用して、電話会社のソフトフォン ダイヤラーを Dynamics 365 Sales アプリに統合できます。</span><span class="sxs-lookup"><span data-stu-id="ca1a6-116">Customers can leverage the Dynamics 365 Channel Integration Framework to integrate the softphone dialer from their telephony provider within the Dynamics 365 Sales app.</span></span> <span data-ttu-id="ca1a6-117">営業担当者は、電話番号を選択することで、ブラウザーから直接番号をダイヤルして取引先担当者に電話をかけることができます。</span><span class="sxs-lookup"><span data-stu-id="ca1a6-117">Sales reps can quickly dial numbers directly from the browser to call contacts by selecting a phone number.</span></span> <span data-ttu-id="ca1a6-118">ソフトフォン ダイヤラーがすぐに表示され、通話が開始します。</span><span class="sxs-lookup"><span data-stu-id="ca1a6-118">The softphone dialer immediately appears and initiates the call.</span></span>
 <!--feature detail end -->
 
-<span data-ttu-id="d39d7-118">![ソフトフォン ダイヤラー](media/softphone.jpg "ソフトフォン ダイヤラー")</span><span class="sxs-lookup"><span data-stu-id="d39d7-118">![Soft phone dialer](media/softphone.jpg "Soft phone dialer")</span></span>
+<span data-ttu-id="ca1a6-119">![ソフトフォン ダイヤラー](media/softphone.jpg "ソフトフォン ダイヤラー")</span><span class="sxs-lookup"><span data-stu-id="ca1a6-119">![Softphone dialer](media/softphone.jpg "Softphone dialer")</span></span>
 <!-- Picture 1 -->
 
 > [!NOTE]
-> <span data-ttu-id="d39d7-119">この機能は、統一インターフェイスでのみ使用できます。</span><span class="sxs-lookup"><span data-stu-id="d39d7-119">This feature is available in the Unified Interface only.</span></span>
+> <span data-ttu-id="ca1a6-120">この機能は、統一インターフェイスでのみ使用できます。</span><span class="sxs-lookup"><span data-stu-id="ca1a6-120">This feature is available in the Unified Interface only.</span></span> <span data-ttu-id="ca1a6-121">この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。</span><span class="sxs-lookup"><span data-stu-id="ca1a6-121">This capability is available in Dynamics 365 Sales Enterprise and Dynamics 365 Sales Professional.</span></span>
 
 
 
@@ -48,4 +48,6 @@ ms.locfileid: "2141725"
 
 
 
+## <a name="see-also"></a><span data-ttu-id="ca1a6-122">関連項目</span><span class="sxs-lookup"><span data-stu-id="ca1a6-122">See also</span></span>
 
+<span data-ttu-id="ca1a6-123">[サンプル ソフトフォンを Dynamics 365 Sales と統合する](https://docs.microsoft.com/dynamics365/sales-enterprise/sample-softphone-integration) (ドキュメント)</span><span class="sxs-lookup"><span data-stu-id="ca1a6-123">[Integrate a sample softphone with Dynamics 365 Sales](https://docs.microsoft.com/dynamics365/sales-enterprise/sample-softphone-integration) (docs)</span></span>

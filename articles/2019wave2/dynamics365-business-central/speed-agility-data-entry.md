@@ -3,42 +3,42 @@ title: 高速で敏捷なデータ入力
 description: Business Central では、生産性機能、本来のパフォーマンス、および応答性の高いエクスペリエンスの組み合わせにより、リストへのデータの反復入力が大幅に高速化します。
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 09/10/2019
+ms.date: 09/25/2019
 ms.assetid: 609f0f02-0e6c-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 6ecda3bbd678ceb1e8f006a40e4a1c373404a0bf
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: ae4d2fe76744397ac99acc66c7a7c21137df2f57
+ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140361"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "2667039"
 ---
-# <a name="enter-data-with-speed-and-agility"></a><span data-ttu-id="9110a-103">高速で敏捷なデータ入力</span><span class="sxs-lookup"><span data-stu-id="9110a-103">Enter data with speed and agility</span></span>
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+# <a name="enter-data-with-speed-and-agility"></a><span data-ttu-id="94806-103">高速で敏捷なデータ入力</span><span class="sxs-lookup"><span data-stu-id="94806-103">Enter data with speed and agility</span></span>
 
-| <span data-ttu-id="9110a-104">有効対象</span><span class="sxs-lookup"><span data-stu-id="9110a-104">Enabled for</span></span>    |  <span data-ttu-id="9110a-105">パブリック プレビュー</span><span class="sxs-lookup"><span data-stu-id="9110a-105">Public preview</span></span> | <span data-ttu-id="9110a-106">一般提供</span><span class="sxs-lookup"><span data-stu-id="9110a-106">General availability</span></span> | 
+
+| <span data-ttu-id="94806-104">有効対象</span><span class="sxs-lookup"><span data-stu-id="94806-104">Enabled for</span></span>    |  <span data-ttu-id="94806-105">パブリック プレビュー</span><span class="sxs-lookup"><span data-stu-id="94806-105">Public preview</span></span> | <span data-ttu-id="94806-106">一般提供</span><span class="sxs-lookup"><span data-stu-id="94806-106">General availability</span></span> | 
 | ---------- | :----------: |:----------: |
-|<span data-ttu-id="9110a-107">ユーザー、自動的</span><span class="sxs-lookup"><span data-stu-id="9110a-107">Users, automatically</span></span>|<span data-ttu-id="9110a-108">![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。")</span><span class="sxs-lookup"><span data-stu-id="9110a-108">![This feature is released.](/dynamics365-release-plan/media/green-checkmark.png "This feature is released.")</span></span> <span data-ttu-id="9110a-109">2019 年 9 月 1 日</span><span class="sxs-lookup"><span data-stu-id="9110a-109">Sep 1, 2019</span></span>| <span data-ttu-id="9110a-110">2019 年 10 月</span><span class="sxs-lookup"><span data-stu-id="9110a-110">Oct 2019</span></span>|
+|<span data-ttu-id="94806-107">エンド ユーザー、自動的</span><span class="sxs-lookup"><span data-stu-id="94806-107">End users, automatically</span></span>|<span data-ttu-id="94806-108">![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。")</span><span class="sxs-lookup"><span data-stu-id="94806-108">![This feature is released.](/dynamics365-release-plan/media/green-checkmark.png "This feature is released.")</span></span> <span data-ttu-id="94806-109">2019 年 9 月 1 日</span><span class="sxs-lookup"><span data-stu-id="94806-109">Sep 1, 2019</span></span>| <span data-ttu-id="94806-110">![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。")</span><span class="sxs-lookup"><span data-stu-id="94806-110">![This feature is released.](/dynamics365-release-plan/media/green-checkmark.png "This feature is released.")</span></span> <span data-ttu-id="94806-111">2019 年 10 月 1 日</span><span class="sxs-lookup"><span data-stu-id="94806-111">Oct 1, 2019</span></span>|
 
 
-## <a name="business-value"></a><span data-ttu-id="9110a-111">ビジネス バリュー</span><span class="sxs-lookup"><span data-stu-id="9110a-111">Business value</span></span>
+## <a name="business-value"></a><span data-ttu-id="94806-112">ビジネス バリュー</span><span class="sxs-lookup"><span data-stu-id="94806-112">Business value</span></span>
 <!-- bv start -->
-<span data-ttu-id="9110a-112">バックオフィス ワーカーは、情報の取り込みや紙の資料のデジタル化を高速で行わなければならないことがよくあります。</span><span class="sxs-lookup"><span data-stu-id="9110a-112">Back-office workers often need to capture information or digitize paper material at high speed.</span></span> <span data-ttu-id="9110a-113">一部のユーザーにとって、これは終日の主活動です。</span><span class="sxs-lookup"><span data-stu-id="9110a-113">For some users, this is their main activity for the whole workday.</span></span> <span data-ttu-id="9110a-114">OCR や AI などの手段でこれを自動化できない場合、すばやいデータ入力の邪魔にならない効率的なインターフェイスが必要です。</span><span class="sxs-lookup"><span data-stu-id="9110a-114">When this cannot be automated through means like OCR and AI, users require an efficient interface that does not get in the way of quickly typing in data.</span></span>
+<span data-ttu-id="94806-113">バックオフィス ワーカーは、情報の取り込みや紙の資料のデジタル化を高速で行わなければならないことがよくあります。</span><span class="sxs-lookup"><span data-stu-id="94806-113">Back-office workers often need to capture information or digitize paper material at high speed.</span></span> <span data-ttu-id="94806-114">一部のユーザーにとって、これは終日の主活動です。</span><span class="sxs-lookup"><span data-stu-id="94806-114">For some users, this is their main activity for the whole workday.</span></span> <span data-ttu-id="94806-115">OCR や AI などの手段でこれを自動化できない場合、すばやいデータ入力の邪魔にならない効率的なインターフェイスが必要です。</span><span class="sxs-lookup"><span data-stu-id="94806-115">When this cannot be automated through means like OCR and AI, users require an efficient interface that does not get in the way of quickly typing in data.</span></span>
 <!-- bv end -->
 
 
 
-## <a name="feature-details"></a><span data-ttu-id="9110a-115">機能の詳細</span><span class="sxs-lookup"><span data-stu-id="9110a-115">Feature details</span></span>
+## <a name="feature-details"></a><span data-ttu-id="94806-116">機能の詳細</span><span class="sxs-lookup"><span data-stu-id="94806-116">Feature details</span></span>
 <!--feature detail start -->
-<span data-ttu-id="9110a-116">Business Central では、応答性の高いフィールド編集エクスペリエンスを通じて反復的なデータ入力が高速化されます。</span><span class="sxs-lookup"><span data-stu-id="9110a-116">Business Central accelerates repetitive data entry through a more responsive field editing experience.</span></span>
+<span data-ttu-id="94806-117">Business Central では、応答性の高いフィールド編集エクスペリエンスを通じて反復的なデータ入力が高速化されます。</span><span class="sxs-lookup"><span data-stu-id="94806-117">Business Central accelerates repetitive data entry through a more responsive field editing experience.</span></span>
 
-### <a name="freedom-to-type-unhindered"></a><span data-ttu-id="9110a-117">制約なく自由に入力</span><span class="sxs-lookup"><span data-stu-id="9110a-117">Freedom to type unhindered</span></span>
-<span data-ttu-id="9110a-118">一般仕訳帳明細行などの行にデータを入力する場合、フィールドの値を入力し、Tab キーを使用して次のフィールドに移動し、サーバーが応答するのを待たずに入力を続行できます。</span><span class="sxs-lookup"><span data-stu-id="9110a-118">When typing data into a row, such as a general journal line, you can enter the value of a field, use the tab key to go to the next field and continue typing without having to wait for the server to respond.</span></span> <span data-ttu-id="9110a-119">これにより、レコード全体をすばやく入力でき、次の行を入力する前に一時停止して行を検証することのみ必要です。</span><span class="sxs-lookup"><span data-stu-id="9110a-119">This allows you to quickly enter an entire record, only having to pause for the row to validate before typing in the next row.</span></span> <span data-ttu-id="9110a-120">同様に、カードの入力フィールドやその他のページ タイプでも、サーバーが各フィールドを処理するのを待つ必要性が最小限に抑えられます。</span><span class="sxs-lookup"><span data-stu-id="9110a-120">Similarly, input fields on cards and other page types also minimize the need to wait for the server to process each field.</span></span>
+### <a name="freedom-to-type-unhindered"></a><span data-ttu-id="94806-118">制約なく自由に入力</span><span class="sxs-lookup"><span data-stu-id="94806-118">Freedom to type unhindered</span></span>
+<span data-ttu-id="94806-119">一般仕訳帳明細行などの行にデータを入力する場合、フィールドの値を入力し、Tab キーを使用して次のフィールドに移動し、サーバーが応答するのを待たずに入力を続行できます。</span><span class="sxs-lookup"><span data-stu-id="94806-119">When typing data into a row, such as a general journal line, you can enter the value of a field, use the tab key to go to the next field and continue typing without having to wait for the server to respond.</span></span> <span data-ttu-id="94806-120">これにより、レコード全体をすばやく入力でき、次の行を入力する前に一時停止して行を検証することのみ必要です。</span><span class="sxs-lookup"><span data-stu-id="94806-120">This allows you to quickly enter an entire record, only having to pause for the row to validate before typing in the next row.</span></span> <span data-ttu-id="94806-121">同様に、カードの入力フィールドやその他のページ タイプでも、サーバーが各フィールドを処理するのを待つ必要性が最小限に抑えられます。</span><span class="sxs-lookup"><span data-stu-id="94806-121">Similarly, input fields on cards and other page types also minimize the need to wait for the server to process each field.</span></span>
 
-<span data-ttu-id="9110a-121">これだけでもより応答性の高いエクスペリエンスが実現されますが、不要なフィールドをスキップするパーソナライズされた簡単入力、仕訳を転記する F9 などのアクションのキーボード ショートカット、新しいレコードを作成する Alt+N などのシステム ショートカットと組み合わせると、データ入力がさらに速くなります。</span><span class="sxs-lookup"><span data-stu-id="9110a-121">While this already provides a more responsive experience in itself, data entry gets faster when combined with personalized Quick Entry that skips over unnecessary fields, keyboard shortcuts for actions like F9 to post a journal, and system shortcuts like Alt+N to create a new record.</span></span>
+<span data-ttu-id="94806-122">これだけでもより応答性の高いエクスペリエンスが実現されますが、不要なフィールドをスキップするパーソナライズされた簡単入力、仕訳を転記する F9 などのアクションのキーボード ショートカット、新しいレコードを作成する Alt+N などのシステム ショートカットと組み合わせると、データ入力がさらに速くなります。</span><span class="sxs-lookup"><span data-stu-id="94806-122">While this already provides a more responsive experience in itself, data entry gets faster when combined with personalized Quick Entry that skips over unnecessary fields, keyboard shortcuts for actions like F9 to post a journal, and system shortcuts like Alt+N to create a new record.</span></span>
 <!--feature detail end -->
 
 
@@ -46,10 +46,8 @@ ms.locfileid: "2140361"
 
 
 
-
-
-## <a name="tell-us-what-you-think"></a><span data-ttu-id="9110a-122">フィードバック</span><span class="sxs-lookup"><span data-stu-id="9110a-122">Tell us what you think</span></span>
-<span data-ttu-id="9110a-123">Dynamics 365 Business Central の機能向上のためのアイデア、提案、フィードバックをお寄せください。</span><span class="sxs-lookup"><span data-stu-id="9110a-123">Help us improve Dynamics 365 Business Central by discussing ideas, providing suggestions, and giving feedback.</span></span> <span data-ttu-id="9110a-124">フォーラム (https://aka.ms/bcideas) をご利用ください。</span><span class="sxs-lookup"><span data-stu-id="9110a-124">Use the forum at https://aka.ms/bcideas.</span></span>
+## <a name="tell-us-what-you-think"></a><span data-ttu-id="94806-123">フィードバック</span><span class="sxs-lookup"><span data-stu-id="94806-123">Tell us what you think</span></span>
+<span data-ttu-id="94806-124">Dynamics 365 Business Central の機能向上のためのアイデア、提案、フィードバックをお寄せください。</span><span class="sxs-lookup"><span data-stu-id="94806-124">Help us improve Dynamics 365 Business Central by discussing ideas, providing suggestions, and giving feedback.</span></span> <span data-ttu-id="94806-125">フォーラム (https://aka.ms/bcideas) をご利用ください。</span><span class="sxs-lookup"><span data-stu-id="94806-125">Use the forum at https://aka.ms/bcideas.</span></span>
 
 
 
