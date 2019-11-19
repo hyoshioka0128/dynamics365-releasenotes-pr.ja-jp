@@ -3,25 +3,25 @@ title: アラームと利息メモをキャンセルする
 description: 発行されたアラームと利息メモを、1 つずつ、またはまとめてキャンセルできます。
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 09/10/2019
+ms.date: 10/01/2019
 ms.assetid: 0a98f298-dc65-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: af686ec40d764f020c4ce36ae837e15d36c3eb7f
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 1689fe968dee275fbf6d021324cc56c477b9e74f
+ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140702"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "2667182"
 ---
 # <a name="cancel-reminders-and-finance-charge-memos"></a>アラームと利息メモをキャンセルする
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| 2019 年 10 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -41,8 +41,6 @@ ms.locfileid: "2140702"
 
 
 
-
-
 ## <a name="tell-us-what-you-think"></a>フィードバック
 Dynamics 365 Business Central の機能向上のためのアイデア、提案、フィードバックをお寄せください。 フォーラム (https://aka.ms/bcideas) をご利用ください。
 
@@ -50,3 +48,8 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 ## <a name="thank-you-for-your-idea"></a>アイデアをありがとうございます
 [このアイデア](https://experience.dynamics.com/ideas/idea/?ideaid=3cb22b06-79d7-e811-b96f-0003ff68b04e)をお送りいただき、ありがとうございました。 アイデア、コメント、投票を参考に、製品のロードマップに追加するものを決定しています。
+
+## <a name="see-also"></a>関連項目
+[機能の探索](https://aka.ms/ROGBC19RW2ROV1) (ビデオ)
+
+[発行されたアラームをキャンセルするには](https://docs.microsoft.com/dynamics365/business-central/receivables-collect-outstanding-balances#to-cancel-an-issued-reminder) (ドキュメント)

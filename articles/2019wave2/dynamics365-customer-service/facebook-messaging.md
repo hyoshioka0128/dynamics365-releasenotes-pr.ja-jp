@@ -9,19 +9,19 @@ ms.topic: article
 ms.service: business-applications
 ms.author: pbaja
 dynamics365pdf: true
-ms.openlocfilehash: f45d76e281b1b8b938e0a3d8b509981fbcc37338
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 9c8f76bd00b022b50c6dbe1a6c09e16641a6b836
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2142220"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2662177"
 ---
 # <a name="facebook-messaging"></a>Facebook メッセージング
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|-|2019 年 10 月| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月|-| 2020 年 1 月|
 
 
 
@@ -41,8 +41,6 @@ ms.locfileid: "2142220"
 - エージェントは、チャットで使用されているのと同じ統一された状況依存の生産的なインターフェイスを使用して顧客とやり取りし、顧客の問題を解決することができます。
 - スーパーバイザーとマネージャーは、サポート センターを効率的かつ効果的に運営するのに役立つ充実したレポートにアクセスできます。
 <!--feature detail end -->
-
-
 
 
 

@@ -3,25 +3,25 @@ title: 事前構築されたエンティティまたはカスタム エンティ
 description: 事前構築されたエンティティまたはカスタム エンティティを通じてガイドの割り当てまたはフィルターを行う
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 09/05/2019
+ms.date: 10/02/2019
 ms.assetid: 9864278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: algodin
 dynamics365pdf: true
-ms.openlocfilehash: 97e0c0c1b0469d24988bdb46b856d9ed71c7f39d
-ms.sourcegitcommit: 856d36597ee54f817177a3682a0048ad1390c936
+ms.openlocfilehash: 30495055316747116cc4635e347d52dfa8d14523
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2019
-ms.locfileid: "2003264"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2660934"
 ---
 # <a name="assign-or-filter-guides-through-prebuilt-or-custom-entities"></a>事前構築されたエンティティまたはカスタム エンティティを通じてガイドの割り当てまたはフィルターを行う
-[!include[mixed-reality/dynamics365-guides banner](../includes/mixed-reality/dynamics365-guides.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|-| 2019 年 10 月|
+|管理者、作成者、またはアナリスト、自動的|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 
@@ -42,4 +42,5 @@ Dynamics 365 Guides では、お客様が Guides エンティティでビュー�
 
 
 
-
+## <a name="see-also"></a>関連項目
+[機能の探索](https://aka.ms/ROGMRG19RW2ROV2) (ビデオ)

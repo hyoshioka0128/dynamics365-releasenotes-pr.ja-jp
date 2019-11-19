@@ -3,25 +3,25 @@ title: ユーザーのビジネス領域でトピックの特性を定義して�
 description: ビジネス領域を意味的に理解するためのトピックを定義することによって、関連する分析情報を生成して監督します。
 author: relnotes
 ms.reviewer: mhart
-ms.date: 09/16/2019
+ms.date: 09/30/2019
 ms.assetid: e57041f6-2183-e911-a98e-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: ebahat
 dynamics365pdf: true
-ms.openlocfilehash: 5cc939cff0d4c72dc798b9bacd9c060d431d0840
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: a888d9d4e890508ab342daf47ff2abfb59b725b4
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2142468"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2660879"
 ---
 # <a name="get-more-relevant-insights-by-defining-topic-characteristics-in-a-users-business-universe"></a>ユーザーのビジネス領域でトピックの特性を定義して、より関連性の高い分析情報を得る
 [!include[artificial-intelligence/dynamics365-market-insights banner](../includes/artificial-intelligence/dynamics365-market-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、自動的|2019 年 9 月| 2020 年 3 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 30 日| 2020 年 3 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -45,4 +45,6 @@ ms.locfileid: "2142468"
 
 
 
+## <a name="see-also"></a>関連項目
 
+[Dynamics 365 Market Insights の新しいアプリ エクスペリエンス](https://community.dynamics.com/365/aimarketinsights/b/marketinsightsteamblog/posts/introducing-a-new-app-experience-for-dynamics-365-market-insights) (ブログ)

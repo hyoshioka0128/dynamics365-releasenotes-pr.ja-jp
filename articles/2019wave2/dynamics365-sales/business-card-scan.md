@@ -3,25 +3,25 @@ title: 名刺のスキャン
 description: 名刺をスキャンして Dynamics 365 に読み込むと、入力に時間を費やさずにすみます。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 08/20/2019
+ms.date: 10/17/2019
 ms.assetid: cc61278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: joegan
+ms.author: naitikds
 dynamics365pdf: true
-ms.openlocfilehash: c0a30eafcd19bf57e5fec87d9d88b8e655157482
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: cb664d9534e808dcb0d6d2fed389b4cf38abe67a
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2143451"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661374"
 ---
 # <a name="business-card-scan"></a>名刺のスキャン
-[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| 2019 年 10 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 6 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -40,13 +40,11 @@ ms.locfileid: "2143451"
 - 名刺スキャン機能は、米国および EU 地域でのみ利用可能です。
 <!--feature detail end -->
 
-![名刺のスキャン](media/BusinessCardScan_Mockups.png "名刺のスキャン")
+![名刺のスキャン](media/businesscardscan_mockups.png "名刺のスキャン")
 <!-- Picture 1 -->
 
 > [!NOTE]
-> この機能は、統一インターフェイスでのみ使用できます。
-
-
+> この機能は、統一インターフェイスでのみ使用できます。 この機能は、Dynamics 365 Sales Enterprise のみを対象としています。
 
 
 
@@ -55,7 +53,5 @@ ms.locfileid: "2143451"
 
 
 ## <a name="see-also"></a>関連項目
-
-[名刺のスキャン](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/dynamics365-sales/business-card-scan) (ブログ)
 
 [名刺のスキャン](https://docs.microsoft.com/dynamics365/customer-engagement/sales-enterprise/scan-business-cards) (ドキュメント)

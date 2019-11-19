@@ -9,19 +9,19 @@ ms.topic: article
 ms.service: business-applications
 ms.author: karthig
 dynamics365pdf: true
-ms.openlocfilehash: a3fc6e53cf8d16eda6bdce3d812c74f9ed1eac8b
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: d49264f08b57e03ce252ba3b612e9faf5b7b810d
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2142132"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661467"
 ---
 # <a name="macros"></a>マクロ
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|-|2019 年 10 月| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月|-| 2020 年 1 月|
 
 
 
@@ -34,8 +34,6 @@ ms.locfileid: "2142132"
 
 管理者は、特定のビジネスやプロセスのニーズに合わせてマクロを構成できます。
 <!--feature detail end -->
-
-
 
 
 

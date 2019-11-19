@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: yukom
 dynamics365pdf: true
-ms.openlocfilehash: d2298fdea321df7ee6a6aa8b3824312660bfcd6e
-ms.sourcegitcommit: 9622494fe2c834da0382f0280b7594d8d37389e2
+ms.openlocfilehash: 3d011a33bfb6d8913f294fe59dbe6818143aa180
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/20/2019
-ms.locfileid: "2004239"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2660989"
 ---
 # <a name="add-a-mixed-reality-guide-as-an-onboarding-task"></a>オンボーディング タスクとして Mixed Reality ガイドを追加する
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
@@ -32,8 +32,6 @@ ms.locfileid: "2004239"
 <!--feature detail start -->
 魅力的でインタラクティブなオンボーディング エクスペリエンスを提供することで、新入社員が早く影響力を持てるように支援し、従業員の定着率を高めます。 [Dynamics 365 Guides](https://mspoweruser.com/microsoft-unveils-dynamics-365-guides-a-new-mixed-reality-app-that-can-help-employees-learn-new-tasks) を作成してオンボーディング ガイドに追加することで、ステップバイステップのホログラフィック指示を通じて、従業員に新しいタスクを習得させることができます。 この機能を使用すると、Dynamics 365 ガイドの完成を追跡することもできます。
 <!--feature detail end -->
-
-
 
 
 

@@ -3,17 +3,17 @@ title: Dynamics 365 Sales の新機能と予定されている機能 (2019 年�
 description: Dynamics 365 Sales で計画されている機能の概要。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 09/18/2019
+ms.date: 10/24/2019
 ms.topic: summary
 ms.service: business-applications
-ms.author: akatz
+ms.author: raysmith
 dynamics365pdf: true
-ms.openlocfilehash: abad847dda9182d7c929f5708afbccc39abd62bc
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: d5dbf32c53256b2b6598b9a0b47f8c0dfd0e0d6a
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2141747"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661748"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-sales"></a>Dynamics 365 Sales の新機能と予定されている機能
 
@@ -25,28 +25,29 @@ ms.locfileid: "2141747"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  早期アクセス* | 一般提供 | 
 | ---------- |---------------- | :---------------: |:-----------:|:--------------: |
-| [状況依存のメール通信](contextual-email-communication.md) | ユーザー、管理者/作成者/アナリストによる有効化|2019 年 10 月|-|- | 
-| [Sales Professional のシンプルなサインアップ エクスペリエンス](simplified-signup-experience-sales-professional.md) | ユーザー、管理者/作成者/アナリストによる有効化|-|-|2019 年 10 月 | 
-| [ソフトフォン ダイヤラー](soft-phone-dialer.md) | ユーザー、管理者/作成者/アナリストによる有効化|-|-|2019 年 10 月 | 
-| [名刺のスキャン](business-card-scan.md) | ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
-| [[営業案件のクローズ] ダイアログ ボックスのカスタマイズ](customization-opportunity-close-dialog-box.md) | ユーザー、管理者/作成者/アナリストによる有効化|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
-| [営業案件/見積/発注/請求書の製品の追加または編集エクスペリエンスの強化](enhance-experience-adding-or-editing-opportunityquoteorderinvoice-products.md) | ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|2019 年 10 月 | 
-| [最も一般的な販売ワークフローの改善または簡素化](improve--simplify-most-common-sales-workflows.md) | ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|2019 年 10 月 | 
-| [LinkedIn Sales Navigator 統合の機能拡張](relationship-sales.md) | ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|2019 年 10 月 | 
-| [Microsoft Teams 統合の機能拡張](teams-integration-enhancements.md) | ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|2019 年 10 月 | 
-| [担当地域エンティティですぐに使える階層関係](out-of-the-box-hierarchical-relationship-territory-entity.md) | ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|2019 年 10 月 | 
-| [簡素化されたリード管理エクスペリエンス](simplified-lead-management-experience.md) | ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|2019 年 10 月 | 
-| [LinkedIn Sales Navigator のデータ検証](linkedin-sales-navigator-data-validation.md) | ユーザー、管理者/作成者/アナリストによる有効化|-|-|2019 年 11 月 | 
+| [手動売上予測によって情報に基づいた意思決定を実行する](make-informed-decisions-manual-sales-forecasting.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|-|- | 
+| [[営業案件のクローズ] ダイアログ ボックスのカスタマイズ](customization-opportunity-close-dialog-box.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+| [LinkedIn Sales Navigator 統合の機能拡張](relationship-sales.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+| [担当地域エンティティですぐに使える階層関係](out-of-the-box-hierarchical-relationship-territory-entity.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+| [簡素化されたリード管理エクスペリエンス](simplified-lead-management-experience.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+| [名刺のスキャン](business-card-scan.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 6 日 | 
+| [営業案件/見積/発注/請求書の製品の追加または編集エクスペリエンスの強化](enhance-experience-adding-or-editing-opportunityquoteorderinvoice-products.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 6 日 | 
+| [最も一般的な販売ワークフローの改善または簡素化](improve--simplify-most-common-sales-workflows.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 6 日 | 
+| [ソフトフォン ダイヤラー](soft-phone-dialer.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 22 日 | 
+| [Microsoft Teams 統合の機能拡張](teams-integration-enhancements.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|2019 年 10 月 | 
+| [LinkedIn Sales Navigator のデータ検証](linkedin-sales-navigator-data-validation.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-|-|2019 年 11 月 | 
+| [Sales Professional のサインアップ エクスペリエンスの簡素化](simplified-signup-experience-sales-professional.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-|-|2019 年 12 月 | 
+| [状況依存のメール通信](contextual-email-communication.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|-|近日発表 | 
 
-\* ユーザーに影響するすべての必須の変更など、一部の機能は 2019 年 8 月 2 日に早期アクセスの一部としてオプトインできるようになります。 [早期アクセス](https://aka.ms/EarlyAccessFAQ)の詳細を確認してください。
+\* エンド ユーザーに影響するすべての必須の変更など、一部の機能は 2019 年 8 月 2 日に早期アクセスの一部としてオプトインできるようになります。 [早期アクセス](https://aka.ms/EarlyAccessFAQ)の詳細を確認してください。
 
 **有効対象**列の値の説明
 
-- **ユーザー、自動的**: これらの機能には、ユーザーに対するユーザー エクスペリエンスへの変更が含まれており、自動的に有効になります。
+- **エンド ユーザー、自動的**: これらの機能には、エンド ユーザーに対するユーザー エクスペリエンスへの変更が含まれており、自動的に有効になります。
 
 - **管理者、作成者、またはアナリスト、自動的**: これらの機能は、管理者、作成者、またはビジネス アナリストによって使用されることが意図されており、自動的に有効になります。
 
-- **ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
+- **エンド ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
 
 Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 

@@ -2,19 +2,19 @@
 title: 改善されたナビゲーションや顧客への影響を測定する新しい指標など、ダッシュボード全体でより多くの分析情報が得られる
 description: 改善されたダッシュボード ナビゲーションと顧客への影響を測定する新しいメトリックにより、より多くの分析情報が得られます
 author: relnotes
-ms.reviewer: shellyha
-ms.date: 09/17/2019
+ms.reviewer: iawilt
+ms.date: 09/19/2019
 ms.assetid: f063278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 dynamics365pdf: true
-ms.openlocfilehash: cfd5b033bbbb44679859a68e4658c103bec6d573
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 32208249c98e85f01e660f856435a7cacd5259c5
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140009"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661154"
 ---
 # <a name="more-insights-across-dashboards-including-improved-navigation-and-new-metrics-to-measure-customer-impact"></a>改善されたナビゲーションや顧客への影響を測定する新しい指標など、ダッシュボード全体でより多くの分析情報が得られる
 [!include[artificial-intelligence/dynamics365-customer-service-insights banner](../includes/artificial-intelligence/dynamics365-customer-service-insights.md)]
@@ -34,3 +34,13 @@ Dynamics 365 Customer Service Insights は、AI によって生成されたト�
 <!--feature detail end -->
 
 
+
+
+
+
+
+
+
+
+## <a name="see-also"></a>関連項目
+[機能の探索](https://aka.ms/ROGCSI19RW2ROV1) (ビデオ)

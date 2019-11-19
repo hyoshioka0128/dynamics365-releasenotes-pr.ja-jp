@@ -3,30 +3,30 @@ title: 買掛金と [外部ドキュメント番号] フィールドの調整
 description: 仕入先詳細試算表、現在までの残高、未処理のエントリのレポートの [外部ドキュメント番号] フィールドを使用して買掛金を調整します
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 09/10/2019
+ms.date: 10/01/2019
 ms.assetid: 522d05d7-05c4-e911-a969-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: bc771fa0c3162d7c2efd183f06e69e5afe094bb4
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 7f37bb95ee26431b2c53bba3a26ada3c9d0ca9aa
+ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140391"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "2666852"
 ---
 # <a name="reconcile-payables-with-the-external-document-number-field"></a>買掛金と [外部ドキュメント番号] フィールドの調整
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日| 2019 年 10 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-買掛金レポートの**外部ドキュメント番号**または**仕入先請求書番号**フィールドを使用して、中小企業の買掛金勘定の分析と調整を大幅に簡素化します。 
+買掛金レポートの**外部ドキュメント番号**または**仕入先請求書番号**フィールドを使用して、中小企業の買掛金勘定の分析と調整を大幅に簡素化します。
 <!-- bv end -->
 
 
@@ -35,8 +35,6 @@ ms.locfileid: "2140391"
 <!--feature detail start -->
 仕入先詳細試算表、現在までの残高、未処理のエントリのレポートの**外部ドキュメント番号**フィールドを使用して買掛金を調整できるようになりました。
 <!--feature detail end -->
-
-
 
 
 

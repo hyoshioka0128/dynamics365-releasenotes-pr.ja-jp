@@ -3,25 +3,25 @@ title: 顧客移行ツールの機能強化
 description: 顧客移行ツールの新機能により、Dynamics 365 Business Central に移行する顧客に対する移行エクスペリエンスが向上します。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 08/20/2019
+ms.date: 10/17/2019
 ms.assetid: e6e5c71c-9475-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: jenolson
 dynamics365pdf: true
-ms.openlocfilehash: 59ea07ae67e96b761557d23c164e84c1d20e89ec
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 0d5639ee37411aa948c627d223e1b730cd901a65
+ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140647"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "2667072"
 ---
 # <a name="enhancements-for-customer-migration-tools"></a>顧客移行ツールの機能強化
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|-| 2019 年 10 月|
+|管理者、作成者、またはアナリスト、自動的|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,4 +47,6 @@ ISV が自社ソリューションを Business Central オンラインに取り�
 
 
 
+## <a name="see-also"></a>関連項目
 
+[Dynamics 365 Business Central を使用してオンプレミスからインテリジェント クラウドに接続する](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/administration/about-intelligent-edge) (ドキュメント)

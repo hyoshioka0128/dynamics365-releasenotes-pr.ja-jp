@@ -2,26 +2,26 @@
 title: ルール エンジン
 description: ルール エンジン
 author: relnotes
-ms.reviewer: v-jegrif
-ms.date: 08/05/2019
+ms.reviewer: mwhorf
+ms.date: 10/14/2019
 ms.assetid: 9fbb7ccc-0771-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
-ms.author: v-jowigh
+ms.author: amyhre
 dynamics365pdf: true
-ms.openlocfilehash: cb850f9eff7483b2931caba3ce6f23082de21350
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 7b154a2118503f6e4bb6587a1054d6303ade8f9e
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2139987"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661836"
 ---
 # <a name="rules-engine"></a>ルール エンジン
-[!include[artificial-intelligence/dynamics365-fraud-protection banner](../includes/artificial-intelligence/dynamics365-fraud-protection.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 23 日| 2019 年 10 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 23 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 
@@ -42,4 +42,6 @@ ms.locfileid: "2139987"
 
 
 
+## <a name="see-also"></a>関連項目
 
+[リストとルールを管理する](https://docs.microsoft.com/en-us/dynamics365/fraud-protection/lists-rules) (ドキュメント)

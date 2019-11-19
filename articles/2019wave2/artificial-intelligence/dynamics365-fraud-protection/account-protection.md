@@ -3,25 +3,25 @@ title: アカウントの保護
 description: アカウント保護のためのサインアップとサインインのリスク評価
 author: relnotes
 ms.reviewer: v-jegrif
-ms.date: 08/27/2019
+ms.date: 10/07/2019
 ms.assetid: 75a5392d-c56d-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: amyhre
 dynamics365pdf: true
-ms.openlocfilehash: 0034d048ebecbc592dc42d98d69a1bf55e20f426
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 065fb381cbf39c7a063e388859f1b1e9d47a1a53
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140922"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661611"
 ---
 # <a name="account-protection"></a>アカウントの保護
 [!include[artificial-intelligence/dynamics365-fraud-protection banner](../includes/artificial-intelligence/dynamics365-fraud-protection.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 10 月| 近日発表|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日| 近日発表|
 
 
 
@@ -48,4 +48,6 @@ Dynamics 365 Fraud Protection には、複数の企業にまたがる不正パ�
 
 
 
+## <a name="see-also"></a>関連項目
 
+[アカウントの保護](https://docs.microsoft.com/en-us/dynamics365/fraud-protection/account-protection) (ドキュメント)

@@ -9,19 +9,19 @@ ms.topic: article
 ms.service: business-applications
 ms.author: anpurush
 dynamics365pdf: true
-ms.openlocfilehash: ce81bafc9866f1d7233886ccbde23c169a2e1a9c
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: a28942a009ac9f69c87e0d5c71018152a577700d
+ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2143889"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2659850"
 ---
 # <a name="financial-reconciliation-of-retail-transactions-in-the-store-public-preview"></a>店舗での小売トランザクションの財務調整 (パブリック プレビュー)
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 11 月| 2020 年 2 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 11 月| 2020 年 2 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -42,8 +42,6 @@ ms.locfileid: "2143889"
 
 このプロセスにより、Retail Headquarters で財務諸表の作成と転記を行う必要がなくなります。
 <!--feature detail end -->
-
-
 
 
 

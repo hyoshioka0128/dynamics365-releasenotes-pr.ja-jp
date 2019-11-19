@@ -3,25 +3,25 @@ title: 360 度シグナル
 description: ユーザーは、モノのインターネット (IoT) デバイス、モバイル アプリケーション、Web サイト、クラウド サービス、および基幹業務アプリケーションを簡単に実装できます。
 author: relnotes
 ms.reviewer: v-aswood
-ms.date: 09/18/2019
+ms.date: 10/10/2019
 ms.assetid: 5d971c4d-ded4-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: mohammed
 dynamics365pdf: true
-ms.openlocfilehash: 0a35c02cc13a896b714d5f7821471c56b8cddc8e
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: e6f9e476ad2d6f4647fc138b83c2e6157c95cfdb
+ms.sourcegitcommit: c843aacec8dddcb0d6693c79fbace7f19bf09565
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2142443"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "2574757"
 ---
 # <a name="360-degree-signals"></a>360 度シグナル
 [!include[artificial-intelligence/dynamics365-product-insights banner](../includes/artificial-intelligence/dynamics365-product-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、自動的|2019 年 10 月| 近日発表|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日| 近日発表|
 
 
 
@@ -42,4 +42,8 @@ ms.locfileid: "2142443"
 
 
 
+## <a name="see-also"></a>関連項目
 
+[Microsoft Dynamics 365 Product Insights の発表 – 現在プレビュー中](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/10/02/announcing-microsoft-dynamics-365-product-insights-now-in-preview/) (ブログ)
+
+[Product Insights](https://docs.microsoft.com/dynamics365/product-insights/) (ドキュメント)

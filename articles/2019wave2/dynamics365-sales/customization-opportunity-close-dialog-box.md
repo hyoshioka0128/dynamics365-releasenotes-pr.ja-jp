@@ -3,25 +3,25 @@ title: '[営業案件のクローズ] ダイアログ ボックスのカスタ�
 description: この機能強化により、営業案件クローズという重要なステップのために製品をさらにカスタマイズすることができます。 [営業案件のクローズ] ダイアログ ボックスは、組織固有のビジネス ニーズに基づいてカスタマイズできます。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 09/09/2019
+ms.date: 10/16/2019
 ms.assetid: ce61278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: pachatte
 dynamics365pdf: true
-ms.openlocfilehash: 061a02bf630eceb9477dbbc0a380d2a321748d62
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 998efc319b222ddb999d4a22dd3d34f998474df4
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2143481"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661363"
 ---
 # <a name="customization-of-opportunity-close-dialog-box"></a>[営業案件のクローズ] ダイアログ ボックスのカスタマイズ
-[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| 2019 年 10 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,9 +47,7 @@ ms.locfileid: "2143481"
 <!-- Picture 1 -->
 
 > [!NOTE]
-> この機能は、統一インターフェイスでのみ使用できます。
-
-
+> この機能は、統一インターフェイスでのみ使用できます。 この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
 
 
 

@@ -9,19 +9,19 @@ ms.topic: article
 ms.service: business-applications
 ms.author: dkrame
 dynamics365pdf: true
-ms.openlocfilehash: 604e4a3843816356982d3267db7a9a819b55556f
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: ddce2e55c969f7d7b7e7f0906f8321a5573167de
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2143339"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661715"
 ---
 # <a name="embed-third-party-apps"></a>サード パーティのアプリを埋め込む
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 11 月| 2019 年 12 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 11 月| 2019 年 12 月|
 
 
 
@@ -35,8 +35,6 @@ Core HR と連携して動作するサード パーティ製のアプリが、�
 - Core HR エクスペリエンスにサード パーティのアプリを組み込みます。 
 - Core HR 内でサード パーティのアプリケーションに移動します。
 <!--feature detail end -->
-
-
 
 
 

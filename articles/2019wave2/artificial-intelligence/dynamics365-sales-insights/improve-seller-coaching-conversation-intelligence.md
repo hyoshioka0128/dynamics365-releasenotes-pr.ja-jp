@@ -9,19 +9,19 @@ ms.topic: article
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: 4b5ad35ca276b19a51f35e02d9c881581443dfbd
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 006ad5504051626a8fd5926e776797bc28cd2abd
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2142594"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661814"
 ---
 # <a name="improve-seller-coaching-with-conversation-intelligence"></a>会話インテリジェンスでの販売担当者コーチングの改善
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|-| 2019 年 10 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-| 2019 年 10 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -43,12 +43,10 @@ ms.locfileid: "2142594"
 
 - **クロスチャネルおよび営業の KPI**: チーム全体で営業の獲得/失注につながる貴重な情報が標準で強調されます。
  
-- **会話レビュー:** 会話の詳細なビューにより、有効な領域と失敗した領域が示され、販売担当者のコーチングの効果があるブランドの言及とギャップが強調して示されます。 
+- **会話レビュー:** 会話の詳細なビューにより、有効な領域と失敗した領域が示され、販売担当者のコーチングの効果があるブランドへの言及とギャップが強調して示されます。 
 
 ![営業コーチング体験](media/releasenotes0ct19.png "営業コーチング体験")
 <!--feature detail end -->
-
-
 
 
 

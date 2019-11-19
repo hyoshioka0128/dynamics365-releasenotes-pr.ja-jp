@@ -3,25 +3,25 @@ title: 販売促進の改善 - カテゴリのカスタム表示並べ替え順�
 description: 販売促進関連のシナリオのサポートは、現在は実装パートナーからの拡張機能が必要な既存のシナリオとよく一致するように強化されます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 08/30/2019
+ms.date: 10/07/2019
 ms.assetid: 8263278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: asharchw
 dynamics365pdf: true
-ms.openlocfilehash: 3cd76af7b86055398335787f00280ab44e8cca66
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 93b5a1bd8055ff3982693b6ee65f04181afc8ef3
+ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2143546"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2659795"
 ---
-# <a name="merchandising-improvements--support-to-custom-sort-the-display-order-of-categories"></a>販売促進の改善 - カテゴリのカスタム表示並べ替え順序のサポート
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
+# <a name="merchandising-improvements--support-to-custom-sort-the-display-order-of-categories"></a>販売促進の改善 - カテゴリのカスタム表示並べ替え順序のサポート 
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| 2019 年 10 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,6 +47,13 @@ ms.locfileid: "2143546"
                                
 - **補助階層**での**カテゴリ**に対する構成可能な並べ替え順序。
 <!--feature detail end -->
+
+
+
+
+
+
+
 
 
 

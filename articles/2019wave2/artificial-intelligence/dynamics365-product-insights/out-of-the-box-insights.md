@@ -3,25 +3,25 @@ title: すぐに使える分析情報
 description: ユーザーは、Product Insights 用の標準テンプレートを使用してすばやく開始できます。 そこから、お客様は製品の独自性と差別化戦略に合わせてシグナルと分析情報を簡単にカスタマイズできます。
 author: relnotes
 ms.reviewer: v-aswood
-ms.date: 09/18/2019
+ms.date: 10/10/2019
 ms.assetid: 1df616bb-ded4-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: mohammed
 dynamics365pdf: true
-ms.openlocfilehash: 24fc6ebca3a09830567d13004d051cada7f7a9a7
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: cc85f7b61d7252929070cacd1a5289fcd68f54a9
+ms.sourcegitcommit: c843aacec8dddcb0d6693c79fbace7f19bf09565
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2142396"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "2574702"
 ---
 # <a name="out-of-the-box-insights"></a>すぐに使える分析情報
 [!include[artificial-intelligence/dynamics365-product-insights banner](../includes/artificial-intelligence/dynamics365-product-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、自動的|2019 年 10 月| 近日発表|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日| 近日発表|
 
 
 
@@ -42,4 +42,8 @@ ms.locfileid: "2142396"
 
 
 
+## <a name="see-also"></a>関連項目
 
+[Microsoft Dynamics 365 Product Insights の発表 – 現在プレビュー中](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/10/02/announcing-microsoft-dynamics-365-product-insights-now-in-preview/) (ブログ)
+
+[Product Insights](https://docs.microsoft.com/dynamics365/product-insights/) (ドキュメント)

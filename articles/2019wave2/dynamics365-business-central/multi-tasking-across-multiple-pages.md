@@ -3,30 +3,30 @@ title: 複数ページにわたるマルチタスク
 description: ユーザーはアプリケーション全体で同時に複数のページを開いて、マルチタスク処理をサポートできます。
 author: kotelko
 ms.reviewer: sgroespe
-ms.date: 09/15/2019
+ms.date: 10/01/2019
 ms.assetid: bc63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: blazkote
 dynamics365pdf: true
-ms.openlocfilehash: c391233dab5c93a56788b220583b268590068eca
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 6cfec4362b9d3275a870d8c29a21f11235617a98
+ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140471"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "2666940"
 ---
 # <a name="multitask-across-multiple-pages"></a>複数ページにわたるマルチタスク
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 15 日| 2019 年 10 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 15 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-多くの場合、Business Central ユーザーは一度に複数のタスクを処理しており、電話を受けながらアクションを実行するなど、割り込みを管理する必要があります。 ユーザーのブロックを解除し、ブラウザー タブ/ウィンドウで同時に作業できるようにするかポップアウトでミニ ページを開くことでアイドル時間を短縮することは、これらの忙しい時間帯では非常に重要です。
+Business Central ユーザーは一度に複数のタスクを処理することが多く、電話を受けながらアクションを実行するときなどの割り込みを管理する必要があります。 ユーザーのブロックを解除し、ブラウザー タブ/ウィンドウで同時に作業できるようにするかポップアウトでミニ ページを開くことでアイドル時間を短縮することは、これらの忙しい時間帯では非常に重要です。
 <!-- bv end -->
 
 
@@ -43,9 +43,9 @@ ms.locfileid: "2140471"
 ### <a name="open-page-in-a-new-window"></a>新しいウィンドウでページを開く
 この機能により、ユーザーはカードまたはドキュメントを小さな接続されたウィンドウにポップアウトできます。 これを行うには、すべてのカードまたはドキュメント ページの右上隅にある**このページを新しいウィンドウで開く**ボタンを選択するか、Alt+Shift+W を押します。
 
-![顧客カードを新しいウィンドウで開く](media/new-window.png "顧客カードを新しいウィンドウで開く")
+![新しいウィンドウで顧客カードを開く](media/new-window.png "新しいウィンドウで顧客カードを開く")
 
-このため、ユーザーは別のポップアウト ウィンドウでページを開くことができ、迅速かつ簡単にデータを比較できます。 これにより、複数の画面で作業する場合と、ユーザーが 1 つの画面で新しいウィンドウを重ねて配置する場合の生産性が向上します。
+このため、ユーザーは別のポップアウト ウィンドウでページを開き、迅速かつ簡単にデータを比較できます。 これにより、複数の画面で作業する場合と、ユーザーが 1 つの画面で新しいウィンドウを重ねて配置する場合の生産性が向上します。
 
 ![ウィンドウ間でのマルチタスク](media/multitasking.png "ウィンドウ間でのマルチタスク")
 
@@ -62,4 +62,7 @@ ms.locfileid: "2140471"
 
 
 
+## <a name="see-also"></a>関連項目
+[機能の探索](https://aka.ms/ROGBC19RW2ROV10) (ビデオ)
 
+[複数ページにわたるマルチタスク](https://docs.microsoft.com/dynamics365/business-central/ui-enter-data#multitasking-across-multiple-pages) (ドキュメント)

@@ -3,25 +3,25 @@ title: データへのメモとリンクの追加
 description: Business Central のデータに関連するメモとリンク
 author: kotelko
 ms.reviewer: sgroespe
-ms.date: 09/12/2019
+ms.date: 10/01/2019
 ms.assetid: a22f5f6d-957c-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: blazkote
 dynamics365pdf: true
-ms.openlocfilehash: 3756e0eda483b89e600bf7d5608678c6fe30d35b
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 5ac006518327074e047039428bb2c3ad95090870
+ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140768"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "2667281"
 ---
 # <a name="add-notes-and-links-to-data"></a>データへのメモとリンクの追加
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| 2019 年 10 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -59,4 +59,6 @@ Business Central オンラインとオンプレミスでキャプチャおよび
 
 
 
+## <a name="see-also"></a>関連項目
 
+[カードやドキュメントで添付ファイル、リンク、メモを管理する](https://docs.microsoft.com/dynamics365/business-central/ui-how-add-link-to-record) (ドキュメント)

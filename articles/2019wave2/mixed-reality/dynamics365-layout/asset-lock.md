@@ -3,25 +3,25 @@ title: 資産ロック
 description: 資産ロック
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 08/02/2019
+ms.date: 10/09/2019
 ms.assetid: da775900-996c-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: sudhees
 dynamics365pdf: true
-ms.openlocfilehash: e0d6757c00b6c239c02dc43b50c83e3b6627cdf7
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 83b59a920cac4ddee29202d7efc4b6339a021030
+ms.sourcegitcommit: 23187fa8f86ecf390a1c4e61b3a4de1516dd3b5d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2141054"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "2573702"
 ---
 # <a name="asset-lock"></a>資産ロック
-[!include[mixed-reality/dynamics365-layout banner](../includes/mixed-reality/dynamics365-layout.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、自動的|-| 2019 年 10 月|
+|エンド ユーザー、自動的|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 
@@ -32,8 +32,6 @@ ms.locfileid: "2141054"
 <!--feature detail start -->
 ユーザーは、ビューを使用してレビュー目的で 3D モデルをロックし、他のコラボレーターや同僚がモデルを編集できないようにすることができます。 これは、意図的または意図的でないスペースの操作を減らすのに役立ちます。
 <!--feature detail end -->
-
-
 
 
 

@@ -9,19 +9,19 @@ ms.topic: article
 ms.service: business-applications
 ms.author: yukom
 dynamics365pdf: true
-ms.openlocfilehash: 8f90c7808f823ed63ef9c731bd9558d970965104
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 826a1e9b48710d5facbbb7b839f4ac61aaa29deb
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2143375"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2660969"
 ---
 # <a name="customize-and-extend-analytics-reports"></a>分析レポートをカスタマイズおよび拡張する
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|近日発表| 近日発表|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|近日発表| 近日発表|
 
 
 
@@ -35,8 +35,6 @@ Attract の既定のレポートは、採用チームに採用プロセスに関
 -  既存の Attract レポートを修正します。
 -  Attract データ モデルを活用したカスタム レポートを作成します。
 <!--feature detail end -->
-
-
 
 
 

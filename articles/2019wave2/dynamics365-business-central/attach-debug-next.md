@@ -3,25 +3,25 @@ title: アタッチして次にデバッグ
 description: サーバーにアタッチし、次にブレークポイントに達したセッションをデバッグできます。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 08/13/2019
+ms.date: 10/04/2019
 ms.assetid: a43333b1-706d-e911-a95f-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: pborring
 dynamics365pdf: true
-ms.openlocfilehash: bb7d1c20ad319e311461366b28e4da54ad0076ad
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: a6b1dd0a94b2b4af7b7db9d4070949988a5cd26b
+ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140724"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "2667193"
 ---
 # <a name="attach-and-debug-next"></a>アタッチして次にデバッグ
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| 2019 年 10 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -45,4 +45,6 @@ ms.locfileid: "2140724"
 
 
 
+## <a name="see-also"></a>関連項目
 
+[アタッチして次にデバッグ](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-attach-debug-next) (ドキュメント)

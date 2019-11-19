@@ -9,19 +9,19 @@ ms.topic: article
 ms.service: business-applications
 ms.author: shajain
 dynamics365pdf: true
-ms.openlocfilehash: f8e208e007002aed8c1ad6eb76f4d4ea6ee561a9
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: fd5c98caca81e8909dbcecc6711d7ec888680863
+ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2143495"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2659777"
 ---
 # <a name="tender-based-discounts"></a>支払/入金ベースの割引
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 10 月| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 2020 年 1 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -37,8 +37,6 @@ ms.locfileid: "2143495"
 
 ![支払/入金割引の計算](media/tender-discounts.png "支払/入金割引の計算")
 <!--feature detail end -->
-
-
 
 
 

@@ -3,25 +3,25 @@ title: POS および本社の拡張機能
 description: POS および本社の拡張機能
 author: mugunthanm
 ms.reviewer: josaw
-ms.date: 09/16/2019
+ms.date: 10/14/2019
 ms.assetid: 5e63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mumani
 dynamics365pdf: true
-ms.openlocfilehash: bf753a4ff3a5b5deeeab1e4b84f96a1b0552c8db
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 01bf1bfb5e5179d417ba1dfe605de9701fb541b7
+ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2141857"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2659960"
 ---
 # <a name="pos-and-headquarters-extensions"></a>POS および本社の拡張機能
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| 2019 年 10 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -42,8 +42,6 @@ POS フレームワークを継続的に拡張し、拡張機能でロジック�
 ### <a name="pos-overridable-requests-and-triggers"></a>POS オーバーライド可能な要求とトリガー
 POS ワークフローまたは POS ビジネス ロジックをオーバーライドし、カスタム ロジックまたは検証を追加するために、新しいオーバーライド可能な要求が POS に追加されています。 POS トリガー フレームワークは、コア POS ロジックの前後でカスタム ロジックを実行するのに役立ちます。 この新しいパターンにより、開発者は POS のワークフローを簡単にカスタマイズできます。
 <!--feature detail end -->
-
-
 
 
 

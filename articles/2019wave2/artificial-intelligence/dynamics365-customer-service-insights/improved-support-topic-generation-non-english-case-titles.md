@@ -2,19 +2,19 @@
 title: 英語以外のサポート案件タイトルのトピック生成に対するサポートの向上
 description: 英語以外のサポート案件タイトルのトピック生成に対するサポートの向上
 author: relnotes
-ms.reviewer: shellyha
-ms.date: 08/27/2019
+ms.reviewer: iawilt
+ms.date: 10/07/2019
 ms.assetid: a6c5c9b7-a471-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 dynamics365pdf: true
-ms.openlocfilehash: b1e20eb7379411ec315594c73c72c5dce1aac502
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 5ed4c5bc12f548dffe02fb0d0f3bf57dcd0d5d3a
+ms.sourcegitcommit: 23187fa8f86ecf390a1c4e61b3a4de1516dd3b5d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140955"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "2573812"
 ---
 # <a name="improved-support-for-topic-generation-for-non-english-case-titles"></a>英語以外のサポート案件タイトルのトピック生成に対するサポートの向上
 [!include[artificial-intelligence/dynamics365-customer-service-insights banner](../includes/artificial-intelligence/dynamics365-customer-service-insights.md)]
@@ -32,8 +32,6 @@ ms.locfileid: "2140955"
 <!--feature detail start -->
 Customer Service Insights での AI モデルによるサポート案件タイトルに基づくトピック生成は、最初は英語だけが対象でした。 2019 年リリース ウェーブ 2 には、フランス語、ドイツ語、スペイン語などの追加言語、およびそれらの言語の 1 つと英語が混在するアカウントのサポートが含まれています。 これによりさらに多くの顧客に機能が拡張されますが、サポート案件タイトルにはこれらのモデルでは完全には対応されていない主要言語が他にもあることがわかっています。 このウェーブの更新では、ラテン混合言語に焦点を当てた、さらに多くの言語のサポートが含まれます。 追加のサポートは、アイデア フォーラムで要求できます。
 <!--feature detail end -->
-
-
 
 
 

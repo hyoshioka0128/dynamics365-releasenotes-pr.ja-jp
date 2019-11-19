@@ -3,30 +3,30 @@ title: デザイナーを使用する開発者のパワー アップ
 description: ロール センターのアクションの調整、ナビゲーション メニューの作成、プロファイルのカスタマイズにより、デザイナーの機能を強化します。
 author: mikebcMSFT
 ms.reviewer: edupont
-ms.date: 09/03/2019
+ms.date: 10/17/2019
 ms.assetid: e5e5ca37-e66b-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 5455c00d2786a2c05949b2a5d1862c334ed2bbc5
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 594791b5610e03271b7347882fb67a6f2f731979
+ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140493"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "2667061"
 ---
 # <a name="more-power-to-developers-using-designer"></a>デザイナーを使用する開発者のパワー アップ
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| 2019 年 10 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-Visual Studio Code でのコードの作成は効率的ですが、ページの外観や動作についての忠実で視覚的な概要を把握しないと、ページ レイアウトのデザインや調整が面倒になることがあります。
+Visual Studio Code でコードを記述することは効率的ですが、ページの外観や動作に関する忠実で視覚的な概要を把握していないと、ページ レイアウトのデザインや調整が面倒になることがあります。
 <!-- bv end -->
 
 
@@ -40,12 +40,8 @@ Visual Studio Code でのコードの作成は効率的ですが、ページの�
  - ダブルクリックしてリスト ページの列を自動調整します。
  - リストにフィルターを定義し、名前付きビューとして保存します。
  
-![リスト ページでのリスト ビューの追加を示すスクリーンショット](media/designer-3000x2000.png "リスト ページでのリスト ビューの追加を示すスクリーンショット") 
- 
+![リスト ページにリスト ビューを追加したスクリーンショット](media/designer-3000x2000.png "リスト ページにリスト ビューを追加したスクリーンショット")
 <!--feature detail end -->
-
-<!-- Picture 1 -->
-
 
 
 
@@ -57,3 +53,7 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[デザイナーを使用する](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-inclient-designer) (ドキュメント)

@@ -3,17 +3,17 @@ title: Dynamics 365 Layout の新機能と予定されている機能 (2019 年�
 description: Dynamics 365 Layout で計画されている機能の概要。
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 09/18/2019
+ms.date: 10/24/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: lorrainb
 dynamics365pdf: true
-ms.openlocfilehash: fcb95a9efdf46db1531efc4aebc121abd5d7bd12
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: e9b2e344f868d1a710fadad7807f383bdc0ac68e
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2141065"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661957"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-layout"></a>Dynamics 365 Layout の新機能と予定されている機能
 
@@ -25,17 +25,18 @@ ms.locfileid: "2141065"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
-| [HoloLens 2 とのアプリの互換性](app-compatibility-hololens-2.md) | ユーザー、自動的| -|2019 年 10 月 | 
-| [資産ロック](asset-lock.md) | ユーザー、自動的| -|2019 年 10 月 | 
-| [最適化された部屋のスキャン](optimized-room-scan.md) | ユーザー、自動的| -|2019 年 10 月 | 
+ | [HoloLens 2 の初期状態のアニメーション化されたエクスペリエンス](animated-out-of-the-box-experience-hololens-2.md) | エンド ユーザー、自動的 | 2019 年 10 月| | 
+| [HoloLens 2 とのアプリの互換性](app-compatibility-hololens-2.md) | エンド ユーザー、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+| [資産ロック](asset-lock.md) | エンド ユーザー、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+| [最適化された部屋のスキャン](optimized-room-scan.md) | エンド ユーザー、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 
 **有効対象**列の値の説明
 
-- **ユーザー、自動的**: これらの機能には、ユーザーに対するユーザー エクスペリエンスへの変更が含まれており、自動的に有効になります。
+- **エンド ユーザー、自動的**: これらの機能には、エンド ユーザーに対するユーザー エクスペリエンスへの変更が含まれており、自動的に有効になります。
 
 - **管理者、作成者、またはアナリスト、自動的**: これらの機能は、管理者、作成者、またはビジネス アナリストによって使用されることが意図されており、自動的に有効になります。
 
-- **ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
+- **エンド ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
 
 Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 

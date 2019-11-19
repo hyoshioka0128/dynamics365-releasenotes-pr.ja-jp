@@ -9,19 +9,19 @@ ms.topic: article
 ms.service: business-applications
 ms.author: hhaines
 dynamics365pdf: true
-ms.openlocfilehash: f85a2740f5ea8079857e27f3a82b0f4c693cec34
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: b01d68ba8e10578cfafa024222d836257d8ae221
+ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2141934"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2659883"
 ---
 # <a name="e-commerce-inventory-api-improvements"></a>eコマース在庫 API の改善
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 10 月| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 2020 年 1 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -37,8 +37,6 @@ ms.locfileid: "2141934"
 
 さらに、新しいパラメーターにより、これらの新しい API が取り込まれ、商品の既定の注文設定に基づいてカート注文明細を調達するための "最善" の倉庫の検索が試みられる現在の API の既存の高コスト ロジックがオフになります。 このロジックは新しい API には含まれません。 組織では、将来の分散型注文管理機能を使用して、店頭以外で集配される販売明細行向けに最適なフルフィルメント場所を選択できます。したがって、この高コストのロジックは新しい API には含まれなくなります。
 <!--feature detail end -->
-
-
 
 
 

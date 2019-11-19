@@ -3,17 +3,17 @@ title: Dynamics 365 Remote Assist の新機能と予定されている機能 (20
 description: Dynamics 365 Remote Assist で計画されている機能の概要。
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 09/18/2019
+ms.date: 10/24/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: lorrainb
 dynamics365pdf: true
-ms.openlocfilehash: 9ce2a07a83a45662d525c14aa59e528952977eb5
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 2ddef7cb3a43b716f8565a1e69d69bd1142c2aea
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2141000"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661894"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-remote-assist"></a>Dynamics 365 Remote Assist の新機能と予定されている機能
 
@@ -25,17 +25,18 @@ ms.locfileid: "2141000"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
-| [モバイル デバイス向け Dynamics 365 Remote Assist](remote-assist-mobile-phones.md) | ユーザー、自動的| -|2019 年 10 月 | 
-| [通話せずに注釈を取り込んで共有する](capture-share-annotations-without-being-call.md) | ユーザー、自動的| -|2020 年 1 月 | 
-| [低帯域幅状況での呼び出しエクスペリエンスの向上](improved-call-experience-low-bandwidth-situations.md) | ユーザー、自動的| -|2020 年 2 月 | 
+| [モバイル デバイス向け Dynamics 365 Remote Assist](remote-assist-mobile-phones.md) | エンド ユーザー、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [Microsoft Teams 会議に参加する](join-team-meetings.md) | エンド ユーザー、自動的 | -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 17 日 | 
+| [通話せずに注釈を取り込んで共有する](capture-share-annotations-without-being-call.md) | エンド ユーザー、自動的| -|2020 年 1 月 | 
+| [低帯域幅状況での呼び出しエクスペリエンスの向上](improved-call-experience-low-bandwidth-situations.md) | エンド ユーザー、自動的| -|2020 年 2 月 | 
 
 **有効対象**列の値の説明
 
-- **ユーザー、自動的**: これらの機能には、ユーザーに対するユーザー エクスペリエンスへの変更が含まれており、自動的に有効になります。
+- **エンド ユーザー、自動的**: これらの機能には、エンド ユーザーに対するユーザー エクスペリエンスへの変更が含まれており、自動的に有効になります。
 
 - **管理者、作成者、またはアナリスト、自動的**: これらの機能は、管理者、作成者、またはビジネス アナリストによって使用されることが意図されており、自動的に有効になります。
 
-- **ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
+- **エンド ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
 
 Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 
