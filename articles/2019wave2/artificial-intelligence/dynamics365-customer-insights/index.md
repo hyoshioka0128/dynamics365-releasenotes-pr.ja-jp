@@ -9,18 +9,20 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: dd636c6c99d874416096b697f87467b4001ab3f1
-ms.sourcegitcommit: 75d7957117cc5eabbf102167fba80fb2072d686a
+ms.openlocfilehash: 52acf3a8b4efe851892b7dc1af76b7743154c94a
+ms.sourcegitcommit: e2c3a2557be0960c6f3f47d7f5c8a65f5a5fe45d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/06/2019
-ms.locfileid: "1988106"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "2764757"
 ---
-# <a name="overview-of-dynamics-365-customer-insights-2019-release-wave-2"></a><span data-ttu-id="fd4c4-103">Dynamics 365 Customer Insights 2019 年リリース ウェーブ 2 の概要</span><span class="sxs-lookup"><span data-stu-id="fd4c4-103">Overview of Dynamics 365 Customer Insights 2019 release wave 2</span></span>
+# <a name="overview-of-dynamics-365-customer-insights-2019-release-wave-2"></a><span data-ttu-id="3d4ef-103">Dynamics 365 Customer Insights 2019 年リリース ウェーブ 2 の概要</span><span class="sxs-lookup"><span data-stu-id="3d4ef-103">Overview of Dynamics 365 Customer Insights 2019 release wave 2</span></span>
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
 
 <!--overview start-->
-<span data-ttu-id="fd4c4-104">カスタマー エクスペリエンスは、あらゆる組織のデジタル変革の野心の中核を成すものです。</span><span class="sxs-lookup"><span data-stu-id="fd4c4-104">Customer experience is at the very core of every organization’s digital transformation ambitions.</span></span> <span data-ttu-id="fd4c4-105">今日の市場で競争するためには、組織は個人レベルで顧客と有意義な関係を築く必要があります。</span><span class="sxs-lookup"><span data-stu-id="fd4c4-105">To compete in today’s market, organizations need to build meaningful relationships with their customers on a personal level.</span></span> <span data-ttu-id="fd4c4-106">規模に合わせて効果的にパーソナライズするには、顧客に対する完全で統一されたビューが必要です。</span><span class="sxs-lookup"><span data-stu-id="fd4c4-106">The ability to effectively personalize at scale requires a complete, unified view of customers.</span></span> <span data-ttu-id="fd4c4-107">トランザクション、行動、観察のさまざまなソースから得た顧客データを結び付けて顧客の全体像を把握し、顧客中心のエクスペリエンスとプロセスを推進するインサイトを提供することで、顧客を深く理解します。</span><span class="sxs-lookup"><span data-stu-id="fd4c4-107">Build a deep understanding of customers by connecting customer data from various transactional, behavioral, and observational sources to create a 360-degree customer view to deliver insights that drive customer-centric experiences and processes.</span></span> 
+<span data-ttu-id="3d4ef-104">カスタマー エクスペリエンスは、あらゆる組織のデジタル変革の野心の中核を成すものです。</span><span class="sxs-lookup"><span data-stu-id="3d4ef-104">Customer experience is at the very core of every organization’s digital transformation ambitions.</span></span> <span data-ttu-id="3d4ef-105">今日の市場で競争するためには、組織は個人レベルで顧客と有意義な関係を築く必要があります。</span><span class="sxs-lookup"><span data-stu-id="3d4ef-105">To compete in today’s market, organizations need to build meaningful relationships with their customers on a personal level.</span></span> <span data-ttu-id="3d4ef-106">規模に合わせて効果的にパーソナライズするには、顧客に対する完全で統一されたビューが必要です。</span><span class="sxs-lookup"><span data-stu-id="3d4ef-106">The ability to effectively personalize at scale requires a complete, unified view of customers.</span></span> <span data-ttu-id="3d4ef-107">トランザクション、行動、観察のさまざまなソースから得た顧客データを結び付けて顧客の全体像を把握し、顧客中心のエクスペリエンスとプロセスを推進するインサイトを提供することで、顧客を深く理解します。</span><span class="sxs-lookup"><span data-stu-id="3d4ef-107">Build a deep understanding of customers by connecting customer data from various transactional, behavioral, and observational sources to create a 360-degree customer view to deliver insights that drive customer-centric experiences and processes.</span></span> 
 
-<span data-ttu-id="fd4c4-108">最新リリースの Microsoft Dynamics 365 Customer Insights には、企業がソース間でデータをさらに統合して顧客の単一ビューを取得し、エンゲージメントを最適化し、パーソナライズされたエクスペリエンスを推進する分析情報を発見するのを支援する新しい機能が含まれています。</span><span class="sxs-lookup"><span data-stu-id="fd4c4-108">The latest release of Microsoft Dynamics 365 Customer Insights includes new capabilities to help businesses further unify data across sources to get a single view of customers, optimize engagement, and discover insights that drive personalized experiences.</span></span>
+<span data-ttu-id="3d4ef-108">最新リリースの Microsoft Dynamics 365 Customer Insights には、企業がソース間でデータをさらに統合して顧客の単一ビューを取得し、エンゲージメントを最適化し、パーソナライズされたエクスペリエンスを推進する分析情報の発見を支援する新しい機能が含まれています。</span><span class="sxs-lookup"><span data-stu-id="3d4ef-108">The latest release of Microsoft Dynamics 365 Customer Insights includes new capabilities to help businesses further unify data across sources to get a single view of customers, optimize engagement, and discover insights that drive personalized experiences.</span></span>
+
+<span data-ttu-id="3d4ef-109">[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-customer-insights-192%27)) Dynamics 365 Customer Insights の 2019 年リリース ウェーブ 2 の更新情報</span><span class="sxs-lookup"><span data-stu-id="3d4ef-109">[![RSS Subscription](/dynamics365-release-plan/media/feed-icon.png "RSS Subscription")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-customer-insights-192%27)) Updates to Dynamics 365 Customer Insights 2019 release wave 2</span></span>
 <!--overview end-->

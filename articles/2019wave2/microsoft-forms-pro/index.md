@@ -9,23 +9,25 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: ec84e041b1aca04e4e9621888540fb99da157baf
-ms.sourcegitcommit: 75d7957117cc5eabbf102167fba80fb2072d686a
+ms.openlocfilehash: 5e00e2915de4d4310aad05ead64816eba7604af4
+ms.sourcegitcommit: e2c3a2557be0960c6f3f47d7f5c8a65f5a5fe45d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/06/2019
-ms.locfileid: "1990702"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "2764925"
 ---
-# <a name="overview-of-microsoft-forms-pro-2019-release-wave-2"></a><span data-ttu-id="c6f92-103">Microsoft Forms Pro 2019 年リリース ウェーブ 2 の概要</span><span class="sxs-lookup"><span data-stu-id="c6f92-103">Overview of Microsoft Forms Pro 2019 release wave 2</span></span>
+# <a name="overview-of-microsoft-forms-pro-2019-release-wave-2"></a><span data-ttu-id="e81aa-103">Microsoft Forms Pro 2019 年リリース ウェーブ 2 の概要</span><span class="sxs-lookup"><span data-stu-id="e81aa-103">Overview of Microsoft Forms Pro 2019 release wave 2</span></span>
 [!include[microsoft-forms-pro banner](../includes/microsoft-forms-pro.md)]
 
 <!--overview start-->
-<span data-ttu-id="c6f92-104">今日の顧客は、企業が継続的に自分のニーズに適応し調整することを期待しています。</span><span class="sxs-lookup"><span data-stu-id="c6f92-104">Customers today expect businesses to adapt and align to their needs continually.</span></span> <span data-ttu-id="c6f92-105">それらのニーズが満たされないときは、多くの場合、あっというまに他の人と自分の意見を共有したり、代わりの解決策に目を向けます。</span><span class="sxs-lookup"><span data-stu-id="c6f92-105">When those needs are not met, they are often quick to share their opinions with others or turn to alternative solutions.</span></span> <span data-ttu-id="c6f92-106">したがって、すべての企業は積極的に顧客に耳を傾けて、ギャップにすばやく対処し、エクスペリエンスを改善し、1 回限りの購入者を忠実な顧客に変えることが重要です。</span><span class="sxs-lookup"><span data-stu-id="c6f92-106">It is therefore important for every business to actively listen to customers so they can quickly address any gaps and improve experiences, transforming one-time casual purchasers into loyal customers.</span></span>
+<span data-ttu-id="e81aa-104">今日の顧客は、企業が継続的に自分のニーズに適応し調整することを期待しています。</span><span class="sxs-lookup"><span data-stu-id="e81aa-104">Customers today expect businesses to adapt and align to their needs continually.</span></span> <span data-ttu-id="e81aa-105">それらのニーズが満たされないときは、多くの場合、あっというまに他の人と自分の意見を共有したり、代わりの解決策に目を向けます。</span><span class="sxs-lookup"><span data-stu-id="e81aa-105">When those needs are not met, they are often quick to share their opinions with others or turn to alternative solutions.</span></span> <span data-ttu-id="e81aa-106">したがって、すべての企業は積極的に顧客に耳を傾けて、ギャップにすばやく対処し、エクスペリエンスを改善し、1 回限りの購入者を忠実な顧客に変えることが重要です。</span><span class="sxs-lookup"><span data-stu-id="e81aa-106">It is therefore important for every business to actively listen to customers so they can quickly address any gaps and improve experiences, transforming one-time casual purchasers into loyal customers.</span></span>
 
-<span data-ttu-id="c6f92-107">顧客からのフィードバックを集めるには複数のソリューションがありますが、結果は異なることがよくあります。</span><span class="sxs-lookup"><span data-stu-id="c6f92-107">While there are multiple solutions for collecting customer feedback, results are often disparate.</span></span> <span data-ttu-id="c6f92-108">Forms Pro を使用すると、企業は Microsoft Forms に慣れ親しんだうえで、完全な顧客体験 (購入からサポートまで) からの入力を結びつけて、意味のある変更を行うのに役立つ包括的で意味のある視点を提供できます。</span><span class="sxs-lookup"><span data-stu-id="c6f92-108">With Forms Pro, businesses can build on their familiarity with Microsoft Forms, connecting input from the full customer journey—purchase through support—and offering a comprehensive and meaningful perspective that can help make meaningful changes.</span></span>
+<span data-ttu-id="e81aa-107">顧客からのフィードバックを集めるには複数のソリューションがありますが、結果は異なることがよくあります。</span><span class="sxs-lookup"><span data-stu-id="e81aa-107">While there are multiple solutions for collecting customer feedback, results are often disparate.</span></span> <span data-ttu-id="e81aa-108">Forms Pro を使用すると、企業は Microsoft Forms に慣れ親しんだうえで、完全な顧客体験 (購入からサポートまで) からの入力を結びつけて、意味のある変更を行うのに役立つ包括的で意味のある視点を提供できます。</span><span class="sxs-lookup"><span data-stu-id="e81aa-108">With Forms Pro, businesses can build on their familiarity with Microsoft Forms, connecting input from the full customer journey—purchase through support—and offering a comprehensive and meaningful perspective that can help make meaningful changes.</span></span>
 
-<span data-ttu-id="c6f92-109">2019 年 3 月のパブリック プレビュー リリースに続き、お客様からのフィードバックを収集し、それに応じて改善を加えました。</span><span class="sxs-lookup"><span data-stu-id="c6f92-109">Following our public preview release in March 2019, we have collected customer feedback and made improvements accordingly.</span></span> <span data-ttu-id="c6f92-110">このリリースの主な改善点は次のとおりです。</span><span class="sxs-lookup"><span data-stu-id="c6f92-110">Key improvement areas for this release include:</span></span>
+<span data-ttu-id="e81aa-109">2019 年 3 月のパブリック プレビュー リリースに続き、お客様からのフィードバックを収集し、それに応じて改善を加えました。</span><span class="sxs-lookup"><span data-stu-id="e81aa-109">Following our public preview release in March 2019, we have collected customer feedback and made improvements accordingly.</span></span> <span data-ttu-id="e81aa-110">このリリースの主な改善点は次のとおりです。</span><span class="sxs-lookup"><span data-stu-id="e81aa-110">Key improvement areas for this release include:</span></span>
 
-- <span data-ttu-id="c6f92-111">**調査の配布**: Microsoft の組み込み調査インセンティブを利用して調査の回答率を向上させます。</span><span class="sxs-lookup"><span data-stu-id="c6f92-111">**Survey distribution**: Improve your survey response rate through built-in survey incentives from Microsoft.</span></span>
-- <span data-ttu-id="c6f92-112">**調査の分析情報**: 新しい Microsoft AI Builder を搭載した AI モデルを使用して、調査の回答のコメントに自動タグ付けします。</span><span class="sxs-lookup"><span data-stu-id="c6f92-112">**Survey insights**: Autotag your survey response comments using the AI model powered by the new Microsoft AI Builder.</span></span>
+- <span data-ttu-id="e81aa-111">**調査の配布**: Microsoft の組み込み調査インセンティブを利用して調査の回答率を向上させます。</span><span class="sxs-lookup"><span data-stu-id="e81aa-111">**Survey distribution**: Improve your survey response rate through built-in survey incentives from Microsoft.</span></span>
+- <span data-ttu-id="e81aa-112">**調査の分析情報**: 新しい Microsoft AI Builder を搭載した AI モデルを使用して、調査の回答のコメントに自動タグ付けします。</span><span class="sxs-lookup"><span data-stu-id="e81aa-112">**Survey insights**: Autotag your survey response comments using the AI model powered by the new Microsoft AI Builder.</span></span>
+
+<span data-ttu-id="e81aa-113">[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\microsoft-forms-pro-192%27)) Microsoft Forms Pro の 2019 年リリース ウェーブ 2 の更新情報</span><span class="sxs-lookup"><span data-stu-id="e81aa-113">[![RSS Subscription](/dynamics365-release-plan/media/feed-icon.png "RSS Subscription")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\microsoft-forms-pro-192%27)) Updates to Microsoft Forms Pro 2019 release wave 2</span></span>
 <!--overview end-->
