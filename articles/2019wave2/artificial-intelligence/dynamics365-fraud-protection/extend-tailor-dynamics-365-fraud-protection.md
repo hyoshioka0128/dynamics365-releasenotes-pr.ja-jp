@@ -9,19 +9,19 @@ ms.topic: article
 ms.service: business-applications
 ms.author: v-jowigh
 dynamics365pdf: true
-ms.openlocfilehash: e53e3c54b5b916d92b0df45120aa683d9e6bb2b2
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 604ddf3d7f7fc58bf318186bb42f855df76b6906
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2142374"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661077"
 ---
 # <a name="extend-and-tailor-dynamics-365-fraud-protection"></a>Dynamics 365 Fraud Protection の拡張と調整
 [!include[artificial-intelligence/dynamics365-fraud-protection banner](../includes/artificial-intelligence/dynamics365-fraud-protection.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 12 月| 近日発表|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 12 月| 近日発表|
 
 
 
@@ -40,8 +40,6 @@ ms.locfileid: "2142374"
 
 カスタム知識を使用して、特殊なデータを使用したルール構成を作成および更新することができます。 これらのモデル運用ポイントは、利用可能なあらゆる領域の知識を使用して、各種のイベントに対して決定を下すことができます。
 <!--feature detail end -->
-
-
 
 
 

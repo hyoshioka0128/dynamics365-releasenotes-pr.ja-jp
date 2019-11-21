@@ -3,18 +3,18 @@ title: Dynamics 365 Retail 2019 年リリース ウェーブ 2 の概要
 description: Dynamics 365 Retail 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: josaw
-ms.date: 09/04/2019
+ms.date: 09/23/2019
 ms.assetid: 47a3fad1-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: jeffbl
 dynamics365pdf: true
-ms.openlocfilehash: 67de3ec1581c6717bd3006cf42966eb15b8aef08
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: c8db6e24de93fe4a87a9920cf8979cef1324b66b
+ms.sourcegitcommit: e2c3a2557be0960c6f3f47d7f5c8a65f5a5fe45d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2141912"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "2764837"
 ---
 # <a name="overview-of-dynamics-365-retail-2019-release-wave-2"></a>Dynamics 365 Retail 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
@@ -39,4 +39,6 @@ ms.locfileid: "2141912"
 - **オムニチャネル機能**: 複数のチャネルでエクスペリエンスを向上させるための、注文取り込み、注文処理、商品化、支払いなど。
 
 - **規制およびコンプライアンス**: サポートされているすべての国でサービスを提供するための規制およびコンプライアンス関連の機能強化。
+
+[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-retail-192%27)) Dynamics 365 Retail の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

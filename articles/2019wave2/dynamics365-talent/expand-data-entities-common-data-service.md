@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: dkrame
 dynamics365pdf: true
-ms.openlocfilehash: 1b4e107727a1717dadebed4cdeba4bb48eb1b42d
-ms.sourcegitcommit: 9622494fe2c834da0382f0280b7594d8d37389e2
+ms.openlocfilehash: f80bc3df87dab14f45fda2f381908ab72a9c0775
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/20/2019
-ms.locfileid: "2004109"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661704"
 ---
 # <a name="expand-data-entities-in-common-data-service"></a>Common Data Service でデータ エンティティを展開する
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
@@ -38,8 +38,6 @@ ms.locfileid: "2004109"
 - 健康と安全
 - コンプライアンス
 <!--feature detail end -->
-
-
 
 
 

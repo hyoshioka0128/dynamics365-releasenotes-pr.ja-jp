@@ -3,17 +3,17 @@ title: Dynamics 365 Project Service Automation の新機能と予定されてい
 description: Dynamics 365 Project Service Automation で計画されている機能の概要。
 author: relnotes
 ms.reviewer: kfend
-ms.date: 09/18/2019
+ms.date: 10/24/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: msalam
 dynamics365pdf: true
-ms.openlocfilehash: 723166ed7e4823a8c6d0f99de03ac0d06ce73d67
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: b32099bd669fc8e9ee3ed8f7689d1c4d3eee716d
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2141989"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2662023"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-project-service-automation"></a>Dynamics 365 Project Service Automation の新機能と予定されている機能
 
@@ -25,17 +25,17 @@ ms.locfileid: "2141989"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
-| [包括的なプロジェクト運用](comprehensive-project-operations.md) | ユーザー、管理者/作成者/アナリストによる有効化| -|2020 年 2 月 | 
-| [プロジェクト ベースの組織向けに Dynamics 365 と Office のオファリングを結合する](joint-dynamics-office-offering-project-based-organizations.md) | ユーザー、管理者/作成者/アナリストによる有効化| -|2020 年 2 月 | 
-| [Dynamics 365 Project Service Automation から連携性の強化へのアップグレード](upgrade-dynamics-365-psa-better-together.md) | ユーザー、管理者/作成者/アナリストによる有効化| -|2020 年 3 月 | 
+| [包括的なプロジェクト運用](comprehensive-project-operations.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| -|2020 年 2 月 | 
+| [プロジェクト ベースの組織向けに Dynamics 365 と Office のオファリングを結合する](joint-dynamics-office-offering-project-based-organizations.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| -|2020 年 2 月 | 
+| [Dynamics 365 Project Service Automation から連携性の強化へのアップグレード](upgrade-dynamics-365-psa-better-together.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| -|2020 年 3 月 | 
 
 **有効対象**列の値の説明
 
-- **ユーザー、自動的**: これらの機能には、ユーザーに対するユーザー エクスペリエンスへの変更が含まれており、自動的に有効になります。
+- **エンド ユーザー、自動的**: これらの機能には、エンド ユーザーに対するユーザー エクスペリエンスへの変更が含まれており、自動的に有効になります。
 
 - **管理者、作成者、またはアナリスト、自動的**: これらの機能は、管理者、作成者、またはビジネス アナリストによって使用されることが意図されており、自動的に有効になります。
 
-- **ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
+- **エンド ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
 
 Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 

@@ -3,30 +3,30 @@ title: 顧客とのコミュニケーションをより多く取り込む
 description: 顧客とのコミュニケーションを頻繁に記録することで、Dynamics 365 のデータ品質が向上し、その結果として分析情報が強化されます。 自動取り込みにより、販売担当者は、共有対象をきめ細かく制御しながら、顧客とのコミュニケーションをより多く取り込み、Dynamics 365 を労力なしで更新できます。
 author: relnotes
 ms.reviewer: udag
-ms.date: 09/12/2019
+ms.date: 09/26/2019
 ms.assetid: d463278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: a14f5334b8c9790cb87a09b68ac5af0560537437
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: c9f4809e484f4ababc92f1436be8e91240b92209
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2142561"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661880"
 ---
 # <a name="capture-more-customer-communications"></a>顧客とのコミュニケーションをより多く取り込む
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 12 月| -|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 12 月| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-販売担当者は、Dynamics 365 の更新やすべての顧客関連活動の記録ではなく販売に時間をかけることを望んでいます。 自動取り込みでは、顧客とのメールを取り込むだけでなく、カレンダー上の会議を取り込んで適切なレコードに記録します。 自動取り込みは、コミュニケーションに基づいて新しい取引先担当者を作成するための提案を行い、これらの面倒な作業に費やす全体的な時間を短縮して、販売担当者が最も重要な作業に集中できるようにします。
+販売担当者は、Dynamics 365 データの更新やすべての顧客関連活動の記録ではなく販売に時間をかけることを望んでいます。 自動取り込みでは、顧客とのメールを取り込むだけでなく、カレンダー上の会議を取り込んで適切なレコードに記録します。 自動取り込みは、コミュニケーションに基づいて新しい取引先担当者を作成するための提案を行い、これらの面倒な作業に費やす全体的な時間を短縮して、販売担当者が最も重要な作業に集中できるようにします。
 <!-- bv end -->
 
 
@@ -39,8 +39,6 @@ ms.locfileid: "2142561"
 
 ![ゼロクリックの自動取り込み](media/zero-click-auto-capture.png "ゼロクリックの自動取り込み")
 <!--feature detail end -->
-
-
 
 
 

@@ -9,19 +9,19 @@ ms.topic: article
 ms.service: business-applications
 ms.author: asharchw
 dynamics365pdf: true
-ms.openlocfilehash: e6570d81f4d52d793884b4ecb64d7edae12f7c3d
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: c8556a0ab1f2143d60ae38af0e8e69bf29c80cf3
+ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2143562"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2659861"
 ---
 # <a name="merchandising-improvements--add-support-to-configure-and-observe-the-custom-order-for-product-attributes-refiners-and-values"></a>販売促進の改善 - 製品属性、リファイナー、値に対するカスタム順序を構成および遵守するためのサポートの追加
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 10 月| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 2020 年 1 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -49,8 +49,6 @@ ms.locfileid: "2143562"
 - リファイナーの**固定リスト**の**属性値**に対する表示順序に従う。                        
 - **分析コード値、固定リスト属性タイプ、およびカテゴリー**に定義されている**リファイナー値**に対する表示順序に従う。
 <!--feature detail end -->
-
-
 
 
 

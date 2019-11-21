@@ -9,19 +9,19 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mahesh
 dynamics365pdf: true
-ms.openlocfilehash: 17355b20395804e658bc9f2927dd040e351af05b
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: ff827225a766fb747126415a9a1c67a517ad0451
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2142209"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2662276"
 ---
 # <a name="enhanced-search-experience"></a>検索エクスペリエンスの強化
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|-|2019 年 10 月| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月|-| 2020 年 1 月|
 
 
 
@@ -38,8 +38,6 @@ ms.locfileid: "2142209"
 
 - **より迅速で直感的なエージェントのエクスペリエンス**: エージェントは、使いやすさが向上した検索とリンクのエクスペリエンス向上の恩恵を受けるため、生産性の KPI を達成できます。
 <!--feature detail end -->
-
-
 
 
 

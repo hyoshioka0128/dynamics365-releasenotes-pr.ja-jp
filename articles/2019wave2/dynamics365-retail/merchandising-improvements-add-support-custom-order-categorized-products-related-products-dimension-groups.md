@@ -9,19 +9,19 @@ ms.topic: article
 ms.service: business-applications
 ms.author: asharchw
 dynamics365pdf: true
-ms.openlocfilehash: 5587a63fb84c7f193b4f804c2a1bc632c40d9f77
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 0bdc3838f31a4823d57e25589c8fc544e76be174
+ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2141890"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2659982"
 ---
 # <a name="merchandising-improvements--add-support-for-custom-order-for-categorized-products-related-products-and-dimension-groups"></a>販売促進の改善 – カテゴリ化製品、関連製品、分析コード グループに対するカスタム順序のサポートの追加
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 10 月| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 2020 年 1 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -48,8 +48,6 @@ ms.locfileid: "2141890"
 - **個々の製品**に関連付けられている**関連製品**に対する構成可能な並べ替え順序。                     
 - 特定の**製品マスター**の**分析コード グループ**に対する構成可能な並べ替え順序。
 <!--feature detail end -->
-
-
 
 
 

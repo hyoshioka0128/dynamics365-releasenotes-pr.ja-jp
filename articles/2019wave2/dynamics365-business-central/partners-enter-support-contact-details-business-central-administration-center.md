@@ -3,25 +3,25 @@ title: パートナーは Business Central 管理センターでサポート連�
 description: 再販パートナーは、Business Central 管理センターでサポート連絡先の詳細を入力できるため、顧客は正しいサポート チャネルを確認できます。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 08/02/2019
+ms.date: 10/14/2019
 ms.assetid: 0b58d17b-3e77-e911-a960-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: jchrist
 dynamics365pdf: true
-ms.openlocfilehash: 92cd8b5a02115a6d9c7953b895c61f4281e4cb38
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 87504a8cd5a8c0248ae2f411bfe793c50e9789e2
+ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140428"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "2666929"
 ---
 # <a name="partners-can-enter-support-contact-details-in-the-business-central-administration-center"></a>パートナーは Business Central 管理センターでサポート連絡先の詳細を入力できる
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|-| 2019 年 10 月|
+|管理者、作成者、またはアナリスト、自動的|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 
@@ -30,7 +30,7 @@ ms.locfileid: "2140428"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-Business Central 管理センターで、再販パートナーは環境を選択してから、名前、メール アドレス、およびサポート用の Web サイトを指定できます。 その後、この情報は、Business Central テナントの顧客に対し、**ヘルプサポート** ページで表示されます。 顧客は、再販パートナーからサポートを受ける方法がはっきりわかるようになります。 パートナーは、情報を入力するときにすべてのテナントを更新することができ、すべての環境で情報を入力する手間を省くことができます。
+Business Central 管理センターで、再販パートナーは環境を選択してから、名前、メール アドレス、サポート用の Web サイトを指定できます。 その後、この情報は、Business Central テナントの顧客に対し、**ヘルプサポート** ページで表示されます。 顧客は、再販パートナーからサポートを受ける方法がはっきりわかるようになります。 パートナーは、情報を入力するときにすべてのテナントを更新することができるので、すべての環境で情報を入力する手間を省くことができます。
 <!--feature detail end -->
 
 
@@ -42,4 +42,6 @@ Business Central 管理センターで、再販パートナーは環境を選択
 
 
 
+## <a name="see-also"></a>関連項目
 
+[サポート エクスペリエンスの構成](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/technical-support#configuring-the-support-experience) (ドキュメント)

@@ -3,25 +3,25 @@ title: 複数の値によるオプション フィールドのフィルター処
 description: 複数のオプション値でフィルター処理することで、リストやレポートでの強力なフィルター処理機能を補完します。
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 09/02/2019
+ms.date: 10/01/2019
 ms.assetid: 823f20c6-e26b-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: ece46a475405d62addfbb845b74447f81b5ce82c
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 640d541e8d2f89d89e8c0378fe37f4fef8c52ac7
+ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140636"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "2667083"
 ---
 # <a name="filter-option-fields-by-multiple-values"></a>複数の値によるオプション フィールドのフィルター処理
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日| 2019 年 10 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -37,10 +37,8 @@ ms.locfileid: "2140636"
 
 複数の値によるオプション フィールドのフィルター処理は、リスト ページ、レポート、XmlPorts、および RunRequestPage コマンドや FilterPageBuilder コマンドによって駆動されるフィルター画面でのフィルター操作全体で一貫して使用できます。 値の複数選択を使用できるのはフィルター処理のときだけであり、レコードでフィールド値を指定するときは使用できません。
 
-![複数のオプション値を使用したフィルター処理などが適用された、品目リストのフィルター処理のスクリーンショット](media/filtering-multiple-option-values.png "複数のオプション値を使用したフィルター処理などが適用された、品目リストのフィルター処理のスクリーンショット")
+![複数のオプション値によるフィルターを含む、アイテム リストのフィルターのスクリーンショット](media/filtering-multiple-option-values.png "複数のオプション値によるフィルターを含む、アイテム リストのフィルターのスクリーンショット")
 <!--feature detail end -->
-
-
 
 
 
@@ -52,3 +50,8 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 
 
+
+## <a name="see-also"></a>関連項目
+[機能の探索](https://aka.ms/ROGBC19RW2ROV6) (ビデオ)
+
+[オプション フィールドを使用したフィルター処理](https://docs.microsoft.com/dynamics365/business-central/ui-enter-criteria-filters#filtering-with-option-fields) (ドキュメント)

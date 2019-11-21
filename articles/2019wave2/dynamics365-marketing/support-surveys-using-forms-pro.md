@@ -9,19 +9,19 @@ ms.topic: article
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: 8e34062e8cef9927014c1190cecd1e28da5f0583
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 2e150e23358edad01ab850a42751f0c36cbf75ae
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2142011"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2662056"
 ---
 # <a name="support-for-surveys-using-microsoft-forms-pro"></a>Microsoft Forms Pro を使用した調査のサポート
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|-|-| 2019 年 12 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-|-| 2019 年 12 月|
 
 
 
@@ -34,8 +34,6 @@ ms.locfileid: "2142011"
 
 Microsoft Forms Pro に基づく調査は顧客のニーズについて問い合わせるための豊富な機能を備えているため、データに基づいて意思決定を行い、調査結果をマーケティング活動に適用することができます。 また、セグメンテーション、リード スコアリング、または顧客体験の分岐の基準に回答を含めることで、調査回答を自動的に使用することもできます。
 <!--feature detail end -->
-
-
 
 
 

@@ -9,19 +9,19 @@ ms.topic: article
 ms.service: business-applications
 ms.author: hhaines
 dynamics365pdf: true
-ms.openlocfilehash: 0a9ad7353e0fb4dfd32f003bd6164f828781d8f6
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 5b3e3ffb0402181283e66f4579049966eedd9c00
+ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2143584"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2659828"
 ---
 # <a name="improved-inventory-inbound-and-outbound-operations-in-store"></a>店舗での在庫 (入庫/出庫) 操作の改善
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 11 月| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 11 月| 2020 年 1 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -35,8 +35,6 @@ ms.locfileid: "2143584"
 <!--feature detail start -->
 この機能では、小売りの入荷および移動オーダーの作成と履行のシナリオに共通のワークフローを具体的にサポートする新しいユーザー インターフェイスが作成されます。 これらの新しいインターフェイスは、バーコード スキャン用に最適化されており、関連する入庫/出庫ドキュメント上の品目を表示する簡単な方法を提供します。 領収書または出荷を転記するときの円滑な処理とエラー処理を保証するために入力データを強化および検証するための機能も追加されます。
 <!--feature detail end -->
-
-
 
 
 

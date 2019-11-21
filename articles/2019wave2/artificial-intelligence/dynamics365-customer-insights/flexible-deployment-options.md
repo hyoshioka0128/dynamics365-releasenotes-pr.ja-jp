@@ -2,19 +2,19 @@
 title: 柔軟な展開オプション
 description: 柔軟な展開オプションにより、管理者は取り込みから統合結果まで、自分の Azure インスタンスにデータを保存できます。 
 author: relnotes
-ms.reviewer: jimholtz
-ms.date: 08/02/2019
+ms.reviewer: mhart
+ms.date: 10/15/2019
 ms.assetid: ffae2bd0-5872-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: bf0225eb31800b8dc80732126edde420c3ef5e0d
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 6c3b6d5c83d01b1a0b0144048898a54dd4c02932
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2139965"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661121"
 ---
 # <a name="flexible-deployment-options"></a>柔軟な展開オプション
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
@@ -36,8 +36,6 @@ ms.locfileid: "2139965"
 <!--feature detail start -->
 初期の展開および構成プロセスの一環として、管理者はデータの取り込みおよび統一された顧客データの保存用に、独自の Azure ストレージを選択できるようになります。
 <!--feature detail end -->
-
-
 
 
 

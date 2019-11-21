@@ -3,25 +3,25 @@ title: コードを書かずにユーザー プロファイルをカスタマイ
 description: ユーザー プロファイルを追加およびカスタマイズします。
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 09/14/2019
+ms.date: 10/01/2019
 ms.assetid: 846c8f04-e86b-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 1467c9aba60d8038705013809c9c4785a4e1aa15
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 07b30ceaf636de8125d465148ba4ab13f0b51c91
+ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140713"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "2667138"
 ---
 # <a name="customize-user-profiles-without-writing-code"></a>コードを書かずにユーザー プロファイルをカスタマイズする
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日| 2019 年 10 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -58,20 +58,17 @@ Dynamics NAV のプロファイル構成モードと同様に、Business Central
 ユーザー プロファイルのカスタマイズでは、オブジェクトやデータへのアクセスがセキュリティで保護されないことに注意してください。 管理者は、関連するユーザー グループまたはアクセス許可セットを依然として適用する必要があります。
 
 ### <a name="more-profiles-in-the-box"></a>ボックス内のプロファイルの追加
-Business Central オンラインに、以前はサンドボックス環境でしか使用できなかったプロファイルが含まれるようになりました。 さらに、一部の国または地域で、幅広い部署機能をカバーする 10 個のまったく新しいプロファイルを使用できます。
+Business Central オンラインに、以前はサンドボックス環境でしか使用できなかったプロファイルが含まれるようになりました。 さらに、一部の国や地域で、幅広い部署機能をカバーする 10 個のまったく新しいプロファイルを使用できます。
 
 ### <a name="upgrading-from-an-earlier-version-of-business-central"></a>以前のバージョンの Business Central からのアップグレード
 今回のリリースでは、ユーザー プロファイルの定義、保存、カスタマイズの方法が大幅に見直され、これらの機能がクラウドおよび最新のクライアント向けに提供されるようになりました。 Business Central オンラインとオンプレミスの両方で、一貫したエクスペリエンスと豊富な機能が提供されます。 このリリースでの重要な変更点は以下のとおりです。
 
  - プロファイルおよびページのカスタマイズが開発者によって AL で作成されたか、またはコンサルタントやパワー ユーザーによってクライアント内で直接作成されたかに関係なく、AL 言語がそれらのカスタマイズを一貫して記述するために使用される基本の構文となります。 従来の XML 形式は廃止されます。
  - Business Central で利用できるプロファイルのセットに、ページのカスタマイズが含まれなくなります。 これらのプロファイルのユーザーに対しては、ロールのページのレイアウトが若干変更される可能性があります。
- - データベースをアップグレードすると、従来のすべてのプロファイルを引き続き利用できますが、それに付随するプロファイル設定は破棄されます。 以前のバージョンを使用して作成された従来のプロファイル構成は、Business Central 2019 ウェーブ 2 以降と互換性がありません。 ページのカスタマイズは Business Central クライアントを使用して再作成するか、AL 拡張機能として再作成する必要があります。
+ - データベースをアップグレードすると、従来のすべてのプロファイルを引き続き利用できますが、それに付随するプロファイル設定は破棄されます。 以前のバージョンを使用して作成された従来のプロファイル構成は、Business Central 2019 リリース ウェーブ 2 以降と互換性がありません。 ページのカスタマイズは Business Central クライアントを使用して再作成するか、AL 拡張機能として再作成する必要があります。
  - さまざまなシステム テーブルが、導入、変更、または廃止とマークされています。 それらに依存するページ オブジェクトは、新しいプロファイル モデルを反映するようにフィールドと機能が更新されています。
  - Business Central でシステム プロファイルとテナント プロファイルの区別がなくなり、管理者はシステム スコープのプロファイルを指定できなくなりました。 ただし、拡張機能を使用してマルチテナント サーバー上のすべての顧客用の開始プロファイル セットを定義することは可能です。
-
 <!--feature detail end -->
-
-
 
 
 
@@ -83,3 +80,8 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 
 
+
+## <a name="see-also"></a>関連項目
+[機能の探索](https://aka.ms/ROGBC19RW2ROV12) (ビデオ)
+
+[ページをプロファイルに応じてカスタマイズする](https://docs.microsoft.com/dynamics365/business-central/ui-personalization-manage) (ドキュメント)

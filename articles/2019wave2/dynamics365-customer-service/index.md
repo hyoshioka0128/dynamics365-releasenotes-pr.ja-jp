@@ -3,18 +3,18 @@ title: Dynamics 365 Customer Service の 2019 年リリース ウェーブ 2 の
 description: Dynamics 365 Customer Service の 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 09/13/2019
+ms.date: 09/23/2019
 ms.assetid: 83f1f7cb-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: craigm
 dynamics365pdf: true
-ms.openlocfilehash: d3f11d0f6b11ab1990147e011418d8723c6bbfc2
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: b73b641c6880bf5d4163a701cf3126b69d31469c
+ms.sourcegitcommit: e2c3a2557be0960c6f3f47d7f5c8a65f5a5fe45d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2142187"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "2764881"
 ---
 # <a name="overview-of-dynamics-365-customer-service-2019-release-wave-2"></a>Dynamics 365 Customer Service の 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
@@ -30,5 +30,7 @@ Dynamics 365 Customer Service は、カスタマー エンゲージメントの�
 
 次のセクションでは、これらの領域でリリースされている特定の機能の詳細について説明します。
 
-[概要ビデオを見る](https://aka.ms/ROGCS19RW2ROV) 
+[概要ビデオを見る](https://aka.ms/ROGCS19RW2ROV)
+
+[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-customer-service-192%27)) Dynamics 365 Customer Service の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

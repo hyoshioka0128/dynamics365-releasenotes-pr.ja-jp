@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aamiral
 dynamics365pdf: true
-ms.openlocfilehash: 49f553682beb32ecf657dd748518af05d62cf481
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 1f38926229b6166601979e56570f507542f47105
+ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2143489"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2659775"
 ---
 # <a name="secure-access-to-secrets"></a>シークレットへの安全なアクセス
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
@@ -41,6 +41,10 @@ ms.locfileid: "2143489"
 
 
 
+
+
+
+
 ## <a name="see-also"></a>関連項目
 
-[小売チャネルのシークレットを管理する](https://docs.microsoft.com/dynamics365/unified-operations/retail/dev-itpro/manage-secrets) (ドキュメント)
+[小売チャネルのシークレットを管理する](https://docs.microsoft.com/dynamics365/unified-operations/retail/manage-secrets) (ドキュメント)

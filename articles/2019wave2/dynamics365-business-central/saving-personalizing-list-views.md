@@ -3,25 +3,25 @@ title: リスト ビューの保存とパーソナライズ
 description: リスト ビューの保存とパーソナライズ
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 09/14/2019
+ms.date: 10/01/2019
 ms.assetid: 386fe1f3-5f76-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 821a982c19798571bd778290be28d34f8e3b1d0a
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 245ac2938c80be77598daf93f5457286292ebfb8
+ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140372"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "2666863"
 ---
 # <a name="save-and-personalize-list-views"></a>リスト ビューの保存とパーソナライズ
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| 2019 年 10 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -45,6 +45,9 @@ Business Central の強力なフィルター処理機能は、表示するデー
 - フィルター式、範囲、フィルター トークン (%MyCustomers など) のあらゆる領域を適用して、適切なデータを動的にフィルター処理します。
 - そのページにアクセスした方法に関係なく、フィルター ペインまたはコマンド メニューのリストのさまざまなビューをすばやく切り替えます。
 
+![フィルター ペインが開き、さまざまなビューを表示しているリスト ページのスクリーンショット](media/save-views-3000x2000.png "フィルター ペインが開き、さまざまなビューを表示しているリスト ページのスクリーンショット")
+
+<!-- Picture 1 -->
 他の UI 個人用設定と同様に、リスト ビューは、ユーザーがサインインしているデバイスやブラウザーに関係なく、ユーザーと一緒に移動します。
 
 ### <a name="personalizing-the-filter-pane"></a>フィルター ウィンドウのパーソナライズ
@@ -52,6 +55,9 @@ Business Central の強力なフィルター処理機能は、表示するデー
 
 - 不要になった個人用ビューを削除するか、不要なシステム ビューを非表示にします。
 - ビューを並べ替えて、完全なシーケンスを取得します。
+
+![フィルター ペインがパーソナライズされているリスト ページのスクリーンショット](media/view-personalization-3000x2000.png "フィルター ペインがパーソナライズされているリスト ページのスクリーンショット")
+<!-- Picture 2 -->
 
 ### <a name="upgrading-from-an-earlier-version-of-business-central"></a>以前のバージョンの Business Central からのアップグレード
 今回のリリースでは、個人用ビューの定義、保存、カスタマイズの方法が大幅に見直され、これらの機能がクラウドおよび最新のクライアントに向けに提供されるようになりました。 次の重要な変更に注意してください。
@@ -67,13 +73,6 @@ Business Central の強力なフィルター処理機能は、表示するデー
 - 任意のフィルター フィールドで式とその式の解決された値の間を切り替える。
 <!--feature detail end -->
 
-![フィルター ペインが開き、さまざまなビューを表示しているリスト ページのスクリーンショット](media/save-views-3000x2000.png "フィルター ペインが開き、さまざまなビューを表示しているリスト ページのスクリーンショット")
-
-<!-- Picture 1 -->
-![フィルター ペインがパーソナライズされているリスト ページのスクリーンショット](media/view-personalization-3000x2000.png "フィルター ペインがパーソナライズされているリスト ページのスクリーンショット")
-<!-- Picture 2 -->
-
-
 
 
 
@@ -84,3 +83,8 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 
 
+
+## <a name="see-also"></a>関連項目
+[機能の探索](https://aka.ms/ROGBC19RW2ROV7) (ビデオ)
+
+[リスト ビューの保存とパーソナライズ](https://docs.microsoft.com/dynamics365/business-central/ui-views) (ドキュメント)

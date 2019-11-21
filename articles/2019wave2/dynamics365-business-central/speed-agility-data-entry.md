@@ -3,25 +3,25 @@ title: 高速で敏捷なデータ入力
 description: Business Central では、生産性機能、本来のパフォーマンス、および応答性の高いエクスペリエンスの組み合わせにより、リストへのデータの反復入力が大幅に高速化します。
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 09/10/2019
+ms.date: 09/25/2019
 ms.assetid: 609f0f02-0e6c-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 6ecda3bbd678ceb1e8f006a40e4a1c373404a0bf
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: ae4d2fe76744397ac99acc66c7a7c21137df2f57
+ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140361"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "2667039"
 ---
 # <a name="enter-data-with-speed-and-agility"></a>高速で敏捷なデータ入力
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日| 2019 年 10 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -40,8 +40,6 @@ Business Central では、応答性の高いフィールド編集エクスペリ
 
 これだけでもより応答性の高いエクスペリエンスが実現されますが、不要なフィールドをスキップするパーソナライズされた簡単入力、仕訳を転記する F9 などのアクションのキーボード ショートカット、新しいレコードを作成する Alt+N などのシステム ショートカットと組み合わせると、データ入力がさらに速くなります。
 <!--feature detail end -->
-
-
 
 
 

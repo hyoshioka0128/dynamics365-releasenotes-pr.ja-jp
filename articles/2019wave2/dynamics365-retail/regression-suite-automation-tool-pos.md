@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mumani
 dynamics365pdf: true
-ms.openlocfilehash: 392d09b53cc7ab83308d2330362c24421373b969
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 5fa7b48f8321ca505f38d6ede7c2ad2558fb8229
+ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2141846"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2659949"
 ---
 # <a name="regression-suite-automation-tool-for-pos"></a>POS 用の Regression Suite Automation Tool
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
@@ -22,9 +22,6 @@ ms.locfileid: "2141846"
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
 |管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 3 日| 2019 年 11 月|
-
-
-
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -56,8 +53,6 @@ ms.locfileid: "2141846"
 
   - テストを実行して結果を管理します。
 <!--feature detail end -->
-
-
 
 
 

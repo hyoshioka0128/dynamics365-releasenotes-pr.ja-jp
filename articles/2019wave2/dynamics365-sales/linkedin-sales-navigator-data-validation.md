@@ -3,25 +3,25 @@ title: LinkedIn Sales Navigator のデータ検証
 description: LinkedIn Sales Navigator 統合は、引き続き 2 つの製品 Microsoft Dynamics 365 Sales と LinkedIn Sales Navigator の価値を合わせて提供します。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 09/18/2019
+ms.date: 10/23/2019
 ms.assetid: fec074bf-7f7d-e911-a960-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
-ms.author: joegan
+ms.author: goravi
 dynamics365pdf: true
-ms.openlocfilehash: 8364e01304c4fc08b6984d62c4a0409a0809e597
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: f4962f871d9400c8f5a9d00be41ce71bbbb3b186
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2141769"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661319"
 ---
 # <a name="linkedin-sales-navigator-data-validation"></a>LinkedIn Sales Navigator のデータ検証
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|-|-| 2019 年 11 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-|-| 2019 年 11 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -40,9 +40,7 @@ CRM 同期が有効になっている Microsoft Relationship Sales ユーザー�
 
 
 > [!NOTE]
-> この機能は、統一インターフェイスでのみ使用できます。
-
-
+> この機能は、統一インターフェイスでのみ使用できます。 この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
 
 
 

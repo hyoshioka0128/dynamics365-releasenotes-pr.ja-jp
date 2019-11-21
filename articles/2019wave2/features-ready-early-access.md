@@ -3,17 +3,17 @@ title: 早期アクセスに利用可能なリリース ウェーブ 2 の機能
 description: 2019 年 8 月 2 日以降にご使用の環境で有効にできる機能の一覧を示します。
 author: relnotes
 manager: AnnBe
-ms.date: 07/29/2019
+ms.date: 10/28/2019
 ms.assetid: ''
 ms.topic: article
 ms.author: ramanasr
 ms.service: business-applications
-ms.openlocfilehash: 32269ee164202498e9519f4ac227ed250232a29c
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 7db76ed4247d5ae2fabdecfe928a87c90e1e488e
+ms.sourcegitcommit: 3e19a91181b001b74894328456d8da10d4f6d973
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2143334"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "2673430"
 ---
 # <a name="2019-release-wave-2-features-available-for-early-access"></a>早期アクセスに利用可能な 2019 年リリース ウェーブ 2 の機能
 
@@ -25,12 +25,14 @@ ms.locfileid: "2143334"
 - Dynamics 365 Sales
 - Dynamics 365 Customer Service
 - Dynamics 365 Field Service
-- Finance and Operations
 - Dynamics 365 Retail
+- Dynamics 365 Finance
+- Dynamics 365 Supply Chain Management
 
 これらのアプリの機能は、既存のユーザー エクスペリエンスを更新します。 ご使用の環境でこれらの機能を有効にするために、早期にオプトインできます。 これにより、これらの機能をテストしてから、ご使用の環境全体で採用できます。 これらの機能を有効にする方法については、「[2019 年リリース ウェーブ 2 の更新のオプトイン](https://aka.ms/2019rw2OptIn)」を参照してください。
   
-Power Platform の早期アクセス機能については、「[早期アクセスに利用可能なリリース ウェーブ 2 の機能](https://docs.microsoft.com/power-platform-release-plan/2019wave2/features-ready-early-access)」を参照してください。
+> [!IMPORTANT]
+> UCI または Power Automate を使用している場合は、ユーザーに影響を与える可能性のある早期アクセス機能が存在することがあります。 Power Platform の早期アクセス機能については、「[早期アクセスで利用可能なリリース ウェーブ 2 の機能](https://docs.microsoft.com/power-platform-release-plan/2019wave2/features-ready-early-access)」を参照してください。
 
 ## <a name="dynamics-365-marketing"></a>Dynamics 365 Marketing
 Dynamics 365 Marketing の機能の完全なリストについては、「[Dynamics 365 Marketing の新機能と予定されている機能](dynamics365-marketing/planned-features.md)」を参照してください。 
@@ -45,7 +47,7 @@ Dynamics 365 Marketing の機能の完全なリストについては、「[Dynam
 > | [サブスクリプション リストの簡単な設定](dynamics365-marketing/easy-setup-subscription-lists.md)| ユーザー、自動的   | 2019 年 8 月 2 日    | 2019 年 10 月| 
 > | [メールの A/B テスト](dynamics365-marketing/email-ab-testing.md)  | ユーザー、自動的  | 2019 年 8 月 2 日    | 2019 年 10 月 | 
 > | [レイアウト エディター](dynamics365-marketing/layout-editor.md) | ユーザー、自動的  | 2019 年 8 月 2 日    | 2019 年 10 月  | 
-> | [Microsoft Flow を使用した承認のサポート](dynamics365-marketing/support-approvals-using.md)| ユーザー、自動的    | 2019 年 8 月 2 日    | 2019 年 10 月| 
+> | [Power Automate を使用した承認のサポート](dynamics365-marketing/support-approvals-using.md)| ユーザー、自動的    | 2019 年 8 月 2 日    | 2019 年 10 月| 
 
 
 ## <a name="dynamics-365-sales"></a>Dynamics 365 Sales
@@ -88,50 +90,6 @@ Dynamics 365 Field Service の機能の完全なリストについては、「[D
 
 \* この機能は自動的に展開されません。管理者がユーザーに対してこれを有効にする必要があります。
 
-## <a name="finance-and-operations"></a>Finance and Operations
-Finance and Operations アプリの機能の完全なリストについては、「[Finance and Operations の新機能と予定されている機能](finance-operations/planned-features.md)」を参照してください。 
-
-プレビューを有効にする方法については、「[サービス更新プログラムの利用可能性](https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/get-started/public-preview-releases)」を参照してください。
-
-> [!div class="mx-tableFixed"]
-> |機能 | 有効対象 | パブリック プレビュー | 一般提供 |
-> |----------|-------|-------------|-----------------|
-> | [二重通貨連結のためのオンライン連結の [連結勘定の選択元] コントロール](finance-operations/select-consolidation-amount-control-consolidate-online-dual-currency-consolidation.md)    | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [高度な割り当て戦略 - FIFO と LIFO](finance-operations/advanced-allocation-strategies---fifo-lifo.md)  | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [高度なクロスドッキング](finance-operations/advanced-cross-docking.md)  | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [ウェーブの間の高度な積荷構築](finance-operations/advanced-load-building-during-wave.md)    | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [添付ファイルの回復](finance-operations/attachment-recovery.md)    | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [クロスドッキング用の自動リリース出荷](finance-operations/auto-release-shipment-cross-dock.md)  | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [口座調整のキャンセル](finance-operations/cancel-bank-reconciliation.md)  | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [[作業プールの変更] ボタン](finance-operations/change-work-pool-button.md)    | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [クラスター フル](finance-operations/cluster-full.md)  | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月 | 
-> | [Word や Excel で構成可能なビジネス ドキュメント レポート](finance-operations/configurable-business-documents-reporting-word-excel-pdf.md)   | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [確認と移動](finance-operations/confirm-transfer.md)  | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [小切手のページで空白状態の小切手を作成する](finance-operations/create-checks-blank-status-checks-page.md)    | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [拡張グラフ コントロール オプションに Solid Gauge のビジュアル化が含まれる](finance-operations/extended-chart-control-options-now-include-solid-gauge-visualizations.md)    | 管理者、作成者、またはアナリスト、自動的    | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [手持在庫サービス](finance-operations/inventory-on-hand-service.md)    | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [場所と製品分析コードの混合](finance-operations/location-product-dimension-mixing.md)    | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [場所ステータス ロジック](finance-operations/location-status-logic.md)    | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [場所ウィザードの機能強化](finance-operations/location-wizard-enhancements.md)  | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [材料取り扱い/倉庫自動化](finance-operations/material-handlingwarehouse-automation.md)   | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [梱包ステーションの後のパレット作成](finance-operations/pallet-building-post-packing-station.md)  | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [ピッキング明細行のグループ化](finance-operations/pick-line-grouping.md)  | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [壁へのプット/ストアへのプット](finance-operations/put-wallput-store.md) | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [プット アウェイ クラスター](finance-operations/put-away-clusters.md)    | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [入庫分類とクラスター プットアウェイ](finance-operations/receive-sortation-cluster-putaway.md)   | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [倉庫へのリリース ルール](finance-operations/release-warehouse-rule.md)   | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [補充スロット計画 - パート I (スロット)](finance-operations/replenishment-slotting-plan---part-i-slotting.md)  | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [仕入先請求書のワークフローの状態を回復不能から下書きにリセットする](finance-operations/reset-workflow-status-vendor-invoices-unrecoverable-draft.md)    | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [収益認識](finance-operations/revenue-recognition.md)    | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [作業を分割する](finance-operations/split-work.md)  | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [システム主導のクラスター ピッキング](finance-operations/system-directed-cluster-picking.md)    | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [システム主導のクラスター](finance-operations/system-directed-clustering.md)  | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [Fluent デザイン言語に合わせるための Web クライアントの表示の更新](finance-operations/visual-refresh-web-client-align-fluent-design-language.md)   | ユーザー、自動的| 2019 年 8 月 5 日| 2019 年 10 月| 
-> | [ウェーブ ステータスのビジュアル化](finance-operations/wave-status-visualization.md)    | ユーザー、自動的  | 2019 年 8 月 5 日    | 2019 年 10 月 | 
-> | [ウェーブ テンプレートによるグループ化](finance-operations/wave-template-grouping.md)  | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [ゾーン ベースの補充](finance-operations/zone-based-replenishment.md)  | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-
-
 ## <a name="dynamics-365-retail"></a>Dynamics 365 Retail
 Dynamics 365 Retail の機能の完全なリストについては、「[Dynamics 365 Retail の新機能と予定されている機能](dynamics365-retail/planned-features.md)」を参照してください。
 
@@ -140,12 +98,46 @@ Dynamics 365 Retail の機能の完全なリストについては、「[Dynamics
 > |----------|-------|-------------|-----------------|
 > | [小売明細転記の機能強化](dynamics365-retail/enhancements-retail-statement-posting.md) | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
 > | [Cloud Async Client による CDX のスケーラビリティの向上](dynamics365-retail/improved-cdx-scalability-through-cloud-async-client.md)    | ユーザー、自動的  | 2019 年 8 月 5 日    | 2019 年 10 月| 
-> | [Modern POS のオフライン可用性の向上](dynamics365-retail/modern-pos-offline-availability-improvements.md)  | ユーザー、自動的  | 2019 年 8 月 5 日    | 2019 年 10 月| 
+> | [Modern POS のオフライン時の利用可能性の向上](dynamics365-retail/modern-pos-offline-availability-improvements.md)  | ユーザー、自動的  | 2019 年 8 月 5 日    | 2019 年 10 月| 
 > | [POS の在庫入荷フォームでテンキーを常に画面に表示する](dynamics365-retail/numpad-remain-onscreen-pos-inventory-receiving-form.md) | 管理者、作成者、またはアナリスト、自動的    | 2019 年 8 月 5 日    | 2019 年 10 月| 
 > | [1 つのバージョン - Retail Cloud Scale Unit の自動更新](dynamics365-retail/one-version---auto-update-retail-cloud-scale-unit.md)    | 管理者、作成者、またはアナリスト、自動的    | 2019 年 8 月 5 日    | 2019 年 10 月| 
 > | [POS および本社の拡張機能](dynamics365-retail/pos-headquarters-extensions.md)    | 管理者、作成者、またはアナリスト、自動的    | 2019 年 8 月 5 日    | 2019 年 10 月| 
 > | [店舗のスケール ユニットの向上](dynamics365-retail/store-scale-unit-improvements.md)    | 管理者、作成者、またはアナリスト、自動的    | 2019 年 8 月 5 日    | 2019 年 10 月| 
 > | [POS の請求コードの翻訳](dynamics365-retail/translations-charges-codes-pos.md)   | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
 > | [販売促進の改善](dynamics365-retail/merchandising-improvements.md)  | ユーザー、管理者/作成者/アナリストによる有効化  | 2019 年 8 月 5 日    | 2019 年 10 月| 
+
+## <a name="dynamics-365-finance"></a>Dynamics 365 Finance
+> [!div class="mx-tableFixed"]
+> |機能 | 有効対象 | パブリック プレビュー | 一般提供 |
+> |----------|-------|-------------|-----------------|
+> | [仕訳帳のロックを解除する](finance-operations/unlock-journals.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |   ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日 |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+> | [二重通貨連結のためのオンライン連結の [連結勘定の選択元] コントロール](finance-operations/select-consolidation-amount-control-consolidate-online-dual-currency-consolidation.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+> | [口座調整のキャンセル](finance-operations/cancel-bank-reconciliation.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+> | [小切手のページで空白状態の小切手を作成する](finance-operations/create-checks-blank-status-checks-page.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+> | [仕入先請求書のワークフローの状態を回復不能から下書きにリセットする](finance-operations/reset-workflow-status-vendor-invoices-unrecoverable-draft.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+> | [収益認識](finance-operations/revenue-recognition.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+> | [現金管理](finance-operations/cash-control.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+
+## <a name="dynamics-365-supply-chain-management"></a>Dynamics 365 Supply Chain Management
+> [!div class="mx-tableFixed"]
+> |機能 | 有効対象 | パブリック プレビュー | 一般提供 |
+> |----------|-------|-------------|-----------------|
+> | [Dynamics 365 資産管理](finance-operations/dynamics-365-asset-management.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 7 月 23 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+> | [ウェーブ ステータスのビジュアル化](finance-operations/wave-status-visualization.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+> | [在庫金額レポート ストレージ](finance-operations/inventory-value-report-storage.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 6 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 8 日 | 
+
+## <a name="finance-and-operations-cross-app-capabilities"></a>Finance and Operations クロス アプリ機能
+> [!div class="mx-tableFixed"]
+> |機能 | 有効対象 | パブリック プレビュー | 一般提供 |
+> |----------|-------|-------------|-----------------|
+| [Word や Excel で構成可能なビジネス ドキュメント レポート](finance-operations/configurable-business-documents-reporting-word-excel-pdf.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+> | [Power BI ソリューションを分析ワークスペースに直接埋め込む](finance-operations/embed-powerbi.com-solutions-directly-into-analytical-workspaces.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 5 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+> | [埋め込みビューアー コントロールを使用してドキュメントをプレビューする](finance-operations/preview-documents-using-embedded-viewer-control.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 7 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+> | [添付ファイルの回復](finance-operations/attachment-recovery.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+> | [拡張グラフ コントロール オプションに Solid Gauge のビジュアル化が含まれる](finance-operations/extended-chart-control-options-now-include-solid-gauge-visualizations.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+> | [埋め込み Power BI レポート用のコンテキスト メニュー コマンドを使用してインサイトをアクションに変換する](finance-operations/turn-insignts-into-action-using-context-menu-commands-embedded-power-bi-reports.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+> | [Fluent Design 言語に合わせるための Web クライアントの表示の更新](finance-operations/visual-refresh-web-client-align-fluent-design-language.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+
+
 
 

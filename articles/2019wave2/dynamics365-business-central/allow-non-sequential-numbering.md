@@ -3,25 +3,25 @@ title: 連続しない番号を許容する
 description: 事前定義された番号シリーズからレコードに割り当てられる番号のギャップを許容できるようになりました。
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 08/29/2019
+ms.date: 10/04/2019
 ms.assetid: d07f6b3c-fec7-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: bnielse
 dynamics365pdf: true
-ms.openlocfilehash: 3d4e77d8d82c9b37504f723c910fff23842a8af0
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: d84126c06ebcbfea3f40631af4f452b14e8d8961
+ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140746"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "2667215"
 ---
 # <a name="allow-non-sequential-numbering"></a>連続しない番号を許容する
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、自動的|-| 2019 年 10 月|
+|エンド ユーザー、自動的|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -40,11 +40,18 @@ ms.locfileid: "2140746"
 
 連続しない番号の割り当てには、SQL サーバーの優先順位ロジックを活用します。 詳細については、「[ロックフリー番号シリーズ](lock-free-number-series.md)」を参照してください。
 
-![番号付けのギャップを許容する](media/allow_gaps_in_no_series_lines.png "番号付けのギャップを許容する")
-
+![番号付けのギャップを許可する](media/allow_gaps_in_no_series_lines.png "番号付けのギャップを許可する")
 <!--feature detail end -->
 
 
 
 
 
+
+
+
+
+
+## <a name="see-also"></a>関連項目
+
+[番号付けのギャップを許可する](https://docs.microsoft.com/dynamics365/business-central/ui-create-number-series#gaps-in-number-series) (ドキュメント)

@@ -3,18 +3,18 @@ title: Dynamics 365 Sales Insights の 2019 年リリース ウェーブ 2 の�
 description: Dynamics 365 Sales Insights の 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 09/14/2019
+ms.date: 09/23/2019
 ms.assetid: 7aa3fad1-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: 5a562fcb572e86ef5c252d3a5967c1a4c70089e3
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 53cf994ca61496c7f0905be6e8fc607ba59196b6
+ms.sourcegitcommit: e2c3a2557be0960c6f3f47d7f5c8a65f5a5fe45d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2142539"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "2764777"
 ---
 # <a name="overview-of-dynamics-365-sales-insights-2019-release-wave-2"></a>Dynamics 365 Sales Insights の 2019 年リリース ウェーブ 2 の概要
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
@@ -38,5 +38,7 @@ Dynamics 365 Sales Insights を使用すると、販売組織全体のすべて�
 
 - **自動化とプライバシーの強化**: お客様からの継続的なフィードバックに基づいて、インテリジェント サービスを強化し続けます。 これには、徹底的で柔軟な自動化、および組織全体での採用促進に役立つ、より詳細なプライバシー管理が含まれます。
 
-[概要ビデオを見る](https://aka.ms/ROGSI19RW2ROV) 
+[概要ビデオを見る](https://aka.ms/ROGSI19RW2ROV)
+
+[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-sales-insights-192%27)) Dynamics 365 Sales Insights の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

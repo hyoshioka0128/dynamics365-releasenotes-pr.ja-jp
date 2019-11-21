@@ -3,25 +3,25 @@ title: メールの A/B テスト
 description: メールの A/B テスト
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 09/03/2019
+ms.date: 10/07/2019
 ms.assetid: b861278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: 6d8da4415b039db2406119812b09d0493cec5967
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 28433776932c1385528166a413efb1a80ce2a0c9
+ms.sourcegitcommit: c843aacec8dddcb0d6693c79fbace7f19bf09565
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2143761"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "2574581"
 ---
 # <a name="email-ab-testing"></a>メールの A/B テスト
-[!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| 2019 年 10 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 
@@ -37,8 +37,6 @@ ms.locfileid: "2143761"
 
 ![A/B テスト プロセス概要図](media/a-b-testing.png "A/B テスト プロセス概要図")
 <!-- Picture 1 -->
-
-
 
 
 

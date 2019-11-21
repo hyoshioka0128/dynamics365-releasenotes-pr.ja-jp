@@ -3,25 +3,25 @@ title: 東ヨーロッパ向けコール センターのローカライズ
 description: 東ヨーロッパ向けコール センターのローカライズ
 author: relnotes
 ms.reviewer: josaw
-ms.date: 09/17/2019
+ms.date: 10/03/2019
 ms.assetid: 9e63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: epopov
 dynamics365pdf: true
-ms.openlocfilehash: c02ea193f85172e18357a85ee7241a723b570038
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: f786cf4e401fd2ed5301dbd20512c47ed74ace3b
+ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2143631"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2660026"
 ---
 # <a name="call-center-localization-for-eastern-europe"></a>東ヨーロッパ向けコール センターのローカライズ
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|-| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-| 2020 年 1 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -35,8 +35,6 @@ ms.locfileid: "2143631"
 <!--feature detail start -->
 東ヨーロッパのコール センターのローカライズには、チェコ共和国、エストニア、ハンガリー、ラトビア、リトアニア、ポーランドのローカル要件に従った小額現金支払いと前払のサポートが含まれています。
 <!--feature detail end -->
-
-
 
 
 

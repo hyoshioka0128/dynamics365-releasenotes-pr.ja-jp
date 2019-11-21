@@ -3,25 +3,25 @@ title: Mixed Reality Guides for Field Service
 description: Mixed Reality Guides for Field Service
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 08/19/2019
+ms.date: 10/21/2019
 ms.assetid: 2062278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: kyley
 dynamics365pdf: true
-ms.openlocfilehash: 31e163dcbe1349d2842c5b9b2cf0a87b823e5422
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: f0bc8219746b8b422630b813cd34c96a5806e98c
+ms.sourcegitcommit: ba30068afb836af21dac851654307394be37226d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2142044"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "2659049"
 ---
 # <a name="mixed-reality-guides-for-field-service"></a>Mixed Reality Guides for Field Service
-[!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| 2019 年 10 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 
@@ -46,8 +46,6 @@ Field Service との統合の詳細については、[Dynamics 365 Guides のド
 
 > [!NOTE]
 > この機能は、統一インターフェイスでのみ使用できます。
-
-
 
 
 

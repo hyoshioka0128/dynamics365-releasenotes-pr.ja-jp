@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aamiral
 dynamics365pdf: true
-ms.openlocfilehash: 32aeaac3e7f86cc0c884d803a96de2fe9c510f40
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: dfff9341ace1c5df51cfec610c0d9b12c1ab3122
+ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2141956"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2660015"
 ---
 # <a name="environment-history-for-retail-cloud-scale-unit"></a>Retail Cloud Scale Unit の環境の履歴
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
@@ -35,8 +35,6 @@ ms.locfileid: "2141956"
 <!--feature detail start -->
 この機能を使用すると、IT 専門の担当者は、Lifecycle Services (LCS) ポータルで環境設定を操作して、Retail Cloud Scale Unit (RCSU) に関連するシステム操作の履歴を表示できます。 これには、新しいスケール ユニットの展開、更新、拡張機能の展開などの操作が含まれます。 ユーザーは、タイム スタンプ、ユーザー、バージョン、および関連するメタデータの詳細を履歴の一部として見ることができます。
 <!--feature detail end -->
-
-
 
 
 

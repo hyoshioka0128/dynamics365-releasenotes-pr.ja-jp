@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aamiral
 dynamics365pdf: true
-ms.openlocfilehash: 3d7e8403fccda0ac8beb295c45b4f4bb9390bc8b
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: d311261333eff58384e2c56caaad96399f7ff4b9
+ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2141868"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2659971"
 ---
 # <a name="one-version--auto-update-for-retail-cloud-scale-unit"></a>1 つのバージョン – Retail Cloud Scale Unit の自動更新
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
@@ -43,8 +43,6 @@ ms.locfileid: "2141868"
 
 この機能には、最新の販売時点管理 (MPOS)、Retail Store Scale Unit、ハードウェア ステーションなど、店内に設置されたコンポーネントの自動更新機能は含まれません。
 <!--feature detail end -->
-
-
 
 
 

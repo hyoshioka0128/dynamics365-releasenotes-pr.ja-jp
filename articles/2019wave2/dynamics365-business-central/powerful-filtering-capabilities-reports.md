@@ -3,25 +3,25 @@ title: レポートをより効率的にフィルター処理する
 description: より多くのフィルター フィールドを追加できるようにするなど、コミュニティのトップ リクエストのいくつかに対処して、レポートのフィルター処理エクスペリエンスを改善しています。
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 09/12/2019
+ms.date: 10/01/2019
 ms.assetid: b863278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: bfac591e7a0bd49dc57bfdd3debbafd13acd585b
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: a67dc0d102c69df0d3a174a7b6df730f8a0b3c67
+ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140405"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "2667113"
 ---
 # <a name="filter-reports-more-efficiently"></a>レポートをより効率的にフィルター処理する
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| 2019 年 10 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -59,10 +59,13 @@ Dynamics NAV の最も人気のある機能の 1 つをレポートにも使用�
 
 
 
-
-
 ## <a name="tell-us-what-you-think"></a>フィードバック
 Dynamics 365 Business Central の機能向上のためのアイデア、提案、フィードバックをお寄せください。 フォーラム (https://aka.ms/bcideas) をご利用ください。
 
 
 
+
+## <a name="see-also"></a>関連項目
+[機能の探索](https://aka.ms/ROGBC19RW2ROV9) (ビデオ)
+
+[レポート、バッチ ジョブ、XMLport でフィルターを設定する](https://docs.microsoft.com/dynamics365/business-central/ui-enter-criteria-filters#setting-filters-in-reports-batch-jobs-and-xmlports) (ドキュメント)

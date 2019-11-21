@@ -3,25 +3,25 @@ title: フル キーボード ショートカットのサポート
 description: ショートカットが追加されており、開発者はカスタム アクション用に独自のキーボード ショートカットを追加できます。
 author: kotelko
 ms.reviewer: sgroespe
-ms.date: 09/10/2019
+ms.date: 10/01/2019
 ms.assetid: b663278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: blazkote
 dynamics365pdf: true
-ms.openlocfilehash: ce98521ddd6372396c584f4c2947c599c6b10ac5
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 8af2b0666ff6ce43755578ace418b9bd6e9f6257
+ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140603"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "2667303"
 ---
 # <a name="full-keyboard-shortcut-support"></a>フル キーボード ショートカットのサポート
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| 2019 年 10 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -54,4 +54,6 @@ Business Central 用の拡張機能を作成する開発者は、AL プロパテ
 
 
 
+## <a name="see-also"></a>関連項目
 
+[キーボード ショートカット](https://docs.microsoft.com/dynamics365/business-central/keyboard-shortcuts) (ドキュメント)

@@ -3,25 +3,25 @@ title: 状況依存のメール通信
 description: メールは、顧客とコミュニケーションをとる事実上すべての営業担当者にとって中心的なシナリオです。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 09/09/2019
+ms.date: 10/23/2019
 ms.assetid: ca61278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: joegan
+ms.author: goravi
 dynamics365pdf: true
-ms.openlocfilehash: eea1b2c3facf660c5f8d6a87becc8f61f0a8c53a
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 389c3c72f8988f77079474205ac82563749b5344
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2141813"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661803"
 ---
 # <a name="contextual-email-communication"></a>状況依存のメール通信
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|-|2019 年 10 月| -|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|-| 近日発表|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -35,7 +35,7 @@ Microsoft は Dynamics 365 Sales と Outlook の統合をいくつか提供し�
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-リッチ テキスト エディターとポップアップの非ブロッキング ウィンドウにより、Dynamics 365 Sales でのメールの作成は、これまでにないほど便利になっています。 営業担当者は、作業中のレコードのコンテキストでメールを作成し、レコード間を移動し、複数のアクティブなドラフト メールを同時に開き、送信前にコンテンツをプレビューし、添付ファイルを追加し、メール テンプレートを使用してよく使用されるタスクを最適化できるようになります。 非ブロッキング ウィンドウに開かれるメール ウィンドウにより、営業担当者は顧客へのメールを作成しながらすべての関連コンテンツをひと目で確認できます。 
+リッチ テキスト エディターとポップアップ (非ブロッキング ウィンドウ) により、Dynamics 365 Sales でのメールの作成は、これまでにないほど便利になっています。 営業担当者は、作業中のレコードのコンテキストでメールを作成し、レコード間を移動し、複数のアクティブなドラフト メールを同時に開き、送信前にコンテンツをプレビューし、添付ファイルを追加し、メール テンプレートを使用してよく使用されるタスクを最適化できるようになります。 非ブロッキング ウィンドウに開かれるメール ウィンドウにより、営業担当者は顧客へのメールを作成しながらすべての関連コンテンツをひと目で確認できます。 
 
 <!--
 ![Compose email without losing context](media/features-1.png "Compose email without losing context") -->
@@ -43,9 +43,7 @@ Microsoft は Dynamics 365 Sales と Outlook の統合をいくつか提供し�
 
 
 > [!NOTE]
-> この機能は、統一インターフェイスでのみ使用できます。
-
-
+> この機能は、統一インターフェイスでのみ使用できます。 この機能は、Dynamics 365 Sales Enterprise のみを対象としています。
 
 
 
@@ -55,3 +53,5 @@ Microsoft は Dynamics 365 Sales と Outlook の統合をいくつか提供し�
 
 ## <a name="see-also"></a>関連項目
 [機能の探索](https://aka.ms/ROGS19RW2ROV2) (ビデオ)
+
+[拡張されたメール エクスペリエンスを使用してメールを送信する](https://docs.microsoft.com/dynamics365/sales-enterprise/enhanced-email) (ドキュメント)

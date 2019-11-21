@@ -9,19 +9,19 @@ ms.topic: article
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: 8d2fe57c50469b6eacae1a58c66e0750431433aa
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 3f58ced8b92b4a3ab36b933ad4009c9abaad2070
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2142000"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2662078"
 ---
 # <a name="quick-send"></a>クイック送信
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|-|-| 2019 年 12 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-|-| 2019 年 12 月|
 
 
 
@@ -35,8 +35,6 @@ ms.locfileid: "2142000"
 
 ![クイック送信](media/quick-send.png "クイック送信")
 <!-- Picture 1 -->
-
-
 
 
 

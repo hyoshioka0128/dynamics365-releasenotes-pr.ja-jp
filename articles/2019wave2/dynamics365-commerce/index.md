@@ -3,18 +3,18 @@ title: Dynamics 365 Commerce 2019 年リリース ウェーブ 2 の概要
 description: Dynamics 365 Commerce 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: josaw
-ms.date: 09/10/2019
+ms.date: 10/01/2019
 ms.assetid: 5e2b5c6c-44cf-e911-a968-000d3a4f3883
 ms.topic: overview
 ms.service: business-applications
 ms.author: brendans
 dynamics365pdf: true
-ms.openlocfilehash: 221f601a5538ebe7a3038cdaf8f354df1357165d
-ms.sourcegitcommit: 9622494fe2c834da0382f0280b7594d8d37389e2
+ms.openlocfilehash: 8dd245ffd8d20c8224ab08011fd3b63c95097def
+ms.sourcegitcommit: e2c3a2557be0960c6f3f47d7f5c8a65f5a5fe45d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/20/2019
-ms.locfileid: "2004219"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "2764892"
 ---
 # <a name="overview-of-dynamics-365-commerce-2019-release-wave-2"></a>Dynamics 365 Commerce 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
@@ -32,7 +32,8 @@ ms.locfileid: "2004219"
 
 * クラウド内の AI を使用した運用の合理化: 深く普及した、コンテキスト対応のクラウド インテリジェンスによって、オムニチャネル コマース エクスペリエンスと、統合され最適化されたバックオフィス業務を推進します。 高度なマーチャンダイジング、在庫管理、分散型注文管理、価格設定とプロモーションを使用してイノベーションを実現し、競合他社の先を行きます。 ビジネスのあらゆる側面にわたって包括的な一貫性のあるデータを視覚化および分析することにより、分析情報を引き出します。 AI に基づいたテクノロジを使用して、アクセス可能な Web サイトを提供し、ビジネスを支払い詐欺から守り、評価やレビューなどのユーザー生成コンテンツを効率的に管理します。 
 
+[概要ビデオを見る](https://aka.ms/ROGC19RW2ROV)<br>
+[Dynamics 365 Retail](https://docs.microsoft.com/dynamics365/#pivot=business-apps&panel=retail) の機能の詳細をご覧ください。
 
-[Dynamics 365 Retail](https://docs.microsoft.com/dynamics365/#pivot=business-apps&panel=retail) の機能の詳細をご覧ください。 
-
+[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-commerce-192%27)) Dynamics 365 Commerce の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

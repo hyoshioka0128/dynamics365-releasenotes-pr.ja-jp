@@ -2,26 +2,26 @@
 title: サインアップの評価
 description: サインアップの評価
 author: relnotes
-ms.reviewer: v-jegrif
-ms.date: 08/26/2019
+ms.reviewer: kelfu
+ms.date: 10/04/2019
 ms.assetid: 8f8437b5-cf78-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
-ms.author: v-jegrif
+ms.author: amyhre
 dynamics365pdf: true
-ms.openlocfilehash: 4d5f745ece67152e89ef65242d2e5c07436ba93a
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: e4524d7cfc1329b05d12b103c9c87bb5e421ae1d
+ms.sourcegitcommit: 40b40fa9dffd7e4a9fd6981e3b9b981130089156
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2142429"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "2621402"
 ---
 # <a name="sign-up-assessment"></a>サインアップの評価
-[!include[artificial-intelligence/dynamics365-fraud-protection banner](../includes/artificial-intelligence/dynamics365-fraud-protection.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 7 月 31 日| 2019 年 10 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 7 月 31 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 
@@ -42,8 +42,6 @@ ms.locfileid: "2142429"
 
 
 
-
-
 ## <a name="see-also"></a>関連項目
 
-[Dynamics 365 Fraud Protection の概要](https://docs.microsoft.com/dynamics365/fraud-protection/overview) (ブログ)
+[Dynamics 365 Fraud Protection の概要](https://docs.microsoft.com/dynamics365/fraud-protection/overview) (ドキュメント)

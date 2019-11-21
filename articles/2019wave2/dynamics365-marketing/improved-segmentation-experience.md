@@ -3,25 +3,25 @@ title: セグメント化のエクスペリエンスの改善
 description: セグメント化のエクスペリエンスの改善
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 08/07/2019
+ms.date: 10/07/2019
 ms.assetid: b261278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: 60d92e2f8c6e920e8156383cd50724889a4aed9b
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 175480e8aa620289f8b32ba45d81a48427822f26
+ms.sourcegitcommit: c843aacec8dddcb0d6693c79fbace7f19bf09565
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2143738"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "2574614"
 ---
 # <a name="improved-segmentation-experience"></a>セグメント化のエクスペリエンスの改善
-[!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| 2019 年 10 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -42,8 +42,6 @@ ms.locfileid: "2143738"
 
 ![新しいセグメント化ハブ](media/segment-hero.jpg "新しいセグメント化ハブ")
 <!--feature detail end -->
-
-
 
 
 

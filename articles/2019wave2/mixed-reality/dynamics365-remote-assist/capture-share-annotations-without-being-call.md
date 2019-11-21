@@ -3,25 +3,25 @@ title: 通話せずに注釈を取り込んで共有する
 description: 通話せずに注釈を取り込んで共有する
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 08/02/2019
+ms.date: 10/22/2019
 ms.assetid: 6e64278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: jaarmeni
 dynamics365pdf: true
-ms.openlocfilehash: 0f0e1b3b673adac63167ce27d5bbbd3a66ad9ca1
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 6d9c40ee6f8f2cfed8129763b4a7653f48d3c464
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2142671"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661915"
 ---
 # <a name="capture-and-share-annotations-without-being-in-a-call"></a>通話せずに注釈を取り込んで共有する
 [!include[mixed-reality/dynamics365-remote-assist banner](../includes/mixed-reality/dynamics365-remote-assist.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、自動的|-| 2020 年 1 月|
+|エンド ユーザー、自動的|-| 2020 年 1 月|
 
 
 
@@ -60,4 +60,5 @@ ms.locfileid: "2142671"
 
 
 
-
+## <a name="see-also"></a>関連項目
+[機能の探索](https://aka.ms/ROGRA19RW2ROV1) (ビデオ)

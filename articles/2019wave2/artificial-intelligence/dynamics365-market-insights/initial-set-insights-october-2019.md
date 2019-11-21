@@ -3,30 +3,30 @@ title: Web データ、検索アクティビティ、閲覧行動からビジネ
 description: 2019 年リリース ウェーブ 2 の製品リリースには、人気急上昇中のトピック、検索トレンド、製品発売ニュース、最も話題になっている製品属性、コンテンツへのナビゲート方法、視聴者層など、トピックを理解するのに役立ついくつかの新しい種類の分析情報が含まれています。
 author: relnotes
 ms.reviewer: mhart
-ms.date: 09/16/2019
+ms.date: 09/30/2019
 ms.assetid: 5e77e83a-2283-e911-a98e-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: ebahat
 dynamics365pdf: true
-ms.openlocfilehash: 35f2ada237223e566e7f723abc088fe16c2f51ae
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 8d36b48b06353c84de7539c1d495aced7a13c180
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2142550"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661143"
 ---
 # <a name="get-additional-insights-related-to-business-topics-from-web-data-search-activity-and-browsing-behavior-us-only"></a>Web データ、検索アクティビティ、閲覧行動からビジネス トピックに関連する追加の分析情報を得る (米国のみ)
 [!include[artificial-intelligence/dynamics365-market-insights banner](../includes/artificial-intelligence/dynamics365-market-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、自動的|2019 年 9 月| 2020 年 3 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 30 日| 2020 年 3 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-関心を持たれたトピックがどのように語られ、感じられ、検索されているかについての分析情報を得て幅広いパターンを見ると、自社の製品、ブランド、および競合他社が市場でどのような状況にあるかを把握でき、情報に基づいてビジネス上の決定を行うのに役立ちます。
+対象のトピックについて人々がどのように語っているか、感じているか、検索しているかについての分析情報を得たり、幅広いパターンを見たりすることで、自社の製品やブランド、競合他社が市場でどのような状況にあるかを把握し、情報に基づいてビジネス上の決定を行うのに役立ちます。
 <!-- bv end -->
 
 
@@ -42,7 +42,7 @@ ms.locfileid: "2142550"
 -   *ナビゲーション パターン*は、自分のトピックの Web サイトに関連するインターネット上の閲覧行動を把握するのに役立ちます。 
 -   *視聴者層*は、自分のトピックを検索する人々の人口分布 (年齢と性別) を把握するのに役立ちます。 
 
-分析情報は英語でのみ利用可能であり、米国からのデータに焦点を当てています。
+分析情報は英語でのみ利用可能で、米国からのデータに焦点を当てています。
 <!--feature detail end -->
 
 
@@ -54,4 +54,6 @@ ms.locfileid: "2142550"
 
 
 
+## <a name="see-also"></a>関連項目
 
+[Dynamics 365 Market Insights の新しいアプリ エクスペリエンス](https://community.dynamics.com/365/aimarketinsights/b/marketinsightsteamblog/posts/introducing-a-new-app-experience-for-dynamics-365-market-insights) (ブログ)

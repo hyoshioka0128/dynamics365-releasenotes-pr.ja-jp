@@ -9,19 +9,19 @@ ms.topic: article
 ms.service: business-applications
 ms.author: epopov
 dynamics365pdf: true
-ms.openlocfilehash: 5470ce5db838bf8d9739f9024b8ed6020fa05a9d
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 859681d199679c5a2de412cb17bee3f653be69ac
+ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2143549"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2659993"
 ---
 # <a name="management-of-customer-registration-numbers-from-pos-for-india"></a>インド用 POS からの顧客登録番号の管理
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 6 日| 2019 年 11 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 6 日| 2019 年 11 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,14 +47,12 @@ ms.locfileid: "2143549"
 
 
 
-
-
 ## <a name="geographic-areas"></a>地域
 この機能は、以下の Microsoft Azure 地域でリリースされる予定です。
 
 - インド
 
-地域、データ センター (リージョン)、データ ストレージ、レプリケーションの詳細については、[データの場所のページ](https://www.microsoft.com/trust-center/privacy/data-location)で**すべて展開**を選択して、この機能に対する Microsoft Cloud Service を確認してください。 
+地域、データ センター (リージョン)、データ ストレージ、レプリケーションの詳細については、[データの場所のページ](https://www.microsoft.com/trust-center/privacy/data-location)で**すべて展開**をクリックして、この機能に対する Microsoft Cloud Service を確認してください。 
 
 
 

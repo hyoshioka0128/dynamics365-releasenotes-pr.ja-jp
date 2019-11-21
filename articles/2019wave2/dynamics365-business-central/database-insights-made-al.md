@@ -3,25 +3,25 @@ title: AL で利用可能なデータベース分析情報
 description: デバッガーの 2019 年 4 月リリースから利用できるようになった選択したデータベースの分析情報が、AL から利用可能になります。
 author: relnotes
 ms.reviewer: jswymer
-ms.date: 08/02/2019
+ms.date: 10/01/2019
 ms.assetid: 512e704b-316c-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: kepontop
 dynamics365pdf: true
-ms.openlocfilehash: ef2b921273aef71feb9ff61aa3503f41db760663
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 66471e43e69a46217aa93502123b87ef9337d25a
+ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140669"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "2667149"
 ---
 # <a name="database-insights-made-available-in-al"></a>AL で利用可能なデータベース分析情報
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|-| 2019 年 10 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -35,8 +35,6 @@ AL 開発者は、データベース使用量に関するテストを含むテ�
 <!--feature detail start -->
 デバッガーの 2019 年 4 月リリースから利用できるようになった選択したデータベースの分析情報が、AL から利用可能になります。
 <!--feature detail end -->
-
-
 
 
 

@@ -9,19 +9,19 @@ ms.topic: article
 ms.service: business-applications
 ms.author: rumant
 dynamics365pdf: true
-ms.openlocfilehash: 9ca67fd46a157b9d15aea96e739307b8beab02a8
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 53feaf7cbb4b815e08c00298601ce54eeadf4a05
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2143675"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2662045"
 ---
 # <a name="comprehensive-project-operations"></a>包括的なプロジェクト運用
 [!include[dynamics365-project-service-automation banner](../includes/dynamics365-project-service-automation.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|-| 2020 年 2 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-| 2020 年 2 月|
 
 
 
@@ -46,8 +46,6 @@ ms.locfileid: "2143675"
 
 - **Project Service Automation プロジェクトの収益認識**: Project Service Automation で発生し、Project Service Automation アプリで管理されているプロジェクトの場合、そのデータの Dynamics 365 Finance サービス業モジュールへの統合がすぐに可能になります。これにより、ビジネス プロセスを継続できます。 プロジェクトは、Project Service Automation で販売から見積送り状作成までを管理でき、Dynamics 365 Finance サービス業では顧客向けの請求書の生成と収益認識が可能になります。
 <!--feature detail end -->
-
-
 
 
 

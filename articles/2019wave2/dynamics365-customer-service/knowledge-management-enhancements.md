@@ -9,19 +9,19 @@ ms.topic: article
 ms.service: business-applications
 ms.author: xiaoyad
 dynamics365pdf: true
-ms.openlocfilehash: 93f48ebca3069bd0061b7369e348f97985f5d321
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 2130b5d71b82e4de183876906afed80bcac9b5b9
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2142149"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661472"
 ---
 # <a name="knowledge-management-search-and-rendering-enhancement"></a>ナレッジ マネージメントの検索とレンダリングの機能強化
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| 2019 年 10 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| 2019 年 10 月|
 
 
 
@@ -42,9 +42,7 @@ ms.locfileid: "2142149"
 
 
 
-
-
 ## <a name="see-also"></a>関連項目
 [機能の探索](https://aka.ms/ROGCS19RW2ROV1) (ビデオ)
 
-[顧客サービス ハブでサポート情報記事を検索する](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/search-knowledge-articles-csh?branch=kabala-csh-aug#knowledge-base-search-control) (ドキュメント)
+[サポート情報検索コントロール](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/search-knowledge-articles-csh?branch=kabala-csh-aug#knowledge-base-search-control) (ドキュメント)

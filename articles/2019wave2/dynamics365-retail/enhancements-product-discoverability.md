@@ -3,25 +3,25 @@ title: 製品の見つけやすさの改善
 description: 製品の見つけやすさの改善
 author: relnotes
 ms.reviewer: josaw
-ms.date: 08/01/2019
+ms.date: 10/22/2019
 ms.assetid: 8463278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: asharchw
 dynamics365pdf: true
-ms.openlocfilehash: d4651813f6353d839f491f8c9068ef78a4992d77
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 50f24b043f532b93e629b75485ef2a62d75d3161
+ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2141945"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2660004"
 ---
 # <a name="enhancements-for-product-discoverability"></a>製品の見つけやすさの改善
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|2019 年 10 月| -|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -57,4 +57,6 @@ Microsoft が市場に提供しているソリューションで使用可能な�
 
 
 
+## <a name="see-also"></a>関連項目
 
+[クラウドを利用した検索の概要](https://docs.microsoft.com/dynamics365/commerce/cloud-powered-search-overview) (ドキュメント)

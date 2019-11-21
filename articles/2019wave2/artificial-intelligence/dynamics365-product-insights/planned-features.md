@@ -3,17 +3,17 @@ title: Dynamics 365 Product Insights の新機能と予定されている機能 
 description: Dynamics 365 Product Insights で計画されている機能の概要。
 author: relnotes
 ms.reviewer: v-aswood
-ms.date: 09/18/2019
+ms.date: 10/24/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: fweigel
 dynamics365pdf: true
-ms.openlocfilehash: 595e8d8765ec0beb0509a43597180f711301c7ef
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 4ddb91577555b5b765b250d875d04f4b44cb5931
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140163"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661858"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-product-insights"></a>Dynamics 365 Product Insights の新機能と予定されている機能
 
@@ -25,22 +25,22 @@ ms.locfileid: "2140163"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
- | [360 度シグナル](360-degree-signals.md) | ユーザー、自動的 | 2019 年 10 月|近日発表 | 
- | [組み込みのコラボレーション](built-in-collaboration.md) | ユーザー、自動的 | 2019 年 10 月|近日発表 | 
- | [深い統合](deep-integration.md) | ユーザー、自動的 | 2019 年 10 月|近日発表 | 
- | [価値の高い AI 分析情報](high-value-ai-insights.md) | ユーザー、自動的 | 2019 年 10 月|近日発表 | 
- | [対話型ドリルダウン](interactive-drilldowns.md) | ユーザー、自動的 | 2019 年 10 月|近日発表 | 
- | [すぐに使える分析情報](out-of-the-box-insights.md) | ユーザー、自動的 | 2019 年 10 月|近日発表 | 
- | [豊富なカスタム メトリック](rich-custom-metrics.md) | ユーザー、自動的 | 2019 年 10 月|近日発表 | 
- | [共有と検出](sharing-discovery.md) | ユーザー、自動的 | 2019 年 10 月|近日発表 | 
+| [360 度シグナル](360-degree-signals.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|近日発表 | 
+| [組み込みのコラボレーション](built-in-collaboration.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|近日発表 | 
+| [深い統合](deep-integration.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|近日発表 | 
+| [価値の高い AI 分析情報](high-value-ai-insights.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|近日発表 | 
+| [対話型ドリルダウン](interactive-drilldowns.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|近日発表 | 
+| [すぐに使える分析情報](out-of-the-box-insights.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|近日発表 | 
+| [豊富なカスタム メトリック](rich-custom-metrics.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|近日発表 | 
+| [共有と検出](sharing-discovery.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|近日発表 | 
 
 **有効対象**列の値の説明
 
-- **ユーザー、自動的**: これらの機能には、ユーザーに対するユーザー エクスペリエンスへの変更が含まれており、自動的に有効になります。
+- **エンド ユーザー、自動的**: これらの機能には、エンド ユーザーに対するユーザー エクスペリエンスへの変更が含まれており、自動的に有効になります。
 
 - **管理者、作成者、またはアナリスト、自動的**: これらの機能は、管理者、作成者、またはビジネス アナリストによって使用されることが意図されており、自動的に有効になります。
 
-- **ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
+- **エンド ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
 
 Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 

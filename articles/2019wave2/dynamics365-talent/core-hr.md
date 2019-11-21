@@ -3,18 +3,18 @@ title: Core HR
 description: ''
 author: brpotter
 ms.reviewer: andreabichsel
-ms.date: 08/30/2019
+ms.date: 09/23/2019
 ms.assetid: c2096b69-725d-e911-a973-000d3a1c79c5
 ms.topic: structure
 ms.service: business-applications
 ms.author: brpotter
 dynamics365pdf: true
-ms.openlocfilehash: 55fb775c8c8ccc59e2249c6bfce292bd9eb824d3
-ms.sourcegitcommit: 9622494fe2c834da0382f0280b7594d8d37389e2
+ms.openlocfilehash: 2e742787c8e7e6493d391db6a066056b7957fc0a
+ms.sourcegitcommit: c65910f8ac1f9063d67a8db01f7e4956f9f66958
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/20/2019
-ms.locfileid: "2004186"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "2227595"
 ---
 # <a name="core-hr"></a>Core HR
 

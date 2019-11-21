@@ -3,25 +3,25 @@ title: ブロックされている行でドキュメントのコピー機能を�
 description: ドキュメントの行にブロックされている品目またはリソースが含まれている場合、ドキュメントのコピー機能は、それらの行をスキップして残りをコピーします。
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 09/10/2019
+ms.date: 10/01/2019
 ms.assetid: fd321cf3-48a1-e911-a962-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: dfb498e905e9eb49b0de62f92b52677541735489
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: a6b03a1f29ce0feaae57223de9d77f3ab2ef9be0
+ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140284"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "2666984"
 ---
 # <a name="use-the-copy-document-function-on-blocked-lines"></a>ブロックされている行でドキュメントのコピー機能を使用する
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| 2019 年 10 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 
@@ -44,4 +44,5 @@ ms.locfileid: "2140284"
 
 
 
-
+## <a name="see-also"></a>関連項目
+[機能の探索](https://aka.ms/ROGBC19RW2ROV3) (ビデオ)

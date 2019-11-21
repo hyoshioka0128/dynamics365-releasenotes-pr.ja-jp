@@ -2,26 +2,26 @@
 title: 人工知能と詐欺防止ネットワークからのインサイト
 description: 人工知能と詐欺防止ネットワークからのインサイト
 author: relnotes
-ms.reviewer: v-jegrif
-ms.date: 08/05/2019
+ms.reviewer: veganesa
+ms.date: 10/14/2019
 ms.assetid: 4db0af57-0771-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
-ms.author: v-jowigh
+ms.author: amyhre
 dynamics365pdf: true
-ms.openlocfilehash: 0b925e3954c237b99bc7a7ac475b5282541a7b1e
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 121dd2fe7d36262d1e8ae51868c2854930932947
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140878"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661660"
 ---
 # <a name="artificial-intelligence-and-insights-from-the-fraud-protection-network"></a>人工知能と詐欺防止ネットワークからのインサイト
-[!include[artificial-intelligence/dynamics365-fraud-protection banner](../includes/artificial-intelligence/dynamics365-fraud-protection.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 23 日| 2019 年 10 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 23 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 
@@ -42,4 +42,6 @@ Dynamics 365 Fraud Protection では、企業は受信した購買トランザ�
 
 
 
+## <a name="see-also"></a>関連項目
 
+[人工知能とインサイト](https://docs.microsoft.com/dynamics365/fraud-protection/fraud-protection-network) (ドキュメント)

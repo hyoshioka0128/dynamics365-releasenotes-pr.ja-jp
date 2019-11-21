@@ -9,19 +9,19 @@ ms.topic: article
 ms.service: business-applications
 ms.author: bsokolov
 dynamics365pdf: true
-ms.openlocfilehash: f17b3285b3b33f25357b30262f031c18a7396beb
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 9042d4cec827b5d9e948eb53a807558d2a1b6d71
+ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2143894"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2659778"
 ---
 # <a name="product-recommendations-in-pos"></a>POS での製品レコメンデーション
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|-| 2019 年 11 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-| 2019 年 11 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,8 +47,6 @@ ms.locfileid: "2143894"
 
 オムニチャネルのレコメンデーションを利用可能にすることで、小売業者は製品が簡単に見つかるエクスペリエンスを買い物客に提供して、売上収益とユーザーの満足度を高めることができます。
 <!--feature detail end -->
-
-
 
 
 

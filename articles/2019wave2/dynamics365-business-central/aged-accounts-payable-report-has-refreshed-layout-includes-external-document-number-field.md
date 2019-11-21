@@ -3,25 +3,25 @@ title: 指定の期間に達している買掛金勘定に [外部ドキュメ�
 description: 指定の期間に達している買掛金勘定レポートのレイアウトが一新され、[外部ドキュメント番号] フィールドが追加されました
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 09/04/2019
+ms.date: 10/01/2019
 ms.assetid: 27edccb4-05c4-e911-a993-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: c4741b08612b03f10865dddf4db8e63e3868d98b
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 9aa76b1a274df8a0b631c1762e16cf96dd129bcb
+ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140757"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "2667248"
 ---
 # <a name="aged-accounts-payable-includes-external-document-number-field"></a>指定の期間に達している買掛金勘定に [外部ドキュメント番号] フィールドを追加
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日| 2019 年 10 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -38,8 +38,6 @@ ms.locfileid: "2140757"
 
 ![指定の期間に達している買掛金勘定レポート](media/aged-account-payable.png "指定の期間に達している買掛金勘定レポート")
 <!-- Picture 1 -->
-
-
 
 
 

@@ -2,26 +2,26 @@
 title: フランス語、ドイツ語、およびスペイン語のサポート案件タイトルに基づくサポート トピックの生成
 description: フランス語、ドイツ語、およびスペイン語のサポート案件タイトルに基づくサポート トピックの生成
 author: relnotes
-ms.reviewer: shellyha
-ms.date: 08/02/2019
+ms.reviewer: iawilt
+ms.date: 10/23/2019
 ms.assetid: ec63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 dynamics365pdf: true
-ms.openlocfilehash: ffe5c57f2a62bac7f93a6d36cf022c6415789b2c
-ms.sourcegitcommit: de6f7e8aa90101a730c0109e3578b9131cd3c6cc
+ms.openlocfilehash: 3dc4e01dce38fb3abc1bd59de6110f424659c841
+ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "2140911"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "2661615"
 ---
 # <a name="support-topic-generation-based-on-case-titles-in-french-german-and-spanish"></a>フランス語、ドイツ語、およびスペイン語のサポート案件タイトルに基づくサポート トピックの生成
-[!include[artificial-intelligence/dynamics365-customer-service-insights banner](../includes/artificial-intelligence/dynamics365-customer-service-insights.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|-| 2019 年 10 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 8 日|
 
 
 
@@ -42,4 +42,7 @@ Customer Service Insights は、英語以外の言語でのサポート案件デ
 
 
 
+## <a name="see-also"></a>関連項目
+[機能の探索](https://aka.ms/ROGCSI19RW2ROV3) (ビデオ)
 
+[サポート案件のトピックとしてのグループ化の言語サポート](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/supported-languages#language-support-for-case-grouping-as-topics) (ドキュメント)
