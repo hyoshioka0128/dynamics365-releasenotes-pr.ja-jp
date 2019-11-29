@@ -1145,7 +1145,6 @@
       "redirect_url": "planned-features",
       "redirect_document_id": "false"
     },
-
     {
       "source_path": "articles/2019wave2/artificial-intelligence/dynamics365-sales-insights/better-privacy-controls-‘who-knows-whom’.md",
       "redirect_url": "better-privacy-controls-who-knows-whom",
@@ -1699,6 +1698,31 @@
     {
       "source_path": "articles/2019wave2/dynamics365-finance-operations/zone-based-replenishment.md",
       "redirect_url": "../finance-operations/zone-based-replenishment",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/artificial-intelligence/dynamics365-sales-insights/improve-seller-coaching-conversation-intelligence.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance/billing-schedules.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-finance/credit-management.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-retail/channel-side-calculations-physical-inventory-sores.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-retail/improved-inventory-inbound-outbound-operations-store.md",
+      "redirect_url": "planned-features",
       "redirect_document_id": "false"
     }
   ]
