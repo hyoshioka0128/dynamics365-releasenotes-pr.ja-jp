@@ -1,6 +1,76 @@
 {
   "redirections": [
     {
+      "source_path": "articles/2019wave2/dynamics365-talent/attract.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/broader-environment-management.md",
+      "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-human-resources/environment-copy",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/complete-mixed-reality-guide-as-onboarding-task.md",
+      "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-human-resources/planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/core-hr.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/customize-extend-analytics-reports.md",
+      "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-human-resources/planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/embed-third-party-apps.md",
+      "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-human-resources/embed-third-party-apps",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/expand-data-entities-common-data-service.md",
+      "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-human-resources/planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/improve-diverse-hiring-detection-bias-cryptic-language-job-descriptions.md",
+      "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-human-resources/planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/intelligent-recommendation-guide-creation.md",
+      "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-human-resources/planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/intelligent-recommendations-candidate-matching.md",
+      "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-human-resources/planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/onboard.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/planned-features.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/print-performance-reviews.md",
+      "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-human-resources/planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/dynamics365-talent/streamlined-employee-data-entry.md",
+      "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-human-resources/streamlined-employee-data-entry",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "articles/2019wave2/artificial-intelligence/dynamics365-virtual-agent-for-customer-service/ability-add-images-videos-topics.md",
       "redirect_url": "/power-platform-release-plan/2019wave2/power-virtual-agents/ability-add-images-videos-topics",
       "redirect_document_id": "false"
