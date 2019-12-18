@@ -3,17 +3,17 @@ title: Dynamics 365 Product Visualize の新機能と予定されている機能
 description: Dynamics 365 Product Visualize で計画されている機能の概要。
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 10/24/2019
+ms.date: 12/04/2019
 ms.topic: summary
 ms.service: business-applications
-ms.author: lorrainb
+ms.author: raysmith
 dynamics365pdf: true
-ms.openlocfilehash: 7c9d6b05ca8e6406628b2fbdbd3ce1b71b98582b
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: fcb760d2e326f019700d4d5450520c7f68dcd0d9
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661946"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892363"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-product-visualize"></a>Dynamics 365 Product Visualize の新機能と予定されている機能
 
@@ -25,7 +25,7 @@ ms.locfileid: "2661946"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
-| [使いやすさの向上](usability-improvements.md) | エンド ユーザー、自動的| 2019 年 10 月|- | 
+| [使いやすさの向上](usability-improvements.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 11 日|- | 
 | [ローカライズ](localization.md) | エンド ユーザー、自動的| 2020 年 3 月|- | 
 | [アクセシビリティ](accessibility.md) | エンド ユーザー、自動的| 2020 年 3 月|- | 
 

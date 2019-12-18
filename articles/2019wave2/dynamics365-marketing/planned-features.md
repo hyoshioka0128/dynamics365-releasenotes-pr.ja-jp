@@ -3,17 +3,17 @@ title: Dynamics 365 Marketing の新機能と予定されている機能 (2019 �
 description: Dynamics 365 Marketing で計画されている機能の概要。
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 10/24/2019
+ms.date: 12/04/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: loril
 dynamics365pdf: true
-ms.openlocfilehash: a6b9a45120b23841dcf220ee3aeb92194e1d752a
-ms.sourcegitcommit: c9c3080a387acc6da2fe497a00c78ee4f7c65fb5
+ms.openlocfilehash: 5491e538c1efb79d214e4f52598025c792d3289d
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "2688840"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891835"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-marketing"></a>Dynamics 365 Marketing の新機能と予定されている機能
 
@@ -33,7 +33,6 @@ ms.locfileid: "2688840"
 | [レイアウト エディター](layout-editor.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 | [Power Automate を使用した承認のサポート](support-approvals-using.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 | [クイック送信](quick-send.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-|-|2019 年 12 月 | 
-| [Microsoft Forms Pro を使用した調査のサポート](support-surveys-using-forms-pro.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-|-|2019 年 12 月 | 
 
 \* エンド ユーザーに影響するすべての必須の変更など、一部の機能は 2019 年 8 月 2 日に早期アクセスの一部としてオプトインできるようになります。 [早期アクセス](https://aka.ms/EarlyAccessFAQ)の詳細を確認してください。
 
@@ -49,4 +48,3 @@ ms.locfileid: "2688840"
 Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 
 
 地域、データ センター (リージョン)、データ ストレージ、レプリケーションの詳細については、[データの場所のページ](https://www.microsoft.com/trust-center/privacy/data-location)で**すべて展開**をクリックして、この機能に対する Microsoft Cloud Service を確認してください。 
-

@@ -3,18 +3,18 @@ title: 部署のマーケティング サポート
 description: 部署のマーケティング サポート
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 10/14/2019
+ms.date: 11/19/2019
 ms.assetid: bc61278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: dee3d174008a9787708def950b47b29197df71d6
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 81f7ba097dc651cf25b2785a47ce002eab412d98
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661396"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891780"
 ---
 # <a name="marketing-support-for-business-units"></a>部署のマーケティング サポート
 
@@ -41,3 +41,6 @@ ms.locfileid: "2661396"
 
 
 
+
+## <a name="see-also"></a>関連項目
+[機能の探索](https://youtu.be/c8YOVbo4hhw?t=14) (ビデオ)

@@ -3,18 +3,18 @@ title: レイアウト エディター
 description: レイアウト エディター
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 10/07/2019
+ms.date: 11/15/2019
 ms.assetid: b061278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: 59bed32200845c75418dbd2f215a2fb5bc523518
-ms.sourcegitcommit: c843aacec8dddcb0d6693c79fbace7f19bf09565
+ms.openlocfilehash: 4c4647990e395e50b4b8c82437173da01f86bfd6
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "2574559"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891791"
 ---
 # <a name="layout-editor"></a>レイアウト エディター
 
@@ -48,4 +48,4 @@ ms.locfileid: "2574559"
 
 [8 月の更新プログラムと早期アクセス](https://cloudblogs.microsoft.com/dynamics365/it/2019/08/03/dynamics-365-for-marketing-august-update-and-early-access-are-rolling-out-now/) (ブログ)
 
-[メール メッセージの複数列のレイアウトをデザインする](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/email-layouts) (ドキュメント)
+[デジタル コンテンツのデザイン](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/email-layouts) (ドキュメント)

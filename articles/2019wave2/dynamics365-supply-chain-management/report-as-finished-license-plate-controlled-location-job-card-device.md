@@ -3,25 +3,25 @@ title: ジョブ カード デバイスからライセンス プレートで管�
 description: 生産への原材料のピッキングや完成品のプット アウェイの完了などの倉庫プロセスは、生産管理プロセスに密接に統合されています。 ジョブ カード デバイスは、製造現場の作業員が製造オーダーの進捗を報告するために使用する Dynamics 365 Supply Chain Management ユーザー エクスペリエンスです。 この機能強化により、ジョブ カード デバイスからライセンス プレートで追跡されている場所に、完了としてレポートできます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 09/16/2019
+ms.date: 11/15/2019
 ms.assetid: dfb827a2-7bca-e911-a968-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: sorenand
 dynamics365pdf: true
-ms.openlocfilehash: 309a62ad39a1135cd60353c7bccc5add289da96c
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: a6f7d7ca3d3033cc745767ab4d51c4d685597063
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660583"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889807"
 ---
 # <a name="report-as-finished-to-a-license-plate-controlled-location-from-the-job-card-device"></a>ジョブ カード デバイスからライセンス プレートで管理されている場所への完了レポート
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 6 日| 2019 年 11 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 6 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 8 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -36,10 +36,9 @@ ms.locfileid: "2660583"
 ジョブ カード デバイスの**進捗状況のレポート** ダイアログが強化され、ライセンス プレートを登録できるようになりました。 この機能は次の場合に使用可能です。 
 
 - 完成品が高度な倉庫プロセスに対応している。
-
 - 完成品が、ライセンス プレートで在庫を追跡するように設定された場所にレポートされている。
-
 - 完成品が既存のライセンス プレートにレポートされている。
+
 
 <!--feature detail end -->
 

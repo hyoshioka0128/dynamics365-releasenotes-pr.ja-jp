@@ -3,18 +3,18 @@ title: Dynamics 365 Business Central 2019 年リリース ウェーブ 2 の概�
 description: Dynamics 365 Business Central 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: edupont
-ms.date: 10/01/2019
+ms.date: 11/08/2019
 ms.assetid: 4ba3fad1-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: jannikb
 dynamics365pdf: true
-ms.openlocfilehash: 6a703f33dbff59357fec4de476b654b4805fe979
-ms.sourcegitcommit: e2c3a2557be0960c6f3f47d7f5c8a65f5a5fe45d
+ms.openlocfilehash: e17c9a71970866c1a8eec0e99ab13b5b90a76843
+ms.sourcegitcommit: fb1e16c7028e20a554c45ecc0cc114b724c87fcd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "2764903"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "2810002"
 ---
 # <a name="overview-of-dynamics-365-business-central-2019-release-wave-2"></a>Dynamics 365 Business Central 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -25,7 +25,7 @@ Dynamics 365 Business Central では、中小企業の組織向けに設計お�
 独立系ソフトウェア ベンダー (ISV) のエコシステムは、Business Central 向けの垂直型または水平型ソリューションを希望するお客様にとって重要です。 この ISV エコシステムを加速して、新規および既存のお客様の Business Central オンラインへの移行を開始します。 その目標を達成するため、2019 年リリース ウェーブ 2 の更新プログラムでは以下の開発の柱が定義されています。
 
 - **サービスの基本**: パフォーマンス、信頼性、サポート可能性、およびセキュリティに注目することは、サービス品質をサービス利用の増加に先んじて維持するために不可欠です。 アクセシビリティは、既に強い立場にありますが、維持されなければなりません。
-- **最新のクライアント**: 2019 年リリース ウェーブ 2 では、ユーザーはブラウザー、Windows 10 デスクトップ アプリ、Android および iOS のモバイル アプリ、Outlook で Business Central にアクセスします。 最新のブラウザー エクスペリエンスに対する速度と生産性の機能への取り組みを加速しており、初心者から上級者まで、世界トップ クラスのデスクトップ エクスペリエンスへの変革における大きなマイルストーンを達成しました。 2019 年リリース ウェーブ 2 は、Business Central に接続されている Dynamics NAV クライアント (Windows クライアントとも呼ばれる) を含まない最初のバージョンです。 最新のクライアントでは、現在非常に多くの生産性機能がサポートされているので、Windows クライアントは将来の Business Central では廃止されます。 従来の Dynamics NAV クライアントは、サポート ライフサイクルに合わせて 2019 年 4 月更新プログラムおよびそれ以前のバージョンでは引き続きサポートされます。
+- **最新のクライアント**: 2019 年リリース ウェーブ 2 では、ユーザーはブラウザー、Windows 10 デスクトップ アプリ、Android および iOS のモバイル アプリ、Outlook で Business Central にアクセスします。 最新のブラウザー エクスペリエンスに対する速度と生産性の機能への投資を加速しており、初心者から上級者まで、世界トップ クラスのデスクトップ エクスペリエンスへの変革における大きなマイルストーンを達成しました。 2019 年リリース ウェーブ 2 は、Business Central に接続されている Dynamics NAV クライアント (Windows クライアントとも呼ばれる) を含まない最初のバージョンです。 最新のクライアントでは、現在非常に多くの生産性機能がサポートされているので、Windows クライアントは将来の Business Central では廃止されます。 従来の Dynamics NAV クライアントは、サポート ライフサイクルに合わせて 2019 年 4 月更新プログラムおよびそれ以前のバージョンでは引き続きサポートされます。
 - **最新の開発者ツール**: 2019 年リリース ウェーブ 2 は従来の開発環境 (C/SIDE とも呼ばれる) を含まない最初のバージョンです。 Visual Studio Code と Azure DevOps に基づく最新の開発者エクスペリエンス、および拡張機能ベースのカスタマイズ方法をサポートする AL 言語では、Microsoft のベース アプリケーションなどの大規模アプリの開発がサポートされるようになりました。そのため、C/SIDE は将来的に Business Central に対して廃止されます。 従来の開発環境は、サポート ライフサイクルに合わせて 2019 年 4 月更新プログラムおよびそれ以前のバージョンでは引き続きサポートされます。 
 - **ISV アクセラレーションを強化する**: 2019 年リリース ウェーブ 2 の更新プログラムでは、新しいソリューションのため、また特に、Dynamics NAV のソース コード カスタマイズ モデルから Business Central への移行を合理化するための ISV 開発を簡素化するために設計された機能のセットが提供されます。 Dynamics NAV ビジネスは、アドオン ソリューションに囲まれた強力な垂直型 ISV ソリューションによって推進されてきました。 2019 年リリース ウェーブ 2 の更新プログラムでは、ISV がソリューションを (さらには顧客を) Business Central オンラインに取り込むためのパスを合理化することに注力します。
 - **顧客移行ツール**: Dynamics NAV ISV が自社のソリューションを Business Central オンラインに移行できるようにした後、次のステップでは、Dynamics NAV、Dynamics GP、または Dynamics SL の既存の Dynamics SMB のお客様が現在のオンプレミス ソリューションから Business Central オンラインに移行する過程を簡素化します。 一連のツールは既に存在します。これらは 2019 年リリース ウェーブ 2 で強化されます。
@@ -34,5 +34,5 @@ Dynamics 365 Business Central では、中小企業の組織向けに設計お�
 
 [概要ビデオを見る](https://aka.ms/ROGBC19RW2ROV)
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-business-central-192%27)) Dynamics 365 Business Central の 2019 年リリース ウェーブ 2 の更新情報
+[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-business-central-192%27)) Dynamics 365 Business Central の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

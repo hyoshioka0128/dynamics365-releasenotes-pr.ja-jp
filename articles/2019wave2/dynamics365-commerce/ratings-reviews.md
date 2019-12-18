@@ -3,18 +3,18 @@ title: 評価とレビュー
 description: ''
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/21/2019
+ms.date: 11/15/2019
 ms.assetid: b063278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: brendans
 dynamics365pdf: true
-ms.openlocfilehash: 93e255057e9195a92cf64ca8272915715c3e6fd5
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 44976209611e4baefe24040386c1870a64ac1bed
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2662254"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2890258"
 ---
 # <a name="ratings-and-reviews"></a>評価とレビュー
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
@@ -45,9 +45,9 @@ ms.locfileid: "2662254"
 
 評価とレビューは eコマース サイトに限定されません。 販売とサポートのスタッフが顧客に通知して顧客が購入について最良の決定を行えるように、評価とレビューは店舗とカスタマー コール センターでも提供されます。
 
-![評価とレビュー 1](media/ratings_and_reviewes_1.png "評価とレビュー 1")
+![評価とレビュー](media/ratings_and_reviewes_1.png "評価とレビュー")
 
-![評価とレビュー 2](media/ratings_and_reviewes_2.png "評価とレビュー 2")
+![ユーザー確認](media/ratings_and_reviewes_2.png "ユーザー確認")
 <!--feature detail end -->
 
 

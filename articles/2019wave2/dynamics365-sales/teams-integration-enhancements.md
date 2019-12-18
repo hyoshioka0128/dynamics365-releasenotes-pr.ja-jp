@@ -3,25 +3,25 @@ title: Microsoft Teams 統合の機能拡張
 description: Microsoft Teams の統合によるコラボレーションのメリットに関するフィードバックを顧客やパートナーから取得し、機能の導入をサポートするため、Dynamics 365 Sales での統合エクスペリエンスが強化されています。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 10/18/2019
+ms.date: 11/18/2019
 ms.assetid: de61278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: cindyliu
 dynamics365pdf: true
-ms.openlocfilehash: 4af1f87580859330639544d698fc715fecd84bce
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: f2f78f97b7f3eec207766ccc433b37b32f5dcce5
+ms.sourcegitcommit: b42a148c376fc4d3297326179cf301404448f570
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661308"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2888728"
 ---
 # <a name="microsoft-teams-integration-enhancements"></a>Microsoft Teams 統合の機能拡張
-[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| 2019 年 10 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -40,7 +40,8 @@ Dynamics 365 Sales と Teams の統合は、2019 年 4 月に導入されまし�
 
 
 > [!NOTE]
-> この機能は、統一インターフェイスでのみ使用できます。 この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
+> - この機能は、統一インターフェイスでのみ使用できます。 
+> - この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
 
 
 

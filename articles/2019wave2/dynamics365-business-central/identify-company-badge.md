@@ -3,18 +3,18 @@ title: バッジで会社を識別する
 description: 会社バッジを使用すると、作業中の会社をすばやく識別できます。
 author: kotelko
 ms.reviewer: sgroespe
-ms.date: 10/01/2019
+ms.date: 11/15/2019
 ms.assetid: 695175bf-b2d7-e911-a812-000d3a4f1168
 ms.topic: article
 ms.service: business-applications
 ms.author: blazkote
 dynamics365pdf: true
-ms.openlocfilehash: 7d2a8d33647057db505da95da59786e286dcdaf6
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: e6369883dc66eeac78e64404a14784cf83648f71
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667314"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892147"
 ---
 # <a name="identify-the-company-by-a-badge"></a>バッジで会社を識別する
 

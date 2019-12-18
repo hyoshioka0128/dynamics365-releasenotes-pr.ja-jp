@@ -3,18 +3,18 @@ title: スケジュールされたレポート
 description: 天気とイベントの情報を使用して、人口統計と客足の変化を事前に計画し、この情報をチームや組織のリーダーと簡単に共有します。 小売スペースの日次、週次、月次の要約を受け取ります。
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 10/08/2019
+ms.date: 11/25/2019
 ms.assetid: 9a64278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: brengqui
+ms.author: darcsal
 dynamics365pdf: true
-ms.openlocfilehash: 0a0f584708bd750e404d830045c5e15f956df501
-ms.sourcegitcommit: 23187fa8f86ecf390a1c4e61b3a4de1516dd3b5d
+ms.openlocfilehash: f889a5a1e025063b000df5f4bb3b3788eb6c026f
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "2573823"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891516"
 ---
 # <a name="scheduled-reports"></a>スケジュールされたレポート
 [!include[artificial-intelligence/dynamics365-connected-store banner](../includes/artificial-intelligence/dynamics365-connected-store.md)]

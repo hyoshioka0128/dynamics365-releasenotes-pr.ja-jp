@@ -3,18 +3,18 @@ title: 温度と湿度の監視
 description: IoT デバイスの監視を通じて、冷蔵庫やクーラーなどの重要な物理的資産の正常性を把握します。 IoT デバイス データ統合による手動の資産監視を減らし、温度が設定した安全しきい値を超えたときに通知を受け取ります。
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 10/08/2019
+ms.date: 11/25/2019
 ms.assetid: 85931ddc-ecc5-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
-ms.author: brengqui
+ms.author: darcsal
 dynamics365pdf: true
-ms.openlocfilehash: bcbe28b9c36a7a7770e7e919bc7289767b8e9cfa
-ms.sourcegitcommit: 23187fa8f86ecf390a1c4e61b3a4de1516dd3b5d
+ms.openlocfilehash: 7ee6c83b2ef295f580594e16ba9ac0cb0f490b37
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "2573845"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891483"
 ---
 # <a name="temperature-and-humidity-monitoring"></a>温度と湿度の監視
 [!include[artificial-intelligence/dynamics365-connected-store banner](../includes/artificial-intelligence/dynamics365-connected-store.md)]

@@ -3,18 +3,18 @@ title: Outlook のビジネス受信トレイで会社を切り替える
 description: ユーザーは Outlook の Business Central アドインで会社のコンテキストを変更できます。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 10/17/2019
+ms.date: 11/15/2019
 ms.assetid: 40429053-2e7b-e911-a960-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: jaredha
 dynamics365pdf: true
-ms.openlocfilehash: 79e5d83575e520ff159ffd8543d75b691ba44dfd
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: 2059cf4abe6f4c25f9919df34c1aabe768bc2eb3
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667050"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891945"
 ---
 # <a name="switch-between-companies-in-your-business-inbox-in-outlook"></a>Outlook のビジネス受信トレイで会社を切り替える
 

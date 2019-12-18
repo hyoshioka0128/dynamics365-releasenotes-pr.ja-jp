@@ -3,25 +3,25 @@ title: Assistant Studio での次善のアクションによる販売担当者�
 description: 販売担当者は、リレーションシップ アシスタントを使用して次善のアクションを見つけることができます。 Assistant Studio を使用することで、組織はビジネス ニーズに合わせてこれらのアクションを調整できます。 この機能は、2019 年リリース ウェーブ 2 で一般提供されます。
 author: relnotes
 ms.reviewer: udag
-ms.date: 09/26/2019
+ms.date: 11/15/2019
 ms.assetid: c463278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: 12bc7c5a01fe65819db380118425995183d0dbd9
-ms.sourcegitcommit: 5d6e90743e29603bfc5d06566a6966de05931982
+ms.openlocfilehash: dc0cbe82f990e28f6541910a86709d6ec8fc48d1
+ms.sourcegitcommit: fb1e16c7028e20a554c45ecc0cc114b724c87fcd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "2668775"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "2809771"
 ---
 # <a name="guide-sellers-with-next-best-actions-through-the-assistant-studio"></a>Assistant Studio での次善のアクションによる販売担当者のガイド
-[!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 1 日| 2019 年 10 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -35,7 +35,7 @@ ms.locfileid: "2668775"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-- **カスタマイズされた推奨アクションで販売担当者をガイド**: Power Automate と Studio を使用して、特定の販売プロセスを順守した、Relationship Assistant やその他のサーフェスを通じて適切なタイミングで販売担当者に提供される新しい分析情報カードを作成します。 推奨アクションは、受信メールや Dynamics 365 Sales の更新など、Power Automate に登録された 200 以上のサービスによってトリガーされるイベントに基づいて作成可能で、あらゆる組織のベスト プラクティスを順守する独自の柔軟性が提供されます。
+- **カスタマイズされた推奨アクションで販売担当者をガイド**: Power Automate と Studio を使用して、特定の販売プロセスを順守した、Relationship Assistant やその他のサーフェスを通じて適切なタイミングで販売担当者に提供される新しい分析情報カードを作成します。 推奨アクションは、受信メールや Dynamics 365 Sales の更新など、Power Automate に登録された 200 以上のサービスによってトリガーされるイベントに基づいて作成でき、あらゆる組織のベスト プラクティスを順守する独自の柔軟性が提供されます。
 - **パーソナライズされたガイダンスのためのロールのターゲット設定**: アクションごとに対応可能な対象者を選択することで、適切な販売担当者ロールで推奨アクションのターゲットを設定し、適切なコンテンツが適切なタイミングで適切な個人に表示されるようにします。 コンテキストが適切な場合に、販売担当者が販売資料を活用する可能性が高くなります。
 - **強化されたエクスペリエンスの利用**: Microsoft はお客様へのコミットメントの一環としてフィードバックに積極的に耳を傾け、それに従ってエクスペリエンスを改善しています。 ユーザーは、自分で作成したカードを検索し、より多くのフィルターを利用し、より合理化されたエクスペリエンスを利用できるようになりました。 特に、フロー作成エクスペリエンスが Studio に組み込まれ、不要なコンテキストの切り替えを行わずに済むようになりました。
 <!--feature detail end -->

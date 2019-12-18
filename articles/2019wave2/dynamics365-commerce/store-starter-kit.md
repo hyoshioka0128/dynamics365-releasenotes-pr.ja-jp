@@ -3,18 +3,18 @@ title: ストア スターター キット
 description: ''
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/21/2019
+ms.date: 11/15/2019
 ms.assetid: a463278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: brendans
 dynamics365pdf: true
-ms.openlocfilehash: 8ac968ec2e81a3c80d4e3fe1a53602b861474771
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 5f1b82ab14b8d4e9f6a68a9aa3b479a7513ad412
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2662221"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2890225"
 ---
 # <a name="store-starter-kit"></a>ストア スターター キット
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
@@ -45,31 +45,31 @@ e-Commerce Starter Kit は、UX プラットフォーム上に構築されるテ
 
 - **マーケティング モジュール**には、ヒーロー、機能、コンテンツ配置ブロック、コンテンツ リッチ ブロック、ビデオ プレーヤー、カルーセル モジュールが含まれます。これらはすべて、コンテンツを紹介するために使用できます。 これらのモジュールは任意のページに配置でき、CMS データによって駆動されます。 
 
-![マーケティング モジュール](media/marketing_modules.png "マーケティング モジュール")
+  ![マーケティング モジュール](media/marketing_modules.png "マーケティング モジュール")
 
 - **ヘッダーおよびフッター モジュール**は、すべてのサイト ページのヘッダーとフッターに表示されます。 これらのモジュールのナビゲーション要素は、Dynamics 365 Retail で定義されたカテゴリ割り当てによって管理されます。 マーケティング担当者はこのナビゲーション要素を拡張して、マーケティング ページを含めることができます。  
 
-![ヘッダーおよびフッター モジュール - ヘッダー](media/header_and_footer_modules_1.png "ヘッダーおよびフッター モジュール - ヘッダー")
+  ![ヘッダーおよびフッター モジュール - ヘッダー](media/header_and_footer_modules_1.png "ヘッダーおよびフッター モジュール - ヘッダー")
 
-![ヘッダーおよびフッター モジュール - フッター](media/header_and_footer_modules_2.png "ヘッダーおよびフッター モジュール - フッター")
+  ![ヘッダーおよびフッター モジュール - フッター](media/header_and_footer_modules_2.png "ヘッダーおよびフッター モジュール - フッター")
 
-- **製品詳細ページ モジュール**は、名前、価格、説明、寸法などの製品情報を表示するために使用されます。**購入ボックス** モジュールを使用すると、顧客が製品を表示してカートに追加できるようになります。 技術仕様モジュールなどのその他のモジュールには、製品の詳細が表示されます。 アップセルの機会を促進し、顧客に情報を提供するために、**レコメンデーション** モジュールと**評価とレビュー** モジュールも使用できます。
+- **製品詳細ページ モジュール**は、名前、価格、説明、寸法などの製品情報を表示するために使用されます。 **購入ボックス** モジュールを使用すると、顧客が製品を表示してカートに追加できるようになります。 技術仕様モジュールなどのその他のモジュールには、製品の詳細が表示されます。 アップセルの機会を促進し、顧客に情報を提供するために、**レコメンデーション** モジュールと**評価とレビュー** モジュールも使用できます。
 
-![製品詳細ページ モジュール](media/product_details_page_modules.png "製品詳細ページ モジュール")
+  ![製品詳細ページ モジュール](media/product_details_page_modules.png "製品詳細ページ モジュール")
 
 - **オンライン購入、店舗受け取りモジュール**は、Dynamics 365 Retail および Bing マップと統合して、顧客が購入した商品を最寄りの店舗で受け取れるようにします。
 
 - **購入モジュール**には、品目をカートに追加するために使用できるカート モジュールが含まれます。 **チェックアウト** モジュールは、注文を処理するための配送先住所、配送オプション、ギフト カード、ロイヤルティ プログラム、クレジット カード情報 (またはその他の支払い方法) をキャプチャします。 注文が行われたら、**注文の確認**モジュールを使用して確認の詳細を表示できます。 
 
-![購入モジュール](media/purchase_modules.png "購入モジュール")
+  ![購入モジュール](media/purchase_modules.png "購入モジュール")
 
 - **アカウント管理モジュール:** サインインとサインアップにより、顧客はアカウントを作成したり、既存のアカウントにサインインしたりできます。 アカウントが作成されたら、注文履歴モジュールと注文詳細モジュールを使用して最近の注文と注文の詳細を表示できます。 
 
-![アカウント管理モジュール](media/account_management_modules.png "アカウント管理モジュール")
+  ![アカウント管理モジュール](media/account_management_modules.png "アカウント管理モジュール")
 
 - **レコメンデーション モジュール**は、任意のページに表示できる、アルゴリズムによる編集リストをサポートします。
 
-![レコメンデーション モジュール](media/recommendations_module.png "レコメンデーション モジュール")
+  ![レコメンデーション モジュール](media/recommendations_module.png "レコメンデーション モジュール")
 <!--feature detail end -->
 
 

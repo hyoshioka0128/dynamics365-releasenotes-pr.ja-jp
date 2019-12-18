@@ -3,18 +3,18 @@ title: 測定単位別に品目の在庫状態を表示する
 description: 品目の測定単位別に品目の在庫状態を表示できるようになりました。
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 10/21/2019
+ms.date: 11/25/2019
 ms.assetid: 1572b4b9-e1ef-e911-a812-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 08ab33fb283654eb08f1c074cde23c79b1bf74c7
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: 3549e50888ddf24380238fd0bd5a2c91e649a418
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667424"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891879"
 ---
 # <a name="view-item-availability-by-unit-of-measure"></a>測定単位別に品目の在庫状態を表示する
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -36,6 +36,8 @@ ms.locfileid: "2667424"
 品目リストおよびドキュメントの明細行から、測定単位別に品目の在庫状態を表示できるようになりました。 
 <!--feature detail end -->
 
+![測定単位別に利用可能性を表示する](media/view-item-availability-uom.png "測定単位別に利用可能性を表示する")
+<!-- Picture 1 -->
 
 
 

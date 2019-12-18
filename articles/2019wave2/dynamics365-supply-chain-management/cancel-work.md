@@ -3,18 +3,18 @@ title: 作業のキャンセル
 description: 作業のキャンセル機能を使用すると、管理ユーザーは現在進行中であるがブロックされている特定の倉庫作業をキャンセルできます。 運用上の理由でキャンセルが必要な作業については、ユーザーは作業フォームで利用可能な通常の作業キャンセル操作を引き続き使用する必要があります。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/16/2019
+ms.date: 11/15/2019
 ms.assetid: 6062278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: omulvad
 dynamics365pdf: true
-ms.openlocfilehash: 8b322d48677de8f0756f11cd1f30139ee941f554
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: 66d91823169b76621dd2d77d626a1b5121fa7fe1
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660552"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889928"
 ---
 # <a name="cancel-work"></a>作業のキャンセル
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]

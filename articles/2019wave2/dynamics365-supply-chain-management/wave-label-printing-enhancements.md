@@ -3,18 +3,18 @@ title: ウェーブ ラベル印刷の機能強化
 description: この機能では、ピッキング前のラベル作成の柔軟性が向上します。 ラベルはウェーブ プロセス中に作成されます。 ラベルとレイアウトの定義によって機能が拡充されます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/02/2019
+ms.date: 11/15/2019
 ms.assetid: 7c62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: pjacobse
 dynamics365pdf: true
-ms.openlocfilehash: d7e672a5b2baeec9502ba0098dbb93efd2c90ca3
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: 02240174998e55df409f4726d3cc7e0e068d620f
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660568"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889565"
 ---
 # <a name="wave-label-printing-enhancements"></a>ウェーブ ラベル印刷の機能強化
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
@@ -55,6 +55,11 @@ ms.locfileid: "2660568"
 
 これらの変更により、パレット化前のカートンのラベル付けのサポートがより効率的になります。 特に、個々のカートンのスキャンを使用して自動的に注文受領確認を実行する大規模小売業者に出荷する会社に役立ちます。
 <!--feature detail end -->
+
+
+
+
+
 
 
 

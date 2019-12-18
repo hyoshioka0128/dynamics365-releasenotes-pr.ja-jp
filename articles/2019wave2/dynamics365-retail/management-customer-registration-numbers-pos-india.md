@@ -3,25 +3,25 @@ title: インド用 POS からの顧客登録番号の管理
 description: この機能を使用すると、Retail POS から新しい顧客レコードを作成するときに、GSTIN などの顧客の登録番号を入力できます。 登録番号は、請求書作成およびレポート作成の目的にも使用されます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 09/17/2019
+ms.date: 11/15/2019
 ms.assetid: 9c63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: epopov
 dynamics365pdf: true
-ms.openlocfilehash: 859681d199679c5a2de412cb17bee3f653be69ac
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: f3b75fc88fb40284d27f45cf04f9f656d5e80290
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2659993"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2890082"
 ---
 # <a name="management-of-customer-registration-numbers-from-pos-for-india"></a>インド用 POS からの顧客登録番号の管理
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 6 日| 2019 年 11 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 6 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -60,4 +60,4 @@ ms.locfileid: "2659993"
 
 ## <a name="see-also"></a>関連項目
 
-[POS からの顧客登録番号の管理](https://docs.microsoft.com/dynamics365/unified-operations/retail/localizations/apac-ind-cash-registers#manage-customer-registration-numbers-from-pos) (ドキュメント)
+[POS からの顧客登録番号の管理](https://docs.microsoft.com/dynamics365/retail/localizations/apac-ind-cash-registers#manage-customer-registration-numbers-from-pos) (ドキュメント)

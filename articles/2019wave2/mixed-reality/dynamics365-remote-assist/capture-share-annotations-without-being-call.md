@@ -1,27 +1,27 @@
 ---
-title: 通話せずに注釈を取り込んで共有する
+title: 空間検査 (通話せずに注釈を取り込んで共有する)
 description: 通話せずに注釈を取り込んで共有する
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 10/22/2019
+ms.date: 12/04/2019
 ms.assetid: 6e64278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: jaarmeni
+ms.author: hegate
 dynamics365pdf: true
-ms.openlocfilehash: 6d9c40ee6f8f2cfed8129763b4a7653f48d3c464
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 6784694f3a3843a48f95213a10063111bca66166
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661915"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892352"
 ---
-# <a name="capture-and-share-annotations-without-being-in-a-call"></a>通話せずに注釈を取り込んで共有する
+# <a name="spatial-inspections-capture-and-share-annotations-without-being-in-a-call"></a>空間検査 (通話せずに注釈を取り込んで共有する)
 [!include[mixed-reality/dynamics365-remote-assist banner](../includes/mixed-reality/dynamics365-remote-assist.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|-| 2020 年 1 月|
+|エンド ユーザー、自動的|-| 2020 年 3 月|
 
 
 
@@ -44,11 +44,11 @@ ms.locfileid: "2661915"
 
 この機能には次のサポートが含まれます。
 
-**通話なしの注釈**。 第一線の作業者は、電話をかけずにセッションを開始できるようになります。 自分が見ていることや行おうとしていることについての追加のコンテキストを提供するために自分の環境に注釈を付けられるようになるので、エキスパート (同僚、サード パーティなど) は適切な時点で効率的な支援を提供できます。 
+- **通話なしの注釈**。 第一線の作業者は、電話をかけずにセッションを開始できるようになります。 自分が見ていることや行おうとしていることについての追加のコンテキストを提供するために自分の環境に注釈を付けられるようになるので、エキスパート (同僚、サード パーティなど) は適切な時点で効率的な支援を提供できます。 
 
-**通話なしの写真とビデオの取り込み。** 写真とビデオは、問題について必要な情報と背景を伝えるのに役立つので、エキスパートが支援を行うことができます。 写真とビデオは、検査、監査、トレーニングの文書化に必要なアーティファクトとしても役立ちます。    
+- **通話なしの写真とビデオの取り込み。** 写真とビデオは、問題について必要な情報と背景を伝えるのに役立つので、エキスパートが支援を行うことができます。 写真とビデオは、検査、監査、トレーニングの文書化に必要なアーティファクトとしても役立ちます。    
 
-**非同期ファイル共有。** 第一線の作業者は、シナリオに応じて異なる方法で、取り込まれた情報を送信することができます。 デバイスに情報を保存し、それを OneDrive にアップロードするか、Microsoft Teams でだれかに送信できるようになります。
+- **非同期ファイル共有。** 第一線の作業者は、シナリオに応じて異なる方法で、取り込まれた情報を送信することができます。 デバイスに情報を保存し、それを OneDrive にアップロードするか、Microsoft Teams でだれかに送信できるようになります。
 <!--feature detail end -->
 
 

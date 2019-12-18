@@ -3,18 +3,18 @@ title: 手動売上予測によって情報に基づいた意思決定を実行�
 description: 2019 年 4 月に、売上予測のパブリック プレビューをリリースしました。 この魅力的な初の予測機能は、売上予測やサイクルのプランニングに対する顧客のニーズをさらに満たすために拡張されます。
 author: relnotes
 ms.reviewer: udag
-ms.date: 10/03/2019
+ms.date: 11/15/2019
 ms.assetid: d261278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: dandalla
 dynamics365pdf: true
-ms.openlocfilehash: 04bb5073a764b7cd1e2641b1c58dd477fb4695c3
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: bca271ea13fd72fbf802c46045be35936533442b
+ms.sourcegitcommit: b42a148c376fc4d3297326179cf301404448f570
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661792"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2888794"
 ---
 # <a name="make-informed-decisions-with-manual-sales-forecasting"></a>手動売上予測によって情報に基づいた意思決定を実行する
 
@@ -33,11 +33,11 @@ ms.locfileid: "2661792"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-2019 年のリリース ウェーブ 1 では、組織が標準的な予測カテゴリ全体にわたって販売担当者のパフォーマンスを追跡する簡単な予測を作成できる予測機能の新しいセットが、パブリック プレビューで[導入されました](https://docs.microsoft.com/en-us/business-applications-release-notes/april19/dynamics365-sales/simple-forecasting-effective-sales-performance-management)。
+2019 年のリリース ウェーブ 1 では、組織が標準的な予測カテゴリ全体にわたって販売担当者のパフォーマンスを追跡する簡単な予測を作成できる予測機能の新しいセットが、パブリック プレビューで[導入されました](https://docs.microsoft.com/business-applications-release-notes/april19/dynamics365-sales/simple-forecasting-effective-sales-performance-management)。
 
 顧客からのフィードバックに基づいて、2019 年リリース ウェーブ 2 で予測モデリングの柔軟性を向上させるいくつかの変更を加えます。 これにより、以前に作成された予測が無効になり、予測データが削除され、新しい予測構成エクスペリエンスが利用可能になります。
 
-[詳細については、こちらを参照してください。](https://go.microsoft.com/fwlink/?linkid=2103790)
+詳細については、「[自社組織で予測機能を設定する](https://go.microsoft.com/fwlink/?linkid=2103790)」を参照してください。
 
 ![予測構成](media/forecastconfig.png "予測構成")
 <!--feature detail end -->

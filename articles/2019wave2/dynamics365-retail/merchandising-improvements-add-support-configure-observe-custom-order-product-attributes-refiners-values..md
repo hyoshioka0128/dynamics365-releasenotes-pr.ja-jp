@@ -3,25 +3,25 @@ title: 販売促進の改善 - 製品属性、リファイナー、値に対す�
 description: 販売促進関連のシナリオのサポートは、現在は実装パートナーからの拡張機能が必要な既存のシナリオとよく一致するように強化されます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 09/17/2019
+ms.date: 11/15/2019
 ms.assetid: 302bbe16-6baa-e911-a963-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: asharchw
 dynamics365pdf: true
-ms.openlocfilehash: c8556a0ab1f2143d60ae38af0e8e69bf29c80cf3
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: 600b5de3652437d85728cc2cb41b17d4baedc5d3
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2659861"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2890071"
 ---
 # <a name="merchandising-improvements--add-support-to-configure-and-observe-the-custom-order-for-product-attributes-refiners-and-values"></a>販売促進の改善 - 製品属性、リファイナー、値に対するカスタム順序を構成および遵守するためのサポートの追加
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 21 日| 2020 年 1 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -37,7 +37,7 @@ ms.locfileid: "2659861"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-## <a name="custom-display-sort-order-for-various-merchandising-entities"></a>さまざまな販売促進エンティティに対するカスタム "表示並べ替え順序"
+### <a name="custom-display-sort-order-for-various-merchandising-entities"></a>さまざまな販売促進エンティティに対するカスタム "表示並べ替え順序"
 
 さまざまな販売促進エンティティに対するカスタム "表示並べ替え順序" 機能は、販売促進マネージャーが、本社やコール センターを含むすべてのエンド ユーザー クライアントのさまざまな販売促進エンティティに対してカスタムの並べ替え順序を構成できるようにします。 
 
@@ -58,3 +58,7 @@ ms.locfileid: "2659861"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[販売促進エンティティの並べ替え順序の変更](https://docs.microsoft.com/dynamics365/retail/custom-order-categories-nav-retail-prod-hierarchy) (ドキュメント)

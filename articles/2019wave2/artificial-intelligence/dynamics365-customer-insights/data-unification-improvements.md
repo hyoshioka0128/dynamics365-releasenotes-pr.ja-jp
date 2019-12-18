@@ -3,25 +3,25 @@ title: データの統一の向上
 description: 追加のコントロールは、プロファイルの統一を微調整するのに役立ちます。
 author: relnotes
 ms.reviewer: mhart
-ms.date: 10/15/2019
+ms.date: 11/01/2019
 ms.assetid: f4105f06-5972-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: 7c2838f654c3dda8adc8eda15a2dd6bddf0173eb
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: ac37a9eb9d27f8c267ad16fc16a4acc15796d360
+ms.sourcegitcommit: dcbeed56af9eb48c17dc368f15a265a04cd4d760
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661165"
+ms.lasthandoff: 11/11/2019
+ms.locfileid: "2780656"
 ---
 # <a name="data-unification-improvements"></a>データの統一の向上
-[!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|-| 2019 年 10 月|
+|管理者、作成者、またはアナリスト、自動的|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

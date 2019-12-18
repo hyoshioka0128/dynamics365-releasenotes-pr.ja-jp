@@ -3,18 +3,18 @@ title: Excel 統合の機能拡張
 description: Dynamics 365 Business Central で Excel 用 Microsoft Dynamics アドインを使用するためのサポートされるユース ケースの数を増やしています。 ユーザー エクスペリエンスを向上させるために、データ ビューもより合理化されます。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 10/17/2019
+ms.date: 11/15/2019
 ms.assetid: bb41ecca-246c-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: jaredha
 dynamics365pdf: true
-ms.openlocfilehash: 7fdffc18d492c62508c806efdf828c8e463da94c
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: b890d3a5ebd915627d067c4f3f919b3dfcfafdc8
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667112"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892187"
 ---
 # <a name="enhancements-to-excel-integration"></a>Excel 統合の機能拡張
 

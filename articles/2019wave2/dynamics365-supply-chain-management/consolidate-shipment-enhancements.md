@@ -3,18 +3,18 @@ title: 出荷の連結の機能強化
 description: この機能では、バッチで、または元伝票ごとに手動で倉庫にリリースするときに、出荷の連結のクエリ ベースの設定が可能です。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/02/2019
+ms.date: 11/15/2019
 ms.assetid: a462278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: pjacobse
 dynamics365pdf: true
-ms.openlocfilehash: c4ddc0e3c5f78894030675a7db51991773f855a3
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: 5c0c7f78306a42245ca73f40e398116bf98cbcbb
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660544"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889697"
 ---
 # <a name="consolidate-shipment-enhancements"></a>出荷の連結の機能強化
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]

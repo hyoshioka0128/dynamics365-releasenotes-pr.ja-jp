@@ -3,17 +3,17 @@ title: Dynamics 365 Commerce の新機能と予定されている機能 (2019 �
 description: Dynamics 365 Commerce で計画されている機能の概要。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/24/2019
+ms.date: 12/04/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: msalam
 dynamics365pdf: true
-ms.openlocfilehash: ce46fdbc6fc25ffe3c2193a30397fc0657b20246
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: ece916791e3fce4145bbdaa540f9e253768d44d8
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2662265"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2890280"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-commerce"></a>Dynamics 365 Commerce の新機能と予定されている機能
 
@@ -33,6 +33,7 @@ ms.locfileid: "2662265"
 | [検索エンジン最適化](seo.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|2020 年 2 月 | 
 | [ストア スターター キット](store-starter-kit.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|2020 年 2 月 | 
 | [UX プラットフォーム](ux-platform.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|2020 年 2 月 | 
+ | [チャネルごとの Azure Active Directory 企業と顧客間テナント](azure-active-directory-business-customer-tenant-per-channel.md) | 管理者、作成者、またはアナリスト、自動的 | 2020 年 2 月|2020 年 2 月 | 
 
 **有効対象**列の値の説明
 

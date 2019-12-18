@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: victorhe
 dynamics365pdf: true
-ms.openlocfilehash: 7dc7196204615ed641ef6750c23c328c6c43152b
-ms.sourcegitcommit: e2c3a2557be0960c6f3f47d7f5c8a65f5a5fe45d
+ms.openlocfilehash: 910378db09ce9efdf04c177778d337a38d91a68e
+ms.sourcegitcommit: 25e549eb39acf0f0f8ac6a250596d142a9bb809e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "2764716"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "2768035"
 ---
 # <a name="overview-of-dynamics-365-market-insights-2019-release-wave-2"></a>Dynamics 365 Market Insights 2019 年リリース ウェーブ 2 の概要
 [!include[artificial-intelligence/dynamics365-market-insights banner](../includes/artificial-intelligence/dynamics365-market-insights.md)]
@@ -24,5 +24,5 @@ ms.locfileid: "2764716"
 
 Dynamics 365 Market Insights を使用すると、自分が最も関心を持っていること (たとえば、自社の製品、顧客、競合企業、パートナー、イベント、全般的なトピックなど) に関するさまざまな分析情報にアクセスして、このギャップを埋めることができます。 それらの分析情報は、さまざまなデータ ソース (ニュース、Web データ、インターネットの閲覧行動、検索活動などを含むがこれらに限定されない) から得られ、簡潔でタイムリーかつ積極的な方法で提供されます。 Dynamics 365 Market Insights では、自分のトピックについての関連ニュースを入手することに加えて、消費者が製品やブランドについて何を言ったり、探したり、感じたりしているかに基づいて、より詳細な情報を得たうえで意思決定を行うことができます。
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-market-insights-192%27)) Dynamics 365 Market Insights の 2019 年リリース ウェーブ 2 の更新情報
+[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-market-insights-192%27)) Dynamics 365 Market Insights の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

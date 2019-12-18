@@ -3,30 +3,30 @@ title: Azure Machine Learning で Customer Insights を拡張する
 description: ユーザーを結び付け、統一された Customer Insights データに基づいて Azure Machine Learning モデルを実行できるようにします。 
 author: relnotes
 ms.reviewer: mhart
-ms.date: 10/15/2019
+ms.date: 11/01/2019
 ms.assetid: 3664278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: 8bdbd25aed8a9ae80ec667c0f6386772cdd014f7
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 0e51b8e9093c82789e33cbafbf597f14d3f0b619
+ms.sourcegitcommit: dcbeed56af9eb48c17dc368f15a265a04cd4d760
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661176"
+ms.lasthandoff: 11/11/2019
+ms.locfileid: "2780667"
 ---
 # <a name="extend-customer-insights-with-azure-machine-learning"></a>Azure Machine Learning で Customer Insights を拡張する
-[!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|-| 2019 年 10 月|
+|管理者、作成者、またはアナリスト、自動的|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-独自の Azure ML モデルを通じて Customer Insights を簡単に拡張し、結果を予測し、統一された顧客プロファイル内により深い分析情報を作成できます。たとえば、次のステップを予測することによってこれを行います。 
+独自の Azure Machine Learning モデルを通じて Customer Insights を簡単に拡張し、結果を予測し、統一された顧客プロファイル内により深い分析情報を作成できます。たとえば、次のステップを予測することによってこれを行います。 
 
 <!-- bv end -->
 

@@ -3,25 +3,25 @@ title: 調達の自己請求請求書管理
 description: 調達の自己請求請求書管理
 author: relnotes
 ms.reviewer: josaw
-ms.date: 08/02/2019
+ms.date: 10/25/2019
 ms.assetid: 4262278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: lcash
 dynamics365pdf: true
-ms.openlocfilehash: 283ebb487e63cb698232183b60a4c1ea6ebbe87c
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: 13a288fd2a1f6426539b9bec33ce890506b70e44
+ms.sourcegitcommit: cefe454c62a0cd90d468ae3b12f5b74678345401
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660578"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "2778457"
 ---
 # <a name="self-billing-invoice-control-for-procurement"></a>調達の自己請求請求書管理
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 9 月| 2019 年 11 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 1 月| 2020 年 3 月|
 
 
 

@@ -3,18 +3,18 @@ title: POS の請求コードの翻訳
 description: ''
 author: hhainesms
 ms.reviewer: josaw
-ms.date: 10/07/2019
+ms.date: 11/15/2019
 ms.assetid: 465e0088-0a87-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: hhaines
 dynamics365pdf: true
-ms.openlocfilehash: 02eba7fca6fe72fe0e592b283729f2cc9dea6df1
-ms.sourcegitcommit: c843aacec8dddcb0d6693c79fbace7f19bf09565
+ms.openlocfilehash: fece6e936a1df61c817196b1412f568ee7a560a6
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "2574427"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889917"
 ---
 # <a name="translations-for-charges-codes-in-pos"></a>POS の請求コードの翻訳
 

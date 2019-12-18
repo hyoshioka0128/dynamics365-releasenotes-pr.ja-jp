@@ -3,18 +3,18 @@ title: 調査インセンティブ
 description: 調査の所有者は、調査を完了した調査参加者にインセンティブを提供することができます。
 author: relnotes
 ms.reviewer: shjais
-ms.date: 10/21/2019
+ms.date: 11/15/2019
 ms.assetid: 25b23e66-417f-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: pap
 dynamics365pdf: true
-ms.openlocfilehash: 33e67ad3ac827f7234ceb2e5b0f6e094d4eace56
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: fddbedcb19bea2e88117d42c761874a758c7f7f2
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661275"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892396"
 ---
 # <a name="survey-incentives"></a>調査インセンティブ
 
@@ -43,6 +43,8 @@ Microsoft Rewards と Microsoft Forms Pro は提携して、Forms Pro によっ�
 この機能は、以下の Microsoft Azure 地域でリリースされる予定です。
 
 - 米国
+
+
 
 
 

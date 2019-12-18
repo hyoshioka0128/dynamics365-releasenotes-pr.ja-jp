@@ -3,25 +3,25 @@ title: POS 用の Regression Suite Automation Tool
 description: POS 用の Regression Suite Automation Tool
 author: mugunthanm
 ms.reviewer: josaw
-ms.date: 09/16/2019
+ms.date: 11/15/2019
 ms.assetid: 6463278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mumani
 dynamics365pdf: true
-ms.openlocfilehash: 5fa7b48f8321ca505f38d6ede7c2ad2558fb8229
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: 608e882c729b010cba9fde5d923c9d253b318d6a
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2659949"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889994"
 ---
 # <a name="regression-suite-automation-tool-for-pos"></a>POS 用の Regression Suite Automation Tool
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 3 日| 2019 年 11 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

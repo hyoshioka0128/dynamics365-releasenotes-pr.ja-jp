@@ -3,25 +3,25 @@ title: 指定された集荷、実行、電子的配送モードが POS のす�
 description: Retail のパラメーター ページに新しいパラメーターが追加され、小売業者はそれを使用して、構成された集荷、実行、電子的配送モードがチャネル、品目、配送先住所の組み合わせに対して有効な場合でも [すべて出荷] および [選択された出荷] ダイアログ内のオプションとして表示されないように設定できます。
 author: hhainesms
 ms.reviewer: josaw
-ms.date: 10/10/2019
+ms.date: 11/15/2019
 ms.assetid: 4f19b331-24d4-e911-a968-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: hhaines
 dynamics365pdf: true
-ms.openlocfilehash: 60eed17a8cd9489457877bac24fae30df8629f6d
-ms.sourcegitcommit: c843aacec8dddcb0d6693c79fbace7f19bf09565
+ms.openlocfilehash: 5bc2f9ea84ebf34e3693b2013d8f67673ca65375
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "2574504"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2890104"
 ---
 # <a name="hide-designated-pickup-carryout-and-electronic-modes-of-delivery-from-ship-all-and-ship-selected-processes-in-pos"></a>指定された集荷、実行、電子的配送モードが POS のすべて出荷プロセスと選択された出荷プロセスに表示されないようにする
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 21 日| 2020 年 1 月|
 
 
 
@@ -41,3 +41,7 @@ ms.locfileid: "2574504"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[配送業者以外の配送モードを非表示にする](https://docs.microsoft.com/dynamics365/retail/hide-non-carrier-modes) (ドキュメント)

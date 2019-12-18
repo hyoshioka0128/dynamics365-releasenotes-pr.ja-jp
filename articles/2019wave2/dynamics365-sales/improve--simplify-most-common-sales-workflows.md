@@ -3,18 +3,18 @@ title: 最も一般的な販売ワークフローの改善または簡素化
 description: 営業担当者が簡単に Dynamics 365 Sales アプリを使用できるよう、最も一般的な営業ワークフローを改善または簡素化します。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 10/17/2019
+ms.date: 11/15/2019
 ms.assetid: e061278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: naitikds
 dynamics365pdf: true
-ms.openlocfilehash: fc38e6cf00141b7c92e10942bd7b8f42fbfc1d7b
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: adc1234100f10b3b4768439d0417c9bd6ae30cfc
+ms.sourcegitcommit: b42a148c376fc4d3297326179cf301404448f570
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661352"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2888695"
 ---
 # <a name="improve-or-simplify-most-common-sales-workflows"></a>最も一般的な販売ワークフローの改善または簡素化
 
@@ -36,19 +36,14 @@ ms.locfileid: "2661352"
 -  取引先担当者、営業案件、リード、取引先企業の各エンティティに対して、メイン フォームに**ドキュメント** タブが表示されるようにします
 -  営業案件フォームのユーザー エクスペリエンスを向上させます。
 -  製品のリペアレントおよび製品レベルでのプロパティの追加がサポートされます (従来の Web クライアントと統一インターフェイスの両方でサポートされます)。
-   -  製品カタログを定義するとき、製品の再調整が必要であれば、管理者は製品、バンドル、またはファミリの親を更新できます。 さらに、製品レベルまたはバンドル レベルでプロパティを直接追加できます。 
+   製品カタログを定義するとき、製品の再調整が必要であれば、管理者は製品、バンドル、またはファミリの親を更新できます。 さらに、製品レベルまたはバンドル レベルでプロパティを直接追加できます。 
 
 > [!NOTE] 
-> この機能は、統一インターフェイスでのみ使用できます。
 > この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
 <!--feature detail end -->
 
 
+> [!NOTE]
+> この機能は、統一インターフェイスでのみ使用できます。
 
 
-
-
-
-## <a name="see-also"></a>関連項目
-
-[最も一般的な販売ワークフローの改善または簡素化](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/dynamics365-sales/improve--simplify-most-common-sales-workflows) (ブログ)

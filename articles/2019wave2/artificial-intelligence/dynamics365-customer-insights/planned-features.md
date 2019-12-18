@@ -3,17 +3,17 @@ title: Dynamics 365 Customer Insights の新機能と予定されている機能
 description: Dynamics 365 Customer Insights で計画されている機能の概要。
 author: relnotes
 ms.reviewer: jimholtz
-ms.date: 10/24/2019
+ms.date: 12/04/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: fweigel
 dynamics365pdf: true
-ms.openlocfilehash: 7c77d4d4a23e1606bf1a484394069dfd2b2c217d
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 5cbd4395e7f54467a8487c2dda145faa9c461eb0
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661231"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891670"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-customer-insights"></a>Dynamics 365 Customer Insights の新機能と予定されている機能
 
@@ -27,16 +27,16 @@ ms.locfileid: "2661231"
 | ---------- |---------------- | :---------------: |:--------------: |
 | [Power Platform で Customer Insights を拡張する](extending-customer-insights-power-platform.md) | 管理者、作成者、またはアナリスト、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日| | 
 | [Dynamics 365 アプリへの Customer Insights の注入](infusing-customer-insights-into-dynamics-365-customer-engagement.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|- | 
-| [顧客モデルで取引先企業と取引先担当者をリンクする機能](ability-link-accounts-contacts-customer-model.md) | 管理者、作成者、またはアナリスト、自動的| 2019 年 10 月|- | 
-| [顧客区分を作成するための AI 主導のエクスペリエンス](ai-driven-experience-create-customer-segments.md) | 管理者、作成者、またはアナリスト、自動的| 2019 年 10 月| | 
-| [顧客パターンを予測するためのガイド付きエクスペリエンス](guided-experience-predict-customer-patterns.md) | 管理者、作成者、またはアナリスト、自動的| 2019 年 10 月| | 
+| [顧客モデルで取引先企業と取引先担当者をリンクする機能](ability-link-accounts-contacts-customer-model.md) | 管理者、作成者、またはアナリスト、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日|- | 
+| [顧客区分を作成するための AI 主導のエクスペリエンス](ai-driven-experience-create-customer-segments.md) | 管理者、作成者、またはアナリスト、自動的| 2020 年 3 月| | 
+| [顧客パターンを予測するためのガイド付きエクスペリエンス](guided-experience-predict-customer-patterns.md) | 管理者、作成者、またはアナリスト、自動的| 2020 年 3 月| | 
 | [Microsoft AppSource で利用できる Customer Insights のコンサルティング サービス](customer-insights-consulting-services-appsource.md) | 管理者、作成者、またはアナリスト、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 | [セグメント ビルダーおよび測定ウィザードの機能強化](segment-builder-measures-wizard-enhancements.md) | 管理者、作成者、またはアナリスト、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
-| [データの統一の向上](data-unification-improvements.md) | 管理者、作成者、またはアナリスト、自動的| -|2019 年 10 月 | 
-| [Azure Machine Learning で Customer Insights を拡張する](extend-customer-insights-azure-ml.md) | 管理者、作成者、またはアナリスト、自動的| -|2019 年 10 月 | 
-| [柔軟な展開オプション](flexible-deployment-options.md) | 管理者、作成者、またはアナリスト、自動的| -|2019 年 10 月 | 
-| [ユーザーによる KPI とダッシュボードの作成を助けるガイド付きエクスペリエンス](guided-experience-helps-users-create-kpis-dashboards.md) | 管理者、作成者、またはアナリスト、自動的| -|2019 年 10 月 | 
-| [推奨されるセグメントとメジャー](recommended-segments-measures.md) | 管理者、作成者、またはアナリスト、自動的| -|2019 年 10 月 | 
+| [データの統一の向上](data-unification-improvements.md) | 管理者、作成者、またはアナリスト、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日 | 
+| [Azure Machine Learning で Customer Insights を拡張する](extend-customer-insights-azure-ml.md) | 管理者、作成者、またはアナリスト、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日 | 
+| [柔軟な展開オプション](flexible-deployment-options.md) | 管理者、作成者、またはアナリスト、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日 | 
+| [推奨されるセグメントとメジャー](recommended-segments-measures.md) | 管理者、作成者、またはアナリスト、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日 | 
+| [ユーザーによる KPI とダッシュボードの作成を助けるガイド付きエクスペリエンス](guided-experience-helps-users-create-kpis-dashboards.md) | 管理者、作成者、またはアナリスト、自動的| -|2020 年 3 月 | 
 
 **有効対象**列の値の説明
 

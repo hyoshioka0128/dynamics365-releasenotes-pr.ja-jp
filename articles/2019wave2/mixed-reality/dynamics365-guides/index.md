@@ -3,18 +3,18 @@ title: Dynamics 365 Guides 2019 年リリース ウェーブ 2 の概要
 description: Dynamics 365 Guides 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 10/08/2019
+ms.date: 11/08/2019
 ms.assetid: b1a3fad1-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: algodin
 dynamics365pdf: true
-ms.openlocfilehash: cbc84e517f8e3b14216521457d9489d2549af234
-ms.sourcegitcommit: e2c3a2557be0960c6f3f47d7f5c8a65f5a5fe45d
+ms.openlocfilehash: 272306066920159a5256f4aed27896c0a1ea3a7a
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "2764780"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891626"
 ---
 # <a name="overview-of-dynamics-365-guides-2019-release-wave-2"></a>Dynamics 365 Guides 2019 年リリース ウェーブ 2 の概要
 [!include[mixed-reality/dynamics365-guides banner](../includes/mixed-reality/dynamics365-guides.md)]
@@ -50,5 +50,5 @@ Dynamics 365 Guides 分析は、各ガイドの各ステップの背後にある
 
 [概要ビデオを見る](https://aka.ms/ROGMRG19RW2ROV)
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-guides-192%27)) Dynamics 365 Guides の 2019 年リリース ウェーブ 2 の更新情報
+[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-guides-192%27)) Dynamics 365 Guides の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

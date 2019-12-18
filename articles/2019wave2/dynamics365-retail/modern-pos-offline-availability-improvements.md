@@ -3,18 +3,18 @@ title: Modern POS のオフライン時の利用可能性の向上
 description: Modern POS のオフライン シナリオの可用性の拡大
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/07/2019
+ms.date: 11/15/2019
 ms.assetid: 859dc757-73aa-e911-a964-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: jashanno
 dynamics365pdf: true
-ms.openlocfilehash: 86a087d98cea1236d1dd5204460069cc5a8b5e51
-ms.sourcegitcommit: c843aacec8dddcb0d6693c79fbace7f19bf09565
+ms.openlocfilehash: fef1b94ca9606db5617f48046be3b89f2fc8bd16
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "2574482"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2890027"
 ---
 # <a name="modern-pos-offline-availability-improvements"></a>Modern POS のオフライン時の利用可能性の向上
 
@@ -35,6 +35,7 @@ Modern POS (MPOS) のオフライン機能は、ビジネス継続性と継続�
 <!--feature detail start -->
 この機能は、MPOS に存在するシームレスなオフライン機能をさらに拡張します。 拡張されるシナリオには、MPOS にサインインする前に手動でオフラインに切り替える機能が含まれます。 これにより、災害時でもオフラインに移行して引き続き POS 操作を使用することができます。 サインイン プロセスは、端末がオフラインに切り替わるシナリオが最も多く発生する可能性がある箇所です。 これに対応するため、サインイン中に MPOS がより迅速かつ頻繁にオフラインにシームレスに切り替わる高度なシナリオ向けに、本社で有効または無効にできるオフライン構成が実装されました。 例としては、レジ係またはマネージャーがアプリケーションにサインインするときなどが挙げられます。
 <!--feature detail end -->
+
 
 
 

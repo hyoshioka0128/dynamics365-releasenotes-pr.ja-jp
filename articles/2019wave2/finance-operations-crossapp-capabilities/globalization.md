@@ -3,18 +3,18 @@ title: グローバリゼーション
 description: Microsoft は、サポートされる 37 の国/地域における法規制の変更に対応するために、規制に関する更新を継続的に提供します。 また、お客様は Office フォーマットでビジネス ドキュメントを簡単に調整して、現地の要件を満たし、生成された文書をさまざまな配布チャネルに送ることができます。
 author: relnotes
 ms.reviewer: ''
-ms.date: 10/23/2019
+ms.date: 11/05/2019
 ms.assetid: ba096b69-725d-e911-a973-000d3a1c79c5
 ms.topic: structure
 ms.service: business-applications
 ms.author: sshvedov
 dynamics365pdf: true
-ms.openlocfilehash: 0094592b4558282f0c9cd3b3fe47b2265f584691
-ms.sourcegitcommit: b5be4afdeec589f0490a82495e8206a2b3aee287
+ms.openlocfilehash: a56f955edebe606639424ba9f761f54f9f1ca057
+ms.sourcegitcommit: 25ea4ae8ca39c2514ddbaa59dc15c93f8e5cae07
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2668051"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "2801593"
 ---
 # <a name="globalization"></a>グローバリゼーション
 

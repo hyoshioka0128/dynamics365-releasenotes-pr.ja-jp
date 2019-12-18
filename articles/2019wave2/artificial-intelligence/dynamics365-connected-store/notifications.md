@@ -3,18 +3,18 @@ title: 通知
 description: インシデントとイベントにより迅速に対応できるようにするプッシュ通知を設定および構成します。 レジ待ちの長い行列や冷蔵庫のメンテナンス警告などの店舗内での発生に基づいてアクションをトリガーして、応答時間を改善し、カスタマー エクスペリエンスを向上させます。
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 10/08/2019
+ms.date: 11/25/2019
 ms.assetid: 9c64278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: brengqui
+ms.author: darcsal
 dynamics365pdf: true
-ms.openlocfilehash: 7a5fe33e3c1f7c8a19c0183914f618a5efebc1e4
-ms.sourcegitcommit: 23187fa8f86ecf390a1c4e61b3a4de1516dd3b5d
+ms.openlocfilehash: 22856fa5896a8f26982950d614439246968544ec
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "2573867"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891681"
 ---
 # <a name="notifications"></a>通知
 [!include[artificial-intelligence/dynamics365-connected-store banner](../includes/artificial-intelligence/dynamics365-connected-store.md)]

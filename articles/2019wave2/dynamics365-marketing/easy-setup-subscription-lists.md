@@ -3,18 +3,18 @@ title: サブスクリプション リストの簡単な設定
 description: サブスクリプション リストの簡単な設定
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 10/07/2019
+ms.date: 11/15/2019
 ms.assetid: b461278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: 52aacdbe9b9dceccfbdda39f956d736995c1b6bc
-ms.sourcegitcommit: c843aacec8dddcb0d6693c79fbace7f19bf09565
+ms.openlocfilehash: 73b555b9dd56d5fdcf5ebb50ef371f27151134fd
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "2574592"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891846"
 ---
 # <a name="easy-setup-for-subscription-lists"></a>サブスクリプション リストの簡単な設定
 
@@ -50,4 +50,4 @@ ms.locfileid: "2574592"
 
 [8 月の更新プログラムと早期アクセス](https://cloudblogs.microsoft.com/dynamics365/it/2019/08/03/dynamics-365-for-marketing-august-update-and-early-access-are-rolling-out-now/) (ブログ)
 
-[簡単なサブスクリプション リスト](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/easy-subscription-lists) (ドキュメント)
+[サブスクリプション リストとサブスクリプション センターを設定する](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/easy-subscription-lists) (ドキュメント)

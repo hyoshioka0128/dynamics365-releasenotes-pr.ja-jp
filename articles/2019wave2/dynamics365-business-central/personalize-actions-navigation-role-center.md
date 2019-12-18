@@ -3,18 +3,18 @@ title: ロール センターでのアクションのパーソナライズ
 description: アクションやナビゲーション メニューなど、ロール センターでより多くのコンテンツを再編成して、ワークスペースをさらにパーソナライズします。
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 10/01/2019
+ms.date: 11/15/2019
 ms.assetid: 23b6ec94-e46b-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 69fbe7550371624d949c71e04a7e362fd292a156
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: e7f07abe6cd0994f29673b9a97ade48ab943589d
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667028"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892022"
 ---
 # <a name="personalize-actions-on-your-role-center"></a>ロール センターでのアクションのパーソナライズ
 

@@ -3,25 +3,25 @@ title: 支払/入金ベースの割引
 description: 支払/入金ベースの割引
 author: relnotes
 ms.reviewer: josaw
-ms.date: 08/01/2019
+ms.date: 11/15/2019
 ms.assetid: b7b43518-5d6c-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: shajain
 dynamics365pdf: true
-ms.openlocfilehash: fd5c98caca81e8909dbcecc6711d7ec888680863
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: a5c8674051333d1a9da19cf435c9679fc2b9e9b9
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2659777"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889939"
 ---
 # <a name="tender-based-discounts"></a>支払/入金ベースの割引
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 21 日| 2020 年 1 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -33,7 +33,7 @@ ms.locfileid: "2659777"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-この取り組みにより、小売業者は選択した支払/入金タイプで割引率を設定できるようになります。 割引が構成された支払/入金が選択されると、顧客には割引金額が新しい残高として表示されます。 顧客は一部支払または全額支払のどちらを実行するかを選択でき、それに応じて適切な割引金額を取得します。 割引情報は、紙の物理的レシートに印刷したり、仮想レシートを使用してメールで送信したりできます。
+この投資により、小売業者は選択した支払/入金タイプで割引率を設定できるようになります。 割引が構成された支払/入金が選択されると、顧客には割引金額が新しい残高として表示されます。 顧客は一部支払または全額支払のどちらを実行するかを選択でき、それに応じて適切な割引金額を取得します。 割引情報は、紙の物理的レシートに印刷したり、仮想レシートを使用してメールで送信したりできます。
 
 ![支払/入金割引の計算](media/tender-discounts.png "支払/入金割引の計算")
 <!--feature detail end -->
@@ -46,3 +46,7 @@ ms.locfileid: "2659777"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[支払/入金ベースの割引](https://docs.microsoft.com/dynamics365/retail/tender_based_discounts) (ドキュメント)

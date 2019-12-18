@@ -3,18 +3,18 @@ title: 複数の運用環境
 description: テナントごとに、管理者は複数の運用環境を作成することができます。 さらに、テナント環境は、異なる国/地域のバージョンを基にすることができます。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 10/01/2019
+ms.date: 11/15/2019
 ms.assetid: 4cc3f35f-b56d-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: jaredha
 dynamics365pdf: true
-ms.openlocfilehash: b68c77304955fecf9820dd463d5e053e55a211bf
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: 12c6c2ed0e01f109788c93bf3f63e95079fa88dc
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2666951"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892055"
 ---
 # <a name="multiple-production-environments"></a>複数の運用環境
 

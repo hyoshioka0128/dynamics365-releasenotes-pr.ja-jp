@@ -3,18 +3,18 @@ title: Business Central 管理センターでの稼働停止のレポート
 description: 顧客のテナントが停止してだれもログインできない場合は、緊急の対応が必要な重大な状況です。 Business Central 管理センターでは、パートナーはサポート チケットを自動的に作成する新しい [稼働停止のレポート] オプションを使用できるようになりました。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 10/14/2019
+ms.date: 11/15/2019
 ms.assetid: 320a4afe-037b-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: jchrist
 dynamics365pdf: true
-ms.openlocfilehash: 3941e57ed87eea7f609dfa58ad765cb0080aa97d
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: a75d3dd0f1edbc10d4d07527311b99499ea68f33
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2666907"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892044"
 ---
 # <a name="report-production-outage-in-the-business-central-administration-center"></a>Business Central 管理センターでの稼働停止のレポート
 

@@ -3,18 +3,18 @@ title: Dynamics 365 Marketing 2019 年リリース ウェーブ 2 の概要
 description: Dynamics 365 Marketing 2019 年リリース ウェーブ 2 の概要
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 10/01/2019
+ms.date: 11/08/2019
 ms.assetid: 78f1f7cb-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: 59f9ef3695d43a3a561e083bb25b4849f8944c43
-ms.sourcegitcommit: e2c3a2557be0960c6f3f47d7f5c8a65f5a5fe45d
+ms.openlocfilehash: 2ef1cc049df9cea5ee2169c8f1b57aaa23d44688
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "2764969"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891802"
 ---
 # <a name="overview-of-dynamics-365-marketing-2019-release-wave-2"></a>Dynamics 365 Marketing 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
@@ -22,15 +22,15 @@ ms.locfileid: "2764969"
 <!--overview start-->
 Dynamics 365 Marketing は、より多くの見込顧客を取引関係に変換するのに役立つマーケティング自動化アプリケーションです。 2018 年 4 月の発売以来、Dynamics 365 Marketing は、営業とマーケティングの足並みを揃え、よりスマートな意思決定を行い、柔軟なプラットフォームで成長しようとしている組織による採用が増えています。 このアプリは、基本的な電子メール マーケティングの範囲を超えて、詳細な分析情報を提供し、営業チームのために有望なリードを生成します。 そのグラフィカルなコンテンツ作成およびデザイン ツールは、視覚的に充実した電子メール、ランディング ページ、そして顧客体験のデザインと実行を容易にします。
 
-お客様は、一般的なタスクを実行するために技術的な専門家の支援を必要としない直感的なエクスペリエンスを通じて、より少ない労力でより多くを達成しようとしています。 2019 年リリース ウェーブ 2 では、インテリジェントなシナリオへの取り組みを続けながら、使いやすさと単純化が 2 倍になりました。 このリリースの主要な取り組み分野は次のとおりです。
+お客様は、一般的なタスクを実行するために技術的な専門家の支援を必要としない直感的なエクスペリエンスを通じて、より少ない労力でより多くを達成しようとしています。 2019 年リリース ウェーブ 2 では、インテリジェントなシナリオへの投資を続けながら、使いやすさと単純化が 2 倍になりました。 このリリースの主要な投資分野は次のとおりです。
 
 - **マーケティングの簡素化**: 試用版のサインアップを簡単にし、ユーザー フィードバックで最も頻繁に言及されるシナリオに集中することによって、製品の残りの部分の合理化を続けています。 プロセスを簡素化し、余分なクリックをなくし、マーケティング担当者の生活を楽にするための小さな改善を多数追加しました。 改善点は次のとおりです。新しいメール レイアウト、サブスクリプション リストの管理など。  
 - **パーソナライズされたマーケティング**: このシステムは、マーケティング担当者が効果的なコンテンツを簡単に作成するのに役立ちます。 A/B テストにより、マーケティング担当者は数回のクリックで強力な実験を設定し、システムに残りの処理を任せることができます。 堅牢なプラットフォームのおかげで、大規模な組織では、各部署で独立して実行されるようにマーケティングの実行をカスタマイズできます。
 - **コネクテッド ビジネス アプリ**: 営業チームは、たとえばミーティングの準備中やメールへの返信中など、顧客についてさらに知るために詳細を掘り下げることができる、マーケティングで支援された分析情報を探しています。
 - **アクション可能なインテリジェンス**: 最適化された対象ユーザーを構築し、効果的なコミュニケーション戦略を調整することができます。 Dynamics 365 Customer Insights では、マーケティング担当者は、Microsoft のエコシステムの力を活用してマーケティング活動の効果を高めることができます。 
-- **基本機能への取り組み**を継続して、キャンペーンの実行と電子メール マーケティングのためのパフォーマンス、スケーラビリティ、システム管理、拡張性、スループットを向上させます。 プロビジョニングが改善されたことで、管理者とパワー ユーザーの作業が楽になります。
+- **基本機能への投資**を継続して、キャンペーンの実行と電子メール マーケティングのためのパフォーマンス、スケーラビリティ、システム管理、拡張性、スループットを向上させます。 プロビジョニングが改善されたことで、管理者とパワー ユーザーの作業が楽になります。
 
 [概要ビデオを見る](https://aka.ms/ROGM19RW2ROV)
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-marketing-192%27)) Dynamics 365 Marketing の 2019 年リリース ウェーブ 2 の更新情報
+[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-marketing-192%27)) Dynamics 365 Marketing の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

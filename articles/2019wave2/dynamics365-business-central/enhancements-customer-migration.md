@@ -3,18 +3,18 @@ title: 顧客移行ツールの機能強化
 description: 顧客移行ツールの新機能により、Dynamics 365 Business Central に移行する顧客に対する移行エクスペリエンスが向上します。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 10/17/2019
+ms.date: 11/15/2019
 ms.assetid: e6e5c71c-9475-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: jenolson
 dynamics365pdf: true
-ms.openlocfilehash: 0d5639ee37411aa948c627d223e1b730cd901a65
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: aecb6f4441015b10c83ffed32609633a685aeed0
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667072"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892209"
 ---
 # <a name="enhancements-for-customer-migration-tools"></a>顧客移行ツールの機能強化
 

@@ -3,18 +3,18 @@ title: 他の拡張機能の翻訳
 description: 他の拡張機能用の xliff 翻訳を作成します。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 10/17/2019
+ms.date: 11/15/2019
 ms.assetid: 0612dcfd-746d-e911-a95f-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: pborring
 dynamics365pdf: true
-ms.openlocfilehash: 87f16d53f6092bcef6c5df38740d808d46ad4b62
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: af3bf1e3f0a51cc4361146b5845ea790d1518e2b
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2666995"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891934"
 ---
 # <a name="translating-other-extensions"></a>他の拡張機能の翻訳
 

@@ -3,23 +3,26 @@ title: Dynamics 365 Talent 2019 年リリース ウェーブ 2 の概要
 description: Dynamics 365 Talent 2019 年リリース ウェーブ 2 の概要
 author: brpotter
 ms.reviewer: anbichse
-ms.date: 09/23/2019
+ms.date: 12/04/2019
 ms.assetid: 6f7e836b-d7d3-e911-a96f-000d3a4f33c1
 ms.topic: overview
 ms.service: business-applications
 ms.author: brpotter
 dynamics365pdf: true
-ms.openlocfilehash: ef53b7c53e6c2ca4519aa36f966e2aa95cbfe703
-ms.sourcegitcommit: e2c3a2557be0960c6f3f47d7f5c8a65f5a5fe45d
+ms.openlocfilehash: f9450b51a5c21bdcc375642485ac73db9acb57b8
+ms.sourcegitcommit: cf8b2ba74d2b553c2a721942221c285ffcf184c5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "2764826"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892606"
 ---
 # <a name="overview-of-dynamics-365-talent-2019-release-wave-2"></a>Dynamics 365 Talent 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 <!--overview start-->
+> [!IMPORTANT]
+> Dynamics 365 Talent: Attract および Onboard アプリは廃止されます。 詳細については、「[Dynamics 365 Talent: Attract および Onboard アプリの廃止](https://community.dynamics.com/365/talent/b/dynamics365fortalent/posts/retiring-dynamics-365-talent-attract-and-onboard-apps)」と「[Dynamics 365 Human Resources 2019 リリース ウェーブ 2 の概要](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/dynamics365-human-resources/)」を参照してください。
+
 Dynamics 365 Talent により、組織は従業員データを一元化し、人事プログラム全体でオペレーショナル エクセレンスを促進することができます。 人件費はオペレーション費用の中で最もコストのかかる部分であるため、効率化とコスト削減は常に人事の使命の一部でした。しかし、従業員の実務が分断されて会社全体のまとまった戦略がない場合、高い離職率、長い雇用サイクル、従業員のエンゲージメント低下という結果を招きます。 これらはすべて、製品のイノベーションの欠如、高コストな操作エラー、顧客満足度の低下、最適ではない財務結果につながります。 Dynamics 365 Talent に対する Microsoft のビジョンは、人事チームがオペレーショナル エクセレンス、組織の俊敏性、従業員のエクスペリエンスのバランスを取って、人とビジネスが成長する職場を作り出せるように支援することです。
 
 Dynamics 365 Talent は 3 つのアプリケーションで構成されます。
@@ -30,6 +33,4 @@ Dynamics 365 Talent は 3 つのアプリケーションで構成されます。
 
 
 [概要ビデオを見る](https://aka.ms/ROGT19RW2ROV)
-
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-talent-192%27)) Dynamics 365 Talent の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

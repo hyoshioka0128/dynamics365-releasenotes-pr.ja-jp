@@ -3,18 +3,18 @@ title: セグメント化のエクスペリエンスの改善
 description: セグメント化のエクスペリエンスの改善
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 10/07/2019
+ms.date: 11/19/2019
 ms.assetid: b261278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: 175480e8aa620289f8b32ba45d81a48427822f26
-ms.sourcegitcommit: c843aacec8dddcb0d6693c79fbace7f19bf09565
+ms.openlocfilehash: 7d3f66a78aee40419692b10ee459b68a6d4a74df
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "2574614"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891813"
 ---
 # <a name="improved-segmentation-experience"></a>セグメント化のエクスペリエンスの改善
 
@@ -53,7 +53,8 @@ ms.locfileid: "2574614"
 
 
 ## <a name="see-also"></a>関連項目
+[機能の探索](https://youtu.be/c8YOVbo4hhw?t=152) (ビデオ)
 
 [8 月の更新プログラムと早期アクセス](https://cloudblogs.microsoft.com/dynamics365/it/2019/08/03/dynamics-365-for-marketing-august-update-and-early-access-are-rolling-out-now/) (ブログ)
 
-[新しいセグメント化デザイナーでセグメントを作成する](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/new-segment-designer) (ドキュメント)
+[セグメントに関する作業](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/new-segment-designer) (ドキュメント)

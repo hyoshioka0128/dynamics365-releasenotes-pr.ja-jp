@@ -3,18 +3,18 @@ title: ナビゲーション メニューにリンクを追加する
 description: 任意のページへのリンクを追加することにより、ナビゲーション メニューをパーソナライズします。
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 10/01/2019
+ms.date: 11/15/2019
 ms.assetid: e83a8d44-e56b-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 565bc1b09fc927d4131b61347b363d78886b0970
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: 2e5bc0d04e73cab7eef21daab7a36a7ac15734ce
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667226"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892330"
 ---
 # <a name="add-links-to-your-navigation-menu"></a>ナビゲーション メニューにリンクを追加する
 
@@ -40,8 +40,10 @@ Business Central 2019 リリース ウェーブ 2 には、お気に入りのコ
 他の UI の個人用設定と同様に、ブックマークはサインインしているデバイスやブラウザーに関係なく、そのユーザーと連動します。
 
 ![従業員一覧ページへのナビゲーション メニューのリンクの追加](media/bookmark.png "従業員一覧ページへのナビゲーション メニューのリンクの追加")
-
 <!--feature detail end -->
+
+
+
 
 
 

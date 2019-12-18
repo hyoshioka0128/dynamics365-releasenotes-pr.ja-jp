@@ -3,18 +3,18 @@ title: 販売と購入をスケジュールに従って一括転記する
 description: バッチ転記は常にバックグラウンドで実行されるようになりました。
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 10/01/2019
+ms.date: 11/15/2019
 ms.assetid: 2aad2c2f-ccde-e911-a812-000d3a4f15f1
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 19a13c4fe64a268d8d2501e2815687394efe2cc9
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: 3f305b1db557f98d9e173be7b87745298bbd10d8
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667171"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892264"
 ---
 # <a name="batch-post-sales-and-purchases-as-scheduled"></a>販売と購入をスケジュールに従って一括転記する
 

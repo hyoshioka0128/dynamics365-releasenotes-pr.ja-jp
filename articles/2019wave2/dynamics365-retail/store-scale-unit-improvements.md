@@ -3,18 +3,18 @@ title: 店舗のスケール ユニットの向上
 description: 店舗のスケール ユニットの向上
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/07/2019
+ms.date: 11/15/2019
 ms.assetid: 5263278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: jashanno
 dynamics365pdf: true
-ms.openlocfilehash: eb3bffd14a507d3169e39a631f42f04e22916b62
-ms.sourcegitcommit: c843aacec8dddcb0d6693c79fbace7f19bf09565
+ms.openlocfilehash: 591a68559cb569e97664a33a956debaf56fc1025
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "2574383"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889950"
 ---
 # <a name="store-scale-unit-improvements"></a>店舗のスケール ユニットの向上
 
@@ -33,8 +33,11 @@ Retail Store Scale Unit では、接続とネットワーク インフラスト�
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-この機能は現在多くのリリースでサポートされており、世界中の多くの小売店で使用されています。ただし、必要に応じてスケール ユニットを使用できない、いくつかの設計上の制限があります。 この取り組みでは、セキュリティを維持しながら認証トークンを更新するときに、Retail Store Scale Unit がバックオフィス (本社) との接続について持っている依存関係を減らします。 この機能により、バック オフィスが利用できない場合でもクロスターミナル シナリオで販売時点管理 (POS) が機能できるようになり、ハイブリッド スタイルの展開のより大きいオファリングと深度が提供されます。
+この機能は現在多くのリリースでサポートされており、世界中の多くの小売店で使用されています。ただし、必要に応じてスケール ユニットを使用できない、いくつかの設計上の制限があります。 この投資では、セキュリティを維持しながら認証トークンを更新するときに、Retail Store Scale Unit がバックオフィス (本社) との接続について持っている依存関係を減らします。 この機能により、バック オフィスが利用できない場合でもクロスターミナル シナリオで販売時点管理 (POS) が機能できるようになり、ハイブリッド スタイルの展開のより大きいオファリングと深度が提供されます。
 <!--feature detail end -->
+
+
+
 
 
 

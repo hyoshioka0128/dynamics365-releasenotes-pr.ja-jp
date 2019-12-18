@@ -3,18 +3,18 @@ title: 拡張性のデザイン
 description: 拡張性のデザイン
 author: relnotes
 ms.reviewer: edupont
-ms.date: 10/21/2019
+ms.date: 11/15/2019
 ms.assetid: 65c8ca19-be6c-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: henrikwh
 dynamics365pdf: true
-ms.openlocfilehash: 53e8b17e5e1473120cc57322f2f4439842392027
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: 804a80f6280f91af8ed046575e269ed3098ff35f
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667006"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891923"
 ---
 # <a name="design-for-extensibility"></a>拡張性のデザイン
 

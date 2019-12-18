@@ -3,18 +3,18 @@ title: すべてのビジネス機能の概要を取得する
 description: ロール センターの内容に基づいた製品概要で、すぐに使用可能な Business Central のビジネス機能の概要をユーザーに提供します。
 author: kotelko
 ms.reviewer: sgroespe
-ms.date: 10/01/2019
+ms.date: 11/15/2019
 ms.assetid: 134ed6eb-967c-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: blazkote
 dynamics365pdf: true
-ms.openlocfilehash: c108695dffdd8b5c1ae804d5ba88fcb219cd58c2
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: d042480603767691cd03da7004d0f18df7a61e47
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667094"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892198"
 ---
 # <a name="get-an-overview-of-all-business-features"></a>すべてのビジネス機能の概要を取得する
 
@@ -34,6 +34,7 @@ ms.locfileid: "2667094"
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 さまざまなロール センターの内容に基づく製品の概要がすべて用意されているので、機能がより見つけやすくなります。 これにより、ユーザーはより簡単に移動して適切なページを見つけることができます。ここには、ロール センターの概要およびその内容も示されます。
+
 現在のロール センター ナビゲーション バー、コマンド バー、または操作アシスト検索を使用するのに加えて、それを補足する概要を表示するための新機能**ロール エクスプローラー**により、Business Central のさまざまな領域がより身近なものになるため、生産力を高めることに注力できます。
 
 ![ロール エクスプローラーを開く](media/role-explorer0.png "ロール エクスプローラーを開く")

@@ -3,18 +3,18 @@ title: 複数の値によるオプション フィールドのフィルター処
 description: 複数のオプション値でフィルター処理することで、リストやレポートでの強力なフィルター処理機能を補完します。
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 10/01/2019
+ms.date: 11/15/2019
 ms.assetid: 823f20c6-e26b-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 640d541e8d2f89d89e8c0378fe37f4fef8c52ac7
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: 07c37e7c0dcce1f9d6a3ef998a13bb78b5c40a7e
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667083"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892176"
 ---
 # <a name="filter-option-fields-by-multiple-values"></a>複数の値によるオプション フィールドのフィルター処理
 

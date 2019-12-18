@@ -3,18 +3,18 @@ title: 複数ページにわたるマルチタスク
 description: ユーザーはアプリケーション全体で同時に複数のページを開いて、マルチタスク処理をサポートできます。
 author: kotelko
 ms.reviewer: sgroespe
-ms.date: 10/01/2019
+ms.date: 11/15/2019
 ms.assetid: bc63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: blazkote
 dynamics365pdf: true
-ms.openlocfilehash: 6cfec4362b9d3275a870d8c29a21f11235617a98
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: 5f6b882d3fda226fca3a469cd4aec670f2aed428
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2666940"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892088"
 ---
 # <a name="multitask-across-multiple-pages"></a>複数ページにわたるマルチタスク
 

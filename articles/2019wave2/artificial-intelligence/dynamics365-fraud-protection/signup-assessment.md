@@ -2,19 +2,19 @@
 title: サインアップの評価
 description: サインアップの評価
 author: relnotes
-ms.reviewer: kelfu
-ms.date: 10/04/2019
+ms.reviewer: v-davido
+ms.date: 11/15/2019
 ms.assetid: 8f8437b5-cf78-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: amyhre
 dynamics365pdf: true
-ms.openlocfilehash: e4524d7cfc1329b05d12b103c9c87bb5e421ae1d
-ms.sourcegitcommit: 40b40fa9dffd7e4a9fd6981e3b9b981130089156
+ms.openlocfilehash: 463ca7aaa271cbe97f81319adad9bc1aae510504
+ms.sourcegitcommit: cf8b2ba74d2b553c2a721942221c285ffcf184c5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "2621402"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892595"
 ---
 # <a name="sign-up-assessment"></a>サインアップの評価
 

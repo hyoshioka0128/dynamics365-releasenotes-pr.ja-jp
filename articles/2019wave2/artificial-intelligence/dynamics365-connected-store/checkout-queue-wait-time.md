@@ -3,18 +3,18 @@ title: チェックアウト キューの管理
 description: キュー分析により、チェックアウト キューの長さと待機時間を監視して対応することで、顧客満足度を高め、顧客離れを防ぐことができます。 店舗の客足と平均キュー時間に基づいて、チェックアウトの人員配置レベルを最適化します。
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 10/08/2019
+ms.date: 11/25/2019
 ms.assetid: aa64278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: brengqui
+ms.author: darcsal
 dynamics365pdf: true
-ms.openlocfilehash: e341bf973dbd8f33cdaa79c3d47edf7a76724600
-ms.sourcegitcommit: 23187fa8f86ecf390a1c4e61b3a4de1516dd3b5d
+ms.openlocfilehash: fc26c57657f301a201f90c58f9f6150539db7712
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "2573766"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891505"
 ---
 # <a name="checkout-queue-management"></a>チェックアウト キューの管理
 [!include[artificial-intelligence/dynamics365-connected-store banner](../includes/artificial-intelligence/dynamics365-connected-store.md)]

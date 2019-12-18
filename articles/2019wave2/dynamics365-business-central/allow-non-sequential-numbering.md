@@ -3,18 +3,18 @@ title: 連続しない番号を許容する
 description: 事前定義された番号シリーズからレコードに割り当てられる番号のギャップを許容できるようになりました。
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 10/04/2019
+ms.date: 11/15/2019
 ms.assetid: d07f6b3c-fec7-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: bnielse
 dynamics365pdf: true
-ms.openlocfilehash: d84126c06ebcbfea3f40631af4f452b14e8d8961
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: 0a9b189a14dc912436f8709732be56b9ead008a4
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667215"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892297"
 ---
 # <a name="allow-non-sequential-numbering"></a>連続しない番号を許容する
 

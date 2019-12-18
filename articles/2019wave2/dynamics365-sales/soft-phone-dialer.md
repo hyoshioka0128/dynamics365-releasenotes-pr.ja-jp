@@ -3,18 +3,18 @@ title: ソフトフォン ダイヤラー
 description: 最高の生産性を実現するため、営業担当者は統合されたソフトフォンでアプリから直接番号をすばやくダイヤルできます。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 10/22/2019
+ms.date: 11/15/2019
 ms.assetid: e261278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: naitikds
 dynamics365pdf: true
-ms.openlocfilehash: 1826e7f10332fb658b12435d919ed42eafd044c6
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: ab638e2b4dde56244610818d97e78b78ee62e99e
+ms.sourcegitcommit: b42a148c376fc4d3297326179cf301404448f570
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661759"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2888706"
 ---
 # <a name="softphone-dialer"></a>ソフトフォン ダイヤラー
 
@@ -40,7 +40,8 @@ ms.locfileid: "2661759"
 <!-- Picture 1 -->
 
 > [!NOTE]
-> この機能は、統一インターフェイスでのみ使用できます。 この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
+> - この機能は、統一インターフェイスでのみ使用できます。 
+> - この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
 
 
 

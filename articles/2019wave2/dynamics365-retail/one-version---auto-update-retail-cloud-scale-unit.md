@@ -3,25 +3,25 @@ title: 1 つのバージョン – Retail Cloud Scale Unit の自動更新
 description: 1 つのバージョン – Retail Cloud Scale Unit の自動更新
 author: relnotes
 ms.reviewer: sericks
-ms.date: 08/20/2019
+ms.date: 11/04/2019
 ms.assetid: 5663278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: aamiral
 dynamics365pdf: true
-ms.openlocfilehash: d311261333eff58384e2c56caaad96399f7ff4b9
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: f44a06a3d6ceaa17b2e54bac5d585687481bb4aa
+ms.sourcegitcommit: 0338b540f146e0599e268ed4749ba515c8b4a431
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2659971"
+ms.lasthandoff: 11/11/2019
+ms.locfileid: "2781363"
 ---
 # <a name="one-version--auto-update-for-retail-cloud-scale-unit"></a>1 つのバージョン – Retail Cloud Scale Unit の自動更新
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2019 年 10 月| 2019 年 10 月|
+|管理者、作成者、またはアナリスト、自動的|2020 年 2 月| 2020 年 2 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

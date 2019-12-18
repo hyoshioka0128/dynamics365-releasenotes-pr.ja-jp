@@ -3,18 +3,18 @@ title: 在庫金額レポート ストレージ
 description: 在庫金額レポート ストレージを使用すると、在庫金額レポートを実行して、Dynamics 365 Supply Chain Management のフォーム内で出力にアクセスできるようにしたり、外部アプリケーションで使用するためにデータ エンティティを通じて出力をエクスポートしたりできます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/09/2019
+ms.date: 11/15/2019
 ms.assetid: eda2b127-79ca-e911-a968-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: aevengir
 dynamics365pdf: true
-ms.openlocfilehash: 04423faa5bad5a21108e039858609a216b654821
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: 14961e65cd9dfc0c2cd4628429ac4669d4f535cf
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660606"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889851"
 ---
 # <a name="inventory-value-report-storage"></a>在庫金額レポート ストレージ
 
@@ -47,8 +47,3 @@ ms.locfileid: "2660606"
 
 
 
-
-
-## <a name="see-also"></a>関連項目
-
-[在庫金額レポート](https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/cost-management/inventory-value-report) (ドキュメント)

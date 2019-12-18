@@ -3,18 +3,18 @@ title: データへのメモとリンクの追加
 description: Business Central のデータに関連するメモとリンク
 author: kotelko
 ms.reviewer: sgroespe
-ms.date: 10/01/2019
+ms.date: 11/15/2019
 ms.assetid: a22f5f6d-957c-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: blazkote
 dynamics365pdf: true
-ms.openlocfilehash: 5ac006518327074e047039428bb2c3ad95090870
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: c6f4803a12e0d3b62467e3b6d1df71a9d7d6b230
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667281"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892308"
 ---
 # <a name="add-notes-and-links-to-data"></a>データへのメモとリンクの追加
 
