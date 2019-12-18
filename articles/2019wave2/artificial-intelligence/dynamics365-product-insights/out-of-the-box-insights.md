@@ -3,18 +3,18 @@ title: すぐに使える分析情報
 description: ユーザーは、Product Insights 用の標準テンプレートを使用してすばやく開始できます。 そこから、お客様は製品の独自性と差別化戦略に合わせてシグナルと分析情報を簡単にカスタマイズできます。
 author: relnotes
 ms.reviewer: v-aswood
-ms.date: 10/10/2019
+ms.date: 11/15/2019
 ms.assetid: 1df616bb-ded4-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: mohammed
 dynamics365pdf: true
-ms.openlocfilehash: cc85f7b61d7252929070cacd1a5289fcd68f54a9
-ms.sourcegitcommit: c843aacec8dddcb0d6693c79fbace7f19bf09565
+ms.openlocfilehash: fdbc0c0022087de14ecafbc2bc5cc2d8b2560bde
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "2574702"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893800"
 ---
 # <a name="out-of-the-box-insights"></a>すぐに使える分析情報
 [!include[artificial-intelligence/dynamics365-product-insights banner](../includes/artificial-intelligence/dynamics365-product-insights.md)]

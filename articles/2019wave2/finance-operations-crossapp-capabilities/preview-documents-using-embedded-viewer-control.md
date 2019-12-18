@@ -2,19 +2,19 @@
 title: 埋め込みビューアー コントロールを使用してドキュメントをプレビューする
 description: 埋め込みビューアーを使用してビジネス ドキュメントをプレビューします
 author: relnotes
-ms.reviewer: sericks
-ms.date: 10/04/2019
+ms.reviewer: kfend
+ms.date: 11/15/2019
 ms.assetid: 8dd380ac-206d-e911-a95f-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: tjvass
 dynamics365pdf: true
-ms.openlocfilehash: c7815c65c69b3c9b3c2455adc5074e14ecd2a9e6
-ms.sourcegitcommit: b5be4afdeec589f0490a82495e8206a2b3aee287
+ms.openlocfilehash: fbd2eb37a30819d2edcb4f56df881a3d8f38f846
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2668183"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893844"
 ---
 # <a name="preview-documents-using-embedded-viewer-control"></a>埋め込みビューアー コントロールを使用してドキュメントをプレビューする
 

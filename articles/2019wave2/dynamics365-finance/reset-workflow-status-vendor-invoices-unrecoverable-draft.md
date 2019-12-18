@@ -2,19 +2,19 @@
 title: 仕入先請求書のワークフローの状態を回復不能から下書きにリセットする
 description: システムが中断された後に、ドキュメントが回復不能状態になることがあります。 ユーザーは、サポートに連絡して支援を依頼しなくても、自分でドキュメントの状態を下書きにリセットできます。
 author: relnotes
-ms.reviewer: sericks
-ms.date: 10/04/2019
+ms.reviewer: roschlom
+ms.date: 11/15/2019
 ms.assetid: 36ae1e1a-b0a9-e911-a962-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: 1522570ef0441437041004cfff7f5ea349806ee1
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 95b8b0f694a8f0786f98739ab5cda2f63468d0e6
+ms.sourcegitcommit: cf8b2ba74d2b553c2a721942221c285ffcf184c5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2662534"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892782"
 ---
 # <a name="reset-workflow-status-for-vendor-invoices-from-unrecoverable-to-draft"></a>仕入先請求書のワークフローの状態を回復不能から下書きにリセットする
 
@@ -32,6 +32,10 @@ ms.locfileid: "2662534"
 <!--feature detail start -->
 **ワークフロー履歴**ページを使用して、ワークフローの状態を下書きにリセットできます。 このページは、**仕入先請求書**ページから、または**共通** > **照会** > **ワークフロー**に移動して開くことができます。 ワークフローの状態を下書きにリセットするには、**取り消し**を選択します。 **仕入先請求書**または**保留中の仕入先請求書**ページで取り消しアクションを選択することでワークフローの状態を下書きにリセットすることもできます。 ワークフローの状態が下書きにリセットされると、**仕入先請求書**ページで編集可能になります。
 <!--feature detail end -->
+
+
+
+
 
 
 

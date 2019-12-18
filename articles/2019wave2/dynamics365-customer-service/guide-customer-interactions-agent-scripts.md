@@ -3,25 +3,25 @@ title: 顧客とエージェントの対話ガイドのスクリプト
 description: 顧客とエージェントの対話ガイドのスクリプト
 author: relnotes
 ms.reviewer: kabala
-ms.date: 08/05/2019
+ms.date: 11/15/2019
 ms.assetid: 0462278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: askuma
 dynamics365pdf: true
-ms.openlocfilehash: eeccaec8ad4b6a374a383e0f990723c2437a6a03
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: ea6fee2d9277a83cc5768628e0d8dcac243803d0
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661484"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893635"
 ---
 # <a name="guide-customer-interactions-with-agent-scripts"></a>顧客とエージェントの対話ガイドのスクリプト
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月|-| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-| 2020 年 1 月|
 
 
 
@@ -41,3 +41,7 @@ ms.locfileid: "2661484"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[スクリプトでエージェントをガイドする](https://docs.microsoft.com/dynamics365/omnichannel/administrator/agent-scripts) (ドキュメント)

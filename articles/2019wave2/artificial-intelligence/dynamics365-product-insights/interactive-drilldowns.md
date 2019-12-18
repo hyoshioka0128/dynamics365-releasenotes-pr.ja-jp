@@ -3,18 +3,18 @@ title: 対話型ドリルダウン
 description: ユーザーは、集約レベルの分析情報からインスタンス レベルの製品シグナルにドリルダウンして、何が起きたかを理解し、実行すべきアクションを特定できます。
 author: relnotes
 ms.reviewer: v-aswood
-ms.date: 10/10/2019
+ms.date: 11/15/2019
 ms.assetid: 6464278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mohammed
 dynamics365pdf: true
-ms.openlocfilehash: 27882c2db35c3544ac1ca2861c8fc460638504e4
-ms.sourcegitcommit: c843aacec8dddcb0d6693c79fbace7f19bf09565
+ms.openlocfilehash: 7ebd6a62a057970548efa687462db1fc3355c11f
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "2574691"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893778"
 ---
 # <a name="interactive-drilldowns"></a>対話型ドリルダウン
 [!include[artificial-intelligence/dynamics365-product-insights banner](../includes/artificial-intelligence/dynamics365-product-insights.md)]

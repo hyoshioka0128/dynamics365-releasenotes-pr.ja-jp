@@ -3,18 +3,18 @@ title: 添付ファイルの回復
 description: 添付ファイルの回復
 author: relnotes
 ms.reviewer: sericks
-ms.date: 10/07/2019
+ms.date: 11/15/2019
 ms.assetid: 50ebbe34-6caa-e911-a96b-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: cgarty
 dynamics365pdf: true
-ms.openlocfilehash: 91f1aaa65b1f1bc5a67ce5359ef96822b43c9ed1
-ms.sourcegitcommit: b5be4afdeec589f0490a82495e8206a2b3aee287
+ms.openlocfilehash: 0dbf7417e67eddfb2065eb85872f09b3a3210556
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2668293"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893944"
 ---
 # <a name="attachment-recovery"></a>添付ファイルの回復
 

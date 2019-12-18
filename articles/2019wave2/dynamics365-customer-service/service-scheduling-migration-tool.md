@@ -3,18 +3,18 @@ title: サービス スケジュール移行ツール
 description: サービス スケジュール移行ツールを使用すると、従来の構成およびサービス予約データを新しいサービス スケジュール環境に移行できます。
 author: relnotes
 ms.reviewer: kabala
-ms.date: 10/07/2019
+ms.date: 11/15/2019
 ms.assetid: 21a41b8e-6e99-e911-a990-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: vakorlep
 dynamics365pdf: true
-ms.openlocfilehash: 8aa51ad84995101dd2ec1c9504a9fa44183f0def
-ms.sourcegitcommit: c843aacec8dddcb0d6693c79fbace7f19bf09565
+ms.openlocfilehash: e67411986db3379fe9904985cbc314bd1723860d
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "2574636"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893536"
 ---
 # <a name="service-scheduling-migration-tool"></a>サービス スケジュール移行ツール
 

@@ -2,19 +2,19 @@
 title: Word や Excel で構成可能なビジネス ドキュメント レポート
 description: この機能では、買掛金勘定、売掛金勘定、プロジェクト会計、倉庫および輸送管理の主要ビジネス ドキュメント用の構成可能で優れたデザインの Word および Excel テンプレートと、カスタマイズとルーティングのためのシンプルなビジネス ユーザー エクスペリエンスが提供されます。
 author: relnotes
-ms.reviewer: sericks
-ms.date: 10/01/2019
+ms.reviewer: kfend
+ms.date: 12/04/2019
 ms.assetid: d662278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: sshvedov
 dynamics365pdf: true
-ms.openlocfilehash: c23392261195498139d4656d5c4fdcee337587c2
-ms.sourcegitcommit: b5be4afdeec589f0490a82495e8206a2b3aee287
+ms.openlocfilehash: 513f71c60a7a2cd51b17b231aa6dbe93e94694c7
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2668304"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893899"
 ---
 # <a name="configurable-business-documents-reporting-in-word-and-excel"></a>Word や Excel で構成可能なビジネス ドキュメント レポート
 
@@ -36,7 +36,6 @@ ms.locfileid: "2668304"
 この機能では、優れたデザインの Microsoft Word および Microsoft Excel テンプレートの機能が段階的に提供されます。 
 
 **売掛金勘定** (一般提供 - 2019 年 10 月):
-
 
 - 督促状
 - 顧客勘定明細書
@@ -67,31 +66,36 @@ ms.locfileid: "2668304"
 
 **プロジェクト** (一般提供 - 2019 年 11 月):
 
-- 顧客留保リリース
 - プロジェクト請求書 (請求ルールあり)
-- プロジェクト請求書 (請求ルールなし)
 - プロジェクト見積
 - ユーザー定義のプロジェクト請求書
+
+**倉庫** (一般提供 - 2019 年 11 月):
+
+- 出荷ピッキング リスト
+- ピッキング リスト
+- 貨物一覧
+- コンテナーのコンテンツ
 
 **在庫** (一般提供 - 2019 年 11 月):
 
 - ピッキング リスト (注文)
 
-**倉庫** (一般提供 - 2019 年 12 月):
-
-- 出荷ピッキング リスト
-- 製造ピッキング リスト
-- ピッキング リスト
-- 貨物一覧
-- 船荷証券
-- コンテナーのコンテンツ
-
-**輸送管理** (一般提供 - 2019 年 12 月):
+**輸送管理** (一般提供 - 2019 年 11 月):
 
 - 商業請求書
 - 原産地証明書 
 - ルート
 - 貨物業者 
+
+**プロジェクト** (一般提供 - 2019 年 12 月):
+
+- 顧客留保リリース 
+
+**倉庫** (一般提供 - 2019 年 12 月):
+
+- 製造ピッキング リスト
+- 船荷証券
 
 **ドキュメントのカスタマイズとルーティングに関するビジネス ユーザー エクスペリエンス**:
 

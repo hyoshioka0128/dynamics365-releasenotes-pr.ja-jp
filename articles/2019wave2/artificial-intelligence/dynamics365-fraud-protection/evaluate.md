@@ -2,19 +2,19 @@
 title: 評価
 description: 評価
 author: relnotes
-ms.reviewer: amyhre
-ms.date: 10/14/2019
+ms.reviewer: v-davido
+ms.date: 11/15/2019
 ms.assetid: 150ef9a0-0671-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: amyhre
 dynamics365pdf: true
-ms.openlocfilehash: da3e3979f8ca1a3eb4134ca133110146aee5764d
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: ac366b3a0ad6edd27b8ddc236efe2711f1fcd583
+ms.sourcegitcommit: cf8b2ba74d2b553c2a721942221c285ffcf184c5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661671"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892705"
 ---
 # <a name="evaluate"></a>評価
 

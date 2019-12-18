@@ -3,18 +3,18 @@ title: Dynamics 365 Product Insights 2019 年リリース ウェーブ 2 の概�
 description: Dynamics 365 Product Insights 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: v-aswood
-ms.date: 09/23/2019
+ms.date: 11/08/2019
 ms.assetid: f2a6e06d-f3d0-e911-a996-000d3a4f3343
 ms.topic: overview
 ms.service: business-applications
 ms.author: mohammed
 dynamics365pdf: true
-ms.openlocfilehash: 8463ebd50097767507ec91094682358a8207e8fa
-ms.sourcegitcommit: e2c3a2557be0960c6f3f47d7f5c8a65f5a5fe45d
+ms.openlocfilehash: 7862b8f8426dadc38a9f915184eb1f8744a3b7b2
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "2764804"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893723"
 ---
 # <a name="overview-of-dynamics-365-product-insights-2019-release-wave-2"></a>Dynamics 365 Product Insights 2019 年リリース ウェーブ 2 の概要
 [!include[artificial-intelligence/dynamics365-product-insights banner](../includes/artificial-intelligence/dynamics365-product-insights.md)]
@@ -28,5 +28,5 @@ Product Insights は製品とサービスの使用状況、パフォーマンス
 
 Product Insights は Dynamics 365 Customer Insights および Dynamics 365 スイートのその他の製品とシームレスに統合されるため、顧客は製品、マーケティング、営業、顧客サービスに関する全体的かつアクション可能な分析情報を取得できます。
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-product-insights-192%27)) Dynamics 365 Product Insights の 2019 年リリース ウェーブ 2 の更新情報
+[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-product-insights-192%27)) Dynamics 365 Product Insights の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

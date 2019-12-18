@@ -3,18 +3,18 @@ title: ナレッジ記事のテンプレート
 description: ナレッジ記事テンプレートを使用すると、お客様の組織内のすべてのペルソナが構造化サポート情報の構築に簡単に参加できるため、ナレッジの収集が簡単になります。
 author: relnotes
 ms.reviewer: shjais
-ms.date: 10/22/2019
+ms.date: 11/15/2019
 ms.assetid: e2e0bf1b-fc98-e911-a990-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: karthig
 dynamics365pdf: true
-ms.openlocfilehash: 31a50696b6a0e25c4200e186c34c5c1896812ca8
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 6efc7b524c85ea3db3f5070cb5e251537c8af1ae
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2662166"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893558"
 ---
 # <a name="knowledge-article-templates"></a>ナレッジ記事のテンプレート
 

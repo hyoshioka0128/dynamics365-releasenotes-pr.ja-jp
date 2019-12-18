@@ -3,25 +3,25 @@ title: Common Data Service のデータ – フェーズ 1
 description: Common Data Service のデータ – フェーズ 1
 author: RamaKrishnamoorthy
 ms.reviewer: sericks
-ms.date: 10/16/2019
+ms.date: 12/02/2019
 ms.assetid: fc62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: ramasri
 dynamics365pdf: true
-ms.openlocfilehash: ddb07852b055f99000269f91304ef5fb66882957
-ms.sourcegitcommit: 3e19a91181b001b74894328456d8da10d4f6d973
+ms.openlocfilehash: a9bd975cb54219369bc68b0330b801f29a12548e
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "2673853"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2894064"
 ---
 # <a name="data-in-common-data-service--phase-1"></a>Common Data Service のデータ – フェーズ 1
 [!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 7 月 24 日| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 7 月 24 日| 2020 年 3 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -113,6 +113,9 @@ Microsoft では、二重書き込みを追加設定なしで利用できるよ�
 
 これらの機能は 10 月のパブリック プレビューでリリースされ、4 月には一般提供される予定です。 対象となるエンティティは後日発表されます。
 <!--feature detail end -->
+
+
+
 
 
 

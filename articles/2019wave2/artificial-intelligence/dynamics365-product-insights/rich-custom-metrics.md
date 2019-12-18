@@ -3,18 +3,18 @@ title: 豊富なカスタム メトリック
 description: ユーザーは、製品やサービスにとって重要なメトリックを作成できます。 シグナルの集計 (件数、平均、パーセンタイルなど)、ディメンションによるフィルター処理と分割、データの平滑化とクリーン、および式の計算を行うことができます。
 author: relnotes
 ms.reviewer: v-aswood
-ms.date: 10/10/2019
+ms.date: 11/15/2019
 ms.assetid: 6064278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mohammed
 dynamics365pdf: true
-ms.openlocfilehash: 5802f6756bbd7f016486527cd40bb7dd21ff239a
-ms.sourcegitcommit: c843aacec8dddcb0d6693c79fbace7f19bf09565
+ms.openlocfilehash: 906704235eedbea3e0ed9b791db45bb3b9aef6f7
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "2574669"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893767"
 ---
 # <a name="rich-custom-metrics"></a>豊富なカスタム メトリック
 [!include[artificial-intelligence/dynamics365-product-insights banner](../includes/artificial-intelligence/dynamics365-product-insights.md)]

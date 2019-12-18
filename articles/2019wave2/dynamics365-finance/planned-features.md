@@ -2,18 +2,18 @@
 title: Dynamics 365 Finance の新機能と予定されている機能 (2019 年リリース ウェーブ 2)
 description: Dynamics 365 Finance で計画されている機能の概要。
 author: relnotes
-ms.reviewer: sericks
-ms.date: 10/24/2019
+ms.reviewer: roschlom
+ms.date: 12/04/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: msalam
 dynamics365pdf: true
-ms.openlocfilehash: 18b61fcef6b846de6933560c4a663110b059e3fd
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 1603c7263e4ad1af1470a708e334836d0b09ec7c
+ms.sourcegitcommit: cf8b2ba74d2b553c2a721942221c285ffcf184c5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2662535"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892793"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-finance"></a>Dynamics 365 Finance の新機能と予定されている機能
 
@@ -25,19 +25,18 @@ ms.locfileid: "2662535"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
- | [仕訳帳のロックを解除する](unlock-journals.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
- | [二重通貨連結のためのオンライン連結の [連結勘定の選択元] コントロール](select-consolidation-amount-control-consolidate-online-dual-currency-consolidation.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
- | [口座調整のキャンセル](cancel-bank-reconciliation.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
- | [小切手のページで空白状態の小切手を作成する](create-checks-blank-status-checks-page.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
- | [仕入先請求書のワークフローの状態を回復不能から下書きにリセットする](reset-workflow-status-vendor-invoices-unrecoverable-draft.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
- | [収益認識](revenue-recognition.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
- | [買掛金請求書プール フォームからレコードをエクスポートする機能](ability-export-records-accounts-payable-invoice-pool-form.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト | 2019 年 10 月|2019 年 11 月 | 
- | [仕入先請求書に配賦されていない費用がある場合は、ワークフローへの送信を禁止する](prohibit-submission-workflow-when-there-are-unallocated-charges-vendor-invoice.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト | 2019 年 10 月|2019 年 11 月 | 
- | [与信管理](credit-management.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト | -|2020 年 1 月 | 
- | [仕訳帳転記の取消](reverse-journal-posting.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト | -|2020 年 1 月 | 
- | [通貨換算を使用する場合の財務レポートの利益剰余金計算の機能強化](retained-earnings-calculation-enhancements-financial-reporting-when-using-currency-translation.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 3 日|2020 年 1 月 | 
- | [請求スケジュール](billing-schedules.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト | -|2020 年 2 月 | 
- | [財務に関するインテリジェントな分析情報](intelligent-insights-financials.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト | 2019 年 12 月|近日発表 | 
+| [仕訳帳のロックを解除する](unlock-journals.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+| [口座調整のキャンセル](cancel-bank-reconciliation.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+| [小切手のページで空白状態の小切手を作成する](create-checks-blank-status-checks-page.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+| [仕入先請求書のワークフローの状態を回復不能から下書きにリセットする](reset-workflow-status-vendor-invoices-unrecoverable-draft.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+| [収益認識](revenue-recognition.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+| [二重通貨連結のためのオンライン連結の [連結勘定の選択元] コントロール](select-consolidation-amount-control-consolidate-online-dual-currency-consolidation.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+| [買掛金請求書プール フォームからレコードをエクスポートする機能](ability-export-records-accounts-payable-invoice-pool-form.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 25 日|2019 年 11 月 | 
+| [仕入先請求書に配賦されていない費用がある場合は、ワークフローへの送信を禁止する](prohibit-submission-workflow-when-there-are-unallocated-charges-vendor-invoice.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 25 日|2019 年 11 月 | 
+| [仕訳帳転記の取消](reverse-journal-posting.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| -|2020 年 1 月 | 
+| [通貨換算を使用する場合の財務レポートの利益剰余金計算の機能強化](retained-earnings-calculation-enhancements-financial-reporting-when-using-currency-translation.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 3 日|2020 年 1 月 | 
+| [財務諸表の保持ポリシー](financial-report-retention-policies.md) | 管理者、作成者、またはアナリスト、自動的| -|2020 年 2 月 | 
+| [財務に関するインテリジェントな分析情報](intelligent-insights-financials.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| 2019 年 12 月|近日発表 | 
 
 **有効対象**列の値の説明
 

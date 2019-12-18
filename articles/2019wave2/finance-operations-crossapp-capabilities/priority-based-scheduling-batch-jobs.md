@@ -2,26 +2,26 @@
 title: バッチ ジョブの優先順位ベースのスケジューリング
 description: バッチ ジョブの優先順位ベースのスケジューリング
 author: relnotes
-ms.reviewer: sericks
-ms.date: 08/21/2019
+ms.reviewer: kfend
+ms.date: 11/25/2019
 ms.assetid: f462278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: peakerbl
 dynamics365pdf: true
-ms.openlocfilehash: 5c8367da8a10a8b061215212dcd5dc616a862a2f
-ms.sourcegitcommit: b5be4afdeec589f0490a82495e8206a2b3aee287
+ms.openlocfilehash: 7cb3b3874d4dfb6bb69b5ac4d2ff29c52dc434fb
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2668018"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2894034"
 ---
 # <a name="priority-based-scheduling-for-batch-jobs"></a>バッチ ジョブの優先順位ベースのスケジューリング
 [!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2019 年 11 月| 近日発表|
+|管理者、作成者、またはアナリスト、自動的|2020 年 2 月| 近日発表|
 
 
 
@@ -36,6 +36,8 @@ ms.locfileid: "2668018"
 <!--feature detail end -->
 
 
+> [!NOTE]
+> 機能は、PU31 からの限定プレビューで利用できます。
 
 
 
@@ -43,3 +45,6 @@ ms.locfileid: "2668018"
 
 
 
+## <a name="see-also"></a>関連項目
+
+[優先順位に基づくバッチ スケジューリング](https://aka.ms/prioritybasedbatchscheduling) (ドキュメント)

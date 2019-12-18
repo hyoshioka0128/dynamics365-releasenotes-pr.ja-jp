@@ -2,19 +2,19 @@
 title: 埋め込み Power BI レポート用のコンテキスト メニュー コマンドを使用してインサイトをアクションに変換する
 description: アプリケーション拡張機能を使用して、フィルター処理された結果に基づいて Power BI レポートのビジュアルのカスタム メニュー項目アクションを作成します
 author: relnotes
-ms.reviewer: sericks
-ms.date: 10/04/2019
+ms.reviewer: kfend
+ms.date: 11/15/2019
 ms.assetid: 0406f8f6-2479-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: tjvass
 dynamics365pdf: true
-ms.openlocfilehash: adec6e94b6ad7191f0a389eb187470c526cd0d3d
-ms.sourcegitcommit: b5be4afdeec589f0490a82495e8206a2b3aee287
+ms.openlocfilehash: c618bbf33795e134304426ca760db90e9c836d69
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2668150"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893833"
 ---
 # <a name="turn-insights-into-action-using-context-menu-commands-for-embedded-power-bi-reports"></a>埋め込み Power BI レポート用のコンテキスト メニュー コマンドを使用してインサイトをアクションに変換する
 
@@ -44,4 +44,4 @@ Finance and Operations アプリケーション ワークスペースに埋め�
 
 ## <a name="see-also"></a>関連項目
 
-[Platform update 28 の新機能または変更点](https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/get-started/whats-new-platform-update-28) (ドキュメント)
+[PU28 の新機能](https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/get-started/whats-new-platform-update-28) (ドキュメント)

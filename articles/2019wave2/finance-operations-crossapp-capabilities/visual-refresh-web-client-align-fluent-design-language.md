@@ -3,18 +3,18 @@ title: Fluent Design 言語に合わせるための Web クライアントの表
 description: ''
 author: relnotes
 ms.reviewer: sericks
-ms.date: 10/07/2019
+ms.date: 11/15/2019
 ms.assetid: 0c765fcb-9988-e911-a960-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
-ms.openlocfilehash: c14a79f1b84d3444323fe6bb7ee0b437c2bf3579
-ms.sourcegitcommit: b5be4afdeec589f0490a82495e8206a2b3aee287
+ms.openlocfilehash: 51e5c765bfd14d66e3f8da62467256088c2e2f2a
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2668139"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893954"
 ---
 # <a name="visual-refresh-of-the-web-client-to-align-with-the-fluent-design-language"></a>Fluent Design 言語に合わせるための Web クライアントの表示の更新
 
@@ -50,4 +50,4 @@ Platform update 29 には次の変更が含まれています。
 
 ## <a name="see-also"></a>関連項目
 
-[Platform update 29 の新機能または変更点](https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/get-started/whats-new-platform-update-29) (ドキュメント)
+[PU29 の新機能](https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/get-started/whats-new-platform-update-29) (ドキュメント)
