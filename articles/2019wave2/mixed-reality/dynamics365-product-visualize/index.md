@@ -3,28 +3,28 @@ title: Dynamics 365 Product Visualize 2019 年リリース ウェーブ 2 の概
 description: Dynamics 365 Product Visualize 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 09/23/2019
+ms.date: 11/08/2019
 ms.assetid: c1a3fad1-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: michtan
 dynamics365pdf: true
-ms.openlocfilehash: 15a7546ba37fc75241927eda1e983ff8a2abf91a
-ms.sourcegitcommit: e2c3a2557be0960c6f3f47d7f5c8a65f5a5fe45d
+ms.openlocfilehash: 427022002dd31e0c4e898e192e12688e49be56ad
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "2764914"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891571"
 ---
-# <a name="overview-of-dynamics-365-product-visualize-2019-release-wave-2"></a><span data-ttu-id="8de61-103">Dynamics 365 Product Visualize 2019 年リリース ウェーブ 2 の概要</span><span class="sxs-lookup"><span data-stu-id="8de61-103">Overview of Dynamics 365 Product Visualize 2019 release wave 2</span></span>
+# <a name="overview-of-dynamics-365-product-visualize-2019-release-wave-2"></a><span data-ttu-id="5c154-103">Dynamics 365 Product Visualize 2019 年リリース ウェーブ 2 の概要</span><span class="sxs-lookup"><span data-stu-id="5c154-103">Overview of Dynamics 365 Product Visualize 2019 release wave 2</span></span>
 [!include[mixed-reality/dynamics365-product-visualize banner](../includes/mixed-reality/dynamics365-product-visualize.md)]
 
 <!--overview start-->
-<span data-ttu-id="8de61-104">販売プロセスのできるだけ早い段階で顧客との共通の理解を達成するための営業担当者の能力は、取引の迅速な成立、注文変更の削減、および顧客の信頼の向上に不可欠です。</span><span class="sxs-lookup"><span data-stu-id="8de61-104">A salesperson’s ability to achieve a shared understanding with the customer as early as possible in the sales process is critical for faster deal closure, fewer changed orders, and increased customer trust.</span></span> <span data-ttu-id="8de61-105">Microsoft Dynamics 365 Product Visualize は、拡張現実の力をモバイル デバイスで活用することにより、営業担当者が自社製品の本当の可能性を顧客に伝えることを可能にします (2019 年リリース ウェーブ 2 では iOS デバイスのみ)。</span><span class="sxs-lookup"><span data-stu-id="8de61-105">Microsoft Dynamics 365 Product Visualize empowers salespeople to convey the true potential of their products to their customers by harnessing the power of augmented reality on their mobile devices (iOS devices only for the 2019 release wave 2).</span></span>
+<span data-ttu-id="5c154-104">販売プロセスのできるだけ早い段階で顧客との共通の理解を達成するための営業担当者の能力は、取引の迅速な成立、注文変更の削減、および顧客の信頼の向上に不可欠です。</span><span class="sxs-lookup"><span data-stu-id="5c154-104">A salesperson’s ability to achieve a shared understanding with the customer as early as possible in the sales process is critical for faster deal closure, fewer changed orders, and increased customer trust.</span></span> <span data-ttu-id="5c154-105">Microsoft Dynamics 365 Product Visualize は、拡張現実の力をモバイル デバイスで活用することにより、営業担当者が自社製品の本当の可能性を顧客に伝えることを可能にします (2019 年リリース ウェーブ 2 では iOS デバイスのみ)。</span><span class="sxs-lookup"><span data-stu-id="5c154-105">Microsoft Dynamics 365 Product Visualize empowers salespeople to convey the true potential of their products to their customers by harnessing the power of augmented reality on their mobile devices (iOS devices only for the 2019 release wave 2).</span></span>
 
-<span data-ttu-id="8de61-106">Dynamics 365 Sales との密接な統合により、営業担当者は案件管理と商品の視覚化の間に継続的なワークフローを作成できます。</span><span class="sxs-lookup"><span data-stu-id="8de61-106">Deep integration with Dynamics 365 Sales ensures salespeople have a continuous workflow between opportunity management and product visualization.</span></span> <span data-ttu-id="8de61-107">空間コンテキストでのメモの作成および Microsoft Teams との統合のための追加ツールにより、会話の完全なコンテキストを把握し、組織全体の同僚と共有できます。</span><span class="sxs-lookup"><span data-stu-id="8de61-107">Additional tools for creating notes with spatial context and integration with Microsoft Teams ensures the full context of the conversation can be captured and shared with colleagues across the organization.</span></span>
+<span data-ttu-id="5c154-106">Dynamics 365 Sales との密接な統合により、営業担当者は案件管理と商品の視覚化の間に継続的なワークフローを作成できます。</span><span class="sxs-lookup"><span data-stu-id="5c154-106">Deep integration with Dynamics 365 Sales ensures salespeople have a continuous workflow between opportunity management and product visualization.</span></span> <span data-ttu-id="5c154-107">空間コンテキストでのメモの作成および Microsoft Teams との統合のための追加ツールにより、会話の完全なコンテキストを把握し、組織全体の同僚と共有できます。</span><span class="sxs-lookup"><span data-stu-id="5c154-107">Additional tools for creating notes with spatial context and integration with Microsoft Teams ensures the full context of the conversation can be captured and shared with colleagues across the organization.</span></span>
 
-<span data-ttu-id="8de61-108">2019 年リリース ウェーブ 2 では、お客様のフィードバックを組み込んでアプリをより使いやすくすることに集中します。</span><span class="sxs-lookup"><span data-stu-id="8de61-108">For the 2019 release wave 2, we’re focusing on integrating customer feedback to make our app more usable.</span></span> <span data-ttu-id="8de61-109">使いやすさの更新には、3D モデル レイヤーのユーザー インターフェイスの改善と、アプリの包括性とアクセス性の向上を目的とした改善が含まれます (ただし、これらだけではありません)。</span><span class="sxs-lookup"><span data-stu-id="8de61-109">Usability updates include (but are not limited to) user interface improvements for 3D model layers, and improvements that will make the app more inclusive and accessible.</span></span> <span data-ttu-id="8de61-110">また、新しい地域や言語用にアプリをローカライズすることにも焦点を当てます。</span><span class="sxs-lookup"><span data-stu-id="8de61-110">We’ll also focus on localizing the app for new regions and languages.</span></span>
+<span data-ttu-id="5c154-108">2019 年リリース ウェーブ 2 では、お客様のフィードバックを組み込んでアプリをより使いやすくすることに集中します。</span><span class="sxs-lookup"><span data-stu-id="5c154-108">For the 2019 release wave 2, we’re focusing on integrating customer feedback to make our app more usable.</span></span> <span data-ttu-id="5c154-109">使いやすさの更新には、3D モデル レイヤーのユーザー インターフェイスの改善と、アプリの包括性とアクセス性の向上を目的とした改善が含まれます (ただし、これらだけではありません)。</span><span class="sxs-lookup"><span data-stu-id="5c154-109">Usability updates include (but are not limited to) user interface improvements for 3D model layers, and improvements that will make the app more inclusive and accessible.</span></span> <span data-ttu-id="5c154-110">また、新しい地域や言語用にアプリをローカライズすることにも焦点を当てます。</span><span class="sxs-lookup"><span data-stu-id="5c154-110">We’ll also focus on localizing the app for new regions and languages.</span></span>
 
-<span data-ttu-id="8de61-111">[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-product-visualize-192%27)) Dynamics 365 Product Visualize の 2019 年リリース ウェーブ 2 の更新情報</span><span class="sxs-lookup"><span data-stu-id="8de61-111">[![RSS Subscription](/dynamics365-release-plan/media/feed-icon.png "RSS Subscription")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-product-visualize-192%27)) Updates to Dynamics 365 Product Visualize 2019 release wave 2</span></span>
+<span data-ttu-id="5c154-111">[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-product-visualize-192%27)) Dynamics 365 Product Visualize の 2019 年リリース ウェーブ 2 の更新情報</span><span class="sxs-lookup"><span data-stu-id="5c154-111">[![RSS Subscription](/dynamics365-release-plan/media/feed-icon.png "RSS Subscription")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-product-visualize-192%27)) Updates to Dynamics 365 Product Visualize 2019 release wave 2</span></span>
 <!--overview end-->
