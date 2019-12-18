@@ -3,34 +3,34 @@ title: サード パーティ チャネルの分析
 description: サード パーティ チャネルの分析
 author: relnotes
 ms.reviewer: udag
-ms.date: 08/05/2019
+ms.date: 11/15/2019
 ms.assetid: 1a62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: rajeshna
+ms.author: askuma
 dynamics365pdf: true
-ms.openlocfilehash: 171309be7eb893c13cc3200013c0a222595a69dc
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 6fafee5dbb65e0da9a4154377fa1c61a93d43a53
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2662210"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893712"
 ---
-# <a name="analytics-for-third-party-channels"></a><span data-ttu-id="78358-103">サード パーティ チャネルの分析</span><span class="sxs-lookup"><span data-stu-id="78358-103">Analytics for third-party channels</span></span>
+# <a name="analytics-for-third-party-channels"></a><span data-ttu-id="fd312-103">サード パーティ チャネルの分析</span><span class="sxs-lookup"><span data-stu-id="fd312-103">Analytics for third-party channels</span></span>
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
-| <span data-ttu-id="78358-104">有効対象</span><span class="sxs-lookup"><span data-stu-id="78358-104">Enabled for</span></span>    |  <span data-ttu-id="78358-105">パブリック プレビュー</span><span class="sxs-lookup"><span data-stu-id="78358-105">Public preview</span></span> | <span data-ttu-id="78358-106">早期アクセス</span><span class="sxs-lookup"><span data-stu-id="78358-106">Early access</span></span> | <span data-ttu-id="78358-107">一般提供</span><span class="sxs-lookup"><span data-stu-id="78358-107">General availability</span></span> | 
+| <span data-ttu-id="fd312-104">有効対象</span><span class="sxs-lookup"><span data-stu-id="fd312-104">Enabled for</span></span>    |  <span data-ttu-id="fd312-105">パブリック プレビュー</span><span class="sxs-lookup"><span data-stu-id="fd312-105">Public preview</span></span> | <span data-ttu-id="fd312-106">早期アクセス</span><span class="sxs-lookup"><span data-stu-id="fd312-106">Early access</span></span> | <span data-ttu-id="fd312-107">一般提供</span><span class="sxs-lookup"><span data-stu-id="fd312-107">General availability</span></span> | 
 | ---------- | :----------: |:----------: |:----------: |
-|<span data-ttu-id="78358-108">エンド ユーザー、管理者/作成者による有効化、またはアナリスト</span><span class="sxs-lookup"><span data-stu-id="78358-108">End users by admins, makers, or analysts</span></span>|<span data-ttu-id="78358-109">2019 年 10 月</span><span class="sxs-lookup"><span data-stu-id="78358-109">Oct 2019</span></span>|-| <span data-ttu-id="78358-110">2020 年 1 月</span><span class="sxs-lookup"><span data-stu-id="78358-110">Jan 2020</span></span>|
+|<span data-ttu-id="fd312-108">エンド ユーザー、管理者/作成者による有効化、またはアナリスト</span><span class="sxs-lookup"><span data-stu-id="fd312-108">End users by admins, makers, or analysts</span></span>|<span data-ttu-id="fd312-109">![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。")</span><span class="sxs-lookup"><span data-stu-id="fd312-109">![This feature is released.](/dynamics365-release-plan/media/green-checkmark.png "This feature is released.")</span></span> <span data-ttu-id="fd312-110">2019 年 10 月 24 日</span><span class="sxs-lookup"><span data-stu-id="fd312-110">Oct 24, 2019</span></span>|-| <span data-ttu-id="fd312-111">2020 年 1 月</span><span class="sxs-lookup"><span data-stu-id="fd312-111">Jan 2020</span></span>|
 
 
 
 
 
 
-## <a name="feature-details"></a><span data-ttu-id="78358-111">機能の詳細</span><span class="sxs-lookup"><span data-stu-id="78358-111">Feature details</span></span>
+## <a name="feature-details"></a><span data-ttu-id="fd312-112">機能の詳細</span><span class="sxs-lookup"><span data-stu-id="fd312-112">Feature details</span></span>
 <!--feature detail start -->
-<span data-ttu-id="78358-112">顧客サービス用のオムニチャネルでは、平均処理時間や会話量など、自社チャネル向けのすぐに使用可能なチャネル固有のメトリックが既にいくつか用意されています。</span><span class="sxs-lookup"><span data-stu-id="78358-112">Omnichannel for Customer Service already provides several out-of-the-box channel-specific metrics for first-party channels—for example, average handling time and conversation volume.</span></span> <span data-ttu-id="78358-113">この機能の一部として、Dynamics 365 チャネル統合フレームワークを使用するサードパーティのチャネル プロバイダーは、チャネルに関連する測定値を提供できます。</span><span class="sxs-lookup"><span data-stu-id="78358-113">As part of this feature, third-party channel providers using Dynamics 365 Channel Integration Framework can provide relevant measures for their channels.</span></span> <span data-ttu-id="78358-114">これにより、組織はさまざまなチャネルやプロバイダーにまたがる KPI と分析情報の全体像を把握できます。</span><span class="sxs-lookup"><span data-stu-id="78358-114">This enables organizations to get a holistic view of KPIs and insights across different channels and providers.</span></span>
+<span data-ttu-id="fd312-113">顧客サービス用のオムニチャネルでは、平均処理時間や会話量など、自社チャネル向けのすぐに使用可能なチャネル固有のメトリックが既にいくつか用意されています。</span><span class="sxs-lookup"><span data-stu-id="fd312-113">Omnichannel for Customer Service already provides several out-of-the-box channel-specific metrics for first-party channels—for example, average handling time and conversation volume.</span></span> <span data-ttu-id="fd312-114">この機能の一部として、Dynamics 365 チャネル統合フレームワークを使用するサードパーティのチャネル プロバイダーは、チャネルに関連する測定値を提供できます。</span><span class="sxs-lookup"><span data-stu-id="fd312-114">As part of this feature, third-party channel providers using Dynamics 365 Channel Integration Framework can provide relevant measures for their channels.</span></span> <span data-ttu-id="fd312-115">これにより、組織はさまざまなチャネルやプロバイダーにまたがる KPI と分析情報の全体像を把握できます。</span><span class="sxs-lookup"><span data-stu-id="fd312-115">This enables organizations to get a holistic view of KPIs and insights across different channels and providers.</span></span>
 <!--feature detail end -->
 
 
@@ -41,3 +41,7 @@ ms.locfileid: "2662210"
 
 
 
+
+## <a name="see-also"></a><span data-ttu-id="fd312-116">関連項目</span><span class="sxs-lookup"><span data-stu-id="fd312-116">See also</span></span>
+
+<span data-ttu-id="fd312-117">[チャネル分析](https://docs.microsoft.com/dynamics365/customer-service/channel-integration-framework/channel-analytics) (ドキュメント)</span><span class="sxs-lookup"><span data-stu-id="fd312-117">[Channel Analytics](https://docs.microsoft.com/dynamics365/customer-service/channel-integration-framework/channel-analytics) (docs)</span></span>
