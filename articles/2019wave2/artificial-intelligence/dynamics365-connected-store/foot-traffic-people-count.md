@@ -3,18 +3,18 @@ title: 客足
 description: 人数データによって顧客のトラフィックを把握します。 顧客のトラフィックに基づいて情報ベースの意思決定を行い、店舗での広告キャンペーン、販売促進、製品配置の有効性を評価します。
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 10/08/2019
+ms.date: 11/25/2019
 ms.assetid: a464278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: brengqui
+ms.author: darcsal
 dynamics365pdf: true
-ms.openlocfilehash: c9648dc4f3cdeb5c0def3cb65b2b46bfa1e70bf6
-ms.sourcegitcommit: 23187fa8f86ecf390a1c4e61b3a4de1516dd3b5d
+ms.openlocfilehash: d2a474eca98d20019edeb62b49badcd8241b9de4
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "2573735"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891758"
 ---
 # <a name="foot-traffic"></a>客足
 [!include[artificial-intelligence/dynamics365-connected-store banner](../includes/artificial-intelligence/dynamics365-connected-store.md)]

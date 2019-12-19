@@ -3,18 +3,18 @@ title: POS および本社の拡張機能
 description: POS および本社の拡張機能
 author: mugunthanm
 ms.reviewer: josaw
-ms.date: 10/14/2019
+ms.date: 11/15/2019
 ms.assetid: 5e63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mumani
 dynamics365pdf: true
-ms.openlocfilehash: 01bf1bfb5e5179d417ba1dfe605de9701fb541b7
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: 52ffa75eec4afc9f503aa3be754e8623321761da
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2659960"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2890005"
 ---
 # <a name="pos-and-headquarters-extensions"></a>POS および本社の拡張機能
 

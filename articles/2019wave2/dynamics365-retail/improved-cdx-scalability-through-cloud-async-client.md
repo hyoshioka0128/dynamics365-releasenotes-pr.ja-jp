@@ -3,18 +3,18 @@ title: Cloud Async Client による CDX のスケーラビリティの向上
 description: Cloud Async Client による CDX のスケーラビリティの向上
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/07/2019
+ms.date: 11/15/2019
 ms.assetid: 7c9dc757-73aa-e911-a964-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: jashanno
 dynamics365pdf: true
-ms.openlocfilehash: ebac4de3d20f73420b89c6ee2e6ca685f69dec98
-ms.sourcegitcommit: c843aacec8dddcb0d6693c79fbace7f19bf09565
+ms.openlocfilehash: e34c503d91b7d4c5039880c2d1fca8266df3ca3e
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "2574460"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2890094"
 ---
 # <a name="improved-cdx-scalability-through-cloud-async-client"></a>Cloud Async Client による CDX のスケーラビリティの向上
 
@@ -35,5 +35,11 @@ Commerce Data Exchange (CDX) は、チャネル データベースとオフラ�
 <!--feature detail start -->
 CDX は、直接には本部の一部ではなくなります。 これを独自の Azure サービスに拡張することで、競合するリソースがなくなります。 代わりに、背後で Azure の完全なスケーラビリティとメリットが発揮され、現在および将来の最大限の改善が可能になります。
 <!--feature detail end -->
+
+
+
+
+
+
 
 

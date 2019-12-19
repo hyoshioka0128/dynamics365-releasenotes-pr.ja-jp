@@ -3,24 +3,24 @@ title: Dynamics 365 の 2019 年リリース ウェーブ 2 の概要
 description: 2019 年リリース ウェーブ 2 の予定では、2019 年 10 月から 2020 年 3 月の間にリリースされる予定の Dynamics 365 の機能が説明されています。
 author: DesaiDarshan
 ms.reviewer: renwe
-ms.date: 11/4/2019
+ms.date: 12/6/2019
 ms.assetid: ''
 ms.topic: overview
 ms.service: business-applications
 ms.author: ramanasr
 dynamics365pdf: true
-ms.openlocfilehash: a93861301a1b85a49c62644407804dda155bc019
-ms.sourcegitcommit: c14f70686c0f960a3fc67685fb09a0b923b96d58
+ms.openlocfilehash: 596cf5b097425d3d4dc90fdb36f650ad55b90cfe
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "2751800"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893924"
 ---
 # <a name="dynamics-365-2019-release-wave-2-plan"></a>Dynamics 365: 2019 年リリース ウェーブ 2 の予定 
 
 **[2019 年リリース ウェーブ 2 の PDF のダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2094533)** (最終更新日 2019 年 10 月 29 日)
 
-2019 年リリース ウェーブ 2 の Dynamics 365 リリース計画 (旧称リリース ノート) では、2019 年 10 月から 2020 年 3 月中にリリースされるすべての新機能について説明します。 このリリース計画は、[オンライン](https://aka.ms/Dynamics365ReleasePlan)で参照することも、[PDF ファイル](https://go.microsoft.com/fwlink/p/?linkid=2094533)のドキュメントとしてダウンロードすることもできます。 PDF ファイルには、Power Apps、Power Automate、Power Virtual Agents、および Common Data Model とデータ統合に関する情報も含まれています。
+2019 年リリース ウェーブ 2 の Dynamics 365 リリース計画 (旧称リリース ノート) では、2019 年 10 月から 2020 年 3 月中にリリースされるすべての新機能について説明します。 このリリース計画は、[オンライン](https://aka.ms/Dynamics365ReleasePlan)で参照することも、[PDF ファイル](https://go.microsoft.com/fwlink/p/?linkid=2094533)のドキュメントとしてダウンロードすることもできます。 PDF ファイルには、Power Apps、Power Automate、Power Virtual Agents、Common Data Model、およびデータ統合に関する情報も含まれています。
 
 ウェーブ 2 の新機能: 2019 年リリース ウェーブ 2 に含まれる Power Platform の機能は、別の[リリース計画](https://aka.ms/PowerPlatformReleasePlan)とダウンロード可能な [PDF](https://go.microsoft.com/fwlink/?linkid=2094633) にまとめられています。 
 
@@ -46,6 +46,11 @@ Dynamics 365 アプリケーションの機能強化には、業務プロセス 
 2019 年 10 月から、新しいビジネス プロセス アプリケーションが提供されます。
 
 実績ある Dynamics 365 Retail の機能に基づいて構築された**Dynamics 365 Commerce** は、バックオフィス、インストア、デジタルのエクスペリエンスを統合する包括的なオムニチャネル ソリューションを提供します。 
+
+2019 年 12 月から、新しいビジネス プロセス アプリケーションが提供されます。
+
+**Dynamics 365 Human Resources** - 人事担当者が複数の分野でデータ主導の従業員エクスペリエンスを構築するために必要な従業員分析情報を得るのに役立ちます。 人と運用データを結び付けて、企業が人件費を最適化し、従業員をより適切に管理できるようにします。
+
 
 ### <a name="artificial-intelligence"></a>人工知能
 

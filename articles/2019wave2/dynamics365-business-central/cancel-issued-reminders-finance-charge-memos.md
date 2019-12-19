@@ -3,18 +3,18 @@ title: アラームと利息メモをキャンセルする
 description: 発行されたアラームと利息メモを、1 つずつ、またはまとめてキャンセルできます。
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 10/01/2019
+ms.date: 11/15/2019
 ms.assetid: 0a98f298-dc65-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 1689fe968dee275fbf6d021324cc56c477b9e74f
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: 7c7dacd7bf354b310c6365f656323b4eeedf512f
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667182"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892253"
 ---
 # <a name="cancel-reminders-and-finance-charge-memos"></a>アラームと利息メモをキャンセルする
 

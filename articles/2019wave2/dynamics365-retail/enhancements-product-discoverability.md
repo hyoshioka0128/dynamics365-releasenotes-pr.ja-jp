@@ -3,18 +3,18 @@ title: 製品の見つけやすさの改善
 description: 製品の見つけやすさの改善
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/22/2019
+ms.date: 11/15/2019
 ms.assetid: 8463278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: asharchw
 dynamics365pdf: true
-ms.openlocfilehash: 50f24b043f532b93e629b75485ef2a62d75d3161
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: aefb97686ef13e51e93ba4ffc2ef73383bfc5196
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660004"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2890134"
 ---
 # <a name="enhancements-for-product-discoverability"></a>製品の見つけやすさの改善
 
@@ -30,7 +30,7 @@ ms.locfileid: "2660004"
 
 顧客は、Web 検索エンジン、洗練された eコマース Web サイト、入力中に関連検索を提案するソーシャル アプリ、ファセット ナビゲーション、一致用語ハイライト表示などの機能をすべてほぼ瞬時の応答時間で利用することに慣れています。 消費者は、適切な製品を十分にすばやく見つけられないと、パフォーマンスがより優れた別の小売サイトに躊躇なく移動します。 
 
-Dynamics 365 Retail での製品の見つけやすさを向上させるこの取り組みにより、小売業者は消費者のショッピング体験を支援してその期待を満たすことができ、eコマースや POS などのすべてのチャネルにおいて消費者の維持率とコンバージョン率を高めるのに役立ちます。
+Dynamics 365 Retail での製品の見つけやすさを向上させるこの投資により、小売業者は消費者のショッピング体験を支援してその期待を満たすことができ、eコマースや POS などのすべてのチャネルにおいて消費者の維持率とコンバージョン率を高めるのに役立ちます。
 <!-- bv end -->
 
 

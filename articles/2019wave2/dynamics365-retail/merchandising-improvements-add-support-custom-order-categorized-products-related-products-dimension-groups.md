@@ -3,25 +3,25 @@ title: 販売促進の改善 – カテゴリ化製品、関連製品、分析�
 description: 販売促進関連のシナリオのサポートは、現在は実装パートナーからの拡張機能が必要な既存のシナリオとよく一致するように強化されます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 08/26/2019
+ms.date: 11/15/2019
 ms.assetid: aeb2e25b-69aa-e911-a963-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: asharchw
 dynamics365pdf: true
-ms.openlocfilehash: 0bdc3838f31a4823d57e25589c8fc544e76be174
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: aea660dd45121d689b0aefb5777379095462644a
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2659982"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2890060"
 ---
 # <a name="merchandising-improvements--add-support-for-custom-order-for-categorized-products-related-products-and-dimension-groups"></a>販売促進の改善 – カテゴリ化製品、関連製品、分析コード グループに対するカスタム順序のサポートの追加
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 21 日| 2020 年 1 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -57,3 +57,7 @@ ms.locfileid: "2659982"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[販売促進エンティティの並べ替え順序の変更](https://docs.microsoft.com/dynamics365/retail/custom-order-categories-nav-retail-prod-hierarchy) (ドキュメント)

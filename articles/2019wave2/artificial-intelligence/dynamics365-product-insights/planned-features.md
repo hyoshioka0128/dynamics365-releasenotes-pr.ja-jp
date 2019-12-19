@@ -3,17 +3,17 @@ title: Dynamics 365 Product Insights の新機能と予定されている機能 
 description: Dynamics 365 Product Insights で計画されている機能の概要。
 author: relnotes
 ms.reviewer: v-aswood
-ms.date: 10/24/2019
+ms.date: 12/04/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: fweigel
 dynamics365pdf: true
-ms.openlocfilehash: 4ddb91577555b5b765b250d875d04f4b44cb5931
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 6e352cf9a94f7c7117862fc99483e6d24b08a2b1
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661858"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893811"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-product-insights"></a>Dynamics 365 Product Insights の新機能と予定されている機能
 

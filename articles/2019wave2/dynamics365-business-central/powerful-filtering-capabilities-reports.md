@@ -3,18 +3,18 @@ title: レポートをより効率的にフィルター処理する
 description: より多くのフィルター フィールドを追加できるようにするなど、コミュニティのトップ リクエストのいくつかに対処して、レポートのフィルター処理エクスペリエンスを改善しています。
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 10/01/2019
+ms.date: 11/15/2019
 ms.assetid: b863278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: a67dc0d102c69df0d3a174a7b6df730f8a0b3c67
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: c9131442e91cb9d6a55d9513a14d06a25a838c47
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667113"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892011"
 ---
 # <a name="filter-reports-more-efficiently"></a>レポートをより効率的にフィルター処理する
 
@@ -38,9 +38,9 @@ Business Central でレポートを実行するときは、さまざまなオプ
 ### <a name="filtering-report-data"></a>レポート データのフィルター処理
 以下の操作を行えるリストのフィルター処理に似た機能により、フィルター エクスペリエンスが大幅に向上しました。
 
- - ソース テーブルから任意のフィールドを選択するか、入力してフィールドをすばやく検索することにより、フィルター処理されたフィールドを好きなだけ追加します。
- - ルックアップおよび類似のピッカーを使用して、複数オプション フィールド値でのフィルター処理など、フィルター値の指定に関するヘルプを入手します。
- - 演算子、範囲、数式、フィルター トークンを使用して、複雑なフィルターを作成します。
+- ソース テーブルから任意のフィールドを選択するか、入力してフィールドをすばやく検索することにより、フィルター処理されたフィールドを好きなだけ追加します。
+- ルックアップおよび類似のピッカーを使用して、複数オプション フィールド値でのフィルター処理など、フィルター値の指定に関するヘルプを入手します。
+- 演算子、範囲、数式、フィルター トークンを使用して、複雑なフィルターを作成します。
 
 Business Central では、適用したフィルターが記憶され、以前に行ったレポート設定から選択することもできます。
 

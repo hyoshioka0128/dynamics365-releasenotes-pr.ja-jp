@@ -3,18 +3,18 @@ title: フル キーボード ショートカットのサポート
 description: ショートカットが追加されており、開発者はカスタム アクション用に独自のキーボード ショートカットを追加できます。
 author: kotelko
 ms.reviewer: sgroespe
-ms.date: 10/01/2019
+ms.date: 11/15/2019
 ms.assetid: b663278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: blazkote
 dynamics365pdf: true
-ms.openlocfilehash: 8af2b0666ff6ce43755578ace418b9bd6e9f6257
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: 2c837041f8959db2a338f449cce01cfa28a1ea14
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667303"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892165"
 ---
 # <a name="full-keyboard-shortcut-support"></a>フル キーボード ショートカットのサポート
 

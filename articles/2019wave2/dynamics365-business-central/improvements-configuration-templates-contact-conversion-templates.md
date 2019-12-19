@@ -3,18 +3,18 @@ title: 優れたテンプレートを使用してレコードを作成し、見�
 description: 構成テンプレートと連絡先変換テンプレートの改善
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 10/01/2019
+ms.date: 11/15/2019
 ms.assetid: 407c92f7-4bc3-e911-a96d-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: b282a1fbdcf506b64ef0dd5cac4e460d6955166c
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: c78b9fb4ab60a8e003f72290ca970910989f0db1
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667292"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892132"
 ---
 # <a name="create-records-and-convert-prospects-with-better-templates"></a>優れたテンプレートを使用してレコードを作成し、見込顧客を変換する
 

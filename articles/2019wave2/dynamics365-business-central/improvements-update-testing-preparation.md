@@ -3,18 +3,18 @@ title: 更新イベントの詳細な通知
 description: 更新イベントの詳細な通知
 author: relnotes
 ms.reviewer: edupont
-ms.date: 10/01/2019
+ms.date: 11/15/2019
 ms.assetid: b5c1c411-b66d-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: jaredha
 dynamics365pdf: true
-ms.openlocfilehash: 65d5bdd1b946cb492cf9adf5cab5f9c4d5ca0741
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: 675d1a4aaf04cfdf7ca0ab8af73f83e8daae624a
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667277"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892121"
 ---
 # <a name="detailed-notifications-for-update-events"></a>更新イベントの詳細な通知
 

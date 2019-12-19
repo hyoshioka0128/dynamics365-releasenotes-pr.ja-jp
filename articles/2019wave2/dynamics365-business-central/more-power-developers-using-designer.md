@@ -3,18 +3,18 @@ title: デザイナーを使用する開発者のパワー アップ
 description: ロール センターのアクションの調整、ナビゲーション メニューの作成、プロファイルのカスタマイズにより、デザイナーの機能を強化します。
 author: mikebcMSFT
 ms.reviewer: edupont
-ms.date: 10/17/2019
+ms.date: 11/15/2019
 ms.assetid: e5e5ca37-e66b-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 594791b5610e03271b7347882fb67a6f2f731979
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: 5f86ca1147454424af6e6a6efe2e05f7e9213a20
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667061"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892099"
 ---
 # <a name="more-power-to-developers-using-designer"></a>デザイナーを使用する開発者のパワー アップ
 
@@ -35,10 +35,10 @@ Visual Studio Code でコードを記述することは効率的ですが、ペ�
 <!--feature detail start -->
 このリリースでは、開発者はデザイナーを使用して次のこともできます。
 
- - ロール センターでのアクションとアクション グループを調整します。
- - 関連ページをブックマークしてメニューを最初から作成するなど、ナビゲーション メニューの項目とロール センターのグループおよびサブグループを調整します。
- - ダブルクリックしてリスト ページの列を自動調整します。
- - リストにフィルターを定義し、名前付きビューとして保存します。
+- ロール センターでのアクションとアクション グループを調整します。
+- 関連ページをブックマークしてメニューを最初から作成するなど、ナビゲーション メニューの項目とロール センターのグループおよびサブグループを調整します。
+- ダブルクリックしてリスト ページの列を自動調整します。
+- リストにフィルターを定義し、名前付きビューとして保存します。
  
 ![リスト ページにリスト ビューを追加したスクリーンショット](media/designer-3000x2000.png "リスト ページにリスト ビューを追加したスクリーンショット")
 <!--feature detail end -->

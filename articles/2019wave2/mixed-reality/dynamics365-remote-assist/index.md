@@ -3,18 +3,18 @@ title: Dynamics 365 Remote Assist 2019 年リリース ウェーブ 2 の概要
 description: Dynamics 365 Remote Assist 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 10/22/2019
+ms.date: 11/08/2019
 ms.assetid: c3a3fad1-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: namarwah
 dynamics365pdf: true
-ms.openlocfilehash: 3db682f689cd43f09decd2fb0884cc56c66dbe70
-ms.sourcegitcommit: e2c3a2557be0960c6f3f47d7f5c8a65f5a5fe45d
+ms.openlocfilehash: f35dbbd398f9207a9773103d3cbf618b48d0b5e6
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "2764793"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891538"
 ---
 # <a name="overview-of-dynamics-365-remote-assist-2019-release-wave-2"></a>Dynamics 365 Remote Assist 2019 年リリース ウェーブ 2 の概要
 [!include[mixed-reality/dynamics365-remote-assist banner](../includes/mixed-reality/dynamics365-remote-assist.md)]
@@ -32,5 +32,5 @@ Dynamics 365 Remote Assist は、初めての問題を早期に解決できる�
 
 [概要ビデオを見る](https://aka.ms/ROGRA19RW2ROV)
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-remote-assist-192%27)) Dynamics 365 Remote Assist の 2019 年リリース ウェーブ 2 の更新情報
+[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-remote-assist-192%27)) Dynamics 365 Remote Assist の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

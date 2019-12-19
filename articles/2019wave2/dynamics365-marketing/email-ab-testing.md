@@ -3,18 +3,18 @@ title: メールの A/B テスト
 description: メールの A/B テスト
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 10/07/2019
+ms.date: 11/15/2019
 ms.assetid: b861278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: 28433776932c1385528166a413efb1a80ce2a0c9
-ms.sourcegitcommit: c843aacec8dddcb0d6693c79fbace7f19bf09565
+ms.openlocfilehash: 7c5f589e98ed341f7840543421f8c545a593148e
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "2574581"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891824"
 ---
 # <a name="email-ab-testing"></a>メールの A/B テスト
 
@@ -35,7 +35,7 @@ ms.locfileid: "2574581"
 マーケティング担当者が代替バージョンのメッセージを作成し、それに対するビジネス目標を定義できるようにすることで、この機能が Marketing 製品に組み込まれました。 システムでは、ターゲット セグメント内にいくつかの小さなテスト グループが確立され、各グループに異なるバージョンのメッセージが送信された後、統計的分析が行われて、示されたビジネス目標に基づいて優れている方のデザインが自動的に特定されます。 その後、優れている方が残りのセグメントに配布されます。
 <!--feature detail end -->
 
-![A/B テスト プロセス概要図](media/a-b-testing.png "A/B テスト プロセス概要図")
+![A/B テスト プロセスの概要図](media/a-b-testing.png "A/B テスト プロセスの概要図")
 <!-- Picture 1 -->
 
 

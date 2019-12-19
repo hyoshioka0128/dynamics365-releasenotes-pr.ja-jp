@@ -3,17 +3,17 @@ title: Dynamics 365 Connected Store の新機能と予定されている機能 (
 description: Dynamics 365 Connected Store で計画されている機能の概要。
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 10/24/2019
+ms.date: 12/04/2019
 ms.topic: summary
 ms.service: business-applications
-ms.author: lorrainb
+ms.author: msalam
 dynamics365pdf: true
-ms.openlocfilehash: 0e596a29ebd08833ad81d68c50e48880fb34566d
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 71349d355fbb16fea7973cd95e6801a4d7c9c497
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661022"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891549"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-connected-store"></a>Dynamics 365 Connected Store の新機能と予定されている機能
 

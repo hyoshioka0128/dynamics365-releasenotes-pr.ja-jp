@@ -3,18 +3,18 @@ title: Dynamics 365 Supply Chain Management 2019 年リリース ウェーブ 2 
 description: Dynamics 365 Supply Chain Management 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/23/2019
+ms.date: 11/08/2019
 ms.assetid: 32921b4a-cdf5-e911-a813-000d3a4f1cdd
 ms.topic: overview
 ms.service: business-applications
 ms.author: mswami
 dynamics365pdf: true
-ms.openlocfilehash: 356820d3a5d3c77676a996ca85e1e42b17897b84
-ms.sourcegitcommit: e2c3a2557be0960c6f3f47d7f5c8a65f5a5fe45d
+ms.openlocfilehash: 6cc0153d582d94edbef89bc28d41ddf0849371da
+ms.sourcegitcommit: bd788231509147b253bf0440768b5c5940879246
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "2764947"
+ms.lasthandoff: 11/16/2019
+ms.locfileid: "2810315"
 ---
 # <a name="overview-of-dynamics-365-supply-chain-management-2019-release-wave-2"></a>Dynamics 365 Supply Chain Management 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
@@ -23,7 +23,7 @@ ms.locfileid: "2764947"
 ## <a name="trade-product-information-and-inventory-management"></a>取引、製品情報、在庫の管理
 サービス運用時に取得される継続的なフィードバックにより、パフォーマンスが明らかに向上する可能性がある在庫管理領域内の具体的なサブプロセスを特定します。 これは、サービスのいくつかの分野に広範な影響を与える継続的な取り組みであり、フィードバックの高速化、待機時間の短縮、およびプロセスの完了を待つリソースのブロック解除を可能にします。 
 
-製品情報管理機能と在庫管理機能の両方に引き続き取り組みます。 新しいクラスの製品と製造プロセスにより、製品定義とそれを支える要素の進化を促進します。 在庫評価機能は、管理レポートや国家機関のレポートの要件が異なる場合など、複数の評価方法と複数の通貨が必要とされるシナリオをサポートするように拡張されます。 また、小売業界などの分散シナリオで、手持在庫情報をより簡単に利用できるようにすることにも取り組みます。 
+製品情報管理機能と在庫管理機能の両方に引き続き投資します。 新しいクラスの製品と製造プロセスにより、製品定義とそれを支える要素の進化を促進します。 在庫評価機能は、管理レポートや国家機関のレポートの要件が異なる場合など、複数の評価方法と複数の通貨が必要とされるシナリオをサポートするように拡張されます。 また、小売業界などの分散シナリオで、手持在庫情報をより簡単に利用できるようにすることにも投資します。 
 
 このリリースでは、販売や調達に関わる機能の使いやすさを強化し、ユーザーの生産性と満足度を向上させます。 スーパー ユーザーは、不必要なフィールドやアクションを削除でき、フォームの目的をすばやく理解してすばやく対話できる、フィルター処理されたビューと目的に合わせて作成されたフォームを提案できます。 利点は 2 つあります。 スーパー ユーザーの知識を組織に広めることができ、すべてのスキル レベルのユーザーが、目の前のタスクに合わせて作成されたターゲットを絞ったビューから恩恵を受けることができます。 
 
@@ -36,12 +36,12 @@ ms.locfileid: "2764947"
 
 2019 年リリース ウェーブ 2 では、既存のお客様が 4 月リリースまたはその後の毎月のリリースにアップグレードできるようにすることを目的として、2 番目の CW 専用ソリューションの機能を追加することで、リリースされた CW 機能を拡張していきます。 このソリューションは、製造業者だけでなく流通業者のニーズにも合います。 この統合がなかったことで、特定のお客様による WMS ソリューションの採用が妨げられてきましたが、この制限はなくなります。 30 以上の異なる機能のスイートは、2019 年 4 月リリース後のプレビューおよびその後の毎月のリリースの一部として統合されます。 たとえば、"ウェーブの間にラベル印刷を有効にする" ような機能により、構成と操作の柔軟性が高まります。 
 
-すべての機能の公開は、制御されたロールアウトを可能にすることで達成されます。取り組みには、Microsoft HoloLens を使用した倉庫自動化の実現と、ビデオ フィードを使用した空間データ分析が含まれます。 
+すべての機能の公開は、制御されたロールアウトを可能にすることで達成されます。投資には、Microsoft HoloLens を使用した倉庫自動化の実現と、ビデオ フィードを使用した空間データ分析が含まれます。 
 
 ## <a name="manufacturing-and-planning"></a>製造および計画
 最大の優先事項は、サービスの運用から得られる継続的なフィードバックを活用して、目に見えるパフォーマンスの向上を推進し、製造に関わる主なビジネス プロセスを最適化することです。 計画最適化のパブリック プレビューは、2019 年 10 月に公開予定です。 
 
 Microsoft では、現在の製造機能の強化と発展を継続的に進めており、現代の製造業者と連動するインテリジェントな運用をサポートします。 インテリジェントな Microsoft Azure IoT サービスと統合し、製造業のお客様がデジタル フィードバック ループを完結させるのを支援します。 これにより、製造現場からのリアルタイムに近い情報をビジネス データと統合して、ビジネス イベントやアクションにつながる分析情報を生成します。 買収により、お客様が運用資産の総所有コストを追跡し、それらの資産の継続的な保守を管理できるようにする、エンタープライズ資産管理機能を導入します。
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-supply-chain-management-192%27)) Dynamics 365 Supply Chain Management の 2019 年リリース ウェーブ 2 の更新情報
+[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-supply-chain-management-192%27)) Dynamics 365 Supply Chain Management の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

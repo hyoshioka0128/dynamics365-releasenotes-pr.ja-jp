@@ -3,18 +3,18 @@ title: クロスドッキング用の自動リリース出荷
 description: 製造オーダーの供給元でクロスドッキング作業を作成するときに、クロスドッキング テンプレートを便宜的に設定することができ、ユーザーがモバイル デバイスで終了済みトランザクションとしてレポートを完了した時点で、マークされた販売注文がシステムによって自動的に倉庫にリリースされます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/16/2019
+ms.date: 11/15/2019
 ms.assetid: 9e62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: omulvad
 dynamics365pdf: true
-ms.openlocfilehash: 4f5813a3d516b91a944d5d5ec7cbe4092466025c
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: 30d10eeff3ead43fe369e8864704b4ad9ca928b0
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660551"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889961"
 ---
 # <a name="auto-release-shipment-for-cross-dock"></a>クロスドッキング用の自動リリース出荷
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]

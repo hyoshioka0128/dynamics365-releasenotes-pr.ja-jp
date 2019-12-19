@@ -3,25 +3,25 @@ title: CW 統合の強化 10.0.4
 description: CW 統合の強化 10.0.4
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/11/2019
+ms.date: 12/03/2019
 ms.assetid: ae62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: perlynne
 dynamics365pdf: true
-ms.openlocfilehash: 0e71c12ce84548ef6e54a13e447e65c5027af9dd
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: 3e4e2ccf6c7e7d9684bf650e3d92439c84df227f
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660555"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889884"
 ---
 # <a name="further-catch-weight-integration-1004"></a>CW 統合の強化 10.0.4
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 6 月 1 日| 2020 年 2 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 6 月 1 日| 2020 年 3 月|
 
 
 
@@ -49,3 +49,8 @@ ms.locfileid: "2660555"
 
 
 
+
+## <a name="see-also"></a>関連項目
+[機能の探索](https://www.microsoft.com/videoplayer/embed/RE4jzx8) (ビデオ)
+
+[倉庫管理での CW 製品処理](https://docs.microsoft.com/dynamics365/supply-chain/warehousing/catch-weight-processing) (ドキュメント)

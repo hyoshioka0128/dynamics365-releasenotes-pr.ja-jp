@@ -3,18 +3,18 @@ title: プロビジョニングと環境管理
 description: ''
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/21/2019
+ms.date: 11/15/2019
 ms.assetid: b263278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: brendans
 dynamics365pdf: true
-ms.openlocfilehash: 0e3c248af0d3a5e51dda3a3a51e7b8016b169706
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 5dde02d5fec51ba2329d6ffb4612301c76ac5258
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661528"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2890269"
 ---
 # <a name="provisioning-and-environment-management"></a>プロビジョニングと環境管理
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]

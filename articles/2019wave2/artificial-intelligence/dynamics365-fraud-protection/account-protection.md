@@ -2,19 +2,19 @@
 title: アカウントの保護
 description: アカウント保護のためのサインアップとサインインのリスク評価
 author: relnotes
-ms.reviewer: v-jegrif
-ms.date: 10/07/2019
+ms.reviewer: v-davido
+ms.date: 11/15/2019
 ms.assetid: 75a5392d-c56d-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: amyhre
 dynamics365pdf: true
-ms.openlocfilehash: 065fb381cbf39c7a063e388859f1b1e9d47a1a53
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 9f327615b2c3abefb9edb2e0d33617d7861d7a5c
+ms.sourcegitcommit: cf8b2ba74d2b553c2a721942221c285ffcf184c5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661611"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892629"
 ---
 # <a name="account-protection"></a>アカウントの保護
 [!include[artificial-intelligence/dynamics365-fraud-protection banner](../includes/artificial-intelligence/dynamics365-fraud-protection.md)]
@@ -50,4 +50,4 @@ Dynamics 365 Fraud Protection には、複数の企業にまたがる不正パ�
 
 ## <a name="see-also"></a>関連項目
 
-[アカウントの保護](https://docs.microsoft.com/en-us/dynamics365/fraud-protection/account-protection) (ドキュメント)
+[アカウントの保護](https://docs.microsoft.com/dynamics365/fraud-protection/account-protection) (ドキュメント)

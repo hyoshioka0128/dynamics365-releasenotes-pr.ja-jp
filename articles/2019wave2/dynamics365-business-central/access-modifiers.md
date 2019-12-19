@@ -3,18 +3,18 @@ title: アクセス モディファイアー
 description: 拡張機能の AL 言語要素にアクセス モディファイアーを追加します。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 10/17/2019
+ms.date: 11/15/2019
 ms.assetid: 5e9bbd72-746d-e911-a95f-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: pborring
 dynamics365pdf: true
-ms.openlocfilehash: 84e46f57d7d177aa8d04a59e85f320dddeecd475
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: 3773dd5adacbb7a1bd142ce535b739f7282f9674
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667259"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892341"
 ---
 # <a name="access-modifiers"></a>アクセス モディファイアー
 

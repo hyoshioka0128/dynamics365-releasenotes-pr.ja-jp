@@ -3,18 +3,18 @@ title: 入庫品質チェック
 description: この機能を使用すると、入庫ドック エリアへの入庫時にその場で迅速な品質チェックを実行できます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/04/2019
+ms.date: 12/02/2019
 ms.assetid: b462278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
-ms.openlocfilehash: 70157d8f333d3ae1a3c67985a3a58d33ba293d9c
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: a0591ea1e2b15a5efef377fb00e31c75f1e51b16
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660553"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889675"
 ---
 # <a name="inbound-quality-check"></a>入庫品質チェック
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
@@ -45,3 +45,6 @@ ms.locfileid: "2660553"
 
 
 
+
+## <a name="see-also"></a>関連項目
+[機能の探索](https://www.microsoft.com/en-us/videoplayer/embed/RE4ffzr) (ビデオ)

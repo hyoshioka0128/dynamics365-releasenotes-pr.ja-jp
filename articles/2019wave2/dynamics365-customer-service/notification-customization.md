@@ -3,25 +3,25 @@ title: 通知のカスタマイズ
 description: 通知のカスタマイズ
 author: relnotes
 ms.reviewer: kabala
-ms.date: 08/05/2019
+ms.date: 11/15/2019
 ms.assetid: 0862278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mahesh
 dynamics365pdf: true
-ms.openlocfilehash: 1351c96c73d41b45399f615939a6dd3a56804083
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 9f12574895224e0da7f4c8787848a1d7307cb47e
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2662122"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893646"
 ---
 # <a name="notification-customization"></a>通知のカスタマイズ
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月|-| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-| 2020 年 1 月|
 
 
 
@@ -43,3 +43,7 @@ ms.locfileid: "2662122"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[通知テンプレートを管理する](https://docs.microsoft.com/dynamics365/omnichannel/administrator/notification-templates) (ドキュメント)

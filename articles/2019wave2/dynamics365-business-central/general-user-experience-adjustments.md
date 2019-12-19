@@ -3,18 +3,18 @@ title: 一般的なユーザー エクスペリエンスの調整
 description: Dynamics 365 および Office 365 に対する熟知を維持する一般的なユーザー エクスペリエンスの調整。
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 09/25/2019
+ms.date: 12/04/2019
 ms.assetid: 8b58ce5a-6a6c-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 77e1885691e25a0c5efd2db9a76c1e6cf8d5b9a9
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: 074bf1e92aaf6cdcafb38fda43d85baf544f9384
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667358"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892154"
 ---
 # <a name="general-user-experience-adjustments"></a>一般的なユーザー エクスペリエンスの調整
 
@@ -39,9 +39,9 @@ ms.locfileid: "2667358"
 
 ブロックとして表示されるレコードの見え方やユーザービリティの問題にも対処しました。
 
- - ブロックが水平方向の空きスペースに合わせて入るようになります。
- - 過去のリリースでは、ブロック上の任意の場所をクリックすると、レコードの詳細にドリルダウンされることがありました。 これには、関連する FactBox が表示されるようブロックにフォーカスを設定するためには正確にクリックする必要があるなど、さまざまな欠点がありました。 新しいクリック ターゲットにより、選択のためのクリックとドリルダウンのためのクリックがより明確に区別されるようになりました。 
- - また、Ctrl + C キーボード ショートカットで 1 つのブロックをコピーできるようになりました。
+- ブロックが水平方向の空きスペースに合わせて入るようになります。
+- 過去のリリースでは、ブロック上の任意の場所をクリックすると、レコードの詳細にドリルダウンされることがありました。 これには、関連する FactBox が表示されるようブロックにフォーカスを設定するためには正確にクリックする必要があるなど、さまざまな欠点がありました。 新しいクリック ターゲットにより、選択のためのクリックとドリルダウンのためのクリックがより明確に区別されるようになりました。 
+- また、Ctrl + C キーボード ショートカットで 1 つのブロックをコピーできるようになりました。
 
 ロール センターでは、ルートレベルのアクションがアクション グループから自動的に分離されなくなります。 コード内で定義された順序が尊重され、クライアントで各アクション領域に反映されます。 たとえば、ロール センターでは、アクション、アクション グループ、アクションの順にアクションを表示できるようになりました。
 
@@ -62,3 +62,7 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[Business Central での作業](https://docs.microsoft.com/dynamics365/business-central/ui-work-product) (ドキュメント)

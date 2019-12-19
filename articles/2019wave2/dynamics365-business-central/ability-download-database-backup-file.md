@@ -3,25 +3,25 @@ title: データベース エクスポート ファイルをダウンロード�
 description: テナント管理者は、Business Central 環境用のデータベース エクスポート ファイルをダウンロードできます。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 10/01/2019
+ms.date: 11/15/2019
 ms.assetid: 16083fba-b36d-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: jaredha
 dynamics365pdf: true
-ms.openlocfilehash: 5a59d600533d6b478010b174a6281c3323f0f7a8
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: a7fcb76715bf4d9c2b66a9d9c5bcc0ef05252319
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667237"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892220"
 ---
 # <a name="ability-to-download-a-database-export-file"></a>データベース エクスポート ファイルをダウンロードする機能
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|-| 2019 年 11 月|
+|管理者、作成者、またはアナリスト、自動的|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

@@ -3,18 +3,18 @@ title: POS の在庫入荷フォームでテンキーを常に画面に表示す
 description: POS の在庫入荷フォームでテンキーを常に表示する
 author: hhainesms
 ms.reviewer: josaw
-ms.date: 10/07/2019
+ms.date: 11/15/2019
 ms.assetid: 99e3f447-9297-e911-a962-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: hhaines
 dynamics365pdf: true
-ms.openlocfilehash: 3986e3dc77b5432d8756de2086b8bff73c0d9d47
-ms.sourcegitcommit: c843aacec8dddcb0d6693c79fbace7f19bf09565
+ms.openlocfilehash: 158f14563a28f53619fdf7f510b90a9bb05c6a79
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "2574449"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2890038"
 ---
 # <a name="numpad-to-remain-on-screen-in-pos-inventory-receiving-form"></a>POS の在庫入荷フォームでテンキーを常に画面に表示する
 

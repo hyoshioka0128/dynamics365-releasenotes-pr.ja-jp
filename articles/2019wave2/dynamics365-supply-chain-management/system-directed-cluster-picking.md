@@ -3,18 +3,18 @@ title: システム主導のクラスター ピッキング
 description: システム主導のクラスター ピッキングの設定では、システム生成のクラスターに基づいてピッキング作業ヘッダーをクラスター化することができます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/04/2019
+ms.date: 12/02/2019
 ms.assetid: 6e62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
-ms.openlocfilehash: e2134481093f2c60a1fcc65419da5d81cf3fd1d2
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: 061841e84d61433f306b40cecc9b132a357c5d3c
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660571"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889587"
 ---
 # <a name="system-directed-cluster-picking"></a>システム主導のクラスター ピッキング
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
@@ -43,3 +43,6 @@ ms.locfileid: "2660571"
 
 
 
+
+## <a name="see-also"></a>関連項目
+[機能の探索](https://www.microsoft.com/videoplayer/embed/RE4f5az) (ビデオ)

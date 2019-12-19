@@ -3,25 +3,25 @@ title: 在庫エイジング レポート ストレージ
 description: 在庫エイジング レポート ストレージを使用すると、在庫エイジング レポートを実行し、出力を Dynamics 365 Supply Chain Management のフォームのシンプルなリストとしてアクセスできるようにするか、結果をグラフで視覚化できます。 また、外部アプリケーションで使用するために、データ エンティティを介して在庫エイジング レポートからの出力をエクスポートすることもできます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/09/2019
+ms.date: 11/26/2019
 ms.assetid: a816499f-67e0-e911-a814-000d3a4f1244
 ms.topic: article
 ms.service: business-applications
 ms.author: aevengir
 dynamics365pdf: true
-ms.openlocfilehash: 569126273bf62af7f9fba56d946ac141430bfc0f
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: 94feaf961a817be19a709462b809ba7ae831724c
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660608"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889664"
 ---
 # <a name="inventory-aging-report-storage"></a>在庫エイジング レポート ストレージ
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 2019 年 11 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 21 日| 2020 年 1 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -52,3 +52,7 @@ ms.locfileid: "2660608"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[Dynamics 365 Supply Chain Management 10.0.6 (2019 年 11 月) の新機能および変更された機能](https://docs.microsoft.com/dynamics365/supply-chain/get-started/whats-new-scm-10-0-6) (ドキュメント)

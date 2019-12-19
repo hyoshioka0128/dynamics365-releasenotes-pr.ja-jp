@@ -3,18 +3,18 @@ title: Dynamics 365 Retail 2019 年リリース ウェーブ 2 の概要
 description: Dynamics 365 Retail 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: josaw
-ms.date: 09/23/2019
+ms.date: 11/08/2019
 ms.assetid: 47a3fad1-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: jeffbl
 dynamics365pdf: true
-ms.openlocfilehash: c8db6e24de93fe4a87a9920cf8979cef1324b66b
-ms.sourcegitcommit: e2c3a2557be0960c6f3f47d7f5c8a65f5a5fe45d
+ms.openlocfilehash: 7df019dcd8fa65399763ad58a2a7fcf854f85243
+ms.sourcegitcommit: fb1e16c7028e20a554c45ecc0cc114b724c87fcd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "2764837"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "2809958"
 ---
 # <a name="overview-of-dynamics-365-retail-2019-release-wave-2"></a>Dynamics 365 Retail 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
@@ -22,7 +22,7 @@ ms.locfileid: "2764837"
 <!--overview start-->
 今日の消費者は、複数のチャネル間で楽しい統合されたショッピング エクスペリエンスを求めていますが、伝統的なチャネルは混乱しており、新しいものが絶えず出現しています。 小売業者は、機敏さを高め、競争力を高め、買い物客との長期的な関係を築くのに役立つ、モダンで柔軟なクラウド ソリューションを必要としています。 Dynamics 365 Retail では、バックオフィス プロセス (商品化、在庫など) とフロントオフィス チャネルを含む、小売業者向けのエンドツーエンドの統合ソリューションが提供されます。
 
-以下の要素に対して取り組みが行われます。 
+以下の要素に対して投資が行われます。 
 
 **基本機能**
 
@@ -40,5 +40,5 @@ ms.locfileid: "2764837"
 
 - **規制およびコンプライアンス**: サポートされているすべての国でサービスを提供するための規制およびコンプライアンス関連の機能強化。
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-retail-192%27)) Dynamics 365 Retail の 2019 年リリース ウェーブ 2 の更新情報
+[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-retail-192%27)) Dynamics 365 Retail の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

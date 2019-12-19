@@ -3,25 +3,25 @@ title: 出荷の自動更新
 description: この機能は、AWAX 機能を標準の WHS 機能に統合するという Blue Horseshoe との契約から始まります。 この機能では、関連する注文からの出荷数量のリアルタイム表現が提供され、それがウェーブで処理されていない限り、倉庫にリリースされた後でシステムは出荷の数量を自動的に更新することができます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/07/2019
+ms.date: 12/02/2019
 ms.assetid: 9062278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: henrikan
 dynamics365pdf: true
-ms.openlocfilehash: e042b834993e8e07d9c642b773d1c89e09b14369
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: fd802de56c4376317dc3050535c9aef121cd2f7e
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660576"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889617"
 ---
 # <a name="shipment-auto-update"></a>出荷の自動更新
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 11 月| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 25 日| 2020 年 1 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -37,6 +37,10 @@ ms.locfileid: "2660576"
  
 この機能は特定の倉庫に対して有効にされます。 これにより、会社は必要に応じて、倉庫ごとに異なる出荷自動更新ポリシーを適用できます。 既定では、倉庫管理プロセスを使用するすべての倉庫に適用される出荷自動更新ポリシーは、数量の減少についてです。 このポリシーを設定すると、倉庫作業が作成されていない場合に自動的に流れるのは、出荷と積荷に対する数量の減少のみです。
 <!--feature detail end -->
+
+
+
+
 
 
 

@@ -3,18 +3,18 @@ title: 営業案件/見積/発注/請求書の製品の追加または編集エ�
 description: この機能強化により、営業案件や見積もりなどの製品明細品目を追加するときに、商品を簡単に検索およびフィルター処理するためのより単純で直感的なエクスペリエンスが提供されます。 さらに、価格表を必須にする必要があるかどうかを設定するための組織レベルのオプションも提供されます。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 10/17/2019
+ms.date: 11/15/2019
 ms.assetid: d061278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: naitikds
 dynamics365pdf: true
-ms.openlocfilehash: 45d6398c51838128ce3c3de2122aa215eec409b6
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 38b7cbcfa9e24a502b16d7ea798e331cb75bbfb0
+ms.sourcegitcommit: b42a148c376fc4d3297326179cf301404448f570
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661781"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2888783"
 ---
 # <a name="enhance-the-adding-or-editing-opportunityquoteorderinvoice-products-experience"></a>営業案件/見積/発注/請求書の製品の追加または編集エクスペリエンスの強化
 
@@ -49,7 +49,8 @@ ms.locfileid: "2661781"
 
 
 > [!NOTE]
-> この機能は、統一インターフェイスでのみ使用できます。 この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
+> - この機能は、統一インターフェイスでのみ使用できます。 
+> - この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます
 
 
 
@@ -58,7 +59,4 @@ ms.locfileid: "2661781"
 
 
 ## <a name="see-also"></a>関連項目
-
-[追加または編集操作の強化](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/dynamics365-sales/enhance-experience-adding-or-editing-opportunityquoteorderinvoice-products) (ブログ)
-
 [価格表の選択を任意にする](https://docs.microsoft.com/dynamics365/customer-engagement/sales-enterprise/make-price-list-optional) (ドキュメント)

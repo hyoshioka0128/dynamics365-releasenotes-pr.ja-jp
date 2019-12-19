@@ -3,17 +3,17 @@ title: Dynamics 365 Business Central の新機能と予定されている機能 
 description: Dynamics 365 Business Central で計画されている機能の概要。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 10/24/2019
+ms.date: 12/04/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: msalam
 dynamics365pdf: true
-ms.openlocfilehash: d37080c814b0b425e57b828efd2a93c9c9924fcd
-ms.sourcegitcommit: c9c3080a387acc6da2fe497a00c78ee4f7c65fb5
+ms.openlocfilehash: 34b3f4c869a2374344596b44ed19009aea750a0d
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "2688862"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892066"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-business-central"></a>Dynamics 365 Business Central の新機能と予定されている機能
 
@@ -39,13 +39,16 @@ ms.locfileid: "2688862"
  | [指定の期間に達している買掛金勘定に [外部ドキュメント番号] フィールドを追加](aged-accounts-payable-report-has-refreshed-layout-includes-external-document-number-field.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
  | [販売と購入をスケジュールに従って一括転記する](batch-post-sales-purchases-as-scheduled.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
  | [買掛金と [外部ドキュメント番号] フィールドの調整](reconcile-payables-using-external-doc.-no-field-vendor-detail-trial-balance-balance-date-open-entries-reports.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
-| [品目カードで既定の購買方法を指定する](specify-default-purchasing-method-item-cards.md) | エンド ユーザー、自動的  |   2019 年 10 月 |2019 年 11 月 | 
-| [非品目タイプの出荷明細行または受領明細行を元に戻す](undo-shipment-or-receipt-lines-non-items-types.md) | エンド ユーザー、自動的  |   2019 年 10 月 |2019 年 11 月 | 
-| [発注書レポートのカスタマイズ時に入荷日を使用する](use-receipt-date-when-customizing-purchase-order-report.md) | 管理者、作成者、またはアナリスト、自動的  |   2019 年 10 月 |2019 年 11 月 | 
-| [購買ドキュメントで転記および新規アクションを使用する](use-post-new-action-purchase-documents.md) | エンド ユーザー、自動的  |   2019 年 10 月 |2019 年 11 月 | 
-| [さまざまなドキュメント タイプで VAT 条項を使用する](use-vat-clauses-different-document-types.md) | 管理者、作成者、またはアナリスト、自動的  |   2019 年 11 月 |2019 年 12 月 | 
-| [アーカイブされた販売や購買に関わるドキュメントにジョブ関連情報を含める](include-job-information-archived-sales-purchase-documents.md) | エンド ユーザー、自動的  |   2019 年 11 月 |2019 年 12 月 | 
-| [測定単位別に品目の在庫状態を表示する](view-item-availability-unit-measure.md) | エンド ユーザー、自動的  |   2019 年 11 月 |2019 年 12 月 | 
+ | [品目カードで既定の購買方法を指定する](specify-default-purchasing-method-item-cards.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 22 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 1 日 | 
+ | [非品目タイプの出荷明細行または受領明細行を元に戻す](undo-shipment-or-receipt-lines-non-items-types.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 22 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 1 日 | 
+ | [発注書レポートのカスタマイズ時に入荷日を使用する](use-receipt-date-when-customizing-purchase-order-report.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 22 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 1 日 | 
+ | [購買ドキュメントで転記および新規アクションを使用する](use-post-new-action-purchase-documents.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 22 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 1 日 | 
+ | [[名前 2] フィールドを顧客カードと仕入先カードに追加する](add-name-2-field-customer-vendor-cards.md) | エンド ユーザー、自動的  | 2019 年 11 月|2019 年 12 月 | 
+ | [アーカイブされた販売や購買に関わるドキュメントにジョブ関連情報を含める](include-job-information-archived-sales-purchase-documents.md) | エンド ユーザー、自動的  | 2019 年 11 月|2019 年 12 月 | 
+ | [さまざまなドキュメント タイプで VAT 条項を使用する](use-vat-clauses-different-document-types.md) | 管理者、作成者、またはアナリスト、自動的  | 2019 年 11 月|2019 年 12 月 | 
+ | [測定単位別に品目の在庫状態を表示する](view-item-availability-unit-measure.md) | エンド ユーザー、自動的  | 2019 年 11 月|2019 年 12 月 | 
+ | [一般仕訳帳明細行の数を表示する](view-number-general-journal-lines.md) | エンド ユーザー、自動的  | 2019 年 11 月|2019 年 12 月 | 
+
 
 ## <a name="application-lifecycle-management"></a>アプリケーション ライフサイクル管理
 
@@ -57,7 +60,7 @@ ms.locfileid: "2688862"
  | [複数の運用環境](multiple-production-environments.md) | 管理者、作成者、またはアナリスト、自動的  | -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
  | [Business Central 管理センターでの稼働停止のレポート](new-option-report-production-outage-business-central-administration-center.md) | 管理者、作成者、またはアナリスト、自動的  | -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
  | [C/AL テーブルから AL テーブルへのパフォーマンス データのアップグレードのサポート](support-performant-data-upgrade-cal-tables-al-tables.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
- | [データベース エクスポート ファイルをダウンロードする機能](ability-download-database-backup-file.md) | 管理者、作成者、またはアナリスト、自動的  | -|2019 年 11 月 | 
+ | [データベース エクスポート ファイルをダウンロードする機能](ability-download-database-backup-file.md) | 管理者、作成者、またはアナリスト、自動的  | -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 1 日 | 
 
 
 ## <a name="empower-isv-acceleration"></a>ISV アクセラレーションを強化する
@@ -80,7 +83,7 @@ Dynamics NAV ビジネスは、アドオン ソリューションに囲まれた
 
 ## <a name="modern-clients"></a>最新のクライアント
 
-最新のブラウザー エクスペリエンスに対する速度と生産性の機能への取り組みを加速しており、初心者から上級者まで、世界トップ クラスのデスクトップ エクスペリエンスへの変革における大きなマイルストーンを達成しました。
+最新のブラウザー エクスペリエンスに対する速度と生産性の機能への投資を加速しており、初心者から上級者まで、世界トップ クラスのデスクトップ エクスペリエンスへの変革における大きなマイルストーンを達成しました。
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |

@@ -3,25 +3,25 @@ title: 顧客とのコミュニケーションをより多く取り込む
 description: 顧客とのコミュニケーションを頻繁に記録することで、Dynamics 365 のデータ品質が向上し、その結果として分析情報が強化されます。 自動取り込みにより、販売担当者は、共有対象をきめ細かく制御しながら、顧客とのコミュニケーションをより多く取り込み、Dynamics 365 を労力なしで更新できます。
 author: relnotes
 ms.reviewer: udag
-ms.date: 09/26/2019
+ms.date: 11/20/2019
 ms.assetid: d463278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: joegan
+ms.author: nataln
 dynamics365pdf: true
-ms.openlocfilehash: c9f4809e484f4ababc92f1436be8e91240b92209
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: b86cfae1834931874b275041fae164c71119ce63
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661880"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889763"
 ---
 # <a name="capture-more-customer-communications"></a>顧客とのコミュニケーションをより多く取り込む
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 12 月| -|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 2 月| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

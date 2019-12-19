@@ -2,19 +2,19 @@
 title: 小切手のページで空白状態の小切手を作成する
 description: この機能では、小切手のページで空白状態の小切手を作成して、メンテナンス作業をより効率よく実行し、小切手が無駄になるのを防ぐことができます。
 author: relnotes
-ms.reviewer: sericks
-ms.date: 10/04/2019
+ms.reviewer: roschlom
+ms.date: 11/15/2019
 ms.assetid: 4c5d77d5-afa9-e911-a962-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: 1b6c8b031d7c705a445df8e96141c94b9589ad96
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 514bdf8276e028304eb4ef2b5b2ed8cca3ad8ee7
+ms.sourcegitcommit: cf8b2ba74d2b553c2a721942221c285ffcf184c5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2662529"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892619"
 ---
 # <a name="create-checks-with-a-blank-status-on-the-checks-page"></a>小切手のページで空白状態の小切手を作成する
 
@@ -32,6 +32,9 @@ ms.locfileid: "2662529"
 <!--feature detail start -->
 **小切手**ページでは、新しい小切手番号の作成や小切手の削除など、小切手のメンテナンス作業を実行します。 この機能が有効になっていると、支払プロセス中に空白状態の小切手を作成できません。 この機能強化により、小切手が不必要に無駄になるのを防ぐのに役立ちます。
 <!--feature detail end -->
+
+
+
 
 
 

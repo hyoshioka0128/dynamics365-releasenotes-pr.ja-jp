@@ -2,19 +2,19 @@
 title: 現金管理
 description: 現金管理では、利用可能な現金残高がない場合、またはトランザクションによって残高が定義した限度額を下回った場合に追加のトランザクションが転記されないようにする、その限度額を定義できます。
 author: relnotes
-ms.reviewer: sericks
-ms.date: 10/04/2019
+ms.reviewer: roschlom
+ms.date: 11/15/2019
 ms.assetid: 2e7ce836-03d1-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: ffbafbcf91ea6f2971c10ea747b51944d3f36ca0
-ms.sourcegitcommit: b5be4afdeec589f0490a82495e8206a2b3aee287
+ms.openlocfilehash: bcc5402a0d15406d6b065264a65036f01dbcddfd
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2668282"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893910"
 ---
 # <a name="cash-control"></a>現金管理
 

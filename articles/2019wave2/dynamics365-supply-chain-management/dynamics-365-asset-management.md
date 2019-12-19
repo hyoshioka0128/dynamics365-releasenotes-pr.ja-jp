@@ -3,20 +3,20 @@ title: 資産管理
 description: ''
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/07/2019
+ms.date: 11/15/2019
 ms.assetid: 11307d1e-5faa-e911-a963-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: arijitba
 dynamics365pdf: true
-ms.openlocfilehash: 0f07aad0f24bee3cf772951464fd4418c9e35ba6
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: b8a07b0e224f374be5e9897f8f3627b979dfb54b
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660559"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889906"
 ---
-# <a name="asset-management-for-dynamics-365-supply-chain-management"></a>Dynamics 365 Supply Chain Management の資産管理
+# <a name="asset-management"></a>資産管理
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 

@@ -3,18 +3,18 @@ title: Dynamics 365 Product Visualize 2019 年リリース ウェーブ 2 の概
 description: Dynamics 365 Product Visualize 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 09/23/2019
+ms.date: 11/08/2019
 ms.assetid: c1a3fad1-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: michtan
 dynamics365pdf: true
-ms.openlocfilehash: 15a7546ba37fc75241927eda1e983ff8a2abf91a
-ms.sourcegitcommit: e2c3a2557be0960c6f3f47d7f5c8a65f5a5fe45d
+ms.openlocfilehash: 427022002dd31e0c4e898e192e12688e49be56ad
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "2764914"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891571"
 ---
 # <a name="overview-of-dynamics-365-product-visualize-2019-release-wave-2"></a>Dynamics 365 Product Visualize 2019 年リリース ウェーブ 2 の概要
 [!include[mixed-reality/dynamics365-product-visualize banner](../includes/mixed-reality/dynamics365-product-visualize.md)]
@@ -26,5 +26,5 @@ Dynamics 365 Sales との密接な統合により、営業担当者は案件管�
 
 2019 年リリース ウェーブ 2 では、お客様のフィードバックを組み込んでアプリをより使いやすくすることに集中します。 使いやすさの更新には、3D モデル レイヤーのユーザー インターフェイスの改善と、アプリの包括性とアクセス性の向上を目的とした改善が含まれます (ただし、これらだけではありません)。 また、新しい地域や言語用にアプリをローカライズすることにも焦点を当てます。
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-product-visualize-192%27)) Dynamics 365 Product Visualize の 2019 年リリース ウェーブ 2 の更新情報
+[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-product-visualize-192%27)) Dynamics 365 Product Visualize の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

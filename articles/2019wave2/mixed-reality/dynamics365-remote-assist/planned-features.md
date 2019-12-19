@@ -3,17 +3,17 @@ title: Dynamics 365 Remote Assist の新機能と予定されている機能 (20
 description: Dynamics 365 Remote Assist で計画されている機能の概要。
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 10/24/2019
+ms.date: 12/04/2019
 ms.topic: summary
 ms.service: business-applications
-ms.author: lorrainb
+ms.author: jeffcom
 dynamics365pdf: true
-ms.openlocfilehash: 2ddef7cb3a43b716f8565a1e69d69bd1142c2aea
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 960a5e8901e0ca10594a00382f02819b9249ebe3
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661894"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891560"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-remote-assist"></a>Dynamics 365 Remote Assist の新機能と予定されている機能
 
@@ -26,9 +26,10 @@ ms.locfileid: "2661894"
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
 | [モバイル デバイス向け Dynamics 365 Remote Assist](remote-assist-mobile-phones.md) | エンド ユーザー、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
- | [Microsoft Teams 会議に参加する](join-team-meetings.md) | エンド ユーザー、自動的 | -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 17 日 | 
-| [通話せずに注釈を取り込んで共有する](capture-share-annotations-without-being-call.md) | エンド ユーザー、自動的| -|2020 年 1 月 | 
+| [Microsoft Teams 会議に参加する](join-team-meetings.md) | エンド ユーザー、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 17 日 | 
+ | [HoloLens 2 サポート](hololens-2-support.md) | エンド ユーザー、自動的 | -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 29 日 | 
 | [低帯域幅状況での呼び出しエクスペリエンスの向上](improved-call-experience-low-bandwidth-situations.md) | エンド ユーザー、自動的| -|2020 年 2 月 | 
+| [空間検査 (通話せずに注釈を取り込んで共有する)](capture-share-annotations-without-being-call.md) | エンド ユーザー、自動的| -|2020 年 3 月 | 
 
 **有効対象**列の値の説明
 

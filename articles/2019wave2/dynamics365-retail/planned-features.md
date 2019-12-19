@@ -3,17 +3,17 @@ title: Dynamics 365 Retail の新機能と予定されている機能 (2019 年�
 description: Dynamics 365 Retail で計画されている機能の概要。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/24/2019
+ms.date: 12/04/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: msalam
 dynamics365pdf: true
-ms.openlocfilehash: 10ddddf990c1a5acb2d5ef05223a76b6d6558527
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: 6ce31ba5d5203ed01fabdbaab8d9bd1390a654b2
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2659806"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2890016"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-retail"></a>Dynamics 365 Retail の新機能と予定されている機能
 
@@ -27,7 +27,7 @@ ms.locfileid: "2659806"
 
 ## <a name="fundamentals"></a>基本機能
 
-インフラストラクチャ、サービス、品質、およびパフォーマンスへの取り組み
+インフラストラクチャ、サービス、品質、およびパフォーマンスへの投資
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
@@ -37,38 +37,35 @@ ms.locfileid: "2659806"
  | [Modern POS のオフライン時の利用可能性の向上](modern-pos-offline-availability-improvements.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
  | [POS の在庫入荷フォームでテンキーを常に画面に表示する](numpad-remain-onscreen-pos-inventory-receiving-form.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
  | [POS および本社の拡張機能](pos-headquarters-extensions.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
- | [1 つのバージョン - Retail Cloud Scale Unit の自動更新](one-version---auto-update-retail-cloud-scale-unit.md) | 管理者、作成者、またはアナリスト、自動的  | 2019 年 10 月|2019 年 10 月 | 
  | [店舗のスケール ユニットの向上](store-scale-unit-improvements.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 2 日 | 
- | [POS での製品レコメンデーション](product-recommendations-pos.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | -|2019 年 11 月 | 
- | [POS 用の Regression Suite Automation Tool](regression-suite-automation-tool-pos.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 3 日|2019 年 11 月 | 
- | [シークレットへの安全なアクセス](secure-access-secrets.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 3 日|2019 年 11 月 | 
- | [eコマース在庫 API の改善](e-commerce-inventory-api-improvements.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | 2019 年 10 月|2020 年 1 月 | 
- | [指定された集荷、実行、電子的配送モードが POS のすべて出荷プロセスと選択された出荷プロセスに表示されないようにする](hide-designated-pickup-carryout-electronic-modes-delivery-ship-all-ship-selected-processes-pos.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | 2019 年 10 月|2020 年 1 月 | 
- | [店舗内コンポーネントの大量展開](in-store-components-mass-deployment.md) | 管理者、作成者、またはアナリスト、自動的  | 2019 年 11 月|2020 年 1 月 | 
- | [店舗での小売トランザクションの財務調整 (パブリック プレビュー)](financial-reconciliation-retail-transactions-store-public-preview.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | 2019 年 11 月|2020 年 2 月 | 
+ | [POS での製品レコメンデーション](product-recommendations-pos.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 1 日 | 
+ | [POS 用の Regression Suite Automation Tool](regression-suite-automation-tool-pos.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 3 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 1 日 | 
+ | [シークレットへの安全なアクセス](secure-access-secrets.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 3 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 1 日 | 
+ | [eコマース在庫 API の改善](e-commerce-inventory-api-improvements.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 21 日|2020 年 1 月 | 
+ | [指定された集荷、実行、電子的配送モードが POS のすべて出荷プロセスと選択された出荷プロセスに表示されないようにする](hide-designated-pickup-carryout-electronic-modes-delivery-ship-all-ship-selected-processes-pos.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 21 日|2020 年 1 月 | 
+ | [店舗内コンポーネントの大量展開](in-store-components-mass-deployment.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 11 日|2020 年 1 月 | 
  | [Retail Cloud Scale Unit の環境の履歴](environment-history-retail-cloud-scale-unit.md) | 管理者、作成者、またはアナリスト、自動的  | 2020 年 2 月|2020 年 2 月 | 
- | [デバイス ライセンス認証トークンの自動更新](auto-refresh-device-activation-token.md) | 管理者、作成者、またはアナリスト、自動的  | 2020 年 1 月|近日発表 | 
+ | [1 つのバージョン - Retail Cloud Scale Unit の自動更新](one-version---auto-update-retail-cloud-scale-unit.md) | 管理者、作成者、またはアナリスト、自動的  | 2020 年 2 月|2020 年 2 月 | 
+ | [店舗での小売トランザクションの財務調整 (パブリック プレビュー)](financial-reconciliation-retail-transactions-store-public-preview.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | 2020 年 1 月|2020 年 3 月 | 
+ | [デバイス ライセンス認証トークンの自動更新](auto-refresh-device-activation-token.md) | 管理者、作成者、またはアナリスト、自動的  | 2020 年 2 月|近日発表 | 
 
 
 ## <a name="industry-excellence"></a>業界の卓越性
 
-中核的な小売事業プロセスおよび業界の要件と機能への取り組み
+中核的な小売事業プロセスおよび業界の要件と機能への投資
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
  | [製品の見つけやすさの改善](enhancements-product-discoverability.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|- | 
  | [販売促進の改善 - カテゴリのカスタム表示並べ替え順序のサポート](merchandising-improvements.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
- | [インド用 POS からの顧客登録番号の管理](management-customer-registration-numbers-pos-india.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 6 日|2019 年 11 月 | 
- | [クライアンテリング - 販売担当者が信頼できるアドバイザーになり、顧客と長期的な関係を築けるようにする](clienteling--empower-associates-establish-relationships-customers.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | 2019 年 10 月|2020 年 1 月 | 
- | [コール センターでの外部ギフト カードのサポート](external-gift-card-support-adyen-connector-e-commerce-call-center.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | 2019 年 10 月|2020 年 1 月 | 
- | [販売促進の改善 – カテゴリ化製品、関連製品、分析コード グループに対するカスタム順序のサポートの追加](merchandising-improvements-add-support-custom-order-categorized-products-related-products-dimension-groups.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | 2019 年 10 月|2020 年 1 月 | 
- | [販売促進の改善 - 製品属性、リファイナー、値に対するカスタム順序を構成および遵守するためのサポートの追加](merchandising-improvements-add-support-configure-observe-custom-order-product-attributes-refiners-values..md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | 2019 年 10 月|2020 年 1 月 | 
- | [支払/入金ベースの割引](tender-based-discounts.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | 2019 年 10 月|2020 年 1 月 | 
+ | [インド用 POS からの顧客登録番号の管理](management-customer-registration-numbers-pos-india.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 6 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 1 日 | 
  | [東ヨーロッパ向けコール センターのローカライズ](call-center-localization-eastern-europe.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | -|2020 年 1 月 | 
+ | [会計統合フレームワークに基づくスウェーデン向けの制御ユニット統合サンプル](control-unit-integration-sample-sweden-based-fiscal-integration-framework.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | -|2020 年 1 月 | 
+ | [クライアンテリング - 販売担当者が信頼できるアドバイザーになり、顧客と長期的な関係を築けるようにする](clienteling--empower-associates-establish-relationships-customers.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 21 日|2020 年 1 月 | 
+ | [販売促進の改善 – カテゴリ化製品、関連製品、分析コード グループに対するカスタム順序のサポートの追加](merchandising-improvements-add-support-custom-order-categorized-products-related-products-dimension-groups.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 21 日|2020 年 1 月 | 
+ | [販売促進の改善 - 製品属性、リファイナー、値に対するカスタム順序を構成および遵守するためのサポートの追加](merchandising-improvements-add-support-configure-observe-custom-order-product-attributes-refiners-values..md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 21 日|2020 年 1 月 | 
+ | [支払/入金ベースの割引](tender-based-discounts.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 21 日|2020 年 1 月 | 
  | [店舗および宛先に基づく外税の顧客控除を計算する](calculate-customer-exemptions-store-destination-based-exclusive-taxes.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | 2019 年 10 月|2020 年 1 月 | 
- | [会計統合フレームワークに基づくスウェーデン向けの制御ユニット統合サンプル](control-unit-integration-sample-sweden-based-fiscal-integration-framework.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | 2019 年 10 月|2020 年 1 月 | 
- | [店舗で利用可能な現物在庫のチャネル側での計算](channel-side-calculations-physical-inventory-sores.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | 2019 年 11 月|2020 年 1 月 | 
- | [店舗での在庫 (入庫/出庫) 操作の改善](improved-inventory-inbound-outbound-operations-store.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | 2019 年 11 月|2020 年 1 月 | 
  | [eコマース チェックアウト時に Dynamics 365 Fraud Protection を呼び出す](invoke-dynamics-365-fraud-protection-during-e-commerce-checkout.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  | 2019 年 11 月|2020 年 1 月 | 
 
 **有効対象**列の値の説明

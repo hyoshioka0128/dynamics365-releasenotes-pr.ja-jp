@@ -3,18 +3,18 @@ title: 共有と検出
 description: ユーザーは、自分のプロジェクト、シグナル、インサイトを同僚と共有し、共同作業を行うことができます。 最新のきめ細かいテナント モデルを活用して、データ プライバシーの制御を維持しながら、適切なユーザーにアクセスを提供できます。
 author: relnotes
 ms.reviewer: v-aswood
-ms.date: 10/10/2019
+ms.date: 11/15/2019
 ms.assetid: 3f36770d-dfd4-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: mohammed
 dynamics365pdf: true
-ms.openlocfilehash: 5d00ff6ea9a60df7ae262413004c033c036aab8a
-ms.sourcegitcommit: c843aacec8dddcb0d6693c79fbace7f19bf09565
+ms.openlocfilehash: f1ae1b650e176ebfac6edc4441ae7431f6be2869
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "2574658"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893756"
 ---
 # <a name="sharing-and-discovery"></a>共有と検出
 [!include[artificial-intelligence/dynamics365-product-insights banner](../includes/artificial-intelligence/dynamics365-product-insights.md)]

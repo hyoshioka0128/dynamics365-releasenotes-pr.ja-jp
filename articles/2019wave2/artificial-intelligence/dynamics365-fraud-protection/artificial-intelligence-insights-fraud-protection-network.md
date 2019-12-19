@@ -1,22 +1,22 @@
 ---
-title: 人工知能と詐欺防止ネットワークからのインサイト
-description: 人工知能と詐欺防止ネットワークからのインサイト
+title: 人工知能と詐欺防止ネットワークからの分析情報
+description: 人工知能と詐欺防止ネットワークからの分析情報
 author: relnotes
-ms.reviewer: veganesa
-ms.date: 10/14/2019
+ms.reviewer: v-davido
+ms.date: 11/15/2019
 ms.assetid: 4db0af57-0771-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: amyhre
 dynamics365pdf: true
-ms.openlocfilehash: 121dd2fe7d36262d1e8ae51868c2854930932947
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 12a3f79f713c1cb4129ee6831d440a7af265ab94
+ms.sourcegitcommit: cf8b2ba74d2b553c2a721942221c285ffcf184c5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661660"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892639"
 ---
-# <a name="artificial-intelligence-and-insights-from-the-fraud-protection-network"></a>人工知能と詐欺防止ネットワークからのインサイト
+# <a name="artificial-intelligence-and-insights-from-the-fraud-protection-network"></a>人工知能と詐欺防止ネットワークからの分析情報
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 

@@ -3,25 +3,25 @@ title: エンティティ レコードの統合ルーティング
 description: 統合ルーティングとキュー
 author: relnotes
 ms.reviewer: kabala
-ms.date: 09/12/2019
+ms.date: 11/15/2019
 ms.assetid: 1062278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: karthig
 dynamics365pdf: true
-ms.openlocfilehash: ec6f2b30f80cf150363a23a48c713547af4c829d
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 652d583ed4c8e20602f122691efc00e72ab412f6
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2662089"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893470"
 ---
 # <a name="unified-routing-for-entity-records"></a>エンティティ レコードの統合ルーティング
-[!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 31 日|-| 2019 年 10 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 31 日|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 25 日|
 
 
 

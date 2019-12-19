@@ -3,17 +3,17 @@ title: Dynamics 365 Guides の新機能と予定されている機能 (2019 年�
 description: Dynamics 365 Guides で計画されている機能の概要。
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 10/24/2019
+ms.date: 12/04/2019
 ms.topic: summary
 ms.service: business-applications
-ms.author: lorrainb
+ms.author: msalam
 dynamics365pdf: true
-ms.openlocfilehash: 19398b60965fc180f5d7f38f4d7b30303ce2f42e
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 7cd052af43b1eb51825c606fd2cadc7297ad8d73
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661253"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892374"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-guides"></a>Dynamics 365 Guides の新機能と予定されている機能
 
@@ -29,6 +29,10 @@ ms.locfileid: "2661253"
 | [Dynamics 365 Guides データの収集をオプトアウトする](opt-out-collecting-dynamics-365-guides-data.md) | エンド ユーザー、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 | [Dynamics 365 Guides のデモを試す](try-demo-dynamics-365-guides.md) | エンド ユーザー、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 | [Dynamics 365 Field Service の統合](integration-dynamics-365-field-service.md) | 管理者、作成者、またはアナリスト、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+| [フォロー モード](follow-mode.md) | エンド ユーザー、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 29 日 | 
+| [ノードベースのアニメーションのサポート](support-node-based-animations.md) | エンド ユーザー、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 29 日 | 
+| [3D モデルの STL および PLY ファイル形式のサポート](support-stl-ply-file-formats-3d-models.md) | エンド ユーザー、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 29 日 | 
+| [アニメーションをオン/オフにする](turn-animations-or-off.md) | エンド ユーザー、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 29 日 | 
 
 **有効対象**列の値の説明
 

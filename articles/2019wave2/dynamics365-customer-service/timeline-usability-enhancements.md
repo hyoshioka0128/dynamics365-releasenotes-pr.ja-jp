@@ -3,18 +3,18 @@ title: タイムラインの使いやすさの機能強化
 description: タイムラインの使いやすさの機能強化
 author: relnotes
 ms.reviewer: shjais
-ms.date: 10/07/2019
+ms.date: 11/15/2019
 ms.assetid: e461278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: craigm
 dynamics365pdf: true
-ms.openlocfilehash: 3f8bc92416d20fc062b27dc5bd83943d9e06c745
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 58b1606bdf1624961afb0427a952312bb1efa783
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2662100"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893525"
 ---
 # <a name="timeline-usability-enhancements"></a>タイムラインの使いやすさの機能強化
 
@@ -52,4 +52,4 @@ ms.locfileid: "2662100"
 ## <a name="see-also"></a>関連項目
 [機能の探索](https://aka.ms/ROGCS19RW2ROV2) (ビデオ)
 
-[タイムライン](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-basics) (ドキュメント)
+[顧客サービス ハブの基本を理解する](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-basics) (ドキュメント)

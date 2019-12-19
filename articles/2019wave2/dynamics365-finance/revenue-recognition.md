@@ -2,19 +2,19 @@
 title: 収益認識
 description: 収益認識管理は、会計担当者と財務担当者が International Financial Reporting Standard (IFRS) 15 および Accounting Standards Codification (ASC) 606 に準拠するための手順を自動化できるよう支援します。
 author: relnotes
-ms.reviewer: sericks
-ms.date: 10/04/2019
+ms.reviewer: roschlom
+ms.date: 11/15/2019
 ms.assetid: a4e50cf1-ada9-e911-a962-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: b171f866cea292d5120b6b05bb6949c95451505b
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: d3b8b5545ad72708290dba8b07991a442b22aadc
+ms.sourcegitcommit: cf8b2ba74d2b553c2a721942221c285ffcf184c5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2662533"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892749"
 ---
 # <a name="revenue-recognition"></a>収益認識
 
@@ -45,21 +45,21 @@ ms.locfileid: "2662533"
 - 複数の販売注文の再配賦
 - ワークスペースのナビゲーションとレポート作成
 
-## <a name="revenue-pricing"></a>収益の価格設定
+### <a name="revenue-pricing"></a>収益の価格設定
 ユーザーは自身が認識する価格として、顧客に請求するのとは異なる価格を入力できます。
 
 ![収益の価格設定](media/revenuepricing.png "収益の価格設定")
 
-## <a name="revenue-schedules"></a>収益スケジュール
+### <a name="revenue-schedules"></a>収益スケジュール
 収益スケジュールでは、収益を繰り延べる月数を決めることができます。 スケジュールは、その月の実際の日付に基づいて作成する、月で均等に分割する、設定した発生回数に基づいて設定することができます。
 
 ![収益スケジュール](media/revenueschedules.png "収益スケジュール")
 
-## <a name="multiple-sales-order-reallocation"></a>複数の販売注文の再配賦
+### <a name="multiple-sales-order-reallocation"></a>複数の販売注文の再配賦
 
 ![複数の販売注文の再配賦](media/multiplesalesorderreallocation.png "複数の販売注文の再配賦")
 
-## <a name="workspace"></a>ワークスペース 
+### <a name="workspace"></a>ワークスペース 
 新しいワークスペースは、繰延収益用に作成された収益スケジュールのレコードのステータスを調べるために使用されます。
 
 ![収益認識ワークスペース](media/revenuerecognitionworkspace.png "収益認識ワークスペース")
@@ -68,3 +68,12 @@ ms.locfileid: "2662533"
 
 
 
+
+
+
+
+
+
+## <a name="see-also"></a>関連項目
+
+[収益認識の概要](https://docs.microsoft.com/dynamics365/unified-operations/financials/accounts-receivable/revenue-recognition-overview) (ドキュメント)

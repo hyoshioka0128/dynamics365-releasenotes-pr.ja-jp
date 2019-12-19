@@ -3,18 +3,18 @@ title: LinkedIn Sales Navigator 統合の機能拡張
 description: LinkedIn Sales Navigator 統合は、引き続き 2 つの製品 Dynamics 365 Sales と LinkedIn Sales Navigator の価値を合わせて提供します。 最新の改良の目的は、LinkedIn InMail を営業ユーザーからもっとアクセスしやすくすることです。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 10/23/2019
+ms.date: 11/15/2019
 ms.assetid: d461278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: goravi
 dynamics365pdf: true
-ms.openlocfilehash: ad8af53b26fbe5a9ed7e57fc298296e85bb361fa
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 091196f049902443dd4ad60040e1d34c9dcc4547
+ms.sourcegitcommit: b42a148c376fc4d3297326179cf301404448f570
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661341"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2888717"
 ---
 # <a name="linkedin-sales-navigator-integration-enhancements"></a>LinkedIn Sales Navigator 統合の機能拡張
 
@@ -46,7 +46,8 @@ Microsoft Relationship Sales は LinkedIn Sales Navigator と Dynamics 365 Sales
 
 
 > [!NOTE]
-> この機能は、統一インターフェイスでのみ使用できます。 この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
+> - この機能は、統一インターフェイスでのみ使用できます。 
+> - この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
 
 
 
@@ -55,5 +56,4 @@ Microsoft Relationship Sales は LinkedIn Sales Navigator と Dynamics 365 Sales
 
 
 ## <a name="see-also"></a>関連項目
-
-[既定の LinkedIn Sales Navigator コントロールの有効化](https://docs.microsoft.com/en-us/dynamics365/linkedin/install-sales-navigator) (ドキュメント)
+[既定の LinkedIn Sales Navigator コントロールの有効化](https://docs.microsoft.com/dynamics365/linkedin/install-sales-navigator) (ドキュメント)

@@ -3,18 +3,18 @@ title: Power Automate を使用した承認のサポート
 description: Power Automate を使用した承認のサポート
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 10/07/2019
+ms.date: 11/15/2019
 ms.assetid: c661278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: b5e5431b701c02fa6390e344c467075b08b7fff1
-ms.sourcegitcommit: 5d6e90743e29603bfc5d06566a6966de05931982
+ms.openlocfilehash: b942c7dd43e3d0c0eb11671dabb071a23939602d
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "2669171"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891769"
 ---
 # <a name="support-approvals-using-power-automate"></a>Power Automate を使用した承認のサポート
 
@@ -58,4 +58,4 @@ Dynamics 365 Marketing では、カスタマイズ可能な承認ワークフロ
 
 [8 月の更新プログラムと早期アクセス](https://cloudblogs.microsoft.com/dynamics365/it/2019/08/03/dynamics-365-for-marketing-august-update-and-early-access-are-rolling-out-now/) (ブログ)
 
-[承認機能の構築](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/developer/marketing-approvals-feature) (ドキュメント)
+[承認機能の構築](https://docs.microsoft.com/dynamics365/marketing/developer/marketing-approvals-feature) (ドキュメント)

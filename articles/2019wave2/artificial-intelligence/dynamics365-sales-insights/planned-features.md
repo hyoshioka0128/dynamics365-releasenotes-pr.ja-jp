@@ -3,17 +3,17 @@ title: Dynamics 365 Sales Insights の新機能と予定されている機能 (2
 description: Dynamics 365 Sales Insights で計画されている機能の概要。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 10/24/2019
+ms.date: 12/04/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: raysmith
 dynamics365pdf: true
-ms.openlocfilehash: 45d943a38e6c1bda60e8959b826d379cd1324ca8
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: d2f40f35b0621a057029df7990e8b6bd3ebdc4d1
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661993"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889752"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-sales-insights"></a>Dynamics 365 Sales Insights の新機能と予定されている機能
 
@@ -25,13 +25,12 @@ ms.locfileid: "2661993"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
-| [いっそうパーソナライズされたガイド付きアシスタンス](more-personalized-assistant-sellers.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| 2019 年 10 月|- | 
-| [顧客とのコミュニケーションをより多く取り込む](capture-more-customer-communications.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| 2019 年 12 月|- | 
+| [いっそうパーソナライズされたガイド付きアシスタンス](more-personalized-assistant-sellers.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|- | 
 | [組織のニーズに合わせてスコアリングをカスタマイズする](customize-scoring-adapt-organizational-needs.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| 2019 年 12 月| | 
 | [推奨アクションから実行するアクション オプションを拡張する](extend-action-options-taken-suggested-actions.md) | 管理者、作成者、またはアナリスト、自動的| 2020 年 1 月| | 
 | [販売担当者が推奨アクションをどのように使用しているかを理解する](understand-how-sellers-are-using-suggested-actions.md) | 管理者、作成者、またはアナリスト、自動的| 2020 年 1 月| | 
-| [会話インテリジェンスでの販売担当者コーチングの改善](improve-seller-coaching-conversation-intelligence.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| -|2019 年 10 月 | 
-| [Assistant Studio での次善のアクションによる販売担当者のガイド](guide-sellers-next-best-actions-through-assistant-studio.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 1 日|2019 年 10 月 | 
+| [顧客とのコミュニケーションをより多く取り込む](capture-more-customer-communications.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| 2020 年 2 月|- | 
+| [Assistant Studio での次善のアクションによる販売担当者のガイド](guide-sellers-next-best-actions-through-assistant-studio.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 
 **有効対象**列の値の説明
 

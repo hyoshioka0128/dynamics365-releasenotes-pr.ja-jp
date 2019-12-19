@@ -3,25 +3,25 @@ title: ウェーブ ステップ コード
 description: この機能では、AWAX 機能と標準の WHS 機能が統合されます。 ウェーブ ステップ コードを使用すると、ユーザーは、特定のウェーブ メソッド インスタンスを対応するテンプレートにリンクするために使用されるコードを設定できます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/07/2019
+ms.date: 11/19/2019
 ms.assetid: 8862278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: henrikan
 dynamics365pdf: true
-ms.openlocfilehash: 5ace0addb234dee6764307b1bc84a4c1c5f8d3cf
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: 51c6e94d3bc72a1d658825fdfd1b8607430a85a7
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660566"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889576"
 ---
 # <a name="wave-step-code"></a>ウェーブ ステップ コード
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 11 月| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 1 月| 近日発表|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -39,6 +39,8 @@ ms.locfileid: "2660566"
  
 ウェーブ ステップ コードを利用し、ウェーブ ステップ フリー テキストの使用をやめるのはオプションです。 取り込みは法人ごとに行われます。 法人ごとの取り込みの一環として、特定の法人内の既存のすべてのウェーブ ステップ コードが新しい構造にアップグレードされます。
 <!--feature detail end -->
+
+
 
 
 

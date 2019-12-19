@@ -3,18 +3,18 @@ title: 小売明細転記の機能強化
 description: 小売明細転記の機能強化
 author: anpurush
 ms.reviewer: josaw
-ms.date: 10/23/2019
+ms.date: 11/15/2019
 ms.assetid: 1102a192-f76c-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: anpurush
 dynamics365pdf: true
-ms.openlocfilehash: 72c7aec0f2f059cf8922200bce4ea830c6b0f8ed
-ms.sourcegitcommit: 5d6e90743e29603bfc5d06566a6966de05931982
+ms.openlocfilehash: 5c5698e1934dd4d0bcbb26d6b06bf2e8c8f63689
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "2668753"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2890181"
 ---
 # <a name="enhancements-to-retail-statement-posting"></a>小売明細転記の機能強化
 
@@ -90,5 +90,4 @@ Microsoft Dynamics 365 Retail では、クラウド販売時点管理 (POS) ま�
 
 
 ## <a name="see-also"></a>関連項目
-
 [小売トランザクションの整合性チェック](https://docs.microsoft.com/dynamics365/retail/valid-checker) (ドキュメント)

@@ -3,18 +3,18 @@ title: パートナーは Business Central 管理センターでサポート連�
 description: 再販パートナーは、Business Central 管理センターでサポート連絡先の詳細を入力できるため、顧客は正しいサポート チャネルを確認できます。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 10/14/2019
+ms.date: 11/15/2019
 ms.assetid: 0b58d17b-3e77-e911-a960-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: jchrist
 dynamics365pdf: true
-ms.openlocfilehash: 87504a8cd5a8c0248ae2f411bfe793c50e9789e2
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: b4e6feb8436dea01f4b5509e4915532020150c74
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2666929"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892033"
 ---
 # <a name="partners-can-enter-support-contact-details-in-the-business-central-administration-center"></a>パートナーは Business Central 管理センターでサポート連絡先の詳細を入力できる
 

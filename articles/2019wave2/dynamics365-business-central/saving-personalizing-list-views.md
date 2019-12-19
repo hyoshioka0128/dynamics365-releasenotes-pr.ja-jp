@@ -3,18 +3,18 @@ title: リスト ビューの保存とパーソナライズ
 description: リスト ビューの保存とパーソナライズ
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 10/01/2019
+ms.date: 11/15/2019
 ms.assetid: 386fe1f3-5f76-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 245ac2938c80be77598daf93f5457286292ebfb8
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: d32adff7fad84b60e0c448cf133a1ecd500539fa
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2666863"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891978"
 ---
 # <a name="save-and-personalize-list-views"></a>リスト ビューの保存とパーソナライズ
 

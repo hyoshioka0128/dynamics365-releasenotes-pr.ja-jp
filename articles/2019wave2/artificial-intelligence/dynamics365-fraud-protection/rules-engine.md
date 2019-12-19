@@ -2,19 +2,19 @@
 title: ルール エンジン
 description: ルール エンジン
 author: relnotes
-ms.reviewer: mwhorf
-ms.date: 10/14/2019
+ms.reviewer: v-davido
+ms.date: 11/15/2019
 ms.assetid: 9fbb7ccc-0771-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: amyhre
 dynamics365pdf: true
-ms.openlocfilehash: 7b154a2118503f6e4bb6587a1054d6303ade8f9e
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 158803e9835a12621cab1cf49120197d6622707f
+ms.sourcegitcommit: cf8b2ba74d2b553c2a721942221c285ffcf184c5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661836"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892716"
 ---
 # <a name="rules-engine"></a>ルール エンジン
 
@@ -44,4 +44,4 @@ ms.locfileid: "2661836"
 
 ## <a name="see-also"></a>関連項目
 
-[リストとルールを管理する](https://docs.microsoft.com/en-us/dynamics365/fraud-protection/lists-rules) (ドキュメント)
+[リストとルールを管理する](https://docs.microsoft.com/dynamics365/fraud-protection/lists-rules) (ドキュメント)

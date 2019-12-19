@@ -3,25 +3,25 @@ title: 外部カタログの機能強化
 description: 外部カタログの機能強化
 author: relnotes
 ms.reviewer: josaw
-ms.date: 08/02/2019
+ms.date: 10/25/2019
 ms.assetid: 3c62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: lcash
 dynamics365pdf: true
-ms.openlocfilehash: 675c389bf46b7fd68da227ebf79e45236190cd7a
-ms.sourcegitcommit: 5d6e90743e29603bfc5d06566a6966de05931982
+ms.openlocfilehash: 82caef6e5054146c912757a2914376a408c1b26d
+ms.sourcegitcommit: cefe454c62a0cd90d468ae3b12f5b74678345401
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "2669149"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "2778523"
 ---
 # <a name="external-catalog-enhancements"></a>外部カタログの機能強化
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 9 月| 2019 年 11 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 1 月| 2020 年 3 月|
 
 
 

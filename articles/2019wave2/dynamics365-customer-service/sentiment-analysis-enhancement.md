@@ -3,25 +3,25 @@ title: 感情分析の強化
 description: 会話のセンチメントの状態をリアルタイムで識別します。 追加言語に対する感情分析のサポート。
 author: relnotes
 ms.reviewer: udag
-ms.date: 09/26/2019
+ms.date: 11/15/2019
 ms.assetid: 1c62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: chrg
 dynamics365pdf: true
-ms.openlocfilehash: 8572b1ee730ac829009e3fd3709796c0f60af87f
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 1280276410f968601a1987ff01836e02eb648927
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661440"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893514"
 ---
 # <a name="sentiment-analysis-enhancement"></a>感情分析の強化
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月|-| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|-| 2020 年 1 月|
 
 
 
@@ -45,3 +45,7 @@ ms.locfileid: "2661440"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[感情分析を有効化する](https://docs.microsoft.com/dynamics365/omnichannel/administrator/enable-sentiment-analysis) (ドキュメント)

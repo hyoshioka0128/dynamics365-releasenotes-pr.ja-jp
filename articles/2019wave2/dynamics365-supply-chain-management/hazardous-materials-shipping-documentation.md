@@ -3,25 +3,25 @@ title: 危険物出荷ドキュメント
 description: 危険物出荷ドキュメント
 author: relnotes
 ms.reviewer: josaw
-ms.date: 08/02/2019
+ms.date: 10/25/2019
 ms.assetid: 5062278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: lcash
 dynamics365pdf: true
-ms.openlocfilehash: f5910edc4d8332864047efc0ec4fb480cb34a237
-ms.sourcegitcommit: 5d6e90743e29603bfc5d06566a6966de05931982
+ms.openlocfilehash: 928b9503680dabc966742d978fa30efdaec8aede
+ms.sourcegitcommit: cefe454c62a0cd90d468ae3b12f5b74678345401
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "2668742"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "2778413"
 ---
 # <a name="hazardous-materials-shipping-documentation"></a>危険物出荷ドキュメント
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 9 月| 2019 年 11 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 1 月| 2020 年 3 月|
 
 
 

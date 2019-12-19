@@ -3,25 +3,25 @@ title: マスター プラン進捗ガント チャート
 description: ''
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/02/2019
+ms.date: 12/02/2019
 ms.assetid: 896c3497-71e3-e911-a814-000d3a4f1244
 ms.topic: article
 ms.service: business-applications
 ms.author: crytt
 dynamics365pdf: true
-ms.openlocfilehash: efed8496b792883835ab3b972bb3263d2404d82a
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: 81b5416e4d4f07e847a8c19347c78fd29294ce41
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660600"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889774"
 ---
 # <a name="master-planning-progress-gantt-chart"></a>マスター プラン進捗ガント チャート
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 2019 年 11 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 25 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 29 日|
 
 
 
@@ -41,3 +41,7 @@ ms.locfileid: "2660600"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[マスター プランの実行の監視](https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/master-planning/tasks/monitor-master-planning-run) (ドキュメント)

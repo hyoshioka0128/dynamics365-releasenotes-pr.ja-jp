@@ -3,17 +3,17 @@ title: Microsoft Forms Pro の新機能と予定されている機能 (2019 年�
 description: Microsoft Forms Pro で計画されている機能の概要。
 author: relnotes
 ms.reviewer: shjais
-ms.date: 10/24/2019
+ms.date: 12/04/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: raysmith
 dynamics365pdf: true
-ms.openlocfilehash: 456950f583c415d5e6978e6b7256358230afc425
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: b710c4fb50f76e2097ab7c344825aed2087f3a79
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661286"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891604"
 ---
 # <a name="whats-new-and-planned-for-microsoft-forms-pro"></a>Microsoft Forms Pro の新機能と予定されている機能
 

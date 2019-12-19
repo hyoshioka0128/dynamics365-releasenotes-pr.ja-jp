@@ -2,19 +2,19 @@
 title: Dynamics 365 Fraud Protection 2019 年リリース ウェーブ 2 の概要
 description: Dynamics 365 Fraud Protection 2019 年リリース ウェーブ 2 の概要
 author: relnotes
-ms.reviewer: v-jegrif
-ms.date: 08/30/2019
+ms.reviewer: v-davido
+ms.date: 11/08/2019
 ms.assetid: 72a3fad1-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: v-jegrif
 dynamics365pdf: true
-ms.openlocfilehash: 7b17e7ee684933340bc27f2c8883e84c6dac84a2
-ms.sourcegitcommit: e2c3a2557be0960c6f3f47d7f5c8a65f5a5fe45d
+ms.openlocfilehash: 278c088cac60c0f2af2221c3b2f277319ad451ea
+ms.sourcegitcommit: cf8b2ba74d2b553c2a721942221c285ffcf184c5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "2764815"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892672"
 ---
 # <a name="overview-of-dynamics-365-fraud-protection-2019-release-wave-2"></a>Dynamics 365 Fraud Protection 2019 年リリース ウェーブ 2 の概要
 [!include[artificial-intelligence/dynamics365-fraud-protection banner](../includes/artificial-intelligence/dynamics365-fraud-protection.md)]
@@ -34,7 +34,7 @@ Microsoft には、eコマース ビジネスを詐欺から保護してきた�
 
 Dynamics 365 Fraud Protection を使用すると、次のような革新的で高度な機能を使用して、ビジネスを詐欺から守ることができます。
 
-- 人工知能と詐欺防止ネットワークからのインサイト
+- 人工知能と詐欺防止ネットワークからの分析情報
 - ルール エンジンと仮想不正アナリスト
 - Graph エクスプローラーと KPI スコアカード
 - 取引受入ブースター
@@ -64,5 +64,5 @@ Dynamics 365 Fraud Protection を使用すると、次のような革新的で�
 | 取引受入ブースターを使用して銀行の承認を向上させる。                                                                                                |          |          | X       |
 | Dynamics 365 Fraud Protection を記録のソリューションにする。                                                                                                              |          |          | X       |
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-fraud-protection-192%27)) Dynamics 365 Fraud Protection の 2019 年リリース ウェーブ 2 の更新情報
+[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-fraud-protection-192%27)) Dynamics 365 Fraud Protection の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

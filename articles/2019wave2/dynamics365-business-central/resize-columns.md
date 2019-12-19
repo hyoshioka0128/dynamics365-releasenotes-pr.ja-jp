@@ -3,18 +3,18 @@ title: 少ないクリック数での列のサイズ変更
 description: 個人用設定を起動しなくても、列のサイズをすばやく変更できます。
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 10/01/2019
+ms.date: 11/15/2019
 ms.assetid: 836e8afd-686c-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 70e571d2ea843b782b513de571835bacc899d305
-ms.sourcegitcommit: 590e87e96d534d8c1d7213e0587b45142d205935
+ms.openlocfilehash: 8caa83de206b18629b8cae7a003246facb0dc624
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "2564604"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891989"
 ---
 # <a name="resize-columns-with-fewer-clicks"></a>少ないクリック数での列のサイズ変更
 
@@ -35,7 +35,7 @@ ms.locfileid: "2564604"
 <!--feature detail start -->
 任意の列の幅を調整することが簡単になりました。 パーソナライズを開始しなくても、列ヘッダーの境界線をドラッグしてサイズを変更できます。 Microsoft Excel と同様に、境界線をダブルクリックして (自動調整)、画面上のすべての列のキャプションと値が効率的に表示されるように列のサイズを自動的に調整できます。
 
-![列のサイズが変更されているリスト ページのスクリーンショット](media/resize-3000x2000.png "列のサイズが変更されているリスト ページのスクリーンショット")
+![列がサイズ変更されているリスト ページのスクリーンショット](media/resize-3000x2000.png "列がサイズ変更されているリスト ページのスクリーンショット")
 <!-- Picture 1 -->
 
 他の UI 個人用設定と同様に、変更内容は、ユーザーがサインインしているデバイスに関係なく、ユーザーと一緒に移動します。

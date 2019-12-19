@@ -3,24 +3,26 @@ title: Dynamics 365 Customer Service Insights 2019 年リリース ウェーブ 
 description: Dynamics 365 Customer Service Insights 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: shellyha
-ms.date: 09/23/2019
+ms.date: 11/08/2019
 ms.assetid: c7a3fad1-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: tpalmer
 dynamics365pdf: true
-ms.openlocfilehash: 8029cd5130c987443f2dde7c4b58a93eee88e589
-ms.sourcegitcommit: e2c3a2557be0960c6f3f47d7f5c8a65f5a5fe45d
+ms.openlocfilehash: ae69e6d15099c313e0adde6602ce104c0f933006
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "2764745"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891714"
 ---
 # <a name="overview-of-dynamics-365-customer-service-insights-2019-release-wave-2"></a>Dynamics 365 Customer Service Insights 2019 年リリース ウェーブ 2 の概要
 [!include[artificial-intelligence/dynamics365-customer-service-insights banner](../includes/artificial-intelligence/dynamics365-customer-service-insights.md)]
 
 <!--overview start-->
-Dynamics 365 Customer Service Insights では、業界最先端の人工知能を使用して、重要なパフォーマンス メトリック、運用データ、最新トレンドに関するアクション可能なビューが提供されます。 これらの分析情報により、顧客サービス マネージャーは自信を持って顧客満足度と業務効率を改善するために、より的確な決定を下すことができます。 人工知能 (AI)、機械学習、そしてビジネス インテリジェンス (BI) の力のおかげで、コンタクト センターでは、起きていること、その理由、起きる可能性のあることが明確にわかり、最善の行動方針を決定できます。 Customer Service Insights で使われている AI モデルは、ユーザーのジェスチャから積極的に学習し、時間の経過とともに個々の顧客に合わせて最適化されます。 とりわけ、AI 機能は標準で備わっているため、AI の専門知識がなくても使用できます。   
+Dynamics 365 Customer Service Insights では、業界最先端の人工知能を使用して、重要なパフォーマンス メトリック、運用データ、最新トレンドに関するアクション可能なビューが提供されます。 これらの分析情報により、顧客サービス マネージャーは自信を持って顧客満足度と業務効率を改善するために、より的確な決定を下すことができます。 
+
+人工知能 (AI)、機械学習、そしてビジネス インテリジェンス (BI) の力のおかげで、コンタクト センターでは、起きていること、その理由、起きる可能性のあることが明確にわかり、最善の行動方針を決定できます。 Customer Service Insights で使われている AI モデルは、ユーザーのジェスチャから積極的に学習し、時間の経過とともに個々の顧客に合わせて最適化されます。 とりわけ、AI 機能は標準で備わっているため、AI の専門知識がなくても使用できます。   
 
 2019 年 4 月の製品の一般提供 (GA) では、顧客サービス組織にリッチなビューを提供する多くのエンタープライズ機能と統合されたエクスペリエンスを実現しました。 
 
@@ -32,5 +34,5 @@ Dynamics 365 Customer Service Insights では、業界最先端の人工知能�
 
 [概要ビデオを見る](https://aka.ms/ROGCSI19RW2ROV)
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27\dynamics365-customer-service-insights-192%27)) Dynamics 365 Customer Service Insights の 2019 年リリース ウェーブ 2 の更新情報
+[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-customer-service-insights-192%27)) Dynamics 365 Customer Service Insights の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

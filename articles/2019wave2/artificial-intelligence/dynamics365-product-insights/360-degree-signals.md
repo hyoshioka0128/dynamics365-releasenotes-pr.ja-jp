@@ -3,18 +3,18 @@ title: 360 度シグナル
 description: ユーザーは、モノのインターネット (IoT) デバイス、モバイル アプリケーション、Web サイト、クラウド サービス、および基幹業務アプリケーションを簡単に実装できます。
 author: relnotes
 ms.reviewer: v-aswood
-ms.date: 10/10/2019
+ms.date: 11/15/2019
 ms.assetid: 5d971c4d-ded4-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: mohammed
 dynamics365pdf: true
-ms.openlocfilehash: e6f9e476ad2d6f4647fc138b83c2e6157c95cfdb
-ms.sourcegitcommit: c843aacec8dddcb0d6693c79fbace7f19bf09565
+ms.openlocfilehash: 5653d9cfeb9aea53569cf3897df20d17a1687be1
+ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "2574757"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2893745"
 ---
 # <a name="360-degree-signals"></a>360 度シグナル
 [!include[artificial-intelligence/dynamics365-product-insights banner](../includes/artificial-intelligence/dynamics365-product-insights.md)]

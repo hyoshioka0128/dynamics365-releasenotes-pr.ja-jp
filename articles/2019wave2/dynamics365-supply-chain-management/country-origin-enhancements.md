@@ -3,25 +3,25 @@ title: 原産国の機能強化
 description: 原産国の機能強化
 author: relnotes
 ms.reviewer: josaw
-ms.date: 09/17/2019
+ms.date: 10/25/2019
 ms.assetid: 5262278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: lcash
 dynamics365pdf: true
-ms.openlocfilehash: c212ac9b9122332e225cfa5baa13962f0b064ecd
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: f4af180d6fcff8780290c73c9984e3e2c0efc595
+ms.sourcegitcommit: cefe454c62a0cd90d468ae3b12f5b74678345401
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660540"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "2778512"
 ---
 # <a name="country-of-origin-enhancements"></a>原産国の機能強化
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 9 月| 2019 年 11 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 1 月| 2020 年 3 月|
 
 
 

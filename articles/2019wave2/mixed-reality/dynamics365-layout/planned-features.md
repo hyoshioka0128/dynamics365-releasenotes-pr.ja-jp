@@ -3,17 +3,17 @@ title: Dynamics 365 Layout の新機能と予定されている機能 (2019 年�
 description: Dynamics 365 Layout で計画されている機能の概要。
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 10/24/2019
+ms.date: 12/04/2019
 ms.topic: summary
 ms.service: business-applications
-ms.author: lorrainb
+ms.author: msalam
 dynamics365pdf: true
-ms.openlocfilehash: e9b2e344f868d1a710fadad7807f383bdc0ac68e
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 8c59cfa4f066192d159e952beded220f33f6ff44
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661957"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891582"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-layout"></a>Dynamics 365 Layout の新機能と予定されている機能
 
@@ -25,7 +25,7 @@ ms.locfileid: "2661957"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
- | [HoloLens 2 の初期状態のアニメーション化されたエクスペリエンス](animated-out-of-the-box-experience-hololens-2.md) | エンド ユーザー、自動的 | 2019 年 10 月| | 
+| [HoloLens 2 の初期状態のアニメーション化されたエクスペリエンス](animated-out-of-the-box-experience-hololens-2.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 22 日| | 
 | [HoloLens 2 とのアプリの互換性](app-compatibility-hololens-2.md) | エンド ユーザー、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 | [資産ロック](asset-lock.md) | エンド ユーザー、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 | [最適化された部屋のスキャン](optimized-room-scan.md) | エンド ユーザー、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 

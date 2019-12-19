@@ -3,25 +3,25 @@ title: ピッキング作業作成ステップからの需要補充作業の分�
 description: この機能により、ユーザーは補充作業トランザクションを作業作成の残りの部分から分離することができます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 09/29/2019
+ms.date: 11/19/2019
 ms.assetid: 7a62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: pjacobse
 dynamics365pdf: true
-ms.openlocfilehash: 0f71a9c3063899316ce935f3944fce9f70b39f28
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: 4e2d99ef7131409652ef9c8084cb350af87892af
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660574"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889598"
 ---
 # <a name="split-demand-replenishment-work-from-create-pick-work-step"></a>ピッキング作業作成ステップからの需要補充作業の分割
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 1 日| 2019 年 11 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 1 日| 2020 年 1 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -35,6 +35,9 @@ ms.locfileid: "2660574"
 <!--feature detail start -->
 バージョン 7.1 のタイムフレームでは、マルチスレッドを導入することでウェーブの割り当てステップを改善しました。 残りのステップは、現在マルチスレッドではなく、単一の長いデータベース トランザクションで実行されます。 ピッキング作業の作成が表す長いトランザクションの最適化に関する問題の 1 つは、需要の補充がそのトランザクション内で作成されるという事実です。 将来のパフォーマンス最適化の目的で、補充作業作成ステップを独自のトランザクションを持つ独自のスレッドに分離します。
 <!--feature detail end -->
+
+
+
 
 
 

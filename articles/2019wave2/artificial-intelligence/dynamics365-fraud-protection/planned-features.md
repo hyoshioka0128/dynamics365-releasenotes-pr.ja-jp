@@ -2,18 +2,18 @@
 title: Dynamics 365 Fraud Protection の新機能と予定されている機能 (2019 年リリース ウェーブ 2)
 description: Dynamics 365 Fraud Protection で計画されている機能の概要。
 author: relnotes
-ms.reviewer: v-jegrif
-ms.date: 10/24/2019
+ms.reviewer: v-davido
+ms.date: 12/04/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: msalam
 dynamics365pdf: true
-ms.openlocfilehash: 943d79d06f0ecb7f2de16c9c640d01a72cb25db4
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 18e0335d6a34d2c72296ba54883d516c59e5bdef
+ms.sourcegitcommit: cf8b2ba74d2b553c2a721942221c285ffcf184c5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661572"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2892650"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-fraud-protection"></a>Dynamics 365 Fraud Protection の新機能と予定されている機能
 
@@ -25,7 +25,7 @@ ms.locfileid: "2661572"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
-| [人工知能と詐欺防止ネットワークからのインサイト](artificial-intelligence-insights-fraud-protection-network.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 23 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+| [人工知能と詐欺防止ネットワークからの分析情報](artificial-intelligence-insights-fraud-protection-network.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 23 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 | [銀行の受入率の向上](boost-bank-acceptance-rates.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 23 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 | [デバイス フィンガープリンティング](device-fingerprinting.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 23 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 | [診断](diagnose.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 23 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 

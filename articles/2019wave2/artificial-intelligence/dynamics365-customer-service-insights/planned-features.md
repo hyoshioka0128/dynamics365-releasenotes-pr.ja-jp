@@ -3,17 +3,17 @@ title: Dynamics 365 Customer Service Insights の新機能と予定されてい�
 description: Dynamics 365 Customer Service Insights で計画されている機能の概要。
 author: relnotes
 ms.reviewer: shellyha
-ms.date: 10/24/2019
+ms.date: 12/04/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: jeffcom
 dynamics365pdf: true
-ms.openlocfilehash: 62dccc56cac3db43f178e2d5c7fd4bc1b9b6da7e
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 320b8f8f9964503e7310b696c61c61982ed75e8d
+ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661649"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "2891725"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-customer-service-insights"></a>Dynamics 365 Customer Service Insights の新機能と予定されている機能
 

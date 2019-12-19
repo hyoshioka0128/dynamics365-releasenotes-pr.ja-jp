@@ -3,18 +3,18 @@ title: UX プラットフォーム
 description: ''
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/21/2019
+ms.date: 11/15/2019
 ms.assetid: a263278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: brendans
 dynamics365pdf: true
-ms.openlocfilehash: 99b07682d3f3bb9310c66a00e954766e7fae71a0
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 6cb35fb0b36ca5349510201e2bde4145ec585d41
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661517"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2890214"
 ---
 # <a name="ux-platform"></a>UX プラットフォーム
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
@@ -33,7 +33,7 @@ ms.locfileid: "2661517"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-Dynamics 365 Commerce では、小売店舗は、マイクロソフトが独自の統合された学習と購入の eコマース エクスペリエンスを実行するために開発したのと同じ UX プラットフォーム (microsoft.com\\store) で実行されます。 Azure が構築した最新のクラウド Web インフラストラクチャにより、Microsoft のオンライン小売およびマーケティング Web サイトを強化するパフォーマンス、可用性、スケールが可能になります。 UX プラットフォームでは、小売業者は、テンプレートとページ (ホーム ページ、カテゴリ ページ、統合された学習と購入製品の詳細ページなど) を使用してサイトを構築します。 これらのページは、モジュール (コンテンツの表示方法と動作方法が定義されている UX のモジュール ピース) で構成されています。 
+Dynamics 365 Commerce では、小売店舗は、マイクロソフトが独自の統合された学習と購入の eコマース エクスペリエンスを実行するために開発したのと同じ UX プラットフォーム (microsoft.com\/store) で実行されます。 Azure が構築した最新のクラウド Web インフラストラクチャにより、Microsoft のオンライン小売およびマーケティング Web サイトを強化するパフォーマンス、可用性、スケールが実現します。 UX プラットフォームでは、小売業者は、テンプレートとページ (ホーム ページ、カテゴリ ページ、統合された学習と購入製品の詳細ページなど) を使用してサイトを構築します。 これらのページは、モジュール (コンテンツの表示方法と動作方法が定義されている UX のモジュール ピース) で構成されています。 
 
 モジュールは、ページが関連付けられているテンプレートの制約に従います。 モジュールは、Commerce インスタンス、コンテンツ管理システム (CMS)、その他のデータ リポジトリから情報を自動的にフィードするデータ プロバイダーにバインドされています。 次に、小売業者はテーマを適用して、モジュール全体の色、境界線、フォント、パディングなどのスタイルを制御します。 テーマは年間を通じて変わる可能性があります。 たとえば、12 月には祝日のテーマ、8 月には "新学期" のテーマがあり、テーマは小売業者のブランドに合わせてカスタマイズされます。 
 

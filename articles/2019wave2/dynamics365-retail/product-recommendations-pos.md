@@ -3,25 +3,25 @@ title: POS での製品レコメンデーション
 description: ''
 author: relnotes
 ms.reviewer: josaw
-ms.date: 09/13/2019
+ms.date: 11/25/2019
 ms.assetid: 9772d018-c2d4-e911-a968-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
-ms.author: bsokolov
+ms.author: moonma
 dynamics365pdf: true
-ms.openlocfilehash: 9042d4cec827b5d9e948eb53a807558d2a1b6d71
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: 0d591b349c7d92b50b0600402a40f5779a487c3b
+ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2659778"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "2889987"
 ---
 # <a name="product-recommendations-in-pos"></a>POS での製品レコメンデーション
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-| 2019 年 11 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -41,7 +41,8 @@ ms.locfileid: "2659778"
 
 -  製品詳細ページ (PDP) のレコメンデーション: 製品をシードとして活用する、コンテキストに応じた「お勧めの製品」リスト。
 
--  顧客の詳細ページのレコメンデーション: 顧客の欲しい物のリストをシードとして活用する、コンテキストに応じた「お勧めの製品」リスト。
+-  パーソナライズされた顧客の詳細ページのレコメンデーション: 認証されたユーザーに、購入履歴 (オムニチャネル) に基づいて呼び出される推奨製品のパーソナライズされたリストを提供する、コンテキストに応じた「お客様にお勧めの製品」リスト。  
+
 
 すべてのリストには、小売業者が修正を加えて特定の製品をリストの先頭に含めたり不要な品目を除外したりできる機能があります。 この機能は、AI の能力と人間の知識を組み合わせたものです。 
 
