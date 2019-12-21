@@ -812,7 +812,12 @@
     },
     {
       "source_path": "articles/2019wave2/finance-operations/vendor-bidding---questions-vendors-summarized-responses.md",
-      "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-supply-chain-management/vendor-bidding—questions-vendors-summarized-responses",
+      "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-supply-chain-management/vendor-bidding-questions-vendors-summarized-responses",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2019wave2/finance-operations/vendor-bidding—questions-vendors-summarized-responses.md",
+      "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-supply-chain-management/vendor-bidding-questions-vendors-summarized-responses",
       "redirect_document_id": "false"
     },
     {
