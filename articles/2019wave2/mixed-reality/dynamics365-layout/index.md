@@ -9,26 +9,25 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: shalug
 dynamics365pdf: true
-ms.openlocfilehash: a0c6b6697ebc1ba3d2567a17696542c65de1cf70
-ms.sourcegitcommit: fb1e16c7028e20a554c45ecc0cc114b724c87fcd
+ms.openlocfilehash: 598ea88d22e6d9499671c4a890e0b3080f0a50b4
+ms.sourcegitcommit: 8bff9a720eb621d3935b9430ac8d892003b96fdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "2809837"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2955150"
 ---
-# <a name="overview-of-dynamics-365-layout-2019-release-wave-2"></a><span data-ttu-id="6df79-103">Dynamics 365 Layout 2019 年リリース ウェーブ 2 の概要</span><span class="sxs-lookup"><span data-stu-id="6df79-103">Overview of Dynamics 365 Layout 2019 release wave 2</span></span>
+# <a name="overview-of-dynamics-365-layout-2019-release-wave-2"></a><span data-ttu-id="73c12-103">Dynamics 365 Layout 2019 年リリース ウェーブ 2 の概要</span><span class="sxs-lookup"><span data-stu-id="73c12-103">Overview of Dynamics 365 Layout 2019 release wave 2</span></span>
 [!include[mixed-reality/dynamics365-layout banner](../includes/mixed-reality/dynamics365-layout.md)]
 
 <!--overview start-->
-<span data-ttu-id="6df79-104">空間プランナーは、Dynamics 365 Layout で提供される新しい方法を使用して、確実にすばやく、デザインをコンセプトから完全なものにすることができます。</span><span class="sxs-lookup"><span data-stu-id="6df79-104">Dynamics 365 Layout provides a new way for space planners to bring designs from concept to completion with confidence and speed.</span></span> <span data-ttu-id="6df79-105">インポートした資産やグレー ボックスの資産を空間にすばやくレイアウトでき、高精度のホログラムを Microsoft HoloLens で現実世界にオーバーレイして表示したり、Windows Mixed Reality に空間の仮想表現で表示したりできます。</span><span class="sxs-lookup"><span data-stu-id="6df79-105">Lay out spaces with imported or gray box assets and view high-quality holograms overlaid in the real world with Microsoft HoloLens or in a virtual representation in Windows Mixed Reality.</span></span> <span data-ttu-id="6df79-106">3D モデルとエクスペリエンス デザインを高品質なホログラムとしてインポートします。</span><span class="sxs-lookup"><span data-stu-id="6df79-106">Import 3D models and experience designs as high-quality holograms.</span></span>
+<span data-ttu-id="73c12-104">空間プランナーは、Dynamics 365 Layout で提供される新しい方法を使用して、確実にすばやく、デザインをコンセプトから完全なものにすることができます。</span><span class="sxs-lookup"><span data-stu-id="73c12-104">Dynamics 365 Layout provides a new way for space planners to bring designs from concept to completion with confidence and speed.</span></span> <span data-ttu-id="73c12-105">インポートした資産やグレー ボックスの資産を空間にすばやくレイアウトでき、高精度のホログラムを Microsoft HoloLens で現実世界にオーバーレイして表示したり、Windows Mixed Reality に空間の仮想表現で表示したりできます。</span><span class="sxs-lookup"><span data-stu-id="73c12-105">Lay out spaces with imported or gray box assets and view high-quality holograms overlaid in the real world with Microsoft HoloLens or in a virtual representation in Windows Mixed Reality.</span></span> <span data-ttu-id="73c12-106">3D モデルとエクスペリエンス デザインを高品質なホログラムとしてインポートします。</span><span class="sxs-lookup"><span data-stu-id="73c12-106">Import 3D models and experience designs as high-quality holograms.</span></span>
 
-<span data-ttu-id="6df79-107">2019 年リリース ウェーブ 2 の機能の一覧は次のとおりです。</span><span class="sxs-lookup"><span data-stu-id="6df79-107">The list of capabilities for the 2019 release wave 2 includes:</span></span>
+<span data-ttu-id="73c12-107">2019 年リリース ウェーブ 2 の機能の一覧は次のとおりです。</span><span class="sxs-lookup"><span data-stu-id="73c12-107">The list of capabilities for the 2019 release wave 2 includes:</span></span>
 
-- <span data-ttu-id="6df79-108">HoloLens 2 とのアプリケーションの互換性。</span><span class="sxs-lookup"><span data-stu-id="6df79-108">Application compatibility with HoloLens 2.</span></span>
+- <span data-ttu-id="73c12-108">HoloLens 2 とのアプリケーションの互換性。</span><span class="sxs-lookup"><span data-stu-id="73c12-108">Application compatibility with HoloLens 2.</span></span>
 
-- <span data-ttu-id="6df79-109">最適化された室内スキャン機能。</span><span class="sxs-lookup"><span data-stu-id="6df79-109">Optimized room-scanning capabilities.</span></span>
+- <span data-ttu-id="73c12-109">最適化された室内スキャン機能。</span><span class="sxs-lookup"><span data-stu-id="73c12-109">Optimized room-scanning capabilities.</span></span>
 
-- <span data-ttu-id="6df79-110">Dynamics 365 Layout レビュー用にロックされた資産ビュー。</span><span class="sxs-lookup"><span data-stu-id="6df79-110">Locked assets view for Dynamics 365 Layout reviews.</span></span>
+- <span data-ttu-id="73c12-110">Dynamics 365 Layout レビュー用にロックされた資産ビュー。</span><span class="sxs-lookup"><span data-stu-id="73c12-110">Locked assets view for Dynamics 365 Layout reviews.</span></span>
 
-<span data-ttu-id="6df79-111">[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-layout-192%27)) Dynamics 365 Layout の 2019 年リリース ウェーブ 2 の更新情報</span><span class="sxs-lookup"><span data-stu-id="6df79-111">[![RSS Subscription](/dynamics365-release-plan/media/feed-icon.png "RSS Subscription")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-layout-192%27)) Updates to Dynamics 365 Layout 2019 release wave 2</span></span>
 <!--overview end-->

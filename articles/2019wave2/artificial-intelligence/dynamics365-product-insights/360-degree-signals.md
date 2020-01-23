@@ -2,35 +2,35 @@
 title: 360 度シグナル
 description: ユーザーは、モノのインターネット (IoT) デバイス、モバイル アプリケーション、Web サイト、クラウド サービス、および基幹業務アプリケーションを簡単に実装できます。
 author: relnotes
-ms.reviewer: v-aswood
-ms.date: 11/15/2019
+ms.reviewer: mhart
+ms.date: 12/12/2019
 ms.assetid: 5d971c4d-ded4-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: mohammed
 dynamics365pdf: true
-ms.openlocfilehash: 5653d9cfeb9aea53569cf3897df20d17a1687be1
-ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
+ms.openlocfilehash: 038d3999102fcbd395310371b36757063edc2648
+ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "2893745"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2910184"
 ---
-# <a name="360-degree-signals"></a><span data-ttu-id="6ba33-103">360 度シグナル</span><span class="sxs-lookup"><span data-stu-id="6ba33-103">360-degree signals</span></span>
-[!include[artificial-intelligence/dynamics365-product-insights banner](../includes/artificial-intelligence/dynamics365-product-insights.md)]
+# <a name="360-degree-signals"></a><span data-ttu-id="31d9f-103">360 度シグナル</span><span class="sxs-lookup"><span data-stu-id="31d9f-103">360-degree signals</span></span>
 
-| <span data-ttu-id="6ba33-104">有効対象</span><span class="sxs-lookup"><span data-stu-id="6ba33-104">Enabled for</span></span>    |  <span data-ttu-id="6ba33-105">パブリック プレビュー</span><span class="sxs-lookup"><span data-stu-id="6ba33-105">Public preview</span></span> | <span data-ttu-id="6ba33-106">一般提供</span><span class="sxs-lookup"><span data-stu-id="6ba33-106">General availability</span></span> | 
+
+| <span data-ttu-id="31d9f-104">有効対象</span><span class="sxs-lookup"><span data-stu-id="31d9f-104">Enabled for</span></span>    |  <span data-ttu-id="31d9f-105">パブリック プレビュー</span><span class="sxs-lookup"><span data-stu-id="31d9f-105">Public preview</span></span> | <span data-ttu-id="31d9f-106">一般提供</span><span class="sxs-lookup"><span data-stu-id="31d9f-106">General availability</span></span> | 
 | ---------- | :----------: |:----------: |
-|<span data-ttu-id="6ba33-107">エンド ユーザー、自動的</span><span class="sxs-lookup"><span data-stu-id="6ba33-107">End users, automatically</span></span>|<span data-ttu-id="6ba33-108">![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。")</span><span class="sxs-lookup"><span data-stu-id="6ba33-108">![This feature is released.](/dynamics365-release-plan/media/green-checkmark.png "This feature is released.")</span></span> <span data-ttu-id="6ba33-109">2019 年 10 月 1 日</span><span class="sxs-lookup"><span data-stu-id="6ba33-109">Oct 1, 2019</span></span>| <span data-ttu-id="6ba33-110">近日発表</span><span class="sxs-lookup"><span data-stu-id="6ba33-110">To be announced</span></span>|
+|<span data-ttu-id="31d9f-107">エンド ユーザー、自動的</span><span class="sxs-lookup"><span data-stu-id="31d9f-107">End users, automatically</span></span>|<span data-ttu-id="31d9f-108">![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。")</span><span class="sxs-lookup"><span data-stu-id="31d9f-108">![This feature is released.](/dynamics365-release-plan/media/green-checkmark.png "This feature is released.")</span></span> <span data-ttu-id="31d9f-109">2019 年 10 月 1 日</span><span class="sxs-lookup"><span data-stu-id="31d9f-109">Oct 1, 2019</span></span>| -|
 
 
 
 
 
 
-## <a name="feature-details"></a><span data-ttu-id="6ba33-111">機能の詳細</span><span class="sxs-lookup"><span data-stu-id="6ba33-111">Feature details</span></span>
+## <a name="feature-details"></a><span data-ttu-id="31d9f-110">機能の詳細</span><span class="sxs-lookup"><span data-stu-id="31d9f-110">Feature details</span></span>
 <!--feature detail start -->
-<span data-ttu-id="6ba33-112">ユーザーは、モノのインターネット (IoT) デバイス、モバイル アプリケーション、Web サイト、クラウド サービス、および基幹業務アプリケーションを簡単に実装できます。</span><span class="sxs-lookup"><span data-stu-id="6ba33-112">Users can easily instrument their Internet of Things (IoT) devices, mobile applications, web sites, cloud services, and line-of-business applications.</span></span> <span data-ttu-id="6ba33-113">また、Azure IoT を含むさまざまなデータ ソースから既存の信号を簡単に取り込むことができます。</span><span class="sxs-lookup"><span data-stu-id="6ba33-113">They can also easily bring in existing signals from a variety of data sources, including Azure IoT.</span></span> <span data-ttu-id="6ba33-114">これにより、デバイスだけでなく、コンパニオン アプリやサポート サービスも含めた製品全体を把握できます。</span><span class="sxs-lookup"><span data-stu-id="6ba33-114">This enables them to understand their products holistically, not just the devices but also companion apps and supporting services.</span></span>
+<span data-ttu-id="31d9f-111">ユーザーは、モノのインターネット (IoT) デバイス、モバイル アプリケーション、Web サイト、クラウド サービス、および基幹業務アプリケーションを簡単に実装できます。</span><span class="sxs-lookup"><span data-stu-id="31d9f-111">Users can easily instrument their Internet of Things (IoT) devices, mobile applications, web sites, cloud services, and line-of-business applications.</span></span> <span data-ttu-id="31d9f-112">また、Azure IoT を含むさまざまなデータ ソースから既存の信号を簡単に取り込むことができます。</span><span class="sxs-lookup"><span data-stu-id="31d9f-112">They can also easily bring in existing signals from a variety of data sources, including Azure IoT.</span></span> <span data-ttu-id="31d9f-113">これにより、デバイスだけでなく、コンパニオン アプリやサポート サービスも含めた製品全体を把握できます。</span><span class="sxs-lookup"><span data-stu-id="31d9f-113">This enables them to understand their products holistically, not just the devices but also companion apps and supporting services.</span></span>
 <!--feature detail end -->
 
 
@@ -42,8 +42,8 @@ ms.locfileid: "2893745"
 
 
 
-## <a name="see-also"></a><span data-ttu-id="6ba33-115">関連項目</span><span class="sxs-lookup"><span data-stu-id="6ba33-115">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="31d9f-114">関連項目</span><span class="sxs-lookup"><span data-stu-id="31d9f-114">See also</span></span>
 
-<span data-ttu-id="6ba33-116">[Microsoft Dynamics 365 Product Insights の発表 – 現在プレビュー中](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/10/02/announcing-microsoft-dynamics-365-product-insights-now-in-preview/) (ブログ)</span><span class="sxs-lookup"><span data-stu-id="6ba33-116">[Announcing Microsoft Dynamics 365 Product Insights – Now in preview](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/10/02/announcing-microsoft-dynamics-365-product-insights-now-in-preview/) (blog)</span></span>
+<span data-ttu-id="31d9f-115">[Microsoft Dynamics 365 Product Insights の発表 – 現在プレビュー中](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/10/02/announcing-microsoft-dynamics-365-product-insights-now-in-preview/) (ブログ)</span><span class="sxs-lookup"><span data-stu-id="31d9f-115">[Announcing Microsoft Dynamics 365 Product Insights – Now in preview](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/10/02/announcing-microsoft-dynamics-365-product-insights-now-in-preview/) (blog)</span></span>
 
-<span data-ttu-id="6ba33-117">[Product Insights](https://docs.microsoft.com/dynamics365/product-insights/) (ドキュメント)</span><span class="sxs-lookup"><span data-stu-id="6ba33-117">[Product Insights](https://docs.microsoft.com/dynamics365/product-insights/) (docs)</span></span>
+<span data-ttu-id="31d9f-116">[Product Insights](https://docs.microsoft.com/dynamics365/product-insights/) (ドキュメント)</span><span class="sxs-lookup"><span data-stu-id="31d9f-116">[Product Insights](https://docs.microsoft.com/dynamics365/product-insights/) (docs)</span></span>
