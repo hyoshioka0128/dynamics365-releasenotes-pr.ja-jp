@@ -3,25 +3,25 @@ title: 英語以外のサポート案件タイトルのトピック生成に対�
 description: 英語以外のサポート案件タイトルのトピック生成に対するサポートの向上
 author: relnotes
 ms.reviewer: iawilt
-ms.date: 11/15/2019
+ms.date: 12/20/2019
 ms.assetid: a6c5c9b7-a471-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 dynamics365pdf: true
-ms.openlocfilehash: e78948e9a935a527669ac0ce73ce39deb536fd7a
-ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
+ms.openlocfilehash: 985fa25707d51349e387e3106a0d9e0fba784cce
+ms.sourcegitcommit: 7d5d14ac84333ba166265755f410f7e16035a64e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2891659"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "2948123"
 ---
 # <a name="improved-support-for-topic-generation-for-non-english-case-titles"></a>英語以外のサポート案件タイトルのトピック生成に対するサポートの向上
-[!include[artificial-intelligence/dynamics365-customer-service-insights banner](../includes/artificial-intelligence/dynamics365-customer-service-insights.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 8 日| 2019 年 12 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 8 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 20 日|
 
 
 
@@ -34,10 +34,10 @@ Customer Service Insights での AI モデルによるサポート案件タイ�
 
 このウェーブの更新には、次のような追加言語サポートが含まれます。
 
-- イタリア語 (パブリック プレビュー)  
-- 日本語 (パブリック プレビュー)  
-- ポルトガル語 (パブリック プレビュー)  
-- 簡体字中国語 (パブリック プレビュー)  
+- イタリア語
+- 日本語
+- ポルトガル語
+- 簡体字中国語
 
 追加のサポートは、アイデア フォーラムで要求できます。
 <!--feature detail end -->

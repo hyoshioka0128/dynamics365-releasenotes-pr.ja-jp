@@ -2,26 +2,26 @@
 title: 作業ラインの詳細
 description: 新しい作業ライン機能は、すべての作業ヘッダーにわたる作業ラインの追加の概要を提供します。
 author: relnotes
-ms.reviewer: josaw
-ms.date: 12/03/2019
+ms.reviewer: kamaybac
+ms.date: 01/06/2020
 ms.assetid: 7cfa0122-b415-ea11-a811-000d3a8f0f1e
 ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
-ms.openlocfilehash: 2d45a6ce8714cbfa3cf70084664bce7cf1baed0d
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: 15d71734c1c7f799799992a54b8cc55cb0c70efe
+ms.sourcegitcommit: 7d5d14ac84333ba166265755f410f7e16035a64e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2890446"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "2948288"
 ---
 # <a name="work-line-details"></a>作業ラインの詳細
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 8 日| 2019 年 12 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 8 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 19 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,5 +47,4 @@ ms.locfileid: "2890446"
 
 ## <a name="see-also"></a>関連項目
 [機能の探索](https://www.microsoft.com/videoplayer/embed/RE4fcYN) (ビデオ)
-
 

@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: 8a7e320e38cedd2243ae1b995773823ce90ecca5
-ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
+ms.openlocfilehash: c461b3dec1e4c0ff3a4b6c4398e255965800ee2a
+ms.sourcegitcommit: 96a8b76935ff81eeb407aeb5dcf4d402a33b56da
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2891593"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2952392"
 ---
 # <a name="overview-of-microsoft-forms-pro-2019-release-wave-2"></a>Microsoft Forms Pro 2019 年リリース ウェーブ 2 の概要
 [!include[microsoft-forms-pro banner](../includes/microsoft-forms-pro.md)]
@@ -29,5 +29,4 @@ ms.locfileid: "2891593"
 - **調査の配布**: Microsoft の組み込み調査インセンティブを利用して調査の回答率を向上させます。
 - **調査の分析情報**: 新しい Microsoft AI Builder を搭載した AI モデルを使用して、調査の回答のコメントに自動タグ付けします。
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27microsoft-forms-pro-192%27)) Microsoft Forms Pro の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

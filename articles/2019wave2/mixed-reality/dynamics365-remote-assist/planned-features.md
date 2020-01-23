@@ -3,17 +3,17 @@ title: Dynamics 365 Remote Assist の新機能と予定されている機能 (20
 description: Dynamics 365 Remote Assist で計画されている機能の概要。
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 12/04/2019
+ms.date: 12/13/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: jeffcom
 dynamics365pdf: true
-ms.openlocfilehash: 960a5e8901e0ca10594a00382f02819b9249ebe3
-ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
+ms.openlocfilehash: abef85e9c422cc9ce7154323d7fc1be9d29700d4
+ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2891560"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2909612"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-remote-assist"></a>Dynamics 365 Remote Assist の新機能と予定されている機能
 
@@ -25,11 +25,11 @@ ms.locfileid: "2891560"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
+| [空間データによる資産検査](capture-share-annotations-without-being-call.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| 2020 年 3 月|- | 
 | [モバイル デバイス向け Dynamics 365 Remote Assist](remote-assist-mobile-phones.md) | エンド ユーザー、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 | [Microsoft Teams 会議に参加する](join-team-meetings.md) | エンド ユーザー、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 17 日 | 
- | [HoloLens 2 サポート](hololens-2-support.md) | エンド ユーザー、自動的 | -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 29 日 | 
+| [HoloLens 2 サポート](hololens-2-support.md) | エンド ユーザー、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 29 日 | 
 | [低帯域幅状況での呼び出しエクスペリエンスの向上](improved-call-experience-low-bandwidth-situations.md) | エンド ユーザー、自動的| -|2020 年 2 月 | 
-| [空間検査 (通話せずに注釈を取り込んで共有する)](capture-share-annotations-without-being-call.md) | エンド ユーザー、自動的| -|2020 年 3 月 | 
 
 **有効対象**列の値の説明
 

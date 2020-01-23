@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: shalug
 dynamics365pdf: true
-ms.openlocfilehash: a0c6b6697ebc1ba3d2567a17696542c65de1cf70
-ms.sourcegitcommit: fb1e16c7028e20a554c45ecc0cc114b724c87fcd
+ms.openlocfilehash: 598ea88d22e6d9499671c4a890e0b3080f0a50b4
+ms.sourcegitcommit: 8bff9a720eb621d3935b9430ac8d892003b96fdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "2809837"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2955150"
 ---
 # <a name="overview-of-dynamics-365-layout-2019-release-wave-2"></a>Dynamics 365 Layout 2019 年リリース ウェーブ 2 の概要
 [!include[mixed-reality/dynamics365-layout banner](../includes/mixed-reality/dynamics365-layout.md)]
@@ -30,5 +30,4 @@ ms.locfileid: "2809837"
 
 - Dynamics 365 Layout レビュー用にロックされた資産ビュー。
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-layout-192%27)) Dynamics 365 Layout の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

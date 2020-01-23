@@ -3,17 +3,17 @@ title: Dynamics 365 Guides の新機能と予定されている機能 (2019 年�
 description: Dynamics 365 Guides で計画されている機能の概要。
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 12/04/2019
+ms.date: 01/10/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: msalam
 dynamics365pdf: true
-ms.openlocfilehash: 7cd052af43b1eb51825c606fd2cadc7297ad8d73
-ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
+ms.openlocfilehash: 8a47eecb09e9a8ca2982b487e321bbf75a5ddf5e
+ms.sourcegitcommit: 7d5d14ac84333ba166265755f410f7e16035a64e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2892374"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "2948222"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-guides"></a>Dynamics 365 Guides の新機能と予定されている機能
 
@@ -33,8 +33,13 @@ ms.locfileid: "2892374"
 | [ノードベースのアニメーションのサポート](support-node-based-animations.md) | エンド ユーザー、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 29 日 | 
 | [3D モデルの STL および PLY ファイル形式のサポート](support-stl-ply-file-formats-3d-models.md) | エンド ユーザー、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 29 日 | 
 | [アニメーションをオン/オフにする](turn-animations-or-off.md) | エンド ユーザー、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 29 日 | 
+ | [PC アプリの [ヘルプ] メニューの追加リソース](additional-resources-help-menu-pc-app.md) | 管理者、作成者、またはアナリスト、自動的 | -|2020 年 1 月 | 
+ | [オペレーターと作成者のロールをユーザーに割り当てる](assign-operator-author-roles-users.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト | -|2020 年 1 月 | 
+ | [PC アプリ ギャラリーへの複数のファイルのドラッグ アンド ドロップ](drag-drop-multiple-files-into-pc-app-gallery.md) | 管理者、作成者、またはアナリスト、自動的 | -|2020 年 1 月 | 
+ | [HoloLens 2 における作成者向けの直感的な対話](instinctual-interactions-authors-hololens-2.md) | 管理者、作成者、またはアナリスト、自動的 | -|2020 年 1 月 | 
+ | [HoloLens アプリから Web サイトを開く](open-website-hololens-app.md) | 管理者、作成者、またはアナリスト、自動的 | -|2020 年 1 月 | 
 
-**有効対象**列の値の説明
+**有効対象** 列の値の説明:
 
 - **エンド ユーザー、自動的**: これらの機能には、エンド ユーザーに対するユーザー エクスペリエンスへの変更が含まれており、自動的に有効になります。
 

@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: 7e3167da16c437396ca8b9ee41b015bd29804cb9
-ms.sourcegitcommit: fb1e16c7028e20a554c45ecc0cc114b724c87fcd
+ms.openlocfilehash: 1f8b0009560d4a479ba6f3c7f9ca8ef39ac2e01f
+ms.sourcegitcommit: 96a8b76935ff81eeb407aeb5dcf4d402a33b56da
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "2809749"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2952509"
 ---
 # <a name="overview-of-dynamics-365-sales-insights-2019-release-wave-2"></a>Dynamics 365 Sales Insights の 2019 年リリース ウェーブ 2 の概要
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
@@ -40,5 +40,4 @@ Dynamics 365 Sales Insights を使用すると、販売組織全体のすべて�
 
 [概要ビデオを見る](https://aka.ms/ROGSI19RW2ROV)
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-sales-insights-192%27)) Dynamics 365 Sales Insights の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

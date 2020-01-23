@@ -1,27 +1,27 @@
 ---
-title: 空間検査 (通話せずに注釈を取り込んで共有する)
+title: 空間データによる資産検査
 description: 通話せずに注釈を取り込んで共有する
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 12/04/2019
+ms.date: 12/11/2019
 ms.assetid: 6e64278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: hegate
 dynamics365pdf: true
-ms.openlocfilehash: 6784694f3a3843a48f95213a10063111bca66166
-ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
+ms.openlocfilehash: f501eded87b62dc06f3b900a1cb8384ad5188a72
+ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2892352"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2909590"
 ---
-# <a name="spatial-inspections-capture-and-share-annotations-without-being-in-a-call"></a>空間検査 (通話せずに注釈を取り込んで共有する)
+# <a name="asset-inspection-through-spatial-data"></a>空間データによる資産検査
 [!include[mixed-reality/dynamics365-remote-assist banner](../includes/mixed-reality/dynamics365-remote-assist.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|-| 2020 年 3 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 3 月| -|
 
 
 
@@ -30,25 +30,12 @@ ms.locfileid: "2892352"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-リモート アシスタンスが必要であるものの、ネットワークの制限により通話を確立できないシナリオのサポートを求めるフィードバックがお客様からありました。 
+この機能は、もともとは「電話をかけなくても注釈をキャプチャして共有する機能」として計画されていました。 広範な顧客の学習とフィードバックに基づいて、機能の範囲を広げました。 
 
-シナリオの例: 
+この機能では、Dynamics 365 Remote Assist の「資産検査」の概念が導入され、技術者は空間データを使用して、電話をかけずに検査や調査を行い、後処理のために作業を保存できるようになります。 検査担当者は、コンテキスト内の資産調査や資産検査をハンズフリーで実行して、紙や Excel でのプロセスを改善でき、検査がより速く、安全で、正確になります。
 
--  インターネット接続がない、または接続がビデオ通話をサポートできない場合に問題に関する情報を取り込む。 例: 液化天然ガスを運ぶ石油会社の貨物船や、遠隔地の変電所。
+キャプチャされたデータは Common Data Service に保存され、Dynamics 365 Field Service の検査と統合されます。 フィールド サービス技術者は、作業指示書で Dynamics 365 Remote Assist に記録された情報を参照できるようになります。
 
--  エキスパートがいないときに問題に関する情報を取り込み、チャット/メールで送信する。 例: 航空会社が FAA と通信する必要がある場合。
-
--  リモート検査の記録。 例: 工場出荷試験、安全検査、インシデント検査。
-
--  将来のトレーニングと参照のための手順の文書化。
-
-この機能には次のサポートが含まれます。
-
-- **通話なしの注釈**。 第一線の作業者は、電話をかけずにセッションを開始できるようになります。 自分が見ていることや行おうとしていることについての追加のコンテキストを提供するために自分の環境に注釈を付けられるようになるので、エキスパート (同僚、サード パーティなど) は適切な時点で効率的な支援を提供できます。 
-
-- **通話なしの写真とビデオの取り込み。** 写真とビデオは、問題について必要な情報と背景を伝えるのに役立つので、エキスパートが支援を行うことができます。 写真とビデオは、検査、監査、トレーニングの文書化に必要なアーティファクトとしても役立ちます。    
-
-- **非同期ファイル共有。** 第一線の作業者は、シナリオに応じて異なる方法で、取り込まれた情報を送信することができます。 デバイスに情報を保存し、それを OneDrive にアップロードするか、Microsoft Teams でだれかに送信できるようになります。
 <!--feature detail end -->
 
 

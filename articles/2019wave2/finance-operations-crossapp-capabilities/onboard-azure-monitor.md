@@ -3,25 +3,25 @@ title: Azure Monitor にオンボードする
 description: Azure Monitor にオンボードする
 author: relnotes
 ms.reviewer: sericks
-ms.date: 10/04/2019
+ms.date: 12/16/2019
 ms.assetid: a5a3d968-adca-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: manado
 dynamics365pdf: true
-ms.openlocfilehash: adc3a4c6285da176fb6d8ea0915cf342e112252a
-ms.sourcegitcommit: b5be4afdeec589f0490a82495e8206a2b3aee287
+ms.openlocfilehash: 589ddb4aa7f4deccbec79426ce73f3d658f9c584
+ms.sourcegitcommit: ecf709e1d8de3b52e1156bceb99cb7e3819f9db3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667985"
+ms.lasthandoff: 01/13/2020
+ms.locfileid: "2950914"
 ---
 # <a name="onboard-to-azure-monitor"></a>Azure Monitor にオンボードする
 [!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2020 年 2 月| 近日発表|
+|管理者、作成者、またはアナリスト、自動的|2020 年 3 月| 近日発表|
 
 
 

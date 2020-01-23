@@ -2,26 +2,26 @@
 title: 容積測定データの製品バリアントの取り込み
 description: この機能は、AWAX 機能を標準の WHS 機能に統合するという Blue Horseshoe との契約から始まります。 この機能により、製品バリアントの物理寸法を保存し、輸送費や保管に必要なスペースに関連した正しい容積測定データの計算など、後工程でこれらを使用できるようになります。
 author: relnotes
-ms.reviewer: josaw
-ms.date: 10/07/2019
+ms.reviewer: kamaybac
+ms.date: 12/13/2019
 ms.assetid: aa62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: henrikan
+ms.author: mirzaab
 dynamics365pdf: true
-ms.openlocfilehash: a54336b1cab422b3bb6b927119fd3cfa43718ff6
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: 60658f5f25e0589b007cf93d2978406f09a92f18
+ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660593"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2909722"
 ---
 # <a name="product-variant-uptake-of-volumetric-data"></a>容積測定データの製品バリアントの取り込み
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 1 月| 近日発表|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 2 月| 近日発表|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

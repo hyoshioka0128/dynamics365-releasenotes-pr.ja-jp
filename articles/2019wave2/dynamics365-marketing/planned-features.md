@@ -3,17 +3,17 @@ title: Dynamics 365 Marketing の新機能と予定されている機能 (2019 �
 description: Dynamics 365 Marketing で計画されている機能の概要。
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 12/04/2019
+ms.date: 12/13/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: loril
 dynamics365pdf: true
-ms.openlocfilehash: 5491e538c1efb79d214e4f52598025c792d3289d
-ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
+ms.openlocfilehash: a792418db433f98b882bce9e3cd07d6b730f731b
+ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2891835"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2909986"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-marketing"></a>Dynamics 365 Marketing の新機能と予定されている機能
 
@@ -32,7 +32,7 @@ ms.locfileid: "2891835"
 | [セグメント化のエクスペリエンスの改善](improved-segmentation-experience.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 | [レイアウト エディター](layout-editor.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 | [Power Automate を使用した承認のサポート](support-approvals-using.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
-| [クイック送信](quick-send.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-|-|2019 年 12 月 | 
+| [クイック送信](quick-send.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 1 日 | 
 
 \* エンド ユーザーに影響するすべての必須の変更など、一部の機能は 2019 年 8 月 2 日に早期アクセスの一部としてオプトインできるようになります。 [早期アクセス](https://aka.ms/EarlyAccessFAQ)の詳細を確認してください。
 

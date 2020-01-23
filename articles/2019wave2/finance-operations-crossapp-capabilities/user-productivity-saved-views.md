@@ -1,27 +1,27 @@
 ---
-title: ユーザーの生産性 - 保存されているビュー
-description: ユーザーの生産性 - 保存されているビュー
+title: ユーザーの生産性 - 保存されているビュー - フェーズ 1
+description: ユーザーの生産性 - 保存されているビュー - フェーズ 1
 author: relnotes
 ms.reviewer: sericks
-ms.date: 12/02/2019
+ms.date: 12/19/2019
 ms.assetid: e462278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
-ms.openlocfilehash: 1f528933abec433da342bb4c810121bb75b807a7
-ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
+ms.openlocfilehash: 6a89ebd542bd15cda4c705b2ca437cb18244ee47
+ms.sourcegitcommit: ecf709e1d8de3b52e1156bceb99cb7e3819f9db3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "2893448"
+ms.lasthandoff: 01/13/2020
+ms.locfileid: "2950815"
 ---
-# <a name="user-productivity--saved-views"></a>ユーザーの生産性 - 保存されているビュー
-[!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
+# <a name="user-productivity--saved-views--phase-1"></a>ユーザーの生産性 - 保存されているビュー - フェーズ 1
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日| 2020 年 3 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 3 日| -|
 
 
 
@@ -30,7 +30,7 @@ ms.locfileid: "2893448"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-[保存されているビュー](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-finance-operations/saved-views)のプレビューは、2019 年 10 月の Platform update 29 で使用できるようになります。 
+[保存されているビュー](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-finance-operations/saved-views)のプレビューは、2019 年 10 月の Platform update 29 で使用できるようになりした。 
 
 保存されているビューの機能強化は、この機能が一般公開されるまで、毎月の更新の一部として引き続き導入されます。
 
@@ -51,7 +51,7 @@ ms.locfileid: "2893448"
 
   ![すべての仕入先ページの複数のビュー](media/user-productivity-saved-views-1.png "[すべての仕入先] ページの複数のビュー")
 
-保存されているビューを有効にする方法については、この記事の「関連項目」セクションのリンク先を参照してください。  
+保存されているビューを有効にする方法については、以下の**関連項目**セクションのリンク先を参照してください。
 <!--feature detail end -->
 
 

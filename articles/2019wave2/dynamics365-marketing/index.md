@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: 2ef1cc049df9cea5ee2169c8f1b57aaa23d44688
-ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
+ms.openlocfilehash: e925c521332d26a604fd77f63548efa5c7b409a2
+ms.sourcegitcommit: 96a8b76935ff81eeb407aeb5dcf4d402a33b56da
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2891802"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2952300"
 ---
 # <a name="overview-of-dynamics-365-marketing-2019-release-wave-2"></a>Dynamics 365 Marketing 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
@@ -32,5 +32,4 @@ Dynamics 365 Marketing は、より多くの見込顧客を取引関係に変換
 
 [概要ビデオを見る](https://aka.ms/ROGM19RW2ROV)
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-marketing-192%27)) Dynamics 365 Marketing の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

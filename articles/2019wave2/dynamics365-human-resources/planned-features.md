@@ -3,17 +3,17 @@ title: Dynamics 365 Human Resources の新機能と予定されている機能 (
 description: Dynamics 365 Human Resources で計画されている機能の概要。
 author: relnotes
 ms.reviewer: anbichse
-ms.date: 12/04/2019
+ms.date: 12/09/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: msalam
 dynamics365pdf: true
-ms.openlocfilehash: 0ff0e27204aca75df05c93eb09f12b155d2df6f9
-ms.sourcegitcommit: cf8b2ba74d2b553c2a721942221c285ffcf184c5
+ms.openlocfilehash: 42bb757bb1a5057e1ef31d999b350084f5b7ef6c
+ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2893398"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2910239"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-human-resources"></a>Dynamics 365 Human Resources の新機能と予定されている機能
 
@@ -25,11 +25,11 @@ ms.locfileid: "2893398"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
- | [合理化された従業員データ入力](streamlined-employee-data-entry.md) | エンド ユーザー、自動的 | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 22 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
- | [環境のコピー](environment-copy.md) | 管理者、作成者、またはアナリスト、自動的 | -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 30 日 | 
- | [業績評価の印刷](print-performance-reviews.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト | -|2019 年 11 月 | 
- | [Common Data Service でデータ エンティティを展開する](expand-data-entities-common-data-service.md) | 管理者、作成者、またはアナリスト、自動的 | 2020 年 2 月|2020 年 3 月 | 
- | [サード パーティのアプリを埋め込む](embed-third-party-apps.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト | 2020 年 2 月|2020 年 3 月 | 
+| [合理化された従業員データ入力](streamlined-employee-data-entry.md) | エンド ユーザー、自動的 | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 22 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+| [環境のコピー](environment-copy.md) | 管理者、作成者、またはアナリスト、自動的 | -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 30 日 | 
+| [業績評価の印刷](print-performance-reviews.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト | -|2019 年 11 月 | 
+| [Common Data Service でデータ エンティティを展開する](expand-data-entities-common-data-service.md) | 管理者、作成者、またはアナリスト、自動的 | 2020 年 2 月|2020 年 3 月 | 
+| [サード パーティのアプリを埋め込む](embed-third-party-apps.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト | 2020 年 2 月 |2020 年 3 月 | 
 
 **有効対象**列の値の説明
 

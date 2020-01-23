@@ -3,18 +3,18 @@ title: Regulatory Configuration Service での簡素化されたローカライ�
 description: Regulatory Configuration Service (RCS) を使用すると、企業やパワー ユーザーは、法的要件の変更によって頻繁に影響を受ける規制レポート、請求書、支払方法、および税規則を構成できます。 これらの構成は、複数のアプリケーションで共有して再利用できます。 これらの構成の保存、処理、および共有を簡素化するために、RCS では新しいタイプのグローバル リポジトリがサポートされます。これを使用して、ユーザーは自分の構成を直接 RCS で一元的に格納および管理できます。
 author: relnotes
 ms.reviewer: kfend
-ms.date: 11/04/2019
+ms.date: 12/16/2019
 ms.assetid: dc62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: janeaug
 dynamics365pdf: true
-ms.openlocfilehash: 7d747884979de78c07c75d52de449f3fc7bbc39c
-ms.sourcegitcommit: 25ea4ae8ca39c2514ddbaa59dc15c93f8e5cae07
+ms.openlocfilehash: a99a9a08c78d21959f3ac7200bcc24166ed273dd
+ms.sourcegitcommit: ecf709e1d8de3b52e1156bceb99cb7e3819f9db3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "2801519"
+ms.lasthandoff: 01/13/2020
+ms.locfileid: "2950936"
 ---
 # <a name="simplified-localization-configuration-management-in-regulatory-configuration-service"></a>Regulatory Configuration Service での簡素化されたローカライズ構成管理
 [!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
@@ -52,4 +52,4 @@ ms.locfileid: "2801519"
 
 ## <a name="see-also"></a>関連項目
 
-[RCS コンフィギュレーション ライフサイクル](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/analytics/rcs-download-configurations?toc=/dynamics365/commerce/toc.json) (ドキュメント)
+[コンフィギュレーション規制コンフィギュレーション サービス (RCS) からの電子申告 (ER) 構成のインポート](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/analytics/rcs-download-configurations?toc=/dynamics365/commerce/toc.json) (ドキュメント)

@@ -9,28 +9,17 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: brpotter
 dynamics365pdf: true
-ms.openlocfilehash: f9450b51a5c21bdcc375642485ac73db9acb57b8
-ms.sourcegitcommit: cf8b2ba74d2b553c2a721942221c285ffcf184c5
+ms.openlocfilehash: 349e7c0fda82235b07c72e8a1b1ff81b20a8dcdc
+ms.sourcegitcommit: 259173373fe401be988294ec51edc2c0af2bd0bc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2892606"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "2905729"
 ---
 # <a name="overview-of-dynamics-365-talent-2019-release-wave-2"></a>Dynamics 365 Talent 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 <!--overview start-->
-> [!IMPORTANT]
-> Dynamics 365 Talent: Attract および Onboard アプリは廃止されます。 詳細については、「[Dynamics 365 Talent: Attract および Onboard アプリの廃止](https://community.dynamics.com/365/talent/b/dynamics365fortalent/posts/retiring-dynamics-365-talent-attract-and-onboard-apps)」と「[Dynamics 365 Human Resources 2019 リリース ウェーブ 2 の概要](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/dynamics365-human-resources/)」を参照してください。
+Dynamics 365 HR ソリューション ポートフォリオに変更が加えられ、再び投資に重点が置かれるようになります。 2020 年 2 月 1 日、現在の Core HR 機能の名前が Dynamics 365 Human Resources に変更されます。 新しい名前は、人事担当者が従業員のエクスペリエンスを向上させるデータ主導型プログラムを作成できるようにするという当社の取り組みを反映しています。 
 
-Dynamics 365 Talent により、組織は従業員データを一元化し、人事プログラム全体でオペレーショナル エクセレンスを促進することができます。 人件費はオペレーション費用の中で最もコストのかかる部分であるため、効率化とコスト削減は常に人事の使命の一部でした。しかし、従業員の実務が分断されて会社全体のまとまった戦略がない場合、高い離職率、長い雇用サイクル、従業員のエンゲージメント低下という結果を招きます。 これらはすべて、製品のイノベーションの欠如、高コストな操作エラー、顧客満足度の低下、最適ではない財務結果につながります。 Dynamics 365 Talent に対する Microsoft のビジョンは、人事チームがオペレーショナル エクセレンス、組織の俊敏性、従業員のエクスペリエンスのバランスを取って、人とビジネスが成長する職場を作り出せるように支援することです。
-
-Dynamics 365 Talent は 3 つのアプリケーションで構成されます。
-
-*   Attract – 採用プロセスを合理化して、適切な人材を見つけ、エンゲージメントを図り、面接し、良いオファーを出せるように支援します。
-*   Onboard – 新しいチーム メンバーを迅速に強化し、影響力を持つまでの時間を短縮することで、新しく採用した従業員が歓迎されていると感じられるようにします。 
-*   Core HR - マネージャーと従業員が 1 つの場所で主な人事機能にアクセスできるようにして、その場所でプロセスを合理化し、従業員のコストを最適化するプログラムを作成し、ビジネスへの影響力を行使し、俊敏で高パフォーマンスの文化を推進します。
-
-
-[概要ビデオを見る](https://aka.ms/ROGT19RW2ROV)
-<!--overview end-->
+Dynamics 365 Human Resources の導入により、Dynamics 365 Talent の販売は 2020 年 2 月 1 日に終了します。 Attract および Onboard アプリケーションは廃止されます。 これらのサービスは、2 年間またはお客様との契約が終了するまでのいずれか早い方まで運用されます。 Attract および Onboard のお客様は、LinkedIn タレント ハブを含む同等のソリューションに移行するよう推奨されます。 Core HR の今後の機能については、「[Dynamics 365 Human Resources 2019 リリース ウェーブ 2 の概要](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/dynamics365-human-resources/)」をご覧ください。 この発表について詳しくは、「[Dynamics 365 Talent: Attract および Onboard アプリの廃止](https://community.dynamics.com/365/talent/b/dynamics365fortalent/posts/retiring-dynamics-365-talent-attract-and-onboard-apps)」をご覧ください。

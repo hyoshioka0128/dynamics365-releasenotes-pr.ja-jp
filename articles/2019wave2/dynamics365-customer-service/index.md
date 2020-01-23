@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: craigm
 dynamics365pdf: true
-ms.openlocfilehash: 7c96f9048b43e0a546b2d08ea72fb95c8d62848c
-ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
+ms.openlocfilehash: 93f345f96e22619d29703aaeab1dc291394322f2
+ms.sourcegitcommit: 96a8b76935ff81eeb407aeb5dcf4d402a33b56da
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "2893624"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2952240"
 ---
 # <a name="overview-of-dynamics-365-customer-service-2019-release-wave-2"></a>Dynamics 365 Customer Service の 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
@@ -33,5 +33,4 @@ Dynamics 365 Customer Service は、カスタマー エンゲージメントの�
 [概要ビデオを見る](https://aka.ms/ROGCS19RW2ROV)
 
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-customer-service-192%27)) Dynamics 365 Customer Service の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

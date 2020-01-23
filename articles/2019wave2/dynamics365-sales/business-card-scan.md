@@ -3,18 +3,18 @@ title: 名刺のスキャン
 description: 名刺をスキャンして Dynamics 365 に読み込むと、入力に時間を費やさずにすみます。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 11/15/2019
+ms.date: 12/24/2019
 ms.assetid: cc61278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: naitikds
 dynamics365pdf: true
-ms.openlocfilehash: 6a77a04d512087a2f8c0634f0bfb44ec81a7a612
-ms.sourcegitcommit: b42a148c376fc4d3297326179cf301404448f570
+ms.openlocfilehash: 1c1d3fb150016292ba700a00876598b5a53b4760
+ms.sourcegitcommit: ba5b15c33dc3669937bf5219b1b38995cffb661b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2888761"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "2947604"
 ---
 # <a name="business-card-scan"></a>名刺のスキャン
 
@@ -37,16 +37,15 @@ ms.locfileid: "2888761"
 <!--feature detail start -->
 名刺を携帯電話や Web でスキャンできます。 スキャナーは、名刺の関連情報を分析し、システム内の各フィールドを自動的に更新します。 この機能では、設定する代替フィールドをユーザーが選択できるようにする構成も提供されます。
 
-名刺スキャン機能は、米国および EU 地域でのみ利用可能です。
+名刺機能の対応状況については、「[リージョン別の使用可能な機能とそのリリースの状態](https://docs.microsoft.com/ai-builder/availability-region#availability-and-release-status-of-features-by-region)」をご覧ください。
 <!--feature detail end -->
 
 ![名刺のスキャン](media/BusinessCardScan_Mockups.png "名刺のスキャン")
 <!-- Picture 1 -->
 
 > [!NOTE]
-> この機能は、統一インターフェイスでのみ使用できます。 
->
-> この機能は、Dynamics 365 Sales Enterprise のみを対象としています
+> この機能は、統一インターフェイスでのみ使用できます。 Dynamics 365 Sales Enterprise のみを対象としています。
+
 
 
 

@@ -3,18 +3,18 @@ title: Dynamics 365 チャネル統合フレームワーク バージョン 2
 description: Dynamics 365 チャネル統合フレームワーク バージョン 2
 author: relnotes
 ms.reviewer: susikka
-ms.date: 11/15/2019
+ms.date: 01/09/2020
 ms.assetid: 0c62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: askuma
 dynamics365pdf: true
-ms.openlocfilehash: a1e21ac68de8615367e5ccb1a326f34b314f757c
-ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
+ms.openlocfilehash: 0aee93d853054818497c90241ac025bdae3e4b1d
+ms.sourcegitcommit: 7d5d14ac84333ba166265755f410f7e16035a64e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "2893679"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "2948236"
 ---
 # <a name="dynamics-365-channel-integration-framework-v2"></a>Dynamics 365 チャネル統合フレームワーク バージョン 2
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
@@ -24,7 +24,10 @@ ms.locfileid: "2893679"
 |エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-| 2020 年 1 月|
 
 
-
+## <a name="business-value"></a>ビジネス バリュー
+<!-- bv start -->
+チャネル統合フレームワーク V2 を使うと、既に電話サービス プロバイダーを持っているお客様が、顧客サービス用オムニチャネルにおけるシームレスなエージェント エクスペリエンスにそのプロバイダーを簡単に統合できます。 エージェントは、ツールを切り替えなくても、電話サービス プロバイダーを介して着信した顧客からの電話を処理し、顧客サービス用オムニチャネルのエージェント エクスペリエンスですべての会話要求を取得できます。 
+<!-- bv end -->
 
 
 

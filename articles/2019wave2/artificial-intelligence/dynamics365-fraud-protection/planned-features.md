@@ -8,12 +8,12 @@ ms.topic: summary
 ms.service: business-applications
 ms.author: msalam
 dynamics365pdf: true
-ms.openlocfilehash: 18e0335d6a34d2c72296ba54883d516c59e5bdef
-ms.sourcegitcommit: cf8b2ba74d2b553c2a721942221c285ffcf184c5
+ms.openlocfilehash: bbe00d8b0e3a7722095110dfc5cdb2a279f8efd9
+ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2892650"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2910151"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-fraud-protection"></a>Dynamics 365 Fraud Protection の新機能と予定されている機能
 
@@ -38,9 +38,8 @@ ms.locfileid: "2892650"
 | [サインアップの評価](signup-assessment.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 7 月 31 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 | [外部コンプライアンスの認定](product-compliance.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 9 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 | [アカウントの保護](account-protection.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|近日発表 | 
-| [Dynamics 365 Fraud Protection の拡張と調整](extend-tailor-dynamics-365-fraud-protection.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| 2019 年 12 月|近日発表 | 
 
-**有効対象**列の値の説明
+**有効対象** 列の値の説明:
 
 - **エンド ユーザー、自動的**: これらの機能には、エンド ユーザーに対するユーザー エクスペリエンスへの変更が含まれており、自動的に有効になります。
 

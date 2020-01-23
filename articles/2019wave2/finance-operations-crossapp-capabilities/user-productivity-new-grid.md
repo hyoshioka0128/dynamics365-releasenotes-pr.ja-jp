@@ -1,27 +1,27 @@
 ---
-title: ユーザーの生産性 - 新しいグリッド
-description: ユーザーの生産性 - 新しいグリッド
+title: ユーザーの生産性 - 新しいグリッド コントロール - フェーズ 2
+description: ''
 author: relnotes
 ms.reviewer: sericks
-ms.date: 12/02/2019
+ms.date: 01/02/2020
 ms.assetid: e662278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
-ms.openlocfilehash: f7884d6057dabfd7308a0dd473518c981b441afa
-ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
+ms.openlocfilehash: 83270a708f10a6ddbb4de62256c0eba58243bc7b
+ms.sourcegitcommit: ecf709e1d8de3b52e1156bceb99cb7e3819f9db3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "2893822"
+ms.lasthandoff: 01/13/2020
+ms.locfileid: "2950837"
 ---
-# <a name="user-productivity--new-grid"></a>ユーザーの生産性 - 新しいグリッド
-[!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
+# <a name="user-productivity--new-grid-control--phase-2"></a>ユーザーの生産性 - 新しいグリッド コントロール - フェーズ 2
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日| 2020 年 3 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 3 日| -|
 
 
 
@@ -30,13 +30,13 @@ ms.locfileid: "2893822"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-2019 年 10 月の Platform update 29 で、新しく改善されたグリッド コントロールのプレビューが利用可能になります。 
+2019 年 10 月の Platform update 29 で、新しく改善されたグリッド コントロールのプレビューが利用可能になりました。 
 
 新しいグリッドには多くの利点があります。 
 
 - **パフォーマンス**: 新しいグリッドでは、レンダリング速度が向上し、スクロール エクスペリエンスが速くなっています。
-- **特定の位置にスクロール**: ユーザーは Web ブラウザーに読み込まれたデータ内の特定の位置にスクロールできるようになりました。 たとえば、グリッド内の 10,000 行をスクロールするには、スクロール バーの中央を選択すると、サーバーからデータを取得する必要なしに、すぐにレコード 5,000 に移動します。
-- **一般的な改善**: 既存のグリッドでは、グリッド ヘッダーとデータの位置がずれており、スクロールまたは新しいレコードの作成中にグリッドがジャンプします。 新しいグリッドではこれらの問題がなくなります。
+- **特定の位置にスクロール**: ユーザーは Web ブラウザーに読み込まれたデータ内の特定の位置にスクロールできるようになりました。 たとえば、グリッド内の 10,000 行を参照する場合、スクロール バーの中央を選択するだけで、サーバーからデータを取得する必要なしに、すぐにレコード 5,000 に移動できます。
+- **一般的な改善**: 既存のグリッドでは、ユーザーがデータをスクロールしたり新しいレコードを作成したりするときに、グリッドのヘッダーとデータの位置がずれたり、グリッドがジャンプしたりすることがありました。 新しいグリッドではこれらの問題がなくなります。
 - **列の並べ替え**: ユーザーは、列をドラッグして並べ替えることができるようになりました。 列ヘッダーにマウス ポインターを合わせ、列の左側に表示されるグリッパー コントロールをドラッグします。
 - **公式**: ユーザーは、グリッドの数値セルに公式を入力できるようになりました。 たとえば、**=15\*4** と入力できます。 システムによって値が式として認識されるようにするには、値を等号 (**=**) から開始します。 
 
@@ -48,7 +48,7 @@ ms.locfileid: "2893822"
 
 - **高速データ入力**: この機能を使用すると、ユーザーはサーバーに先行してグリッドにデータを入力できます。 したがって、ユーザーが別の行に移動する前にサーバーがグリッド内の 1 行を検証するのを待つ必要性が最小限に抑えられます。 この機能は、Platform update 31 の新しいグリッド コントロール機能の一部として初めて利用可能になり、以降のプラットフォーム バージョンで進化を続けます。
 
-新しいグリッドを有効にする方法については、この記事の「関連項目」セクションのリンク先を参照してください。  
+新しいグリッドを有効にする方法については、以下の**関連項目**セクションのリンク先を参照してください。
 <!--feature detail end -->
 
 
@@ -62,4 +62,4 @@ ms.locfileid: "2893822"
 
 ## <a name="see-also"></a>関連項目
 
-[Platform update 31 の新機能](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/get-started/whats-new-platform-update-31) (ドキュメント)
+[Platform update 31 の新機能または変更点](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/get-started/whats-new-platform-update-31) (ドキュメント)

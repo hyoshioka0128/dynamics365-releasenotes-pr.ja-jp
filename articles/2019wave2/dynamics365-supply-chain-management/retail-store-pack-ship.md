@@ -2,26 +2,26 @@
 title: 小売店舗の梱包と出荷
 description: 小売店の梱包および出荷により、小売業者または流通業者は、残りの倉庫保管モジュールを使用せずに、在庫を体系的にコンテナーに詰めることができます。
 author: relnotes
-ms.reviewer: josaw
-ms.date: 10/04/2019
+ms.reviewer: kamaybac
+ms.date: 12/13/2019
 ms.assetid: ba62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
-ms.openlocfilehash: 49e9a267699795c589b5f6f638a5345b56ecf9bc
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: fe44009fe7e13865326c055d70dafb8bc5343341
+ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660582"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2909711"
 ---
 # <a name="retail-store-pack-and-ship"></a>小売店舗の梱包と出荷
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 1 月| 2020 年 3 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 2 月| 近日発表|
 
 
 

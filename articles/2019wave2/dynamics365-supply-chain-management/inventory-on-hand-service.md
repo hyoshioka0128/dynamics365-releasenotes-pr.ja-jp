@@ -1,27 +1,27 @@
 ---
-title: 手持在庫サービス
+title: 手持在庫サービス (プレビュー)
 description: 手持在庫サービスは、独立した非常にスケーラブルなマイクロサービスであり、Dynamics 365 Supply Chain Management の手持ち在庫情報を外部システムで利用できるようにします。これにより、外部システムとの統合が簡素化され、手持在庫情報にほぼリアルタイムでアクセスする必要がある新しいシナリオが可能になります。
 author: relnotes
-ms.reviewer: josaw
-ms.date: 09/30/2019
+ms.reviewer: kamaybac
+ms.date: 12/18/2019
 ms.assetid: 4c62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: sorenand
 dynamics365pdf: true
-ms.openlocfilehash: 511392a2e20dc954398366296c08144d084ea36b
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: 2fe47f4b7e6f8040f83bd0cb34fab7a03ac787a3
+ms.sourcegitcommit: 7d5d14ac84333ba166265755f410f7e16035a64e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660605"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "2948046"
 ---
-# <a name="inventory-on-hand-service"></a>手持在庫サービス
+# <a name="inventory-on-hand-service-preview"></a>手持在庫サービス (プレビュー)
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 12 月| -|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 3 月| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
