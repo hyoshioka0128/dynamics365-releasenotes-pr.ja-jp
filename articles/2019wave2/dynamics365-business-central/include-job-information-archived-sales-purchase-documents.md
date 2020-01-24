@@ -3,25 +3,25 @@ title: アーカイブされた販売や購買に関わるドキュメントに�
 description: アーカイブされた販売や購入に関わるドキュメントと共に、ジョブ関連データをアーカイブできるようになりました。
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 11/25/2019
+ms.date: 12/16/2019
 ms.assetid: b03fe2d8-e1ef-e911-a812-000d3a4f1ebb
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 2ada43120fba2ee8136a18f48ccdd83386ef8e71
-ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
+ms.openlocfilehash: 1e33c850122715be96bd975ab4b0c7803113a84b
+ms.sourcegitcommit: ba5b15c33dc3669937bf5219b1b38995cffb661b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2892110"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "2947571"
 ---
 # <a name="include-job-information-in-archived-sales-and-purchase-documents"></a>アーカイブされた販売や購買に関わるドキュメントにジョブ関連情報を含める
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|2019 年 11 月| 2019 年 12 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 29 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 17 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

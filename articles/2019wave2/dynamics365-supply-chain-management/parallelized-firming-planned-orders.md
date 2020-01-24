@@ -2,19 +2,19 @@
 title: 計画オーダーの並列確定
 description: 計画オーダー ページから複数のスレッドによる並列確定を有効にします。
 author: relnotes
-ms.reviewer: josaw
-ms.date: 12/02/2019
+ms.reviewer: kamaybac
+ms.date: 12/12/2019
 ms.assetid: 70517981-13cb-e911-a968-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: crytt
 dynamics365pdf: true
-ms.openlocfilehash: d692499c0218c0113be64b88d54b57e41657b4b6
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: f3fb0bd98677e4f936b7dfc8a685f5739c09c172
+ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2889653"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2909788"
 ---
 # <a name="parallelized-firming-of-planned-orders"></a>計画オーダーの並列確定
 
@@ -48,5 +48,6 @@ ms.locfileid: "2889653"
 
 
 ## <a name="see-also"></a>関連項目
+[機能の探索](https://www.microsoft.com/videoplayer/embed/RE4myrJ) (ビデオ)
 
 [並列確定](https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/master-planning/maintain-planned-orders#parallelize-firming) (ドキュメント)

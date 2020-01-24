@@ -3,18 +3,18 @@ title: Dynamics 365 Customer Service Insights 2019 年リリース ウェーブ 
 description: Dynamics 365 Customer Service Insights 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: shellyha
-ms.date: 11/08/2019
+ms.date: 12/05/2019
 ms.assetid: c7a3fad1-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: tpalmer
 dynamics365pdf: true
-ms.openlocfilehash: ae69e6d15099c313e0adde6602ce104c0f933006
-ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
+ms.openlocfilehash: 745d7f1efedd1a91d7be706cf8e36be826af800f
+ms.sourcegitcommit: 96a8b76935ff81eeb407aeb5dcf4d402a33b56da
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2891714"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2952526"
 ---
 # <a name="overview-of-dynamics-365-customer-service-insights-2019-release-wave-2"></a>Dynamics 365 Customer Service Insights 2019 年リリース ウェーブ 2 の概要
 [!include[artificial-intelligence/dynamics365-customer-service-insights banner](../includes/artificial-intelligence/dynamics365-customer-service-insights.md)]
@@ -34,5 +34,4 @@ Dynamics 365 Customer Service Insights では、業界最先端の人工知能�
 
 [概要ビデオを見る](https://aka.ms/ROGCSI19RW2ROV)
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-customer-service-insights-192%27)) Dynamics 365 Customer Service Insights の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

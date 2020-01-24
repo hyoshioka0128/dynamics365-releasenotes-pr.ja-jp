@@ -3,17 +3,17 @@ title: Dynamics 365 Product Insights の新機能と予定されている機能 
 description: Dynamics 365 Product Insights で計画されている機能の概要。
 author: relnotes
 ms.reviewer: v-aswood
-ms.date: 12/04/2019
+ms.date: 12/13/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: fweigel
 dynamics365pdf: true
-ms.openlocfilehash: 6e352cf9a94f7c7117862fc99483e6d24b08a2b1
-ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
+ms.openlocfilehash: e9a06630b29e425db289f8b6ef37be58728d668c
+ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "2893811"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2909997"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-product-insights"></a>Dynamics 365 Product Insights の新機能と予定されている機能
 
@@ -25,14 +25,14 @@ ms.locfileid: "2893811"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
-| [360 度シグナル](360-degree-signals.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|近日発表 | 
-| [組み込みのコラボレーション](built-in-collaboration.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|近日発表 | 
-| [深い統合](deep-integration.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|近日発表 | 
-| [価値の高い AI 分析情報](high-value-ai-insights.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|近日発表 | 
-| [対話型ドリルダウン](interactive-drilldowns.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|近日発表 | 
-| [すぐに使える分析情報](out-of-the-box-insights.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|近日発表 | 
-| [豊富なカスタム メトリック](rich-custom-metrics.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|近日発表 | 
-| [共有と検出](sharing-discovery.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|近日発表 | 
+| [360 度シグナル](360-degree-signals.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|- | 
+| [組み込みのコラボレーション](built-in-collaboration.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|- | 
+| [深い統合](deep-integration.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|- | 
+| [価値の高い AI 分析情報](high-value-ai-insights.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|- | 
+| [対話型ドリルダウン](interactive-drilldowns.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|- | 
+| [すぐに使える分析情報](out-of-the-box-insights.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|- | 
+| [豊富なカスタム メトリック](rich-custom-metrics.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|- | 
+| [共有と検出](sharing-discovery.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|- | 
 
 **有効対象**列の値の説明
 

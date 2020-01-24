@@ -3,25 +3,25 @@ title: インド向け税金拡張機能の構成の簡素化
 description: Microsoft またはパートナーによって提供されるインド向け税構成を拡張する必要があるユーザーは (Global Tax Engine - GTE)、定義済みの税規則を使用して売上税コードを維持する単純化されたプロセスに似た新しい税構成を作成できます。
 author: RichardLuan
 ms.reviewer: kfend
-ms.date: 11/15/2019
+ms.date: 01/07/2020
 ms.assetid: e062278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: riluan
 dynamics365pdf: true
-ms.openlocfilehash: acd8a326f1f708ab92acace81fb5f5740eb40c78
-ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
+ms.openlocfilehash: 27b48700df58e3b344b990c6a6dd08bb253da398
+ms.sourcegitcommit: ecf709e1d8de3b52e1156bceb99cb7e3819f9db3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "2893855"
+ms.lasthandoff: 01/13/2020
+ms.locfileid: "2950927"
 ---
 # <a name="simplifying-configuration-of-tax-extensions-for-india"></a>インド向け税金拡張機能の構成の簡素化
-[!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 21 日| 2020 年 1 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 21 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 3 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

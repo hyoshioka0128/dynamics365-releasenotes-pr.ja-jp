@@ -3,17 +3,17 @@ title: Dynamics 365 Sales の新機能と予定されている機能 (2019 年�
 description: Dynamics 365 Sales で計画されている機能の概要。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 12/04/2019
+ms.date: 01/10/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: raysmith
 dynamics365pdf: true
-ms.openlocfilehash: 576e8ed20ade8089488831d06f307aa5998682b6
-ms.sourcegitcommit: b42a148c376fc4d3297326179cf301404448f570
+ms.openlocfilehash: d11216fc7259a60b9734916031492dac212687e0
+ms.sourcegitcommit: ba5b15c33dc3669937bf5219b1b38995cffb661b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2888805"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "2947637"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-sales"></a>Dynamics 365 Sales の新機能と予定されている機能
 
@@ -36,7 +36,7 @@ ms.locfileid: "2888805"
 | [ソフトフォン ダイヤラー](soft-phone-dialer.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 22 日 | 
 | [Microsoft Teams 統合の機能拡張](teams-integration-enhancements.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日 | 
 | [LinkedIn Sales Navigator のデータ検証](linkedin-sales-navigator-data-validation.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 15 日 | 
-| [Sales Professional のサインアップ エクスペリエンスの簡素化](simplified-signup-experience-sales-professional.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-|-|2019 年 12 月 | 
+| [Sales Professional のサインアップ エクスペリエンスの簡素化](simplified-signup-experience-sales-professional.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-|-|2020 年 2 月 | 
 | [状況依存のメール通信](contextual-email-communication.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|-|近日発表 | 
 
 \* エンド ユーザーに影響するすべての必須の変更など、一部の機能は 2019 年 8 月 2 日に早期アクセスの一部としてオプトインできるようになります。 [早期アクセス](https://aka.ms/EarlyAccessFAQ)の詳細を確認してください。

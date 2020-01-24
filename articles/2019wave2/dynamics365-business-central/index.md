@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: jannikb
 dynamics365pdf: true
-ms.openlocfilehash: e17c9a71970866c1a8eec0e99ab13b5b90a76843
-ms.sourcegitcommit: fb1e16c7028e20a554c45ecc0cc114b724c87fcd
+ms.openlocfilehash: 682c861740547f2779b7222a6fbae9859073bbce
+ms.sourcegitcommit: 96a8b76935ff81eeb407aeb5dcf4d402a33b56da
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "2810002"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2952262"
 ---
 # <a name="overview-of-dynamics-365-business-central-2019-release-wave-2"></a>Dynamics 365 Business Central 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -34,5 +34,4 @@ Dynamics 365 Business Central では、中小企業の組織向けに設計お�
 
 [概要ビデオを見る](https://aka.ms/ROGBC19RW2ROV)
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-business-central-192%27)) Dynamics 365 Business Central の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

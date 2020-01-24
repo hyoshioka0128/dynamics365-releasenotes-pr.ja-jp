@@ -3,17 +3,17 @@ title: Dynamics 365 Sales Insights の新機能と予定されている機能 (2
 description: Dynamics 365 Sales Insights で計画されている機能の概要。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 12/04/2019
+ms.date: 01/10/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: raysmith
 dynamics365pdf: true
-ms.openlocfilehash: d2f40f35b0621a057029df7990e8b6bd3ebdc4d1
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: 6a4e74a57264c758070eca71e51b2a8185f9f27d
+ms.sourcegitcommit: ba5b15c33dc3669937bf5219b1b38995cffb661b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2889752"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "2947615"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-sales-insights"></a>Dynamics 365 Sales Insights の新機能と予定されている機能
 
@@ -26,7 +26,7 @@ ms.locfileid: "2889752"
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
 | [いっそうパーソナライズされたガイド付きアシスタンス](more-personalized-assistant-sellers.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|- | 
-| [組織のニーズに合わせてスコアリングをカスタマイズする](customize-scoring-adapt-organizational-needs.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| 2019 年 12 月| | 
+| [組織のニーズに合わせてスコアリングをカスタマイズする](customize-scoring-adapt-organizational-needs.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 23 日| | 
 | [推奨アクションから実行するアクション オプションを拡張する](extend-action-options-taken-suggested-actions.md) | 管理者、作成者、またはアナリスト、自動的| 2020 年 1 月| | 
 | [販売担当者が推奨アクションをどのように使用しているかを理解する](understand-how-sellers-are-using-suggested-actions.md) | 管理者、作成者、またはアナリスト、自動的| 2020 年 1 月| | 
 | [顧客とのコミュニケーションをより多く取り込む](capture-more-customer-communications.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| 2020 年 2 月|- | 

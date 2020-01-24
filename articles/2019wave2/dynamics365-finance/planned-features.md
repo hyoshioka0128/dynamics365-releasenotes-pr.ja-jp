@@ -3,17 +3,17 @@ title: Dynamics 365 Finance の新機能と予定されている機能 (2019 年
 description: Dynamics 365 Finance で計画されている機能の概要。
 author: relnotes
 ms.reviewer: roschlom
-ms.date: 12/04/2019
+ms.date: 01/10/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: msalam
 dynamics365pdf: true
-ms.openlocfilehash: 1603c7263e4ad1af1470a708e334836d0b09ec7c
-ms.sourcegitcommit: cf8b2ba74d2b553c2a721942221c285ffcf184c5
+ms.openlocfilehash: b99bf3c8c71f1269df305d000ca01ff33dda7f7d
+ms.sourcegitcommit: 7d5d14ac84333ba166265755f410f7e16035a64e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2892793"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "2948211"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-finance"></a>Dynamics 365 Finance の新機能と予定されている機能
 
@@ -31,14 +31,13 @@ ms.locfileid: "2892793"
 | [仕入先請求書のワークフローの状態を回復不能から下書きにリセットする](reset-workflow-status-vendor-invoices-unrecoverable-draft.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 | [収益認識](revenue-recognition.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 | [二重通貨連結のためのオンライン連結の [連結勘定の選択元] コントロール](select-consolidation-amount-control-consolidate-online-dual-currency-consolidation.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 5 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
-| [買掛金請求書プール フォームからレコードをエクスポートする機能](ability-export-records-accounts-payable-invoice-pool-form.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 25 日|2019 年 11 月 | 
-| [仕入先請求書に配賦されていない費用がある場合は、ワークフローへの送信を禁止する](prohibit-submission-workflow-when-there-are-unallocated-charges-vendor-invoice.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 25 日|2019 年 11 月 | 
+| [買掛金請求書プール フォームからレコードをエクスポートする機能](ability-export-records-accounts-payable-invoice-pool-form.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 25 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 26 日 | 
+| [仕入先請求書に配賦されていない費用がある場合は、ワークフローへの送信を禁止する](prohibit-submission-workflow-when-there-are-unallocated-charges-vendor-invoice.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 25 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 26 日 | 
 | [仕訳帳転記の取消](reverse-journal-posting.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| -|2020 年 1 月 | 
 | [通貨換算を使用する場合の財務レポートの利益剰余金計算の機能強化](retained-earnings-calculation-enhancements-financial-reporting-when-using-currency-translation.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 3 日|2020 年 1 月 | 
 | [財務諸表の保持ポリシー](financial-report-retention-policies.md) | 管理者、作成者、またはアナリスト、自動的| -|2020 年 2 月 | 
-| [財務に関するインテリジェントな分析情報](intelligent-insights-financials.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| 2019 年 12 月|近日発表 | 
 
-**有効対象**列の値の説明
+**有効対象** 列の値の説明:
 
 - **エンド ユーザー、自動的**: これらの機能には、エンド ユーザーに対するユーザー エクスペリエンスへの変更が含まれており、自動的に有効になります。
 

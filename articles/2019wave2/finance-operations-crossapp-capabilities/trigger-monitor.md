@@ -1,22 +1,22 @@
 ---
-title: フローのトリガーと監視
-description: フローのトリガーと監視
+title: フローのトリガーと監視 - フェーズ 1
+description: フローのトリガーと監視 - フェーズ 1
 author: relnotes
 ms.reviewer: sericks
-ms.date: 08/29/2019
+ms.date: 12/17/2019
 ms.assetid: 0263278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: cgarty
 dynamics365pdf: true
-ms.openlocfilehash: da635b2c8c3fd10373be89f9ec22c9ff0adfa599
-ms.sourcegitcommit: b5be4afdeec589f0490a82495e8206a2b3aee287
+ms.openlocfilehash: 4b70f1bdb748300158539e9714f0ab32c5502c29
+ms.sourcegitcommit: ecf709e1d8de3b52e1156bceb99cb7e3819f9db3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667996"
+ms.lasthandoff: 01/13/2020
+ms.locfileid: "2950903"
 ---
-# <a name="trigger-and-monitor-a-flow"></a>フローのトリガーと監視
+# <a name="trigger-and-monitor-a-flow---phase-1"></a>フローのトリガーと監視 - フェーズ 1
 [!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 

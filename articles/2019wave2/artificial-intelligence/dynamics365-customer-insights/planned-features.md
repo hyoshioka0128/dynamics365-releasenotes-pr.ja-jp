@@ -3,17 +3,17 @@ title: Dynamics 365 Customer Insights の新機能と予定されている機能
 description: Dynamics 365 Customer Insights で計画されている機能の概要。
 author: relnotes
 ms.reviewer: jimholtz
-ms.date: 12/04/2019
+ms.date: 12/13/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: fweigel
 dynamics365pdf: true
-ms.openlocfilehash: 5cbd4395e7f54467a8487c2dda145faa9c461eb0
-ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
+ms.openlocfilehash: edcc8dc4de8646c8281a7dac4692befb6d7bdb0a
+ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2891670"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2910206"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-customer-insights"></a>Dynamics 365 Customer Insights の新機能と予定されている機能
 
@@ -36,7 +36,7 @@ ms.locfileid: "2891670"
 | [Azure Machine Learning で Customer Insights を拡張する](extend-customer-insights-azure-ml.md) | 管理者、作成者、またはアナリスト、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日 | 
 | [柔軟な展開オプション](flexible-deployment-options.md) | 管理者、作成者、またはアナリスト、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日 | 
 | [推奨されるセグメントとメジャー](recommended-segments-measures.md) | 管理者、作成者、またはアナリスト、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日 | 
-| [ユーザーによる KPI とダッシュボードの作成を助けるガイド付きエクスペリエンス](guided-experience-helps-users-create-kpis-dashboards.md) | 管理者、作成者、またはアナリスト、自動的| -|2020 年 3 月 | 
+| [KPI とダッシュボードを作成するガイド付きエクスペリエンス](guided-experience-helps-users-create-kpis-dashboards.md) | 管理者、作成者、またはアナリスト、自動的| -|2020 年 3 月 | 
 
 **有効対象**列の値の説明
 

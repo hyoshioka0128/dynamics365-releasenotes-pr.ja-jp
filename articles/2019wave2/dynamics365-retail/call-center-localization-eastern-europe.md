@@ -3,18 +3,18 @@ title: 東ヨーロッパ向けコール センターのローカライズ
 description: 東ヨーロッパ向けコール センターのローカライズ
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/30/2019
+ms.date: 12/11/2019
 ms.assetid: 9e63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: epopov
 dynamics365pdf: true
-ms.openlocfilehash: bf158e0b7069a1f3eb1db0210bba94bcb5b2578b
-ms.sourcegitcommit: 0338b540f146e0599e268ed4749ba515c8b4a431
+ms.openlocfilehash: f1fb40cbf73d25edbf365047ebcbccffe7c70dda
+ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/11/2019
-ms.locfileid: "2781638"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2909953"
 ---
 # <a name="call-center-localization-for-eastern-europe"></a>東ヨーロッパ向けコール センターのローカライズ
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]

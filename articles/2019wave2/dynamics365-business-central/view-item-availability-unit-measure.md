@@ -3,30 +3,30 @@ title: 測定単位別に品目の在庫状態を表示する
 description: 品目の測定単位別に品目の在庫状態を表示できるようになりました。
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 11/25/2019
+ms.date: 12/16/2019
 ms.assetid: 1572b4b9-e1ef-e911-a812-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 3549e50888ddf24380238fd0bd5a2c91e649a418
-ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
+ms.openlocfilehash: 911f2e89f3aa545be13fd57fd2fad3798b1b41eb
+ms.sourcegitcommit: ba5b15c33dc3669937bf5219b1b38995cffb661b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2891879"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "2947593"
 ---
 # <a name="view-item-availability-by-unit-of-measure"></a>測定単位別に品目の在庫状態を表示する
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|2019 年 11 月| 2019 年 12 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 29 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 17 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-迅速な受注のためには、注文処理担当者が品目および品目のバリエーションをすばやく見つけることができる必要があります。 バリエーション、出荷時間、または測定単位別に品目の在庫状態をすばやく検索することは、出荷日を約束するときに非常に重要です。 
+迅速な受注のためには、注文処理担当者が品目および品目のバリエーションをすばやく見つけることができる必要があります。 バリエーション、出荷時間、または測定単位別に品目の在庫状態をすばやく検索することは、出荷日を約束するときに非常に重要です。
 <!-- bv end -->
 
 
@@ -34,10 +34,11 @@ ms.locfileid: "2891879"
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 品目リストおよびドキュメントの明細行から、測定単位別に品目の在庫状態を表示できるようになりました。 
-<!--feature detail end -->
+
 
 ![測定単位別に利用可能性を表示する](media/view-item-availability-uom.png "測定単位別に利用可能性を表示する")
-<!-- Picture 1 -->
+<!--feature detail end -->
+
 
 
 

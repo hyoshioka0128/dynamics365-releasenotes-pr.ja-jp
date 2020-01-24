@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: carinaha
 dynamics365pdf: true
-ms.openlocfilehash: cca6ff4365983b5b85699b338b16fa5aa536ea85
-ms.sourcegitcommit: fb1e16c7028e20a554c45ecc0cc114b724c87fcd
+ms.openlocfilehash: e663b764ec1e667c4bd6b0baa5e2ee611bf195d1
+ms.sourcegitcommit: 96a8b76935ff81eeb407aeb5dcf4d402a33b56da
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "2809815"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2952305"
 ---
 # <a name="overview-of-finance-and-operations-cross-app-capabilities-2019-release-wave-2"></a>Finance and Operations クロス アプリ機能 2019 年リリース ウェーブ 2 の概要
 [!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
@@ -28,5 +28,4 @@ Finance and Operations アプリケーションでは財務と業務が統合さ
 
 [概要ビデオを見る](https://aka.ms/ROGFO19RW2ROV)
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27finance-operations-crossapp-capabilities-192%27)) Finance and Operations クロス アプリ機能の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

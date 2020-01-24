@@ -3,25 +3,25 @@ title: Power Virtual Agents の統合
 description: 受信した要求を Power Virtual Agents にルーティングし、仮想エージェントから人間のエージェントに会話を完全なコンテキストでエスカレートします。
 author: relnotes
 ms.reviewer: shjais
-ms.date: 11/15/2019
+ms.date: 12/09/2019
 ms.assetid: 24d91c8a-106d-e911-a95f-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: yangao
 dynamics365pdf: true
-ms.openlocfilehash: de569f20427950299b81a36fc4b8b8a558909baa
-ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
+ms.openlocfilehash: 30d86a234d9fedab341600c9a9850cd65949b9ac
+ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "2893602"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2910283"
 ---
 # <a name="integration-with-power-virtual-agents"></a>Power Virtual Agents の統合
-[!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日|-| 2019 年 12 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 2 日|
 
 
 

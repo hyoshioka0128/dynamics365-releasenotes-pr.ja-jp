@@ -1,22 +1,22 @@
 ---
-title: 自分のトピックについてニュースや新しい分析情報があるときにメール通知を受け取る
+title: 自分のトピックについて関連する分析情報やニュースがあるときにアラートを受け取る
 description: Market Insights アラートを使用して、自社のブランド、製品、会社、業界についての顧客や競合企業による Web 上での発言を追跡します。 毎日または毎週受け取るメールで、特定のトピックに関連した最も重要な出来事を数分で把握します。
 author: relnotes
-ms.reviewer: mhart
-ms.date: 09/23/2019
+ms.reviewer: shellyha
+ms.date: 12/19/2019
 ms.assetid: 2064278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: ebahat
 dynamics365pdf: true
-ms.openlocfilehash: dfc8fb9b70f405408e832bae3438315ae6dda3c9
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: eb1f2836539870727b28c0af1228dbbe336623f9
+ms.sourcegitcommit: 7d5d14ac84333ba166265755f410f7e16035a64e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661869"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "2947958"
 ---
-# <a name="get-email-notifications-when-there-is-news-or-new-insights-about-your-topics"></a>自分のトピックについてニュースや新しい分析情報があるときにメール通知を受け取る
+# <a name="get-email-alerts-when-there-are-relevant-insights-or-news-about-your-topics"></a>自分のトピックについて関連する分析情報やニュースがあるときにアラートを受け取る
 [!include[artificial-intelligence/dynamics365-market-insights banner](../includes/artificial-intelligence/dynamics365-market-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -33,7 +33,7 @@ ms.locfileid: "2661869"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-2019 年 4 月以降、アラート機能がプレビュー可能になりました。 (米国で英語のみ)
+2019 年 4 月以降、アラート機能がプレビュー可能になりました (英国 - 米国のみ)。
 
 アラート機能を使用してトップの製品、ブランド、会社を認識し、自分が興味のあるビジネス関連のトピックの結果だけを見ることができます。 
 
@@ -41,11 +41,11 @@ ms.locfileid: "2661869"
 
 ![関連する一致のコンテンツ](media/alerts-2.png "関連する一致のコンテンツ") 
 
-AI を活用することで、重要度の高い通知メールのみが送信されるので、関連性の低い記事によるノイズを排除できます。 合併、買収、製品の発売や衰退、顧客の問題など、ビジネスの専門家にとって最も関連性のあるコンテンツに絞られます。 ユーザーは、トピックをカスタマイズしてコンテンツを調整し、自分のビジネスにとって最も重要なことに集中することができます。 
+AI を活用することで、Market Insights により重要度の高い通知メールのみが送信されるので、関連性の低い記事によるノイズを排除できます。 合併、買収、製品の発売や衰退、顧客の問題など、ビジネスの専門家にとって最も関連性のあるコンテンツに絞られます。 トピックをカスタマイズしてコンテンツを調整し、自分のビジネスにとって最も重要なことに集中することができます。 
 
 ![ユーザーがアラートを受信するタイミングを調整する方法](media/alerts-3.png "ユーザーがアラートを受信するタイミングを調整する方法") 
 
-これはニュースにそのトピックについて何があるかだけでなく、決定を下して行動を起こすのに役立つ人気上昇中のトピックや異常を識別します。 
+アラートは、ニュースにそのトピックについて何があるかだけでなく、決定を下して行動を起こすのに役立つ人気上昇中のトピックや異常を識別します。 
 
 Web 上で人が見たり探したりしているものを監視し、話題になる前にトピックに関連するトレンドについての情報を得ることができます。 
 
@@ -83,4 +83,4 @@ Web 上で人が見たり探したりしているものを監視し、話題に�
 
 ## <a name="see-also"></a>関連項目
 
-[Dynamics 365 Market Insights の新しいアプリ エクスペリエンス](https://community.dynamics.com/365/aimarketinsights/b/marketinsightsteamblog/posts/introducing-a-new-app-experience-for-dynamics-365-market-insights) (ドキュメント)
+[Dynamics 365 Market Insights の新しいアプリ エクスペリエンスの導入](https://community.dynamics.com/365/aimarketinsights/b/marketinsightsteamblog/posts/introducing-a-new-app-experience-for-dynamics-365-market-insights) (ドキュメント)

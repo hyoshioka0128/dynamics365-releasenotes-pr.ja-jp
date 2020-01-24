@@ -2,19 +2,19 @@
 title: マスター プラン進捗ガント チャート
 description: ''
 author: relnotes
-ms.reviewer: josaw
-ms.date: 12/02/2019
+ms.reviewer: kamaybac
+ms.date: 12/12/2019
 ms.assetid: 896c3497-71e3-e911-a814-000d3a4f1244
 ms.topic: article
 ms.service: business-applications
 ms.author: crytt
 dynamics365pdf: true
-ms.openlocfilehash: 81b5416e4d4f07e847a8c19347c78fd29294ce41
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: d69885e4f748bf452008760e20c0415af1f8ff13
+ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2889774"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2909832"
 ---
 # <a name="master-planning-progress-gantt-chart"></a>マスター プラン進捗ガント チャート
 
@@ -43,5 +43,6 @@ ms.locfileid: "2889774"
 
 
 ## <a name="see-also"></a>関連項目
+[機能の探索](https://www.microsoft.com/videoplayer/embed/RE4myrJ) (ビデオ)
 
 [マスター プランの実行の監視](https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/master-planning/tasks/monitor-master-planning-run) (ドキュメント)

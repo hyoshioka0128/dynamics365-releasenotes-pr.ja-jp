@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: ronik
 dynamics365pdf: true
-ms.openlocfilehash: ab7b68e931ebc6b8c50d22e5af12db8526f35078
-ms.sourcegitcommit: b42a148c376fc4d3297326179cf301404448f570
+ms.openlocfilehash: 67c69cc97c76c6bc515d2089f6ae1f5d920d689d
+ms.sourcegitcommit: 96a8b76935ff81eeb407aeb5dcf4d402a33b56da
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2888739"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2952350"
 ---
 # <a name="overview-of-dynamics-365-sales-2019-release-wave-2"></a>Dynamics 365 Sales 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -36,5 +36,4 @@ Dynamics 365 Sales は、エンタープライズ レベルのカスタマー �
 
 [概要ビデオを見る](https://aka.ms/ROGS19RW2ROV)
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-sales-192%27)) Dynamics 365 Sales の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

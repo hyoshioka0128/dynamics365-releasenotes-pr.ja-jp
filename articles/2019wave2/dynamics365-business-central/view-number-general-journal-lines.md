@@ -3,25 +3,25 @@ title: 一般仕訳帳明細行の数を表示する
 description: 仕訳帳明細行の数が一般仕訳帳ページの下部のフィールドに表示されるようになりました。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 11/25/2019
+ms.date: 12/16/2019
 ms.assetid: b35f9776-5ffa-e911-a813-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 8cde6e05fb65ea2dfac4386f9eee5cfc54712a6f
-ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
+ms.openlocfilehash: ceff24ed331df79e0fa18721a990671c9eabad3e
+ms.sourcegitcommit: ba5b15c33dc3669937bf5219b1b38995cffb661b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2891868"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "2947534"
 ---
 # <a name="view-the-number-of-general-journal-lines"></a>一般仕訳帳明細行の数を表示する
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|2019 年 11 月| 2019 年 12 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 29 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 17 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

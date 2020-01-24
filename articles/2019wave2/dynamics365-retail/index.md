@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: jeffbl
 dynamics365pdf: true
-ms.openlocfilehash: 7df019dcd8fa65399763ad58a2a7fcf854f85243
-ms.sourcegitcommit: fb1e16c7028e20a554c45ecc0cc114b724c87fcd
+ms.openlocfilehash: 85dec36a397bbde832ef83196c640d8cc14b2216
+ms.sourcegitcommit: 96a8b76935ff81eeb407aeb5dcf4d402a33b56da
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "2809958"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2952273"
 ---
 # <a name="overview-of-dynamics-365-retail-2019-release-wave-2"></a>Dynamics 365 Retail 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
@@ -40,5 +40,4 @@ ms.locfileid: "2809958"
 
 - **規制およびコンプライアンス**: サポートされているすべての国でサービスを提供するための規制およびコンプライアンス関連の機能強化。
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-retail-192%27)) Dynamics 365 Retail の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

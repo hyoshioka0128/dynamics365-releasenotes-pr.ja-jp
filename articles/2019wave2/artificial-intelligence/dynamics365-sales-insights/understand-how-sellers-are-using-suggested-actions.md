@@ -3,18 +3,18 @@ title: 販売担当者が推奨アクションをどのように使用してい�
 description: ''
 author: relnotes
 ms.reviewer: udag
-ms.date: 10/23/2019
+ms.date: 01/07/2020
 ms.assetid: c0c7ba08-f3d4-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: mney
 dynamics365pdf: true
-ms.openlocfilehash: 1625a19bd580d1f9a8c7337b0f311d8f0adedfb2
-ms.sourcegitcommit: f10ac8bac0311c919c83ee52b7f5216aed81c3f8
+ms.openlocfilehash: d5e2e817330ed7a1b104a3e255416e306a03cce0
+ms.sourcegitcommit: ba5b15c33dc3669937bf5219b1b38995cffb661b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "2692166"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "2947582"
 ---
 # <a name="understand-how-sellers-are-using-suggested-actions"></a>販売担当者が推奨アクションをどのように使用しているかを理解する
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]

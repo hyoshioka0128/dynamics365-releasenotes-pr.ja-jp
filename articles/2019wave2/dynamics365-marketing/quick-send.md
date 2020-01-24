@@ -3,25 +3,25 @@ title: クイック送信
 description: クイック送信
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 08/02/2019
+ms.date: 12/10/2019
 ms.assetid: ae61278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: 3f58ced8b92b4a3ab36b933ad4009c9abaad2070
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 652cd5e9a7184334da4bca457602b2e701d7850c
+ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2662078"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2910140"
 ---
 # <a name="quick-send"></a>クイック送信
-[!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-|-| 2019 年 12 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 1 日|
 
 
 
@@ -43,3 +43,7 @@ ms.locfileid: "2662078"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[[今すぐ送信] でマーケティング電子メールをすばやくデザインして配信する](https://docs.microsoft.com/dynamics365/marketing/email-send-now) (ドキュメント)

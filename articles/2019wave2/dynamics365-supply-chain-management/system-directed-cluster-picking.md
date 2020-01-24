@@ -2,26 +2,26 @@
 title: システム主導のクラスター ピッキング
 description: システム主導のクラスター ピッキングの設定では、システム生成のクラスターに基づいてピッキング作業ヘッダーをクラスター化することができます。
 author: relnotes
-ms.reviewer: josaw
-ms.date: 12/02/2019
+ms.reviewer: kamaybac
+ms.date: 01/06/2020
 ms.assetid: 6e62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
-ms.openlocfilehash: 061841e84d61433f306b40cecc9b132a357c5d3c
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: a542d9590ee84b4acdc45ae77a4cf15ad4fcada6
+ms.sourcegitcommit: 7d5d14ac84333ba166265755f410f7e16035a64e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2889587"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "2948299"
 ---
 # <a name="system-directed-cluster-picking"></a>システム主導のクラスター ピッキング
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| 2019 年 12 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 19 日|
 
 
 

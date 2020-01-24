@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: darcsal
 dynamics365pdf: true
-ms.openlocfilehash: cb1db7b6f962054ba3b8553dc22b56ace201387c
-ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
+ms.openlocfilehash: c236575cde2e48da76c3ecf8c22944b4c2517654
+ms.sourcegitcommit: 8bff9a720eb621d3935b9430ac8d892003b96fdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2891615"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2955139"
 ---
 # <a name="overview-of-dynamics-365-connected-store-2019-release-wave-2"></a>Dynamics 365 Connected Store 2019 年リリース ウェーブ 2 の概要
 [!include[artificial-intelligence/dynamics365-connected-store banner](../includes/artificial-intelligence/dynamics365-connected-store.md)]
@@ -32,5 +32,4 @@ Dynamics 365 Connected Store の観測データは Common Data Service に保存
 
 Dynamics 365 Connected Store は、物理的スペースのパフォーマンスの測定に必要なツールを提供して情報に基づいたデータ駆動型の意思決定を行えるようにし、オペレーション全体の最適化、コストの削減、収益の増加を支援します。
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-connected-store-192%27)) Dynamics 365 Connected Store の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

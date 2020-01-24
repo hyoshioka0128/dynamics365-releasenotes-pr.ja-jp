@@ -2,26 +2,26 @@
 title: ゾーンしきい値の補充
 description: この機能により、動的な場所を使用する会社は、最小/最大補充プロセスを使用できます。たとえば、短期間で多数の在庫のある商品を扱う小売業者などです。
 author: relnotes
-ms.reviewer: josaw
-ms.date: 10/04/2019
+ms.reviewer: kamaybac
+ms.date: 01/06/2020
 ms.assetid: 8462278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
-ms.openlocfilehash: ed51441ba4c23256cf8ac00c7d688302b21ade2b
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: e64986f905bc803f34caf47324642fee99d0e2db
+ms.sourcegitcommit: 7d5d14ac84333ba166265755f410f7e16035a64e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660564"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "2948257"
 ---
 # <a name="zone-threshold-replenishment"></a>ゾーンしきい値の補充
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 8 日| 2019 年 12 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 8 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 19 日|
 
 
 
@@ -34,11 +34,6 @@ ms.locfileid: "2660564"
 
 最小/最大補充用の補充テンプレートでは、ユーザーはしきい値を場所ごとまたはゾーンごとのどちらで評価する必要があるかを指定します。 ゾーンの場合は、特定のゾーンがゾーン選択クエリに追加されます。 場所ベースの最小/最大補充では、ゾーン ベースの最小/最大補充は、選択した品目および品目バリアントの補充作業指示書の作成をトリガーする在庫の最小しきい値の設定に基づいています。 結果として、在庫を目的のゾーン最大しきい値まで増加させる数量の補充が作成されます。
 <!--feature detail end -->
-
-
-
-
-
 
 
 

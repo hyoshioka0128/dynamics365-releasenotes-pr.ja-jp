@@ -3,27 +3,28 @@ title: データとプロセスの統合
 description: ''
 author: relnotes
 ms.reviewer: ''
-ms.date: 11/05/2019
+ms.date: 12/14/2019
 ms.assetid: be096b69-725d-e911-a973-000d3a1c79c5
 ms.topic: structure
 ms.service: business-applications
 ms.author: robadawy
 dynamics365pdf: true
-ms.openlocfilehash: c2485768bc85e7934040557145b5fe2fcd0cd358
-ms.sourcegitcommit: 25ea4ae8ca39c2514ddbaa59dc15c93f8e5cae07
+ms.openlocfilehash: 7bbb822c65ed32ad7d3f528393633c3a1a4b065a
+ms.sourcegitcommit: ecf709e1d8de3b52e1156bceb99cb7e3819f9db3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "2801626"
+ms.lasthandoff: 01/13/2020
+ms.locfileid: "2950870"
 ---
 # <a name="data-and-process-integration"></a>データとプロセスの統合
 
 [!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
 
 <!--structure start-->
-Common Data Service には、すぐに使用可能な追加エンティティ マッピングが含まれるようになります。 このリリースでは、プロジェクト、在庫、販売、調達から財務までをカバーするエンドツーエンドのシナリオがサポートされます。 これらのエンティティにより、Microsoft Power Platform を通じてより深い拡張性シナリオが可能になります。 Finance and Operations アプリは、いくつかのビジネス プロセス分野 (製造、倉庫および輸送、銀行および現金管理など) のビジネス イベントと Power Automate をトリガーおよび監視する機能が追加され、Finance and Operations アプリでのワークフローの主な推進力になっています。
+## <a name="microsoft-power-platform-integration"></a>Microsoft Power Platform 統合
+Common Data Service には、すぐに使用可能な追加エンティティ マッピングが含まれるようになります。 このリリースでは、顧客、仕入先、および製品のマルチマスター機能が対象となります。Common Data Service での会社の概念および Dynamics 365 ユーザーのシングルユーザー管理エクスペリエンスも導入されます。 また、会計と税の参照データも含まれています。 これらのエンティティにより、Microsoft Power Platform を通じてより深い拡張性シナリオが可能になります。 
 
-Azure Data Lake Gen2 でのエンティティ ストアの一般提供により、お客様は次世代の AI および分析プラットフォームを使用できます。 Finance and Operations アプリからのトランザクション データは、お客様自身の Azure Data Lake Storage Gen2 でリアルタイムに (数分以内に) 利用できます。 従来のデータ ウェアハウスも Azure Data Lake に移行し、標準の Finance and Operations アプリケーション エンティティは Azure Data Lake Gen2 に格納されます。
+Finance and Operations アプリでは、複数のビジネス プロセス領域にビジネス イベントが追加されるほか、Microsoft Power Automate っフローをトリガーおよび監視する機能が追加されます。
 <!--structure end-->
 
 

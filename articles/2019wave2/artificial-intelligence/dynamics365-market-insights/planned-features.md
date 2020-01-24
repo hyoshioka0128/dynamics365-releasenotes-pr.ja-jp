@@ -3,17 +3,17 @@ title: Dynamics 365 Market Insights の新機能と予定されている機能 (
 description: Dynamics 365 Market Insights で計画されている機能の概要。
 author: relnotes
 ms.reviewer: mhart
-ms.date: 10/24/2019
+ms.date: 01/10/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: fweigel
 dynamics365pdf: true
-ms.openlocfilehash: c1e2cc142cc3c4bac3a92347c308f55e243387a4
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: de8738209e2d6c6ba7e543e40ad9be357f607d1c
+ms.sourcegitcommit: 7d5d14ac84333ba166265755f410f7e16035a64e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660945"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "2948167"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-market-insights"></a>Dynamics 365 Market Insights の新機能と予定されている機能
 
@@ -25,7 +25,7 @@ ms.locfileid: "2660945"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
-| [自分のトピックについてニュースや新しい分析情報があるときにメール通知を受け取る](get-alerts-when-people-talk-about-product-brand-or-company-web.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 1 日|2020 年 3 月 | 
+| [自分のトピックについて関連する分析情報やニュースがあるときにアラートを受け取る](get-alerts-when-people-talk-about-product-brand-or-company-web.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 1 日|2020 年 3 月 | 
 | [Web アプリで興味のあるトピックに関連するニュースや分析情報にアクセスする](drill-into-details-insights-directly-newsfeed.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 30 日|2020 年 3 月 | 
 | [アラート通知 (時間、頻度、統合) のカスタマイズとユーザー アカウントの削除](customize-alert-notifications-time-frequency-consolidation-delete-user-accounts.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 30 日|2020 年 3 月 | 
 | [ソーシャル メディア、メール、IM、テキストを介して個々の分析情報を同僚と簡単に共有する](share-insights-others.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 30 日|2020 年 3 月 | 

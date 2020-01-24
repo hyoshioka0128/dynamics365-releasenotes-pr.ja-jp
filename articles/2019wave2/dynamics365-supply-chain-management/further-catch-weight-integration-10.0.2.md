@@ -2,26 +2,26 @@
 title: CW 統合の強化 10.0.2
 description: CW 統合の強化 10.0.2
 author: relnotes
-ms.reviewer: josaw
-ms.date: 12/03/2019
+ms.reviewer: kamaybac
+ms.date: 12/10/2019
 ms.assetid: 9462278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: perlynne
 dynamics365pdf: true
-ms.openlocfilehash: 46bbe7cdfbdf500393e347e7c6ab73f47d823659
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: c1eac535bd4b17c9f0c778ece2c734314cecaf00
+ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2889895"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2909887"
 ---
 # <a name="further-catch-weight-integration-1002"></a>CW 統合の強化 10.0.2
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 1 日| 2020 年 3 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 2 月| 近日発表|
 
 
 

@@ -3,18 +3,18 @@ title: 店舗および宛先に基づく外税の顧客控除を計算する
 description: この機能を使用すると、小売業者は店舗ベースの税を使用しながら、顧客の控除が適用されるかどうかも確認できます。 これは外税価格のシナリオのみを対象としたものです。この機能での税込み価格のサポートは、現在計画中です。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 11/19/2019
+ms.date: 12/04/2019
 ms.assetid: 14fe4af2-19e2-e911-a814-000d3a4f1244
 ms.topic: article
 ms.service: business-applications
 ms.author: rubendel
 dynamics365pdf: true
-ms.openlocfilehash: 826cb55cc2de6cde1807700b2ae753a7f433444d
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: cfa220565734c7d30833ffa5b3eeab4c7b07207d
+ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2890203"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2910096"
 ---
 # <a name="calculate-customer-exemptions-for-store--and-destination-based-exclusive-taxes"></a>店舗および宛先に基づく外税の顧客控除を計算する
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]

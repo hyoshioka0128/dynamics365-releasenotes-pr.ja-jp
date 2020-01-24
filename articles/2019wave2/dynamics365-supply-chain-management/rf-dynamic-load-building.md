@@ -2,26 +2,26 @@
 title: RF 動的積荷構築
 description: この機能を使用すると、モバイル ウェアハウス RF スキャナーを使用して積荷を作成できます。
 author: relnotes
-ms.reviewer: josaw
-ms.date: 10/04/2019
+ms.reviewer: kamaybac
+ms.date: 12/13/2019
 ms.assetid: 6c596ea0-1acb-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
-ms.openlocfilehash: 59a9fd958c6317b039dedf4eeeed97b11503daad
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: b5fd15efed215ace7a23a8924d8c0bab64981d50
+ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660581"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2909744"
 ---
 # <a name="rf-dynamic-load-building"></a>RF 動的積荷構築
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 1 月| 2020 年 3 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 2 月| 近日発表|
 
 
 

@@ -3,25 +3,25 @@ title: '[名前 2] フィールドを顧客カードと仕入先カードに追�
 description: 個人用設定を使用して、顧客と仕入先のカードとリストに [名前 2] フィールドを追加できます。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 11/25/2019
+ms.date: 12/16/2019
 ms.assetid: a3fff500-2f05-ea11-a811-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: ee2a5a593dfe5b2c7d2987d2cefb45e10e657b6a
-ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
+ms.openlocfilehash: f8242a0df459338487d577ee7868dfd7f44faf12
+ms.sourcegitcommit: ba5b15c33dc3669937bf5219b1b38995cffb661b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2892319"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "2947560"
 ---
 # <a name="add-the-name-2-field-to-customer-and-vendor-cards"></a>[名前 2] フィールドを顧客カードと仕入先カードに追加する
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|2019 年 11 月| 2019 年 12 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 29 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 17 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

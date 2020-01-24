@@ -3,25 +3,25 @@ title: 自動化のトピックを通じた Power Virtual Agents の改善
 description: 自動化のトピックを通じた Power Virtual Agents の改善
 author: relnotes
 ms.reviewer: iawilt
-ms.date: 09/19/2019
+ms.date: 12/16/2019
 ms.assetid: e863278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 dynamics365pdf: true
-ms.openlocfilehash: 5e87d1c6248dd0e0403c2c7f0a5838ef2537da51
-ms.sourcegitcommit: 5d6e90743e29603bfc5d06566a6966de05931982
+ms.openlocfilehash: 3d3bf946570081d3c68f5de62e94bbe1b33590a1
+ms.sourcegitcommit: 7d5d14ac84333ba166265755f410f7e16035a64e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "2668786"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "2948145"
 ---
 # <a name="improve-power-virtual-agents-through-topics-for-automation"></a>自動化のトピックを通じた Power Virtual Agents の改善
-[!include[artificial-intelligence/dynamics365-customer-service-insights banner](../includes/artificial-intelligence/dynamics365-customer-service-insights.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|-| 2019 年 12 月|
+|管理者、作成者、またはアナリスト、自動的|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 3 日|
 
 
 
@@ -48,3 +48,5 @@ Customer Service Insights では、Power Virtual Agents を使用する自動化
 
 ## <a name="see-also"></a>関連項目
 [機能の探索](https://aka.ms/ROGCSI19RW2ROV4) (ビデオ)
+
+[Power Virtual Agents ボットのトピックを自動化する](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/automate-topics) (ドキュメント)

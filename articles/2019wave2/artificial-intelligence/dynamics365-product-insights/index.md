@@ -9,12 +9,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: mohammed
 dynamics365pdf: true
-ms.openlocfilehash: 7862b8f8426dadc38a9f915184eb1f8744a3b7b2
-ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
+ms.openlocfilehash: b69e7cfdce015dc0d16e5634c8167b54c70b8684
+ms.sourcegitcommit: 96a8b76935ff81eeb407aeb5dcf4d402a33b56da
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "2893723"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2952493"
 ---
 # <a name="overview-of-dynamics-365-product-insights-2019-release-wave-2"></a>Dynamics 365 Product Insights 2019 年リリース ウェーブ 2 の概要
 [!include[artificial-intelligence/dynamics365-product-insights banner](../includes/artificial-intelligence/dynamics365-product-insights.md)]
@@ -28,5 +28,4 @@ Product Insights は製品とサービスの使用状況、パフォーマンス
 
 Product Insights は Dynamics 365 Customer Insights および Dynamics 365 スイートのその他の製品とシームレスに統合されるため、顧客は製品、マーケティング、営業、顧客サービスに関する全体的かつアクション可能な分析情報を取得できます。
 
-[![RSS サブスクリプション](/dynamics365-release-plan/media/feed-icon.png "RSS サブスクリプション")](https://docs.microsoft.com/api/search/rss?locale=en-us&$filter=scopes%2Fany(t%3A%20t%20eq%20%27dynamics365-product-insights-192%27)) Dynamics 365 Product Insights の 2019 年リリース ウェーブ 2 の更新情報
 <!--overview end-->

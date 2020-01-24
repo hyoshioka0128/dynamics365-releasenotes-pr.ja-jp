@@ -3,25 +3,25 @@ title: Finance and Operations AOS (カーネル) の改善
 description: Finance and Operations AOS (カーネル) の改善
 author: relnotes
 ms.reviewer: sericks
-ms.date: 11/22/2019
+ms.date: 01/06/2020
 ms.assetid: 021a0697-4607-ea11-a811-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
 ms.author: hasaid
 dynamics365pdf: true
-ms.openlocfilehash: d156f4a7c3106ede94af227b5c685020d463c80e
-ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
+ms.openlocfilehash: e5e1065f7a06c6ea5d66e88e1b35af34868b598e
+ms.sourcegitcommit: ecf709e1d8de3b52e1156bceb99cb7e3819f9db3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "2894933"
+ms.lasthandoff: 01/13/2020
+ms.locfileid: "2950980"
 ---
 # <a name="finance-and-operations-aos-kernel-improvements"></a>Finance and Operations AOS (カーネル) の改善
-[!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|2019 年 11 月| 2020 年 1 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 20 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 1 日|
 
 
 
@@ -52,10 +52,7 @@ Platform update 32 を適用し、再頒布可能パッケージが欠落して�
 4. **VC++ 17 再頒布可能パッケージ**を選択します。
 5. ダウンロードが自動的に開始されます。
 6. マシンに適用して再起動します。
-
 <!--feature detail end -->
-
-
 
 
 

@@ -3,33 +3,28 @@ title: 2019 年リリース ウェーブ 2 変更履歴
 description: 変更履歴
 author: relnotes
 ms.reviewer: relnotes
-ms.date: 12/04/2019
+ms.date: 01/10/2020
 ms.assetid: ''
 ms.topic: article
 ms.author: relnotes
 ms.service: business-applications
-ms.openlocfilehash: 599b2851c37131d89ac6d2ce360a2e495a93295f
-ms.sourcegitcommit: 0c36ac32dfb047fc53a6db9a07ea3e69add5b616
+ms.openlocfilehash: 41d5badd19dec7b1c0f3493219139bcb8db18d81
+ms.sourcegitcommit: 96a8b76935ff81eeb407aeb5dcf4d402a33b56da
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "2896019"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2952548"
 ---
 # <a name="change-history"></a>変更履歴
 
-このトピックは、機能が追加された場合、または機能のリリース日が変更された場合に更新されます。 リリース計画に対する更新について確認できるようにするには、Twitter で [@MSFTDynamics365](https://twitter.com/MSFTDynamics365) をフォローしてください。
+このトピックは、機能のリリース日が変更された場合か、機能が追加または削除された場合に更新されます。
 
 
 
 ## <a name="dynamics-365-marketing"></a>Dynamics 365 Marketing
 
  
- 
-### <a name="release-date-changed"></a>リリース日の変更
-| 機能 | 変更 |  更新日 |
-|----------|----------|---------------|
-|[Microsoft Forms Pro を使用した調査のサポート](dynamics365-marketing/support-surveys-using-forms-pro.md) |  一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 9 月 18 日|
-|[Microsoft Forms Pro を使用した調査のサポート](dynamics365-marketing/support-surveys-using-forms-pro.md) |  一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 9 月 11 日|
+
  
 ### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
 | 機能 | 理由  |  削除日|
@@ -44,10 +39,11 @@ ms.locfileid: "2896019"
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
-|[状況依存のメール通信](dynamics365-sales/contextual-email-communication.md) |  一般提供の日付が**近日発表**に更新されました。  |2019 年 10 月 08 日|
-|[Sales Professional のサインアップ エクスペリエンスの簡素化](dynamics365-sales/simplified-signup-experience-sales-professional.md) |  一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 10 月 1 日|
-|[Microsoft Teams 統合の機能拡張](dynamics365-sales/teams-integration-enhancements.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 7 月 30 日|
-|[最も一般的な販売ワークフローの改善または簡素化](dynamics365-sales/improve--simplify-most-common-sales-workflows.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 7 月 22 日|
+|[Sales Professional のサインアップ エクスペリエンスの簡素化](dynamics365-sales/simplified-signup-experience-sales-professional.md) |  一般提供の日付が 2019 年 12 月から 2020 年 2 月に変更されました。  |2019 年 12 月 10 日|
+|[状況依存のメール通信](dynamics365-sales/contextual-email-communication.md) |   一般提供の日付が**近日発表**に更新されました。  |2019 年 10 月 8 日|
+|[Sales Professional のサインアップ エクスペリエンスの簡素化](dynamics365-sales/simplified-signup-experience-sales-professional.md) |   一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 10 月 1 日|
+|[Microsoft Teams 統合の機能拡張](dynamics365-sales/teams-integration-enhancements.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 7 月 30 日|
+|[最も一般的な販売ワークフローの改善または簡素化](dynamics365-sales/improve--simplify-most-common-sales-workflows.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 7 月 22 日|
  
 
 
@@ -63,10 +59,10 @@ ms.locfileid: "2896019"
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
-|[顧客とのコミュニケーションをより多く取り込む](artificial-intelligence/dynamics365-sales-insights/capture-more-customer-communications.md) | パブリック プレビューの日付が 2019 年 12 月から 2020 年 2 月に変更されました。   |2019 年 11 月 20 日|
-|[販売担当者が推奨アクションをどのように使用しているかを理解する](artificial-intelligence/dynamics365-sales-insights/understand-how-sellers-are-using-suggested-actions.md) | パブリック プレビューの日付が 2019 年 10 月から 2020 年 1 月に変更されました。   |2019 年 10 月 23 日|
-|[推奨アクションから実行するアクション オプションを拡張する](artificial-intelligence/dynamics365-sales-insights/extend-action-options-taken-suggested-actions.md) | パブリック プレビューの日付が 2019 年 10 月から 2020 年 1 月に変更されました。   |2019 年 10 月 22 日|
-|[顧客とのコミュニケーションをより多く取り込む](artificial-intelligence/dynamics365-sales-insights/capture-more-customer-communications.md) | パブリック プレビューの日付が 2019 年 10 月から 2019 年 12 月に変更されました。   |2019 年 6 月 10 日|
+|[顧客とのコミュニケーションをより多く取り込む](artificial-intelligence/dynamics365-sales-insights/capture-more-customer-communications.md) | パブリック プレビューの日付が 2019 年 12 月から 2020 年 2 月に変更されました。    |2019 年 11 月 20 日|
+|[販売担当者が推奨アクションをどのように使用しているかを理解する](artificial-intelligence/dynamics365-sales-insights/understand-how-sellers-are-using-suggested-actions.md) | パブリック プレビューの日付が 2019 年 10 月から 2020 年 1 月に変更されました。    |2019 年 10 月 23 日|
+|[推奨アクションから実行するアクション オプションを拡張する](artificial-intelligence/dynamics365-sales-insights/extend-action-options-taken-suggested-actions.md) | パブリック プレビューの日付が 2019 年 10 月から 2020 年 1 月に変更されました。    |2019 年 10 月 22 日|
+|[顧客とのコミュニケーションをより多く取り込む](artificial-intelligence/dynamics365-sales-insights/capture-more-customer-communications.md) | パブリック プレビューの日付が 2019 年 10 月から 2019 年 12 月に変更されました。    |2019 年 6 月 10 日|
  
 ### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
 | 機能 | 理由  |  削除日|
@@ -82,7 +78,7 @@ ms.locfileid: "2896019"
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
-|[調査インセンティブ](microsoft-forms-pro/survey-incentives.md) | パブリック プレビューの日付が 2019 年 9 月に更新されました。   |2019 年 6 月 11 日|
+|[調査インセンティブ](microsoft-forms-pro/survey-incentives.md) | パブリック プレビューの日付が 2019 年 9 月に更新されました。    |2019 年 6 月 11 日|
  
 ### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
 | 機能 | 理由  |  削除日|
@@ -105,13 +101,15 @@ ms.locfileid: "2896019"
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
+|[プロアクティブなチャット](dynamics365-customer-service/proactive-chat.md) |   一般提供の日付が 2020 年 1 月から 2019 年 12 月に変更されました。  |2020 年 1 月 9 日|
+|[Facebook メッセージング](dynamics365-customer-service/facebook-messaging.md) |   一般提供の日付が 2020 年 1 月から 2019 年 12 月に変更されました。  |2020 年 1 月 6 日|
 |[Power Virtual Agents の統合](dynamics365-customer-service/integration-dynamics-365-virtual-agent-customer-service.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 10 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 8 月 20 日|
 |[ナレッジ マネージメントの検索とレンダリングの機能強化](dynamics365-customer-service/knowledge-management-enhancements.md) | パブリック プレビューの日付が 2019 年 10 月から 2019 年 8 月に変更されました。 一般提供の日付が 2019 年 12 月から 2019 年 10 月に変更されました。  |2019 年 6 月 12 日|
  
 ### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
 | 機能 | 理由  |  削除日|
 |----------|----------|---------------|
-| 自動レコード作成の機能強化 | 次のリリース ウェーブに移動されました。 |2019 年 6 月 21 日 |
+| レコードの自動的な作成と更新 | 次のリリース ウェーブに移動されました。 |2019 年 6 月 21 日 |
 
 
 ## <a name="dynamics-365-customer-service-insights"></a>Dynamics 365 Customer Service Insights
@@ -121,8 +119,8 @@ ms.locfileid: "2896019"
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
-|[英語以外のサポート案件タイトルのトピック生成に対するサポートの向上](artificial-intelligence/dynamics365-customer-service-insights/improved-support-topic-generation-non-english-case-titles.md) | パブリック プレビューの日付が 2019 年 10 月に更新されました。   |2019 年 8 月 27 日|
-|[自動化のトピックを通じた Power Virtual Agents の改善](artificial-intelligence/dynamics365-customer-service-insights/improve-dynamics-365-virtual-agent-customer-service-through-topics-automation.md) |  一般提供の日付が**近日発表**から 2019 年 12 月に変更されました。  |2019 年 8 月 27 日|
+|[英語以外のサポート案件タイトルのトピック生成に対するサポートの向上](artificial-intelligence/dynamics365-customer-service-insights/improved-support-topic-generation-non-english-case-titles.md) | パブリック プレビューの日付が 2019 年 10 月に更新されました。    |2019 年 8 月 27 日|
+|[自動化のトピックを通じた Power Virtual Agents の改善](artificial-intelligence/dynamics365-customer-service-insights/improve-dynamics-365-virtual-agent-customer-service-through-topics-automation.md) |   一般提供の日付が 2020 年 3 月から 2019 年 12 月に変更されました。  |2019 年 8 月 27 日|
  
 ### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
 | 機能 | 理由  |  削除日|
@@ -142,7 +140,8 @@ ms.locfileid: "2896019"
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
-|[空間検査 (通話せずに注釈を取り込んで共有する)](mixed-reality/dynamics365-remote-assist/capture-share-annotations-without-being-call.md) |  一般提供の日付が 2020 年 1 月から**近日発表**に変更されました。  |2019 年 12 月 4 日|
+|[空間データによる資産検査](mixed-reality/dynamics365-remote-assist/capture-share-annotations-without-being-call.md) | パブリック プレビューの日付が 2020 年 3 月に更新されました。 一般提供の日付が削除されました。  |2019 年 12 月 10 日|
+|[空間データによる資産検査](mixed-reality/dynamics365-remote-assist/capture-share-annotations-without-being-call.md) |   一般提供の日付が 2020 年 1 月から 2020 年 3 月に変更されました。  |2019 年 12 月 4 日|
  
 
 
@@ -153,7 +152,7 @@ ms.locfileid: "2896019"
 | 機能 |  追加日 |
 |---------|---------------|
 |[財務諸表の保持ポリシー](dynamics365-finance/financial-report-retention-policies.md) |  2019 年 11 月 13 日| 
-|[仕訳帳のロックを解除する](dynamics365-finance/unlock-journals.md) |  2019 年 10 月 08 日| 
+|[仕訳帳のロックを解除する](dynamics365-finance/unlock-journals.md) |  2019 年 10 月 8 日| 
 |[買掛金請求書プール フォームからレコードをエクスポートする機能](dynamics365-finance/ability-export-records-accounts-payable-invoice-pool-form.md) |  2019 年 9 月 30 日| 
 |[仕入先請求書に配賦されていない費用がある場合は、ワークフローへの送信を禁止する](dynamics365-finance/prohibit-submission-workflow-when-there-are-unallocated-charges-vendor-invoice.md) |  2019 年 9 月 30 日| 
 |[通貨換算を使用する場合の財務レポートの利益剰余金計算の機能強化](dynamics365-finance/retained-earnings-calculation-enhancements-financial-reporting-when-using-currency-translation.md) |  2019 年 8 月 14 日| 
@@ -162,14 +161,13 @@ ms.locfileid: "2896019"
 |[口座調整のキャンセル](dynamics365-finance/cancel-bank-reconciliation.md) |  2019 年 7 月 18 日| 
 |[小切手のページで空白状態の小切手を作成する](dynamics365-finance/create-checks-blank-status-checks-page.md) |  2019 年 7 月 18 日| 
 |[収益認識](dynamics365-finance/revenue-recognition.md) |  2019 年 7 月 18 日| 
-|[請求スケジュール](dynamics365-finance/billing-schedules.md) |  2019 年 7 月 14 日| 
-|[与信管理](dynamics365-finance/credit-management.md) |  2019 年 7 月 14 日| 
 |[仕訳帳転記の取消](dynamics365-finance/reverse-journal-posting.md) |  2019 年 7 月 14 日| 
- 
+
  
 ### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
 | 機能 | 理由  |  削除日|
 |----------|----------|---------------|
+| 財務に関するインテリジェントな分析情報 | 次のリリース ウェーブに移動されました。 |2019 年 12 月 5 日 |
 | 与信管理 | 将来のリリース ウェーブに移動されました。  |2019 年 11 月 12 日 |
 | 請求スケジュール | 将来のリリース ウェーブに移動されました。  |2019 年 11 月 12 日 |
 | 自動元帳決済 | 将来のリリース ウェーブに移動されました。  |2019 年 8 月 7 日 |
@@ -181,6 +179,7 @@ ms.locfileid: "2896019"
 ### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
 | 機能 |  追加日 |
 |---------|---------------|
+|[CW 統合の強化 10.0.7](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.7.md) |  2019 年 12 月 10 日| 
 |[作業ラインの詳細](dynamics365-supply-chain-management/work-line-details.md) |  2019 年 12 月 3 日| 
 |[マスター プラン進捗ガント チャート](dynamics365-supply-chain-management/master-planning-progress-gantt-chart.md) |  2019 年 9 月 30 日| 
 |[在庫エイジング レポート ストレージ](dynamics365-supply-chain-management/inventory-aging-report-storage.md) |  2019 年 9 月 26 日| 
@@ -190,7 +189,6 @@ ms.locfileid: "2896019"
 |[RF 動的積荷構築](dynamics365-supply-chain-management/rf-dynamic-load-building.md) |  2019 年 8 月 30 日| 
 |[プレウェーブ積荷構築計画](dynamics365-supply-chain-management/pre-wave-load-build-planning.md) |  2019 年 8 月 30 日| 
 |[RSAT を使用したウェアハウス アプリのタスク検証](dynamics365-supply-chain-management/warehouse-app-task-validation-rsat.md) |  2019 年 8 月 30 日| 
-|[倉庫プロセスの品質管理 - 品目サンプリング](dynamics365-supply-chain-management/quality-management-warehouse-processes--item-sampling.md) |  2019 年 8 月 30 日| 
 |[計画オーダーの並列確定](dynamics365-supply-chain-management/parallelized-firming-planned-orders.md) |  2019 年 8 月 30 日| 
 |[CW 統合の強化 10.0.6](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.6.md) |  2019 年 8 月 30 日| 
 |[ジョブ カード デバイスからライセンス プレートで管理されている場所への完了レポート](dynamics365-supply-chain-management/report-as-finished-license-plate-controlled-location-job-card-device.md) |  2019 年 8 月 29 日| 
@@ -200,88 +198,118 @@ ms.locfileid: "2896019"
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
-|[倉庫プロセスの品質管理 - 品目サンプリング](dynamics365-supply-chain-management/quality-management-warehouse-processes--item-sampling.md) | パブリック プレビューの日付が 2019 年 10 月から 2020 年 1 月に変更されました。 一般提供の日付が 2019 年 12 月から**近日発表**に変更されました。  |2019 年 12 月 2 日|
-|[在庫エイジング レポート ストレージ](dynamics365-supply-chain-management/inventory-aging-report-storage.md) |  一般提供の日付が 2019 年 11 月から 2020 年 1 月に変更されました。  |2019 年 11 月 26 日|
-|[ピッキング作業作成ステップからの需要補充作業の分割](dynamics365-supply-chain-management/split-demand-replenishment-work-create-pick-work-step.md) |  一般提供の日付が 2019 年 11 月から 2020 年 1 月に変更されました。  |2019 年 11 月 19 日|
-|[仕入先の入札 - 仕入先からの質問および要約された回答](dynamics365-supply-chain-management/vendor-bidding—questions-vendors-summarized-responses.md) |  一般提供の日付が 2019 年 12 月から**近日発表**に変更されました。  |2019 年 11 月 18 日|
+|[倉庫リリース ルール](dynamics365-supply-chain-management/warehouse-release-rule.md) |   一般提供の日付が 2020 年 3 月から 2019 年 12 月に変更されました。  |2020 年 1 月 6 日|
+|[ゾーンしきい値の補充](dynamics365-supply-chain-management/zone-threshold-replenishment.md) |   一般提供の日付が 2020 年 3 月から 2019 年 12 月に変更されました。  |2020 年 1 月 6 日|
+|[場所のディレクティブ在庫ピッキング エイジング](dynamics365-supply-chain-management/location-directive-inventory-picking-aging.md) |   一般提供の日付が 2020 年 3 月から 2019 年 12 月に変更されました。  |2020 年 1 月 6 日|
+|[クラスター位置フル](dynamics365-supply-chain-management/cluster-position-full.md) |   一般提供の日付が 2020 年 3 月から 2019 年 12 月に変更されました。  |2020 年 1 月 6 日|
+|[場所ステータス](dynamics365-supply-chain-management/location-status.md) |   一般提供の日付が 2020 年 3 月から 2019 年 12 月に変更されました。  |2020 年 1 月 6 日|
+|[追加の場所ゾーン](dynamics365-supply-chain-management/additional-location-zone.md) |   一般提供の日付が 2020 年 3 月から 2019 年 12 月に変更されました。  |2020 年 1 月 6 日|
+|[ピッキング明細行のグループ化](dynamics365-supply-chain-management/pick-line-grouping.md) |   一般提供の日付が 2020 年 3 月から 2019 年 12 月に変更されました。  |2020 年 1 月 6 日|
+|[確認と移動](dynamics365-supply-chain-management/confirm-transfer.md) |   一般提供の日付が 2020 年 3 月から 2019 年 12 月に変更されました。  |2020 年 1 月 6 日|
+|[倉庫リリース ルール](dynamics365-supply-chain-management/warehouse-release-rule.md) |   一般提供の日付が 2019 年 12 月から 2020 年 3 月に変更されました。  |2020 年 1 月 6 日|
+|[ゾーンしきい値の補充](dynamics365-supply-chain-management/zone-threshold-replenishment.md) |   一般提供の日付が 2019 年 12 月から 2020 年 3 月に変更されました。  |2020 年 1 月 6 日|
+|[場所のディレクティブ在庫ピッキング エイジング](dynamics365-supply-chain-management/location-directive-inventory-picking-aging.md) |   一般提供の日付が 2019 年 12 月から 2020 年 3 月に変更されました。  |2020 年 1 月 6 日|
+|[クラスター位置フル](dynamics365-supply-chain-management/cluster-position-full.md) |   一般提供の日付が 2019 年 12 月から 2020 年 3 月に変更されました。  |2020 年 1 月 6 日|
+|[場所ステータス](dynamics365-supply-chain-management/location-status.md) |   一般提供の日付が 2019 年 12 月から 2020 年 3 月に変更されました。  |2020 年 1 月 6 日|
+|[追加の場所ゾーン](dynamics365-supply-chain-management/additional-location-zone.md) |   一般提供の日付が 2019 年 12 月から 2020 年 3 月に変更されました。  |2020 年 1 月 6 日|
+|[ピッキング明細行のグループ化](dynamics365-supply-chain-management/pick-line-grouping.md) |   一般提供の日付が 2019 年 12 月から 2020 年 3 月に変更されました。  |2020 年 1 月 6 日|
+|[確認と移動](dynamics365-supply-chain-management/confirm-transfer.md) |   一般提供の日付が 2019 年 12 月から 2020 年 3 月に変更されました。  |2020 年 1 月 6 日|
+|[手持在庫サービス (プレビュー)](dynamics365-supply-chain-management/inventory-on-hand-service.md) | パブリック プレビューの日付が 2019 年 12 月から 2020 年 3 月に変更されました。    |2019 年 12 月 17 日|
+|[小型パッケージ配送 (SPS)](dynamics365-supply-chain-management/small-package-shipping-sps.md) | パブリック プレビューの日付が 2020 年 1 月から 2020 年 2 月に変更されました。 一般提供の日付が 2020 年 3 月から**近日発表**に変更されました。  |2019 年 12 月 13 日|
+|[材料取り扱い/倉庫自動化](dynamics365-supply-chain-management/material-handlingwarehouse-automation.md) | パブリック プレビューの日付が 2020 年 1 月から 2020 年 2 月に変更されました。 一般提供の日付が 2020 年 2 月から**近日発表**に変更されました。  |2019 年 12 月 13 日|
+|[ブラインド返品受取](dynamics365-supply-chain-management/blind-returns-receiving.md) | パブリック プレビューの日付が 2020 年 1 月から 2020 年 2 月に変更されました。 一般提供の日付が 2020 年 3 月から**近日発表**に変更されました。  |2019 年 12 月 13 日|
+|[配送業者割り当て/ルート指定ウェーブ ステップ](dynamics365-supply-chain-management/carrier-assignmentrouting-wave-step.md) | パブリック プレビューの日付が 2020 年 1 月から 2020 年 2 月に変更されました。 一般提供の日付が 2020 年 3 月から**近日発表**に変更されました。  |2019 年 12 月 13 日|
+|[小売店舗の梱包と出荷](dynamics365-supply-chain-management/retail-store-pack-ship.md) | パブリック プレビューの日付が 2020 年 1 月から 2020 年 2 月に変更されました。 一般提供の日付が 2020 年 3 月から**近日発表**に変更されました。  |2019 年 12 月 13 日|
+|[高度な輸送計画](dynamics365-supply-chain-management/advanced-transportation-planning.md) | パブリック プレビューの日付が 2020 年 1 月から 2020 年 2 月に変更されました。 一般提供の日付が 2020 年 3 月から**近日発表**に変更されました。  |2019 年 12 月 13 日|
+|[倉庫プロセスの品質管理 - 品目サンプリング](dynamics365-supply-chain-management/quality-management-warehouse-processes--item-sampling.md) | パブリック プレビュー日付を削除しました。 一般提供の日付が削除されました。  |2019 年 12 月 13 日|
+|[プレウェーブ積荷構築計画](dynamics365-supply-chain-management/pre-wave-load-build-planning.md) | パブリック プレビューの日付が 2020 年 1 月から 2020 年 2 月に変更されました。 一般提供の日付が 2020 年 3 月から**近日発表**に変更されました。  |2019 年 12 月 13 日|
+|[プレウェーブ メトリック](dynamics365-supply-chain-management/pre-wave-metrics.md) | パブリック プレビューの日付が 2020 年 1 月から 2020 年 2 月に変更されました。 一般提供の日付が 2020 年 3 月から**近日発表**に変更されました。  |2019 年 12 月 13 日|
+|[RF 動的積荷構築](dynamics365-supply-chain-management/rf-dynamic-load-building.md) | パブリック プレビューの日付が 2020 年 1 月から 2020 年 2 月に変更されました。 一般提供の日付が 2020 年 3 月から**近日発表**に変更されました。  |2019 年 12 月 13 日|
+|[梱包と保管の分析コード](dynamics365-supply-chain-management/packing-vs.-storage-dimensions.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 2 月に変更されました。 一般提供の日付が 2020 年 1 月から**近日発表**に変更されました。  |2019 年 12 月 10 日|
+|[CW 統合の強化 10.0.6](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.6.md) | パブリック プレビューの日付が 2019 年 9 月から 2020 年 2 月に変更されました。    |2019 年 12 月 10 日|
+|[CW 統合の強化 10.0.5](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.5.md) | パブリック プレビューの日付が 2019 年 8 月から 2020 年 2 月に変更されました。    |2019 年 12 月 10 日|
+|[CW 統合の強化 10.0.4](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.4.md) | パブリック プレビューの日付が 2019 年 6 月から 2020 年 2 月に変更されました。    |2019 年 12 月 10 日|
+|[CW 統合の強化 10.0.3](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.3.md) | パブリック プレビューの日付が 2019 年 5 月から 2020 年 2 月に変更されました。    |2019 年 12 月 10 日|
+|[CW 統合の強化 10.0.2](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.2.md) | パブリック プレビューの日付が 2019 年 4 月から 2020 年 2 月に変更されました。    |2019 年 12 月 10 日|
+|[CW 統合の強化 10.0.1](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.1.md) | パブリック プレビューの日付が 2020 年 3 月から 2020 年 2 月に変更されました。    |2019 年 12 月 10 日|
+|[CW 統合の強化 10.0.1](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.1.md) |   一般提供の日付が 2020 年 3 月から**近日発表**に変更されました。  |2019 年 12 月 10 日|
+|[在庫エイジング レポート ストレージ](dynamics365-supply-chain-management/inventory-aging-report-storage.md) |   一般提供の日付が 2019 年 11 月から 2020 年 1 月に変更されました。  |2019 年 11 月 26 日|
+|[ピッキング作業作成ステップからの需要補充作業の分割](dynamics365-supply-chain-management/split-demand-replenishment-work-create-pick-work-step.md) |   一般提供の日付が 2019 年 11 月から 2020 年 1 月に変更されました。  |2019 年 11 月 19 日|
+|[仕入先の入札 - 仕入先からの質問および要約された回答](dynamics365-supply-chain-management/vendor-bidding—questions-vendors-summarized-responses.md) |   一般提供の日付が 2019 年 12 月から**近日発表**に変更されました。  |2019 年 11 月 18 日|
 |[倉庫プロセスの品質管理](dynamics365-supply-chain-management/quality-management-warehouse-processes.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 1 月に変更されました。 一般提供の日付が 2020 年 1 月から 2020 年 3 月に変更されました。  |2019 年 11 月 15 日|
 |[ウェーブ ステップ コード](dynamics365-supply-chain-management/wave-step-code.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 1 月に変更されました。 一般提供の日付が 2020 年 1 月から 2020 年 3 月に変更されました。  |2019 年 11 月 15 日|
-|[CW 統合の強化 10.0.6](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.6.md) |  一般提供の日付が 2020 年 2 月から**近日発表**に変更されました。  |2019 年 11 月 12 日|
-|[CW 統合の強化 10.0.5](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.5.md) |  一般提供の日付が 2020 年 2 月から**近日発表**に変更されました。  |2019 年 11 月 12 日|
-|[CW 統合の強化 10.0.4](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.4.md) |  一般提供の日付が 2020 年 2 月から**近日発表**に変更されました。  |2019 年 11 月 12 日|
-|[CW 統合の強化 10.0.3](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.3.md) |  一般提供の日付が 2020 年 2 月から**近日発表**に変更されました。  |2019 年 11 月 12 日|
-|[CW 統合の強化 10.0.2](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.2.md) |  一般提供の日付が 2020 年 2 月から**近日発表**に変更されました。  |2019 年 11 月 12 日|
-|[CW 統合の強化 10.0.1](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.1.md) |  一般提供の日付が 2020 年 2 月から**近日発表**に変更されました。  |2019 年 11 月 12 日|
-|[RSAT を使用したウェアハウス アプリのタスク検証](dynamics365-supply-chain-management/warehouse-app-task-validation-rsat.md) |  一般提供の日付が 2020 年 2 月から 2019 年 11 月に変更されました。  |2019 年 11 月 12 日|
-|[柔軟な倉庫レベルの分析コード引当](dynamics365-supply-chain-management/flexible-warehouse-level-dimension-reservation.md) | パブリック プレビューの日付が 2020 年 1 月から 2019 年 10 月に変更されました。   |2019 年 10 月 15 日|
-|[柔軟な倉庫レベルの分析コード引当](dynamics365-supply-chain-management/flexible-warehouse-level-dimension-reservation.md) | パブリック プレビューの日付が 2019 年 10 月から 2020 年 1 月に変更されました。   |2019 年 10 月 15 日|
-|[リード タイムと稼働日に基づいて発注書の配送日を計算する (公的機関)](dynamics365-supply-chain-management/calculate-po-delivery-date-based-lead-times-working-days-public-sector.md) |  一般提供の日付が 2019 年 11 月から 2020 年 2 月に変更されました。  |2019 年 10 月 15 日|
-|[CW 統合の強化 10.0.6](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.6.md) |  一般提供の日付が 2019 年 12 月から 2020 年 2 月に変更されました。  |2019 年 10 月 11 日|
-|[CW 統合の強化 10.0.5](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.5.md) |  一般提供の日付が 2019 年 12 月から 2020 年 2 月に変更されました。  |2019 年 10 月 11 日|
-|[CW 統合の強化 10.0.4](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.4.md) |  一般提供の日付が 2019 年 12 月から 2020 年 2 月に変更されました。  |2019 年 10 月 11 日|
-|[CW 統合の強化 10.0.3](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.3.md) |  一般提供の日付が 2019 年 12 月から 2020 年 2 月に変更されました。  |2019 年 10 月 11 日|
-|[CW 統合の強化 10.0.2](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.2.md) |  一般提供の日付が 2019 年 12 月から 2020 年 2 月に変更されました。  |2019 年 10 月 11 日|
-|[CW 統合の強化 10.0.1](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.1.md) |  一般提供の日付が 2019 年 12 月から 2020 年 2 月に変更されました。  |2019 年 10 月 11 日|
-|[在庫金額レポート ストレージ](dynamics365-supply-chain-management/inventory-value-report-storage.md) |  一般提供の日付が 2019 年 11 月から 2019 年 10 月に変更されました。  |2019 年 10 月 09 日|
-|[クロスドッキング用の自動リリース出荷](dynamics365-supply-chain-management/auto-release-shipment-cross-dock.md) |  一般提供の日付が 2019 年 10 月から 2020 年 1 月に変更されました。  |2019 年 10 月 07 日|
-|[作業のキャンセル](dynamics365-supply-chain-management/cancel-work.md) |  一般提供の日付が 2019 年 10 月から 2020 年 1 月に変更されました。  |2019 年 10 月 07 日|
-|[出荷の自動更新](dynamics365-supply-chain-management/shipment-auto-update.md) | パブリック プレビューの日付が 2019 年 10 月から 2019 年 11 月に変更されました。   |2019 年 10 月 07 日|
-|[ウェーブ ステップ コード](dynamics365-supply-chain-management/wave-step-code.md) | パブリック プレビューの日付が 2019 年 10 月から 2019 年 11 月に変更されました。   |2019 年 10 月 07 日|
-|[容積測定データの製品バリアントの取り込み](dynamics365-supply-chain-management/product-variant-uptake-volumetric-data.md) | パブリック プレビューの日付が 2020 年 2 月から 2020 年 1 月に変更されました。 一般提供の日付が 2020 年 2 月から**近日発表**に変更されました。  |2019 年 10 月 07 日|
-|[倉庫プロセスの品質管理](dynamics365-supply-chain-management/quality-management-warehouse-processes.md) | パブリック プレビューの日付が 2019 年 10 月から 2019 年 11 月に変更されました。 一般提供の日付が 2020 年 2 月から 2020 年 1 月に変更されました。  |2019 年 10 月 07 日|
-|[出荷の自動更新](dynamics365-supply-chain-management/shipment-auto-update.md) |  一般提供の日付が 2019 年 12 月から 2020 年 1 月に変更されました。  |2019 年 10 月 07 日|
-|[ウェーブ ステップ コード](dynamics365-supply-chain-management/wave-step-code.md) |  一般提供の日付が 2019 年 12 月から 2020 年 1 月に変更されました。  |2019 年 10 月 07 日|
-|[倉庫プロセスの品質管理](dynamics365-supply-chain-management/quality-management-warehouse-processes.md) |  一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 10 月 07 日|
-|[出荷の自動更新](dynamics365-supply-chain-management/shipment-auto-update.md) | パブリック プレビューの日付が 2019 年 10 月に更新されました。 一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 10 月 07 日|
-|[ウェーブ ステップ コード](dynamics365-supply-chain-management/wave-step-code.md) | パブリック プレビューの日付が 2019 年 10 月に更新されました。   |2019 年 10 月 07 日|
-|[ウェーブ ステップ コード](dynamics365-supply-chain-management/wave-step-code.md) |  一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 10 月 07 日|
-|[RF 動的積荷構築](dynamics365-supply-chain-management/rf-dynamic-load-building.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 1 月に変更されました。 一般提供の日付が 2020 年 1 月から 2020 年 3 月に変更されました。  |2019 年 10 月 04 日|
-|[プレウェーブ メトリック](dynamics365-supply-chain-management/pre-wave-metrics.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 1 月に変更されました。 一般提供の日付が 2020 年 1 月から 2020 年 3 月に変更されました。  |2019 年 10 月 04 日|
-|[プレウェーブ積荷構築計画](dynamics365-supply-chain-management/pre-wave-load-build-planning.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 1 月に変更されました。 一般提供の日付が 2020 年 1 月から 2020 年 3 月に変更されました。  |2019 年 10 月 04 日|
-|[高度な輸送計画](dynamics365-supply-chain-management/advanced-transportation-planning.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 1 月に変更されました。 一般提供の日付が 2020 年 1 月から 2020 年 3 月に変更されました。  |2019 年 10 月 04 日|
-|[小型パッケージ配送 (SPS)](dynamics365-supply-chain-management/small-package-shipping-sps.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 1 月に変更されました。 一般提供の日付が 2020 年 2 月から 2020 年 3 月に変更されました。  |2019 年 10 月 04 日|
-|[配送業者割り当て/ルート指定ウェーブ ステップ](dynamics365-supply-chain-management/carrier-assignmentrouting-wave-step.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 1 月に変更されました。 一般提供の日付が 2020 年 1 月から 2020 年 3 月に変更されました。  |2019 年 10 月 04 日|
-|[ブラインド返品受取](dynamics365-supply-chain-management/blind-returns-receiving.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 1 月に変更されました。 一般提供の日付が 2020 年 2 月から 2020 年 3 月に変更されました。  |2019 年 10 月 04 日|
-|[入庫品質チェック](dynamics365-supply-chain-management/inbound-quality-check.md) | パブリック プレビューの日付が 2019 年 9 月から 2019 年 8 月に変更されました。 一般提供の日付が 2019 年 10 月から 2020 年 1 月に変更されました。  |2019 年 10 月 04 日|
-|[作業での作業プールの変更](dynamics365-supply-chain-management/change-work-pool-work.md) |  一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 10 月 04 日|
-|[ウェーブ テンプレートによるグループ化](dynamics365-supply-chain-management/wave-template-grouping.md) |  一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 10 月 04 日|
-|[倉庫リリース ルール](dynamics365-supply-chain-management/warehouse-release-rule.md) |  一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 10 月 04 日|
-|[ゾーンしきい値の補充](dynamics365-supply-chain-management/zone-threshold-replenishment.md) |  一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 10 月 04 日|
-|[クラスター位置フル](dynamics365-supply-chain-management/cluster-position-full.md) |  一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 10 月 04 日|
-|[作業を分割する](dynamics365-supply-chain-management/split-work.md) |  一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 10 月 04 日|
-|[場所ステータス](dynamics365-supply-chain-management/location-status.md) |  一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 10 月 04 日|
-|[システム主導のクラスター ピッキング](dynamics365-supply-chain-management/system-directed-cluster-picking.md) |  一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 10 月 04 日|
-|[追加の場所ゾーン](dynamics365-supply-chain-management/additional-location-zone.md) |  一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 10 月 04 日|
-|[ピッキング明細行のグループ化](dynamics365-supply-chain-management/pick-line-grouping.md) |  一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 10 月 04 日|
-|[確認と移動](dynamics365-supply-chain-management/confirm-transfer.md) |  一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 10 月 04 日|
-|[場所と製品分析コードの混合](dynamics365-supply-chain-management/location-product-dimension-mixing.md) |  一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 04 日|
-|[計画的クロスドッキング](dynamics365-supply-chain-management/planned-cross-docking.md) |  一般提供の日付が 2019 年 10 月から 2020 年 1 月に変更されました。  |2019 年 10 月 04 日|
-|[ウェーブ テンプレートによるグループ化](dynamics365-supply-chain-management/wave-template-grouping.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 5 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 04 日|
-|[倉庫リリース ルール](dynamics365-supply-chain-management/warehouse-release-rule.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 4 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 04 日|
-|[壁へのプット/ストアへのプット](dynamics365-supply-chain-management/put-wallput-store.md) |  一般提供の日付が 2019 年 10 月から 2020 年 1 月に変更されました。  |2019 年 10 月 04 日|
-|[出庫の並べ替え](dynamics365-supply-chain-management/outbound-sorting.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 6 月に変更されました。 一般提供の日付が 2019 年 10 月から 2020 年 1 月に変更されました。  |2019 年 10 月 04 日|
-|[ゾーンしきい値の補充](dynamics365-supply-chain-management/zone-threshold-replenishment.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 4 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 04 日|
-|[場所のディレクティブ在庫ピッキング エイジング](dynamics365-supply-chain-management/location-directive-inventory-picking-aging.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 4 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 10 月 04 日|
-|[クラスター位置フル](dynamics365-supply-chain-management/cluster-position-full.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 4 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 04 日|
-|[作業を分割する](dynamics365-supply-chain-management/split-work.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 6 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 04 日|
-|[場所ステータス](dynamics365-supply-chain-management/location-status.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 3 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 04 日|
-|[システム主導のクラスター ピッキング](dynamics365-supply-chain-management/system-directed-cluster-picking.md) |  一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 04 日|
-|[追加の場所ゾーン](dynamics365-supply-chain-management/additional-location-zone.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 3 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 04 日|
-|[ピッキング明細行のグループ化](dynamics365-supply-chain-management/pick-line-grouping.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 3 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 04 日|
-|[倉庫のスロッティング](dynamics365-supply-chain-management/warehouse-slotting.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 3 月に変更されました。 一般提供の日付が 2019 年 10 月から 2020 年 2 月に変更されました。  |2019 年 10 月 04 日|
-|[ウェーブの間の高度な積荷構築](dynamics365-supply-chain-management/advanced-load-building-during-wave.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 3 月に変更されました。 一般提供の日付が 2019 年 10 月から 2020 年 1 月に変更されました。  |2019 年 10 月 04 日|
-|[確認と移動](dynamics365-supply-chain-management/confirm-transfer.md) | パブリック プレビューの日付が 2019 年 9 月から 2019 年 3 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 04 日|
-|[遅延プット処理](dynamics365-supply-chain-management/deferred-put-processing.md) |  一般提供の日付が 2019 年 11 月から 2020 年 1 月に変更されました。  |2019 年 10 月 02 日|
-|[ウェーブ ラベル印刷の機能強化](dynamics365-supply-chain-management/wave-label-printing-enhancements.md) |  一般提供の日付が 2019 年 11 月から 2020 年 1 月に変更されました。  |2019 年 10 月 02 日|
-|[出荷の連結の機能強化](dynamics365-supply-chain-management/consolidate-shipment-enhancements.md) |  一般提供の日付が 2019 年 11 月から 2020 年 1 月に変更されました。  |2019 年 10 月 02 日|
-|[手持在庫サービス](dynamics365-supply-chain-management/inventory-on-hand-service.md) | パブリック プレビューの日付が 2019 年 10 月から 2019 年 12 月に変更されました。 一般提供の日付が削除されました。  |2019 年 9 月 30 日|
-|[出荷の連結の機能強化](dynamics365-supply-chain-management/consolidate-shipment-enhancements.md) |  一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 9 月 29 日|
-|[ウェーブ ラベル印刷の機能強化](dynamics365-supply-chain-management/wave-label-printing-enhancements.md) |  一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 9 月 29 日|
-|[ピッキング作業作成ステップからの需要補充作業の分割](dynamics365-supply-chain-management/split-demand-replenishment-work-create-pick-work-step.md) |  一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 9 月 29 日|
-|[遅延プット処理](dynamics365-supply-chain-management/deferred-put-processing.md) |  一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 9 月 29 日|
-|[ウェーブ ラベル印刷の機能強化](dynamics365-supply-chain-management/wave-label-printing-enhancements.md) | パブリック プレビューの日付が 2019 年 4 月から 2019 年 9 月に変更されました。   |2019 年 9 月 17 日|
+|[CW 統合の強化 10.0.6](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.6.md) |   一般提供の日付が 2020 年 2 月から**近日発表**に変更されました。  |2019 年 11 月 12 日|
+|[CW 統合の強化 10.0.5](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.5.md) |   一般提供の日付が 2020 年 2 月から 2020 年 3 月に変更されました。  |2019 年 11 月 12 日|
+|[CW 統合の強化 10.0.4](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.4.md) |   一般提供の日付が 2020 年 2 月から 2020 年 3 月に変更されました。  |2019 年 11 月 12 日|
+|[CW 統合の強化 10.0.3](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.3.md) |   一般提供の日付が 2020 年 2 月から 2020 年 3 月に変更されました。  |2019 年 11 月 12 日|
+|[CW 統合の強化 10.0.2](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.2.md) |   一般提供の日付が 2020 年 2 月から 2020 年 3 月に変更されました。  |2019 年 11 月 12 日|
+|[CW 統合の強化 10.0.1](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.1.md) |   一般提供の日付が 2020 年 2 月から 2020 年 3 月に変更されました。  |2019 年 11 月 12 日|
+|[RSAT を使用したウェアハウス アプリのタスク検証](dynamics365-supply-chain-management/warehouse-app-task-validation-rsat.md) |   一般提供の日付が 2020 年 2 月から 2019 年 11 月に変更されました。  |2019 年 11 月 12 日|
+|[柔軟な倉庫レベルの分析コード引当](dynamics365-supply-chain-management/flexible-warehouse-level-dimension-reservation.md) | パブリック プレビューの日付が 2020 年 1 月から 2019 年 10 月に変更されました。    |2019 年 10 月 15 日|
+|[柔軟な倉庫レベルの分析コード引当](dynamics365-supply-chain-management/flexible-warehouse-level-dimension-reservation.md) | パブリック プレビューの日付が 2019 年 10 月から 2020 年 1 月に変更されました。    |2019 年 10 月 15 日|
+|[CW 統合の強化 10.0.6](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.6.md) |   一般提供の日付が 2019 年 12 月から 2020 年 2 月に変更されました。  |2019 年 10 月 11 日|
+|[CW 統合の強化 10.0.5](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.5.md) |   一般提供の日付が 2019 年 12 月から 2020 年 2 月に変更されました。  |2019 年 10 月 11 日|
+|[CW 統合の強化 10.0.4](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.4.md) |   一般提供の日付が 2019 年 12 月から 2020 年 2 月に変更されました。  |2019 年 10 月 11 日|
+|[CW 統合の強化 10.0.3](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.3.md) |   一般提供の日付が 2019 年 12 月から 2020 年 2 月に変更されました。  |2019 年 10 月 11 日|
+|[CW 統合の強化 10.0.2](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.2.md) |   一般提供の日付が 2019 年 12 月から 2020 年 2 月に変更されました。  |2019 年 10 月 11 日|
+|[CW 統合の強化 10.0.1](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.1.md) |   一般提供の日付が 2019 年 12 月から 2020 年 2 月に変更されました。  |2019 年 10 月 11 日|
+|[在庫金額レポート ストレージ](dynamics365-supply-chain-management/inventory-value-report-storage.md) |   一般提供の日付が 2019 年 11 月から 2019 年 10 月に変更されました。  |2019 年 10 月 9 日|
+|[クロスドッキング用の自動リリース出荷](dynamics365-supply-chain-management/auto-release-shipment-cross-dock.md) |   一般提供の日付が 2019 年 10 月から 2020 年 1 月に変更されました。  |2019 年 10 月 7 日|
+|[作業のキャンセル](dynamics365-supply-chain-management/cancel-work.md) |   一般提供の日付が 2019 年 10 月から 2020 年 1 月に変更されました。  |2019 年 10 月 7 日|
+|[出荷の自動更新](dynamics365-supply-chain-management/shipment-auto-update.md) | パブリック プレビューの日付が 2019 年 10 月から 2019 年 11 月に変更されました。    |2019 年 10 月 7 日|
+|[ウェーブ ステップ コード](dynamics365-supply-chain-management/wave-step-code.md) | パブリック プレビューの日付が 2019 年 10 月から 2019 年 11 月に変更されました。    |2019 年 10 月 7 日|
+|[倉庫プロセスの品質管理](dynamics365-supply-chain-management/quality-management-warehouse-processes.md) | パブリック プレビューの日付が 2019 年 10 月から 2019 年 11 月に変更されました。 一般提供の日付が 2020 年 2 月から 2020 年 1 月に変更されました。  |2019 年 10 月 7 日|
+|[出荷の自動更新](dynamics365-supply-chain-management/shipment-auto-update.md) |   一般提供の日付が 2019 年 12 月から 2020 年 1 月に変更されました。  |2019 年 10 月 7 日|
+|[ウェーブ ステップ コード](dynamics365-supply-chain-management/wave-step-code.md) |   一般提供の日付が 2019 年 12 月から 2020 年 1 月に変更されました。  |2019 年 10 月 7 日|
+|[倉庫プロセスの品質管理](dynamics365-supply-chain-management/quality-management-warehouse-processes.md) |   一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 10 月 7 日|
+|[出荷の自動更新](dynamics365-supply-chain-management/shipment-auto-update.md) | パブリック プレビューの日付が 2019 年 10 月に更新されました。 一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 10 月 7 日|
+|[ウェーブ ステップ コード](dynamics365-supply-chain-management/wave-step-code.md) | パブリック プレビューの日付が 2019 年 10 月に更新されました。    |2019 年 10 月 7 日|
+|[ウェーブ ステップ コード](dynamics365-supply-chain-management/wave-step-code.md) |   一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 10 月 7 日|
+|[RF 動的積荷構築](dynamics365-supply-chain-management/rf-dynamic-load-building.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 1 月に変更されました。 一般提供の日付が 2020 年 1 月から 2020 年 3 月に変更されました。  |2019 年 10 月 4 日|
+|[プレウェーブ メトリック](dynamics365-supply-chain-management/pre-wave-metrics.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 1 月に変更されました。 一般提供の日付が 2020 年 1 月から 2020 年 3 月に変更されました。  |2019 年 10 月 4 日|
+|[プレウェーブ積荷構築計画](dynamics365-supply-chain-management/pre-wave-load-build-planning.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 1 月に変更されました。 一般提供の日付が 2020 年 1 月から 2020 年 3 月に変更されました。  |2019 年 10 月 4 日|
+|[高度な輸送計画](dynamics365-supply-chain-management/advanced-transportation-planning.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 1 月に変更されました。 一般提供の日付が 2020 年 1 月から 2020 年 3 月に変更されました。  |2019 年 10 月 4 日|
+|[小型パッケージ配送 (SPS)](dynamics365-supply-chain-management/small-package-shipping-sps.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 1 月に変更されました。 一般提供の日付が 2020 年 2 月から 2020 年 3 月に変更されました。  |2019 年 10 月 4 日|
+|[配送業者割り当て/ルート指定ウェーブ ステップ](dynamics365-supply-chain-management/carrier-assignmentrouting-wave-step.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 1 月に変更されました。 一般提供の日付が 2020 年 1 月から 2020 年 3 月に変更されました。  |2019 年 10 月 4 日|
+|[ブラインド返品受取](dynamics365-supply-chain-management/blind-returns-receiving.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 1 月に変更されました。 一般提供の日付が 2020 年 2 月から 2020 年 3 月に変更されました。  |2019 年 10 月 4 日|
+|[入庫品質チェック](dynamics365-supply-chain-management/inbound-quality-check.md) | パブリック プレビューの日付が 2019 年 9 月から 2019 年 8 月に変更されました。 一般提供の日付が 2019 年 10 月から 2020 年 1 月に変更されました。  |2019 年 10 月 4 日|
+|[作業での作業プールの変更](dynamics365-supply-chain-management/change-work-pool-work.md) |   一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 10 月 4 日|
+|[ウェーブ テンプレートによるグループ化](dynamics365-supply-chain-management/wave-template-grouping.md) |   一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 10 月 4 日|
+|[倉庫リリース ルール](dynamics365-supply-chain-management/warehouse-release-rule.md) |   一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 10 月 4 日|
+|[ゾーンしきい値の補充](dynamics365-supply-chain-management/zone-threshold-replenishment.md) |   一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 10 月 4 日|
+|[クラスター位置フル](dynamics365-supply-chain-management/cluster-position-full.md) |   一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 10 月 4 日|
+|[作業を分割する](dynamics365-supply-chain-management/split-work.md) |   一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 10 月 4 日|
+|[場所ステータス](dynamics365-supply-chain-management/location-status.md) |   一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 10 月 4 日|
+|[システム主導のクラスター ピッキング](dynamics365-supply-chain-management/system-directed-cluster-picking.md) |   一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 10 月 4 日|
+|[ピッキング明細行のグループ化](dynamics365-supply-chain-management/pick-line-grouping.md) |   一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 10 月 4 日|
+|[確認と移動](dynamics365-supply-chain-management/confirm-transfer.md) |   一般提供の日付が 2019 年 11 月から 2019 年 12 月に変更されました。  |2019 年 10 月 4 日|
+|[場所と製品分析コードの混合](dynamics365-supply-chain-management/location-product-dimension-mixing.md) |   一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 4 日|
+|[クロスドッキング](dynamics365-supply-chain-management/planned-cross-docking.md) |   一般提供の日付が 2019 年 10 月から 2020 年 1 月に変更されました。  |2019 年 10 月 4 日|
+|[ウェーブ テンプレートによるグループ化](dynamics365-supply-chain-management/wave-template-grouping.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 5 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 4 日|
+|[倉庫リリース ルール](dynamics365-supply-chain-management/warehouse-release-rule.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 4 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 4 日|
+|[壁へのプット/ストアへのプット](dynamics365-supply-chain-management/put-wallput-store.md) |   一般提供の日付が 2019 年 10 月から 2020 年 1 月に変更されました。  |2019 年 10 月 4 日|
+|[出庫の並べ替え](dynamics365-supply-chain-management/outbound-sorting.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 6 月に変更されました。 一般提供の日付が 2019 年 10 月から 2020 年 1 月に変更されました。  |2019 年 10 月 4 日|
+|[ゾーンしきい値の補充](dynamics365-supply-chain-management/zone-threshold-replenishment.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 4 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 4 日|
+|[場所のディレクティブ在庫ピッキング エイジング](dynamics365-supply-chain-management/location-directive-inventory-picking-aging.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 4 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 10 月 4 日|
+|[クラスター位置フル](dynamics365-supply-chain-management/cluster-position-full.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 4 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 4 日|
+|[作業を分割する](dynamics365-supply-chain-management/split-work.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 6 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 4 日|
+|[場所ステータス](dynamics365-supply-chain-management/location-status.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 3 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 4 日|
+|[システム主導のクラスター ピッキング](dynamics365-supply-chain-management/system-directed-cluster-picking.md) |   一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 4 日|
+|[追加の場所ゾーン](dynamics365-supply-chain-management/additional-location-zone.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 3 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 10 月 4 日|
+|[ピッキング明細行のグループ化](dynamics365-supply-chain-management/pick-line-grouping.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 3 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 4 日|
+|[倉庫のスロッティング](dynamics365-supply-chain-management/warehouse-slotting.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 3 月に変更されました。 一般提供の日付が 2019 年 10 月から 2020 年 2 月に変更されました。  |2019 年 10 月 4 日|
+|[ウェーブの間の高度な積荷構築](dynamics365-supply-chain-management/advanced-load-building-during-wave.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 3 月に変更されました。 一般提供の日付が 2019 年 10 月から 2020 年 1 月に変更されました。  |2019 年 10 月 4 日|
+|[確認と移動](dynamics365-supply-chain-management/confirm-transfer.md) | パブリック プレビューの日付が 2019 年 9 月から 2019 年 3 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 4 日|
+|[遅延プット処理](dynamics365-supply-chain-management/deferred-put-processing.md) |   一般提供の日付が 2019 年 11 月から 2020 年 1 月に変更されました。  |2019 年 10 月 2 日|
+|[ウェーブ ラベル印刷の機能強化](dynamics365-supply-chain-management/wave-label-printing-enhancements.md) |   一般提供の日付が 2019 年 11 月から 2020 年 1 月に変更されました。  |2019 年 10 月 2 日|
+|[出荷の連結の機能強化](dynamics365-supply-chain-management/consolidate-shipment-enhancements.md) |   一般提供の日付が 2019 年 11 月から 2020 年 1 月に変更されました。  |2019 年 10 月 2 日|
+|[手持在庫サービス (プレビュー)](dynamics365-supply-chain-management/inventory-on-hand-service.md) | パブリック プレビューの日付が 2019 年 10 月から 2019 年 12 月に変更されました。 一般提供の日付が削除されました。  |2019 年 9 月 30 日|
+|[出荷の連結の機能強化](dynamics365-supply-chain-management/consolidate-shipment-enhancements.md) |   一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 9 月 29 日|
+|[ウェーブ ラベル印刷の機能強化](dynamics365-supply-chain-management/wave-label-printing-enhancements.md) |   一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 9 月 29 日|
+|[ピッキング作業作成ステップからの需要補充作業の分割](dynamics365-supply-chain-management/split-demand-replenishment-work-create-pick-work-step.md) |   一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 9 月 29 日|
+|[遅延プット処理](dynamics365-supply-chain-management/deferred-put-processing.md) |   一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 9 月 29 日|
+|[ウェーブ ラベル印刷の機能強化](dynamics365-supply-chain-management/wave-label-printing-enhancements.md) | パブリック プレビューの日付が 2019 年 4 月から 2019 年 9 月に変更されました。    |2019 年 9 月 17 日|
 |[材料取り扱い/倉庫自動化](dynamics365-supply-chain-management/material-handlingwarehouse-automation.md) | パブリック プレビューの日付が 2019 年 8 月から 2020 年 1 月に変更されました。 一般提供の日付が 2019 年 10 月から 2020 年 2 月に変更されました。  |2019 年 9 月 16 日|
-|[容積測定データの製品バリアントの取り込み](dynamics365-supply-chain-management/product-variant-uptake-volumetric-data.md) | パブリック プレビューの日付が 2020 年 2 月に更新されました。   |2019 年 8 月 30 日|
 |[倉庫プロセスの品質管理](dynamics365-supply-chain-management/quality-management-warehouse-processes.md) | パブリック プレビューの日付が 2019 年 10 月に更新されました。 一般提供の日付が 2020 年 2 月から 2019 年 11 月に変更されました。  |2019 年 8 月 30 日|
 |[梱包と保管の分析コード](dynamics365-supply-chain-management/packing-vs.-storage-dimensions.md) | パブリック プレビューの日付が 2019 年 7 月から 2019 年 11 月に変更されました。 一般提供の日付が 2019 年 10 月から 2020 年 1 月に変更されました。  |2019 年 8 月 30 日|
 |[入庫分類](dynamics365-supply-chain-management/receive-sortation.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 10 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 8 月 30 日|
@@ -289,65 +317,66 @@ ms.locfileid: "2896019"
 |[高度な輸送計画](dynamics365-supply-chain-management/advanced-transportation-planning.md) | パブリック プレビューの日付が 2019 年 10 月から 2019 年 11 月に変更されました。 一般提供の日付が 2019 年 11 月から 2020 年 1 月に変更されました。  |2019 年 8 月 30 日|
 |[小売店舗の梱包と出荷](dynamics365-supply-chain-management/retail-store-pack-ship.md) | パブリック プレビューの日付が 2019 年 7 月から 2020 年 2 月に変更されました。 一般提供の日付が 2020 年 2 月から 2020 年 3 月に変更されました。  |2019 年 8 月 30 日|
 |[配送業者割り当て/ルート指定ウェーブ ステップ](dynamics365-supply-chain-management/carrier-assignmentrouting-wave-step.md) | パブリック プレビューの日付が 2019 年 7 月から 2019 年 11 月に変更されました。 一般提供の日付が 2020 年 2 月から 2020 年 1 月に変更されました。  |2019 年 8 月 30 日|
-|[小型パッケージ配送 (SPS)](dynamics365-supply-chain-management/small-package-shipping-sps.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 11 月に変更されました。   |2019 年 8 月 30 日|
-|[ブラインド返品受取](dynamics365-supply-chain-management/blind-returns-receiving.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 11 月に変更されました。   |2019 年 8 月 30 日|
-|[出荷の自動更新](dynamics365-supply-chain-management/shipment-auto-update.md) | パブリック プレビュー日付を削除しました。   |2019 年 8 月 14 日|
-|[ウェーブ ステップ コード](dynamics365-supply-chain-management/wave-step-code.md) | パブリック プレビュー日付を削除しました。   |2019 年 8 月 14 日|
-|[倉庫プロセスの品質管理](dynamics365-supply-chain-management/quality-management-warehouse-processes.md) | パブリック プレビュー日付を削除しました。   |2019 年 8 月 14 日|
-|[容積測定データの製品バリアントの取り込み](dynamics365-supply-chain-management/product-variant-uptake-volumetric-data.md) | パブリック プレビュー日付を削除しました。   |2019 年 8 月 14 日|
-|[入庫品質チェック](dynamics365-supply-chain-management/inbound-quality-check.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 9 月に変更されました。   |2019 年 8 月 13 日|
-|[手持在庫サービス](dynamics365-supply-chain-management/inventory-on-hand-service.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 10 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 8 月 12 日|
-|[倉庫プロセスの品質管理](dynamics365-supply-chain-management/quality-management-warehouse-processes.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 9 月に変更されました。   |2019 年 8 月 1 日|
-|[出荷の自動更新](dynamics365-supply-chain-management/shipment-auto-update.md) | パブリック プレビューの日付が 2019 年 6 月から 2019 年 8 月に変更されました。   |2019 年 8 月 1 日|
-|[ウェーブ ステップ コード](dynamics365-supply-chain-management/wave-step-code.md) | パブリック プレビューの日付が 2019 年 6 月から 2019 年 8 月に変更されました。   |2019 年 8 月 1 日|
+|[小型パッケージ配送 (SPS)](dynamics365-supply-chain-management/small-package-shipping-sps.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 11 月に変更されました。    |2019 年 8 月 30 日|
+|[ブラインド返品受取](dynamics365-supply-chain-management/blind-returns-receiving.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 11 月に変更されました。    |2019 年 8 月 30 日|
+|[出荷の自動更新](dynamics365-supply-chain-management/shipment-auto-update.md) | パブリック プレビュー日付を削除しました。    |2019 年 8 月 14 日|
+|[ウェーブ ステップ コード](dynamics365-supply-chain-management/wave-step-code.md) | パブリック プレビュー日付を削除しました。    |2019 年 8 月 14 日|
+|[倉庫プロセスの品質管理](dynamics365-supply-chain-management/quality-management-warehouse-processes.md) | パブリック プレビュー日付を削除しました。    |2019 年 8 月 14 日|
+|[入庫品質チェック](dynamics365-supply-chain-management/inbound-quality-check.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 9 月に変更されました。    |2019 年 8 月 13 日|
+|[手持在庫サービス (プレビュー)](dynamics365-supply-chain-management/inventory-on-hand-service.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 10 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 8 月 12 日|
+|[倉庫プロセスの品質管理](dynamics365-supply-chain-management/quality-management-warehouse-processes.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 9 月に変更されました。    |2019 年 8 月 1 日|
+|[出荷の自動更新](dynamics365-supply-chain-management/shipment-auto-update.md) | パブリック プレビューの日付が 2019 年 6 月から 2019 年 8 月に変更されました。    |2019 年 8 月 1 日|
+|[ウェーブ ステップ コード](dynamics365-supply-chain-management/wave-step-code.md) | パブリック プレビューの日付が 2019 年 6 月から 2019 年 8 月に変更されました。    |2019 年 8 月 1 日|
 |[入庫品質チェック](dynamics365-supply-chain-management/inbound-quality-check.md) | パブリック プレビューの日付が 2019 年 6 月から 2019 年 8 月に変更されました。 一般提供の日付が 2020 年 2 月から 2019 年 10 月に変更されました。  |2019 年 7 月 24 日|
 |[高度な輸送計画](dynamics365-supply-chain-management/advanced-transportation-planning.md) | パブリック プレビューの日付が 2019 年 7 月から 2019 年 8 月に変更されました。 一般提供の日付が 2020 年 2 月から 2019 年 10 月に変更されました。  |2019 年 7 月 24 日|
-|[作業のキャンセル](dynamics365-supply-chain-management/cancel-work.md) | パブリック プレビューの日付が 2019 年 4 月から 2019 年 6 月に変更されました。   |2019 年 7 月 23 日|
-|[原産国の機能強化](dynamics365-supply-chain-management/country-origin-enhancements.md) |  一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 7 月 19 日|
-|[危険物出荷ドキュメント](dynamics365-supply-chain-management/hazardous-materials-shipping-documentation.md) |  一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 7 月 19 日|
-|[危険物製品情報の管理](dynamics365-supply-chain-management/hazardous-materials-product-information-management.md) |  一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 7 月 19 日|
-|[拡張注文保留による販売プロセス管理](dynamics365-supply-chain-management/sales-process-control-via-enhanced-order-holds.md) |  一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 7 月 19 日|
-|[販売の自己請求請求書管理](dynamics365-supply-chain-management/self-billing-invoice-control-sales.md) |  一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 7 月 19 日|
-|[調達の自己請求請求書管理](dynamics365-supply-chain-management/self-billing-invoice-control-procurement.md) |  一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 7 月 19 日|
-|[cXML による発注書の配信](dynamics365-supply-chain-management/purchase-order-delivery-via-cxml.md) |  一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 7 月 19 日|
-|[外部カタログの機能強化](dynamics365-supply-chain-management/external-catalog-enhancements.md) |  一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 7 月 19 日|
-|[クロスドッキング用の自動リリース出荷](dynamics365-supply-chain-management/auto-release-shipment-cross-dock.md) | パブリック プレビューの日付が 2019 年 7 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[場所と製品分析コードの混合](dynamics365-supply-chain-management/location-product-dimension-mixing.md) | パブリック プレビューの日付が 2019 年 7 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[作業での作業プールの変更](dynamics365-supply-chain-management/change-work-pool-work.md) | パブリック プレビューの日付が 2019 年 6 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[ウェーブ テンプレートによるグループ化](dynamics365-supply-chain-management/wave-template-grouping.md) | パブリック プレビューの日付が 2019 年 5 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[入庫分類](dynamics365-supply-chain-management/receive-sortation.md) | パブリック プレビューの日付が 2019 年 7 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[計画的クロスドッキング](dynamics365-supply-chain-management/planned-cross-docking.md) | パブリック プレビューの日付が 2019 年 7 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[材料取り扱い/倉庫自動化](dynamics365-supply-chain-management/material-handlingwarehouse-automation.md) | パブリック プレビューの日付が 2019 年 7 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[壁へのプット/ストアへのプット](dynamics365-supply-chain-management/put-wallput-store.md) | パブリック プレビューの日付が 2019 年 6 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[プット アウェイ クラスター](dynamics365-supply-chain-management/put-away-clusters.md) | パブリック プレビューの日付が 2019 年 7 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[倉庫リリース ルール](dynamics365-supply-chain-management/warehouse-release-rule.md) | パブリック プレビューの日付が 2019 年 4 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[ゾーンしきい値の補充](dynamics365-supply-chain-management/zone-threshold-replenishment.md) | パブリック プレビューの日付が 2019 年 4 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[出庫の並べ替え](dynamics365-supply-chain-management/outbound-sorting.md) | パブリック プレビューの日付が 2019 年 6 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[場所のディレクティブ在庫ピッキング エイジング](dynamics365-supply-chain-management/location-directive-inventory-picking-aging.md) | パブリック プレビューの日付が 2019 年 4 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[場所ステータス](dynamics365-supply-chain-management/location-status.md) | パブリック プレビューの日付が 2019 年 3 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[作業を分割する](dynamics365-supply-chain-management/split-work.md) | パブリック プレビューの日付が 2019 年 5 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[クラスター位置フル](dynamics365-supply-chain-management/cluster-position-full.md) | パブリック プレビューの日付が 2019 年 4 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[ピッキング明細行のグループ化](dynamics365-supply-chain-management/pick-line-grouping.md) | パブリック プレビューの日付が 2019 年 3 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[追加の場所ゾーン](dynamics365-supply-chain-management/additional-location-zone.md) | パブリック プレビューの日付が 2019 年 3 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[システム主導のクラスター ピッキング](dynamics365-supply-chain-management/system-directed-cluster-picking.md) | パブリック プレビューの日付が 2019 年 6 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[確認と移動](dynamics365-supply-chain-management/confirm-transfer.md) | パブリック プレビューの日付が 2019 年 2 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[ウェーブの間の高度な積荷構築](dynamics365-supply-chain-management/advanced-load-building-during-wave.md) | パブリック プレビューの日付が 2019 年 2 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[倉庫のスロッティング](dynamics365-supply-chain-management/warehouse-slotting.md) | パブリック プレビューの日付が 2019 年 3 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[ウェーブ ステータスのビジュアル化](dynamics365-supply-chain-management/wave-status-visualization.md) | パブリック プレビューの日付が 2019 年 3 月から 2019 年 8 月に変更されました。   |2019 年 7 月 19 日|
-|[RFQ 活動](dynamics365-supply-chain-management/rfq-activities.md) |  一般提供の日付が 2019 年 10 月から 2020 年 2 月に変更されました。  |2019 年 7 月 10 日|
-|[仕入先の入札 - 仕入先からの質問および要約された回答](dynamics365-supply-chain-management/vendor-bidding—questions-vendors-summarized-responses.md) |  一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 7 月 10 日|
-|[購買契約書の機能強化](dynamics365-supply-chain-management/purchase-agreement-enhancements.md) |  一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 7 月 10 日|
-|[リード タイムと稼働日に基づいて発注書の配送日を計算する (公的機関)](dynamics365-supply-chain-management/calculate-po-delivery-date-based-lead-times-working-days-public-sector.md) |  一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 7 月 10 日|
-|[CW 統合の強化 10.0.3](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.3.md) |  一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 6 月 14 日|
-|[CW 統合の強化 10.0.2](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.2.md) |  一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 6 月 14 日|
-|[CW 統合の強化 10.0.1](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.1.md) |  一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 6 月 14 日|
-|[CW 統合の強化 10.0.4](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.4.md) |  一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 6 月 14 日|
-|[手持在庫サービス](dynamics365-supply-chain-management/inventory-on-hand-service.md) | パブリック プレビューの日付が 2019 年 9 月から 2019 年 8 月に変更されました。   |2019 年 6 月 10 日|
+|[作業のキャンセル](dynamics365-supply-chain-management/cancel-work.md) | パブリック プレビューの日付が 2019 年 4 月から 2019 年 6 月に変更されました。    |2019 年 7 月 23 日|
+|[販売の自己請求請求書管理](dynamics365-supply-chain-management/self-billing-invoice-control-sales.md) |   一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 7 月 19 日|
+|[調達の自己請求請求書管理](dynamics365-supply-chain-management/self-billing-invoice-control-procurement.md) |   一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 7 月 19 日|
+|[クロスドッキング用の自動リリース出荷](dynamics365-supply-chain-management/auto-release-shipment-cross-dock.md) | パブリック プレビューの日付が 2019 年 7 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[場所と製品分析コードの混合](dynamics365-supply-chain-management/location-product-dimension-mixing.md) | パブリック プレビューの日付が 2019 年 7 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[作業での作業プールの変更](dynamics365-supply-chain-management/change-work-pool-work.md) | パブリック プレビューの日付が 2019 年 6 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[ウェーブ テンプレートによるグループ化](dynamics365-supply-chain-management/wave-template-grouping.md) | パブリック プレビューの日付が 2019 年 5 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[入庫分類](dynamics365-supply-chain-management/receive-sortation.md) | パブリック プレビューの日付が 2019 年 7 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[クロスドッキング](dynamics365-supply-chain-management/planned-cross-docking.md) | パブリック プレビューの日付が 2019 年 7 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[材料取り扱い/倉庫自動化](dynamics365-supply-chain-management/material-handlingwarehouse-automation.md) | パブリック プレビューの日付が 2019 年 7 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[壁へのプット/ストアへのプット](dynamics365-supply-chain-management/put-wallput-store.md) | パブリック プレビューの日付が 2019 年 6 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[プット アウェイ クラスター](dynamics365-supply-chain-management/put-away-clusters.md) | パブリック プレビューの日付が 2019 年 7 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[倉庫リリース ルール](dynamics365-supply-chain-management/warehouse-release-rule.md) | パブリック プレビューの日付が 2019 年 4 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[ゾーンしきい値の補充](dynamics365-supply-chain-management/zone-threshold-replenishment.md) | パブリック プレビューの日付が 2019 年 4 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[出庫の並べ替え](dynamics365-supply-chain-management/outbound-sorting.md) | パブリック プレビューの日付が 2019 年 6 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[場所のディレクティブ在庫ピッキング エイジング](dynamics365-supply-chain-management/location-directive-inventory-picking-aging.md) | パブリック プレビューの日付が 2019 年 4 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[場所ステータス](dynamics365-supply-chain-management/location-status.md) | パブリック プレビューの日付が 2019 年 3 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[作業を分割する](dynamics365-supply-chain-management/split-work.md) | パブリック プレビューの日付が 2019 年 5 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[クラスター位置フル](dynamics365-supply-chain-management/cluster-position-full.md) | パブリック プレビューの日付が 2019 年 4 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[ピッキング明細行のグループ化](dynamics365-supply-chain-management/pick-line-grouping.md) | パブリック プレビューの日付が 2019 年 3 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[追加の場所ゾーン](dynamics365-supply-chain-management/additional-location-zone.md) | パブリック プレビューの日付が 2019 年 3 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[システム主導のクラスター ピッキング](dynamics365-supply-chain-management/system-directed-cluster-picking.md) | パブリック プレビューの日付が 2019 年 6 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[確認と移動](dynamics365-supply-chain-management/confirm-transfer.md) | パブリック プレビューの日付が 2019 年 2 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[ウェーブの間の高度な積荷構築](dynamics365-supply-chain-management/advanced-load-building-during-wave.md) | パブリック プレビューの日付が 2019 年 2 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[倉庫のスロッティング](dynamics365-supply-chain-management/warehouse-slotting.md) | パブリック プレビューの日付が 2019 年 3 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[ウェーブ ステータスのビジュアル化](dynamics365-supply-chain-management/wave-status-visualization.md) | パブリック プレビューの日付が 2019 年 3 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
+|[仕入先の入札 - 仕入先からの質問および要約された回答](dynamics365-supply-chain-management/vendor-bidding—questions-vendors-summarized-responses.md) |   一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 7 月 10 日|
+|[購買契約書の機能強化](dynamics365-supply-chain-management/purchase-agreement-enhancements.md) |   一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 7 月 10 日|
+|[CW 統合の強化 10.0.3](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.3.md) |   一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 6 月 14 日|
+|[CW 統合の強化 10.0.2](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.2.md) |   一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 6 月 14 日|
+|[CW 統合の強化 10.0.1](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.1.md) |   一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 6 月 14 日|
+|[CW 統合の強化 10.0.4](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.4.md) |   一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 6 月 14 日|
+|[手持在庫サービス (プレビュー)](dynamics365-supply-chain-management/inventory-on-hand-service.md) | パブリック プレビューの日付が 2019 年 9 月から 2019 年 8 月に変更されました。    |2019 年 6 月 10 日|
  
 ### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
 | 機能 | 理由  |  削除日|
 |----------|----------|---------------|
-| システム主導のクラスター ピッキング (重複) | 優先順位が下げられ、配信されません。 |2019 年 10 月 03 日 |
+| リード タイムと稼働日に基づいて発注書の配送日を計算する (公的機関) | 次のリリース ウェーブに移動されました。 |2019 年 12 月 14 日 |
+| 拡張注文保留による販売プロセス管理 | 次のリリース ウェーブに移動されました。 |2019 年 12 月 13 日 |
+| cXML による発注書の配信 | 次のリリース ウェーブに移動されました。 |2019 年 12 月 13 日 |
+| 危険物出荷ドキュメント | 次のリリース ウェーブに移動されました。 |2019 年 12 月 13 日 |
+| 危険物製品情報の管理 | 次のリリース ウェーブに移動されました。 |2019 年 12 月 13 日 |
+| 外部カタログの機能強化 | 次のリリース ウェーブに移動されました。 |2019 年 12 月 13 日 |
+| 原産国の機能強化 | 次のリリース ウェーブに移動されました。 |2019 年 12 月 13 日 |
+| RFQ 活動 | 優先順位が下げられ、配信されません。 |2019 年 12 月 13 日 |
+| 容積測定データの製品バリアントの取り込み | 次のリリース ウェーブに移動されました。 |2019 年 12 月 13 日 |
+| 倉庫プロセスの品質管理 - 品目サンプリング | この機能は、[倉庫プロセスの品質管理](dynamics365-supply-chain-management/quality-management-warehouse-processes.md) 機能と統合されました。 |2019 年 12 月 13 日 |
+| システム主導のクラスター ピッキング (重複) | 優先順位が下げられ、配信されません。 |2019 年 10 月 3 日 |
 | 資材所要量計画 (MRP) の計画最適化サポート | 次のリリース ウェーブに移動されました。 |2019 年 9 月 30 日 |
 | 生産スケジュールの計画最適化サポート | 次のリリース ウェーブに移動されました。 |2019 年 9 月 30 日 |
 | ドック管理計画 | 優先順位が下げられ、配信されません。 |2019 年 7 月 24 日 |
@@ -360,8 +389,17 @@ ms.locfileid: "2896019"
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
-|[包括的なプロジェクト運用](dynamics365-project-service-automation/comprehensive-project-operations.md) |  一般提供の日付が 2020 年 1 月から 2020 年 2 月に変更されました。  |2019 年 6 月 17 日|
+|[Dynamics 365 Project Service Automation から連携性の強化へのアップグレード](dynamics365-project-service-automation/upgrade-dynamics-365-psa-better-together.md) |   一般提供の日付が削除されました。  |2020 年 1 月 6 日|
+|[包括的なプロジェクト運用](dynamics365-project-service-automation/comprehensive-project-operations.md) |   一般提供の日付が削除されました。  |2020 年 1 月 6 日|
+|[プロジェクト ベースの組織向けに Dynamics 365 と Office のオファリングを結合する](dynamics365-project-service-automation/joint-dynamics-office-offering-project-based-organizations.md) |   一般提供の日付が削除されました。  |2020 年 1 月 6 日|
+|[包括的なプロジェクト運用](dynamics365-project-service-automation/comprehensive-project-operations.md) |   一般提供の日付が 2020 年 1 月から 2020 年 2 月に変更されました。  |2019 年 6 月 17 日|
  
+### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
+| 機能 | 理由  |  削除日|
+|----------|----------|---------------|
+| 包括的なプロジェクト運用 | 次のリリース ウェーブに移動されました。 |2020 年 1 月 6 日 |
+| プロジェクト ベースの組織向けに Dynamics 365 と Office のオファリングを結合する | 次のリリース ウェーブに移動されました。 |2020 年 1 月 6 日 |
+| Dynamics 365 Project Service Automation から連携性の強化へのアップグレード | 次のリリース ウェーブに移動されました。 |2020 年 1 月 6 日 |
 
 
 ## <a name="dynamics-365-guides"></a>Dynamics 365 Guides
@@ -370,11 +408,18 @@ ms.locfileid: "2896019"
 ### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
 | 機能 |  追加日 |
 |---------|---------------|
+|[PC アプリ ギャラリーへの複数のファイルのドラッグ アンド ドロップ](mixed-reality/dynamics365-guides/drag-drop-multiple-files-into-pc-app-gallery.md) |  2019 年 12 月 16 日| 
+|[PC アプリの [ヘルプ] メニューの追加リソース](mixed-reality/dynamics365-guides/additional-resources-help-menu-pc-app.md) |  2019 年 12 月 16 日| 
+|[HoloLens アプリから Web サイトを開く](mixed-reality/dynamics365-guides/open-website-hololens-app.md) |  2019 年 12 月 16 日| 
+|[オペレーターと作成者のロールをユーザーに割り当てる](mixed-reality/dynamics365-guides/assign-operator-author-roles-users.md) |  2019 年 12 月 16 日| 
+|[HoloLens 2 における作成者向けの直感的な対話](mixed-reality/dynamics365-guides/instinctual-interactions-authors-hololens-2.md) |  2019 年 12 月 16 日| 
+|[PC アプリの [ヘルプ] メニューの追加リソース](mixed-reality/dynamics365-guides/additional-resources-help-menu-pc-app.md) |  2019 年 11 月 21 日| 
+|[HoloLens 2 における作成者向けの直感的な対話](mixed-reality/dynamics365-guides/instinctual-interactions-authors-hololens-2.md) |  2019 年 11 月 21 日| 
 |[フォロー モード](mixed-reality/dynamics365-guides/follow-mode.md) |  2019 年 10 月 25 日| 
 |[ノードベースのアニメーションのサポート](mixed-reality/dynamics365-guides/support-node-based-animations.md) |  2019 年 10 月 25 日| 
 |[3D モデルの STL および PLY ファイル形式のサポート](mixed-reality/dynamics365-guides/support-stl-ply-file-formats-3d-models.md) |  2019 年 10 月 25 日| 
 |[アニメーションをオン/オフにする](mixed-reality/dynamics365-guides/turn-animations-or-off.md) |  2019 年 10 月 25 日| 
- 
+
  
 ### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
 | 機能 | 理由  |  削除日|
@@ -393,8 +438,8 @@ ms.locfileid: "2896019"
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
-|[HoloLens 2 の初期状態のアニメーション化されたエクスペリエンス](mixed-reality/dynamics365-layout/animated-out-of-the-box-experience-hololens-2.md) | パブリック プレビューの日付が 2019 年 11 月から 2019 年 10 月に変更されました。   |2019 年 11 月 11 日|
-|[HoloLens 2 の初期状態のアニメーション化されたエクスペリエンス](mixed-reality/dynamics365-layout/animated-out-of-the-box-experience-hololens-2.md) | パブリック プレビューの日付が 2019 年 10 月から 2019 年 11 月に変更されました。   |2019 年 11 月 11 日|
+|[HoloLens 2 の初期状態のアニメーション化されたエクスペリエンス](mixed-reality/dynamics365-layout/animated-out-of-the-box-experience-hololens-2.md) | パブリック プレビューの日付が 2019 年 11 月から 2019 年 10 月に変更されました。    |2019 年 11 月 11 日|
+|[HoloLens 2 の初期状態のアニメーション化されたエクスペリエンス](mixed-reality/dynamics365-layout/animated-out-of-the-box-experience-hololens-2.md) | パブリック プレビューの日付が 2019 年 10 月から 2019 年 11 月に変更されました。    |2019 年 11 月 11 日|
  
 
 
@@ -404,19 +449,23 @@ ms.locfileid: "2896019"
 ### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
 | 機能 |  追加日 |
 |---------|---------------|
+|[仕訳帳の遅延税計算の有効化](finance-operations-crossapp-capabilities/enable-delayed-tax-calculation-journals.md) |  2019 年 12 月 16 日| 
+|[現金持高の照会](finance-operations-crossapp-capabilities/cash-position-inquiry.md) |  2019 年 12 月 9 日| 
+|[予測職位の配布](finance-operations-crossapp-capabilities/forecast-position-distribution.md) |  2019 年 12 月 9 日| 
 |[Finance and Operations AOS (カーネル) の改善](finance-operations-crossapp-capabilities/finance-operations-aos-kernel-improvements.md) |  2019 年 11 月 19 日| 
 |[データ管理エクスポート ファイルのサイズ制限の削除](finance-operations-crossapp-capabilities/data-management-export-file-size-limit-removed.md) |  2019 年 11 月 12 日| 
+|[購買カード](finance-operations-crossapp-capabilities/purchasing-cards.md) |  2019 年 10 月 29 日| 
 |[skipAutoOrderBy API の追加](finance-operations-crossapp-capabilities/add-skipautoorderby-api.md) |  2019 年 10 月 16 日| 
 |[サード パーティのアプリを埋め込む](finance-operations-crossapp-capabilities/embed-third-party-apps.md) |  2019 年 10 月 15 日| 
-|[予測職位レポート](finance-operations-crossapp-capabilities/forecast-position-reports.md) |  2019 年 10 月 08 日| 
+|[予測職位レポート](finance-operations-crossapp-capabilities/forecast-position-reports.md) |  2019 年 10 月 8 日| 
 |[プロジェクト契約資金調達限度の確定済み金額の詳細](finance-operations-crossapp-capabilities/project-contact-funding-limit-committed-amount-detail.md) |  2019 年 9 月 26 日| 
-|[予測職位レポート](finance-operations-crossapp-capabilities/forecast-position-reports.md) |  2019 年 9 月 7 日| 
+|[詳細な元帳エントリを使用してトランザクションを転記するときに銀行残高を更新する](finance-operations-crossapp-capabilities/update-bank-balances-when-posting-transactions-using-advanced-ledger-entry.md) |  2019 年 9 月 9 日| 
+|[予測職位と職位の職務明細書の更新](finance-operations-crossapp-capabilities/job-description-update-forecast-position-position.md) |  2019 年 9 月 7 日| 
 |[現金管理](finance-operations-crossapp-capabilities/cash-control.md) |  2019 年 9 月 7 日| 
 |[Azure DevOps でホストされるビルド自動化](finance-operations-crossapp-capabilities/build-automation-hosted-azure-devops.md) |  2019 年 8 月 29 日| 
 |[Azure Monitor にオンボードする](finance-operations-crossapp-capabilities/onboard-azure-monitor.md) |  2019 年 8 月 29 日| 
 |[Lifecycle Services を介してアドインを構成する](finance-operations-crossapp-capabilities/configure-add-ins-through-lifecycle-services.md) |  2019 年 8 月 29 日| 
 |[Lifecycle Services のデータベース移動 RESTful API](finance-operations-crossapp-capabilities/database-movement-restful-apis-lifecycle-services.md) |  2019 年 8 月 28 日| 
-|[Common Data Service のデータ - フェーズ 2](finance-operations-crossapp-capabilities/data-common-data-service-–-phase-2.md) |  2019 年 7 月 19 日| 
 |[添付ファイルの回復](finance-operations-crossapp-capabilities/attachment-recovery.md) |  2019 年 7 月 19 日| 
 |[拡張グラフ コントロール オプションに Solid Gauge のビジュアル化が含まれる](finance-operations-crossapp-capabilities/extended-chart-control-options-now-include-solid-gauge-visualizations.md) |  2019 年 7 月 15 日| 
 |[Fluent Design 言語に合わせるための Web クライアントの表示の更新](finance-operations-crossapp-capabilities/visual-refresh-web-client-align-fluent-design-language.md) |  2019 年 6 月 10 日| 
@@ -426,30 +475,44 @@ ms.locfileid: "2896019"
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
-|[Common Data Service のデータ - フェーズ 1](finance-operations-crossapp-capabilities/data-common-data-service-phase-1.md) |  一般提供の日付が 2020 年 1 月から**近日発表**に変更されました。  |2019 年 12 月 2 日|
+|[ユーザーの生産性 - 個人用設定の機能強化](finance-operations-crossapp-capabilities/user-productivity-personalization-enhancements.md) |   一般提供の日付が 2020 年 1 月から 2019 年 11 月に変更されました。  |2020 年 1 月 6 日|
+|[プロジェクトからプロジェクト グループの依存関係を削除する](finance-operations-crossapp-capabilities/remove-project-group-dependency-project.md) |   一般提供の日付が削除されました。  |2020 年 1 月 6 日|
+|[プロジェクトからプロジェクト タイプの依存関係を削除する](finance-operations-crossapp-capabilities/remove-project-type-dependency-project.md) |   一般提供の日付が削除されました。  |2020 年 1 月 6 日|
+|[ヨーロッパへの Regulatory Configuration Service の適用範囲地域の拡大](finance-operations-crossapp-capabilities/expanded-regional-coverage-regulatory-configuration-service-europe.md) |   一般提供の日付が 2019 年 12 月から 2020 年 3 月に変更されました。  |2019 年 12 月 19 日|
+|[ユーザーの生産性 - フィルター処理の機能強化](finance-operations-crossapp-capabilities/user-productivity-filtering-enhancements.md) | パブリック プレビューの日付が 2019 年 12 月に更新されました。 一般提供の日付が 2019 年 12 月から 2020 年 1 月に変更されました。  |2019 年 12 月 16 日|
+|[Lifecycle Services を介してアドインを構成する](finance-operations-crossapp-capabilities/configure-add-ins-through-lifecycle-services.md) | パブリック プレビューの日付が 2019 年 12 月に更新されました。 一般提供の日付が 2020 年 2 月から**近日発表**に変更されました。  |2019 年 12 月 16 日|
+|[Azure Monitor にオンボードする](finance-operations-crossapp-capabilities/onboard-azure-monitor.md) | パブリック プレビューの日付が 2020 年 3 月から 2020 年 3 月に変更されました。    |2019 年 12 月 16 日|
+|[ユーザーの生産性 - 保存されているビュー - フェーズ 1](finance-operations-crossapp-capabilities/user-productivity-saved-views.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 10 月に変更されました。 一般提供の日付が削除されました。  |2019 年 12 月 13 日|
+|[ユーザーの生産性 - 新しいグリッド コントロール - フェーズ 2](finance-operations-crossapp-capabilities/user-productivity-new-grid.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 10 月に変更されました。 一般提供の日付が削除されました。  |2019 年 12 月 13 日|
+|[サード パーティのアプリを埋め込む](finance-operations-crossapp-capabilities/embed-third-party-apps.md) | パブリック プレビューの日付が 2020 年 1 月から 2020 年 2 月に変更されました。    |2019 年 12 月 13 日|
+|[Finance and Operations AOS (カーネル) の改善](finance-operations-crossapp-capabilities/finance-operations-aos-kernel-improvements.md) | パブリック プレビューの日付が 2019 年 11 月から 2019 年 12 月に変更されました。    |2019 年 12 月 9 日|
+|[Common Data Service のデータ - フェーズ 1](finance-operations-crossapp-capabilities/data-common-data-service-phase-1.md) |   一般提供の日付が 2020 年 1 月から 2020 年 3 月に変更されました。  |2019 年 12 月 2 日|
 |[モバイル デバイスでのエクスペリエンスの向上 – フェーズ 1](finance-operations-crossapp-capabilities/improved-experience-mobile-devices-phase-1.md) | パブリック プレビューの日付が 2019 年 11 月から 2019 年 12 月に変更されました。 一般提供の日付が 2020 年 1 月から 2020 年 2 月に変更されました。  |2019 年 12 月 2 日|
-|[バッチ ジョブの優先順位ベースのスケジューリング](finance-operations-crossapp-capabilities/priority-based-scheduling-batch-jobs.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 2 月に変更されました。   |2019 年 11 月 25 日|
-|[ユーザーの生産性 - フィルター処理の機能強化](finance-operations-crossapp-capabilities/user-productivity-filtering-enhancements.md) |  一般提供の日付が 2020 年 1 月から 2019 年 12 月に変更されました。  |2019 年 11 月 15 日|
-|[ヨーロッパへの Regulatory Configuration Service の適用範囲地域の拡大](finance-operations-crossapp-capabilities/expanded-regional-coverage-regulatory-configuration-service-europe.md) | パブリック プレビュー日付を削除しました。   |2019 年 10 月 17 日|
-|[Common Data Service のデータ - フェーズ 2](finance-operations-crossapp-capabilities/data-common-data-service-–-phase-2.md) |  一般提供の日付が 2020 年 1 月から**近日発表**に変更されました。  |2019 年 10 月 16 日|
-|[Common Data Service のデータ - フェーズ 1](finance-operations-crossapp-capabilities/data-common-data-service-phase-1.md) |  一般提供の日付が 2019 年 10 月から 2020 年 1 月に変更されました。  |2019 年 10 月 16 日|
-|[Azure Monitor にオンボードする](finance-operations-crossapp-capabilities/onboard-azure-monitor.md) | パブリック プレビューの日付が 2019 年 10 月から 2020 年 2 月に変更されました。 一般提供の日付が 2020 年 2 月から**近日発表**に変更されました。  |2019 年 10 月 04 日|
-|[モバイル デバイスでのエクスペリエンスの向上 - フェーズ 1](finance-operations-crossapp-capabilities/improved-experience-mobile-devices-phase-1.md) | パブリック プレビューの日付が 2020 年 1 月から 2019 年 11 月に変更されました。 一般提供の日付が**近日発表**から 2020 年 1 月に変更されました。  |2019 年 8 月 26 日|
-|[インド向け税金拡張機能の構成の簡素化](finance-operations-crossapp-capabilities/simplifying-configuration-tax-extensions-india.md) |  一般提供の日付が 2019 年 11 月から 2020 年 1 月に変更されました。  |2019 年 8 月 22 日|
-|[バッチ ジョブの優先順位ベースのスケジューリング](finance-operations-crossapp-capabilities/priority-based-scheduling-batch-jobs.md) |  一般提供の日付が 2020 年 1 月から**近日発表**に変更されました。  |2019 年 8 月 21 日|
-|[インド向け税金拡張機能の構成の簡素化](finance-operations-crossapp-capabilities/simplifying-configuration-tax-extensions-india.md) |  一般提供の日付が 2020 年 1 月から 2019 年 11 月に変更されました。  |2019 年 8 月 15 日|
-|[ユーザーの生産性 - 新しいグリッド](finance-operations-crossapp-capabilities/user-productivity-new-grid.md) | パブリック プレビューの日付が 2019 年 10 月から 2019 年 8 月に変更されました。 一般提供の日付が**近日発表**に更新されました。  |2019 年 8 月 12 日|
-|[ユーザーの生産性 - 保存されているビュー](finance-operations-crossapp-capabilities/user-productivity-saved-views.md) | パブリック プレビューの日付が 2019 年 10 月から 2019 年 8 月に変更されました。 一般提供の日付が**近日発表**に更新されました。  |2019 年 8 月 12 日|
+|[バッチ ジョブの優先順位ベースのスケジューリング](finance-operations-crossapp-capabilities/priority-based-scheduling-batch-jobs.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 2 月に変更されました。    |2019 年 11 月 25 日|
+|[ユーザーの生産性 - フィルター処理の機能強化](finance-operations-crossapp-capabilities/user-productivity-filtering-enhancements.md) |   一般提供の日付が 2020 年 1 月から 2019 年 12 月に変更されました。  |2019 年 11 月 15 日|
+|[ヨーロッパへの Regulatory Configuration Service の適用範囲地域の拡大](finance-operations-crossapp-capabilities/expanded-regional-coverage-regulatory-configuration-service-europe.md) | パブリック プレビュー日付を削除しました。    |2019 年 10 月 17 日|
+|[Common Data Service のデータ - フェーズ 1](finance-operations-crossapp-capabilities/data-common-data-service-phase-1.md) |   一般提供の日付が 2019 年 10 月から 2020 年 1 月に変更されました。  |2019 年 10 月 16 日|
+|[Azure Monitor にオンボードする](finance-operations-crossapp-capabilities/onboard-azure-monitor.md) | パブリック プレビューの日付が 2019 年 10 月から 2020 年 2 月に変更されました。 一般提供の日付が 2020 年 2 月から**近日発表**に変更されました。  |2019 年 10 月 4 日|
+|[モバイル デバイスでのエクスペリエンスの向上 – フェーズ 1](finance-operations-crossapp-capabilities/improved-experience-mobile-devices-phase-1.md) | パブリック プレビューの日付が 2020 年 1 月から 2019 年 11 月に変更されました。 一般提供の日付が**近日発表**から 2020 年 1 月に変更されました。  |2019 年 8 月 26 日|
+|[インド向け税金拡張機能の構成の簡素化](finance-operations-crossapp-capabilities/simplifying-configuration-tax-extensions-india.md) |   一般提供の日付が 2019 年 11 月から 2020 年 1 月に変更されました。  |2019 年 8 月 22 日|
+|[バッチ ジョブの優先順位ベースのスケジューリング](finance-operations-crossapp-capabilities/priority-based-scheduling-batch-jobs.md) |   一般提供の日付が 2020 年 1 月から**近日発表**に変更されました。  |2019 年 8 月 21 日|
+|[インド向け税金拡張機能の構成の簡素化](finance-operations-crossapp-capabilities/simplifying-configuration-tax-extensions-india.md) |   一般提供の日付が 2020 年 1 月から 2019 年 11 月に変更されました。  |2019 年 8 月 15 日|
+|[ユーザーの生産性 - 新しいグリッド コントロール - フェーズ 2](finance-operations-crossapp-capabilities/user-productivity-new-grid.md) | パブリック プレビューの日付が 2019 年 10 月から 2019 年 8 月に変更されました。 一般提供の日付が 2020 年 3 月に更新されました。  |2019 年 8 月 12 日|
+|[ユーザーの生産性 - 保存されているビュー - フェーズ 1](finance-operations-crossapp-capabilities/user-productivity-saved-views.md) | パブリック プレビューの日付が 2019 年 10 月から 2019 年 8 月に変更されました。 一般提供の日付が 2020 年 3 月に更新されました。  |2019 年 8 月 12 日|
 |[ヨーロッパへの Regulatory Configuration Service の適用範囲地域の拡大](finance-operations-crossapp-capabilities/expanded-regional-coverage-regulatory-configuration-service-europe.md) | パブリック プレビューの日付が 2019 年 6 月から 2019 年 9 月に変更されました。 一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 7 月 24 日|
 |[Common Data Service のデータ - フェーズ 1](finance-operations-crossapp-capabilities/data-common-data-service-phase-1.md) | パブリック プレビューの日付が 2019 年 6 月から 2019 年 7 月に変更されました。 一般提供の日付が**近日発表**から 2019 年 10 月に変更されました。  |2019 年 7 月 19 日|
-|[フランスへの地理的拡大](finance-operations-crossapp-capabilities/geo-expansion-france.md) | パブリック プレビュー日付を削除しました。   |2019 年 7 月 19 日|
+|[フランスへの地理的拡大](finance-operations-crossapp-capabilities/geo-expansion-france.md) | パブリック プレビュー日付を削除しました。    |2019 年 7 月 19 日|
 |[バッチ ジョブの優先順位ベースのスケジューリング](finance-operations-crossapp-capabilities/priority-based-scheduling-batch-jobs.md) | パブリック プレビューの日付が 2019 年 9 月から 2019 年 11 月に変更されました。 一般提供の日付が 2019 年 10 月から 2020 年 1 月に変更されました。  |2019 年 7 月 19 日|
-|[Word や Excel で構成可能なビジネス ドキュメント レポート](finance-operations-crossapp-capabilities/configurable-business-documents-reporting-word-excel.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 7 月 18 日|
-|[Fluent Design 言語に合わせるための Web クライアントの表示の更新](finance-operations-crossapp-capabilities/visual-refresh-web-client-align-fluent-design-language.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 7 月 16 日|
+|[Word や Excel で構成可能なビジネス ドキュメント レポート](finance-operations-crossapp-capabilities/configurable-business-documents-reporting-word-excel.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 7 月 18 日|
+|[Fluent Design 言語に合わせるための Web クライアントの表示の更新](finance-operations-crossapp-capabilities/visual-refresh-web-client-align-fluent-design-language.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 7 月 16 日|
  
 ### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
 | 機能 | 理由  |  削除日|
 |----------|----------|---------------|
+| ヨーロッパへの Regulatory Configuration Service の適用範囲地域の拡大 | 次のリリース ウェーブに移動されました。 | 2010 年 1 月 10 日 |
+| プロジェクトからプロジェクト グループの依存関係を削除する | 次のリリース ウェーブに移動されました。 |2020 年 1 月 6 日 |
+| プロジェクトからプロジェクト タイプの依存関係を削除する | 次のリリース ウェーブに移動されました。 |2020 年 1 月 6 日 |
+| Common Data Service のデータ – フェーズ 2 | 次のリリース ウェーブに移動されました。 |2019 年 12 月 10 日 |
 | クロスプロジェクト管理 - ライセンスの割り当て | 将来のリリース ウェーブに移動されました。  |2019 年 11 月 22 日 |
 | インストール可能コンポーネントとしての開発者ツール | 次のリリース ウェーブに移動されました。 |2019 年 10 月 17 日 |
 | 中国への Regulatory Configuration Service の適用範囲地域の拡大 | 優先順位が下げられ、配信されません。 |2019 年 9 月 25 日 |
@@ -467,7 +530,7 @@ ms.locfileid: "2896019"
 |[合理化された従業員データ入力](dynamics365-human-resources/streamlined-employee-data-entry.md) |  2019 年 11 月 21 日| 
 |[業績評価の印刷](dynamics365-human-resources/print-performance-reviews.md) |  2019 年 11 月 21 日| 
 |[Common Data Service でデータ エンティティを展開する](dynamics365-human-resources/expand-data-entities-common-data-service.md) |  2019 年 11 月 21 日| 
-|[環境のコピー](dynamics365-human-resources/environment-copy.md) |  2019 年 11 月 21 日| 
+|[より幅広い環境管理](dynamics365-human-resources/environment-copy.md) |  2019 年 11 月 21 日| 
 |[サード パーティのアプリを埋め込む](dynamics365-human-resources/embed-third-party-apps.md) |  2019 年 11 月 21 日| 
  
 ### <a name="release-date-changed"></a>リリース日の変更
@@ -484,7 +547,6 @@ ms.locfileid: "2896019"
 | 機能 |  追加日 |
 |---------|---------------|
 |[チャネルごとの Azure Active Directory 企業と顧客間テナント](dynamics365-commerce/azure-active-directory-business-customer-tenant-per-channel.md) |  2019 年 11 月 22 日| 
-|[チャネルごとの Azure Active Directory 企業と顧客間テナント](dynamics365-commerce/azure-active-directory-business-customer-tenant-per-channel.md) |  2019 年 11 月 22 日| 
 |[レコメンデーション](dynamics365-commerce/recommendations.md) |  2019 年 9 月 16 日| 
 |[ストア スターター キット](dynamics365-commerce/store-starter-kit.md) |  2019 年 9 月 16 日| 
 |[拡張性](dynamics365-commerce/extensibility.md) |  2019 年 9 月 16 日| 
@@ -497,13 +559,15 @@ ms.locfileid: "2896019"
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
-|[プロビジョニングと環境管理](dynamics365-commerce/provisioning-environment-management.md) |  一般提供の日付が 2020 年 2 月に更新されました。  |2019 年 10 月 21 日|
-|[評価とレビュー](dynamics365-commerce/ratings-reviews.md) |  一般提供の日付が 2020 年 2 月に更新されました。  |2019 年 10 月 21 日|
-|[検索エンジン最適化](dynamics365-commerce/seo.md) |  一般提供の日付が 2020 年 2 月に更新されました。  |2019 年 10 月 21 日|
-|[販売促進とマーケティング](dynamics365-commerce/merchandizing-storytelling.md) |  一般提供の日付が 2020 年 2 月に更新されました。  |2019 年 10 月 21 日|
-|[拡張性](dynamics365-commerce/extensibility.md) |  一般提供の日付が 2020 年 2 月に更新されました。  |2019 年 10 月 21 日|
-|[ストア スターター キット](dynamics365-commerce/store-starter-kit.md) |  一般提供の日付が 2020 年 2 月に更新されました。  |2019 年 10 月 21 日|
-|[UX プラットフォーム](dynamics365-commerce/ux-platform.md) |  一般提供の日付が 2020 年 2 月に更新されました。  |2019 年 10 月 21 日|
+|[販売促進とマーケティング](dynamics365-commerce/merchandizing-storytelling.md) | パブリック プレビューの日付が 2019 年 10 月から 2020 年 2 月に変更されました。 一般提供の日付が 2020 年 2 月から**近日発表**に変更されました。  |2020 年 1 月 10 日|
+|[拡張性](dynamics365-commerce/extensibility.md) | パブリック プレビューの日付が 2019 年 10 月から 2020 年 2 月に変更されました。 一般提供の日付が 2020 年 2 月から**近日発表**に変更されました。  |2020 年 1 月 10 日|
+|[プロビジョニングと環境管理](dynamics365-commerce/provisioning-environment-management.md) |   一般提供の日付が 2020 年 2 月に更新されました。  |2019 年 10 月 21 日|
+|[評価とレビュー](dynamics365-commerce/ratings-reviews.md) |   一般提供の日付が 2020 年 2 月に更新されました。  |2019 年 10 月 21 日|
+|[検索エンジン最適化](dynamics365-commerce/seo.md) |   一般提供の日付が 2020 年 2 月に更新されました。  |2019 年 10 月 21 日|
+|[販売促進とマーケティング](dynamics365-commerce/merchandizing-storytelling.md) |   一般提供の日付が 2020 年 2 月に更新されました。  |2019 年 10 月 21 日|
+|[拡張性](dynamics365-commerce/extensibility.md) |   一般提供の日付が 2020 年 2 月に更新されました。  |2019 年 10 月 21 日|
+|[ストア スターター キット](dynamics365-commerce/store-starter-kit.md) |   一般提供の日付が 2020 年 2 月に更新されました。  |2019 年 10 月 21 日|
+|[UX プラットフォーム](dynamics365-commerce/ux-platform.md) |   一般提供の日付が 2020 年 2 月に更新されました。  |2019 年 10 月 21 日|
  
 ### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
 | 機能 | 理由  |  削除日|
@@ -517,12 +581,11 @@ ms.locfileid: "2896019"
 ### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
 | 機能 |  追加日 |
 |---------|---------------|
-|[会計統合フレームワークに基づくスウェーデン向けの制御ユニット統合サンプル](dynamics365-retail/control-unit-integration-sample-sweden-based-fiscal-integration-framework.md) |  2019 年 10 月 03 日| 
+|[会計統合フレームワークに基づくスウェーデン向けの制御ユニット統合サンプル](dynamics365-retail/control-unit-integration-sample-sweden-based-fiscal-integration-framework.md) |  2019 年 10 月 3 日| 
 |[店舗および宛先に基づく外税の顧客控除を計算する](dynamics365-retail/calculate-customer-exemptions-store-destination-based-exclusive-taxes.md) |  2019 年 9 月 28 日| 
 |[eコマース チェックアウト時に Dynamics 365 Fraud Protection を呼び出す](dynamics365-retail/invoke-dynamics-365-fraud-protection-during-e-commerce-checkout.md) |  2019 年 9 月 28 日| 
 |[POS での製品レコメンデーション](dynamics365-retail/product-recommendations-pos.md) |  2019 年 9 月 11 日| 
 |[指定された集荷、実行、電子的配送モードが POS のすべて出荷プロセスと選択された出荷プロセスに表示されないようにする](dynamics365-retail/hide-designated-pickup-carryout-electronic-modes-delivery-ship-all-ship-selected-processes-pos.md) |  2019 年 9 月 10 日| 
-|[店舗での小売トランザクションの財務調整 (パブリック プレビュー)](dynamics365-retail/financial-reconciliation-retail-transactions-store-public-preview.md) |  2019 年 8 月 29 日| 
 |[Modern POS のオフライン時の利用可能性の向上](dynamics365-retail/modern-pos-offline-availability-improvements.md) |  2019 年 7 月 19 日| 
 |[Cloud Async Client による CDX のスケーラビリティの向上](dynamics365-retail/improved-cdx-scalability-through-cloud-async-client.md) |  2019 年 7 月 19 日| 
 |[販売促進の改善 - 製品属性、リファイナー、値に対するカスタム順序を構成および遵守するためのサポートの追加](dynamics365-retail/merchandising-improvements-add-support-configure-observe-custom-order-product-attributes-refiners-values..md) |  2019 年 7 月 19 日| 
@@ -534,34 +597,34 @@ ms.locfileid: "2896019"
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
-|[店舗での小売トランザクションの財務調整 (パブリック プレビュー)](dynamics365-retail/financial-reconciliation-retail-transactions-store-public-preview.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 1 月に変更されました。 一般提供の日付が 2020 年 2 月から 2020 年 3 月に変更されました。  |2019 年 11 月 15 日|
 |[店舗内コンポーネントの大量展開](dynamics365-retail/in-store-components-mass-deployment.md) | パブリック プレビューの日付が 2020 年 1 月から 2019 年 11 月に変更されました。 一般提供の日付が 2020 年 3 月から 2020 年 1 月に変更されました。  |2019 年 8 月 27 日|
 |[販売促進の改善 – カテゴリ化製品、関連製品、分析コード グループに対するカスタム順序のサポートの追加](dynamics365-retail/merchandising-improvements-add-support-custom-order-categorized-products-related-products-dimension-groups.md) | パブリック プレビューの日付が 2019 年 9 月から 2019 年 10 月に変更されました。 一般提供の日付が 2019 年 11 月から 2020 年 1 月に変更されました。  |2019 年 8 月 26 日|
-|[東ヨーロッパ向けコール センターのローカライズ](dynamics365-retail/call-center-localization-eastern-europe.md) |  一般提供の日付が 2019 年 12 月から 2020 年 1 月に変更されました。  |2019 年 8 月 21 日|
+|[東ヨーロッパ向けコール センターのローカライズ](dynamics365-retail/call-center-localization-eastern-europe.md) |   一般提供の日付が 2019 年 12 月から 2020 年 1 月に変更されました。  |2019 年 8 月 21 日|
 |[店舗内コンポーネントの大量展開](dynamics365-retail/in-store-components-mass-deployment.md) | パブリック プレビューの日付が 2019 年 9 月から 2020 年 1 月に変更されました。 一般提供の日付が 2019 年 11 月から 2020 年 3 月に変更されました。  |2019 年 8 月 16 日|
 |[eコマース在庫 API の改善](dynamics365-retail/e-commerce-inventory-api-improvements.md) | パブリック プレビューの日付が 2019 年 10 月に更新されました。 一般提供の日付が 2019 年 11 月から 2020 年 1 月に変更されました。  |2019 年 8 月 13 日|
-|[1 つのバージョン - Retail Cloud Scale Unit の自動更新](dynamics365-retail/one-version---auto-update-retail-cloud-scale-unit.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 10 月に変更されました。   |2019 年 8 月 12 日|
+|[1 つのバージョン - Retail Cloud Scale Unit の自動更新](dynamics365-retail/one-version---auto-update-retail-cloud-scale-unit.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 10 月に変更されました。    |2019 年 8 月 12 日|
 |[クライアンテリング - 販売担当者が信頼できるアドバイザーになり、顧客と長期的な関係を築けるようにする](dynamics365-retail/clienteling--empower-associates-establish-relationships-customers.md) | パブリック プレビューの日付が 2019 年 9 月から 2019 年 10 月に変更されました。 一般提供の日付が 2019 年 11 月から 2020 年 1 月に変更されました。  |2019 年 8 月 9 日|
-|[インド用 POS からの顧客登録番号の管理](dynamics365-retail/management-customer-registration-numbers-pos-india.md) | パブリック プレビューの日付が 2019 年 9 月に更新されました。   |2019 年 7 月 19 日|
-|[POS 用の Regression Suite Automation Tool](dynamics365-retail/regression-suite-automation-tool-pos.md) | パブリック プレビューの日付が 2019 年 9 月に更新されました。   |2019 年 7 月 19 日|
+|[インド用 POS からの顧客登録番号の管理](dynamics365-retail/management-customer-registration-numbers-pos-india.md) | パブリック プレビューの日付が 2019 年 9 月に更新されました。    |2019 年 7 月 19 日|
+|[POS 用の Regression Suite Automation Tool](dynamics365-retail/regression-suite-automation-tool-pos.md) | パブリック プレビューの日付が 2019 年 9 月に更新されました。    |2019 年 7 月 19 日|
 |[店舗内コンポーネントの大量展開](dynamics365-retail/in-store-components-mass-deployment.md) | パブリック プレビューの日付が 2019 年 9 月に更新されました。 一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 7 月 19 日|
 |[クライアンテリング - 販売担当者が信頼できるアドバイザーになり、顧客と長期的な関係を築けるようにする](dynamics365-retail/clienteling--empower-associates-establish-relationships-customers.md) | パブリック プレビューの日付が 2019 年 9 月に更新されました。 一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 7 月 19 日|
 |[支払/入金ベースの割引](dynamics365-retail/tender-based-discounts.md) | パブリック プレビューの日付が 2019 年 10 月に更新されました。 一般提供の日付が 2019 年 10 月から 2020 年 1 月に変更されました。  |2019 年 7 月 19 日|
-|[コール センターでの外部ギフト カードのサポート](dynamics365-retail/external-gift-card-support-adyen-connector-e-commerce-call-center.md) | パブリック プレビューの日付が 2019 年 10 月に更新されました。 一般提供の日付が 2019 年 10 月から 2020 年 1 月に変更されました。  |2019 年 7 月 19 日|
 |[シークレットへの安全なアクセス](dynamics365-retail/secure-access-secrets.md) | パブリック プレビューの日付が 2019 年 9 月に更新されました。 一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 7 月 19 日|
 |[Retail Cloud Scale Unit の環境の履歴](dynamics365-retail/environment-history-retail-cloud-scale-unit.md) | パブリック プレビューの日付が 2020 年 2 月に更新されました。 一般提供の日付が 2019 年 10 月から 2020 年 2 月に変更されました。  |2019 年 7 月 19 日|
 |[デバイス ライセンス認証トークンの自動更新](dynamics365-retail/auto-refresh-device-activation-token.md) | パブリック プレビューの日付が 2020 年 1 月に更新されました。 一般提供の日付が 2019 年 10 月から**近日発表**に変更されました。  |2019 年 7 月 19 日|
-|[POS の在庫入荷フォームでテンキーを常に画面に表示する](dynamics365-retail/numpad-remain-onscreen-pos-inventory-receiving-form.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 7 月 19 日|
-|[POS の請求コードの翻訳](dynamics365-retail/translations-charges-codes-pos.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 7 月 19 日|
-|[小売明細転記の機能強化](dynamics365-retail/enhancements-retail-statement-posting.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 7 月 19 日|
-|[販売促進の改善 - カテゴリのカスタム表示並べ替え順序のサポート](dynamics365-retail/merchandising-improvements.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 7 月 19 日|
-|[POS および本社の拡張機能](dynamics365-retail/pos-headquarters-extensions.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 7 月 19 日|
-|[1 つのバージョン - Retail Cloud Scale Unit の自動更新](dynamics365-retail/one-version---auto-update-retail-cloud-scale-unit.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 7 月 19 日|
-|[店舗のスケール ユニットの向上](dynamics365-retail/store-scale-unit-improvements.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 7 月 19 日|
+|[POS の在庫入荷フォームでテンキーを常に画面に表示する](dynamics365-retail/numpad-remain-onscreen-pos-inventory-receiving-form.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 7 月 19 日|
+|[POS の請求コードの翻訳](dynamics365-retail/translations-charges-codes-pos.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 7 月 19 日|
+|[小売明細転記の機能強化](dynamics365-retail/enhancements-retail-statement-posting.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 7 月 19 日|
+|[販売促進の改善 - カテゴリのカスタム表示並べ替え順序のサポート](dynamics365-retail/merchandising-improvements.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 7 月 19 日|
+|[POS および本社の拡張機能](dynamics365-retail/pos-headquarters-extensions.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 7 月 19 日|
+|[1 つのバージョン - Retail Cloud Scale Unit の自動更新](dynamics365-retail/one-version---auto-update-retail-cloud-scale-unit.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 7 月 19 日|
+|[店舗のスケール ユニットの向上](dynamics365-retail/store-scale-unit-improvements.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 7 月 19 日|
  
 ### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
 | 機能 | 理由  |  削除日|
 |----------|----------|---------------|
+| デバイス ライセンス認証トークンの自動更新 | 優先順位が下げられ、配信されません。 |2020 年 1 月 6 日 |
+| 店舗での小売トランザクションの財務調整 (パブリック プレビュー) | 次のリリース ウェーブに移動されました。 |2019 年 12 月 13 日 |
 | コール センターでの外部ギフト カードのサポート | この機能を [eコマースおよびコール センターでの外部ギフト カードのサポート](dynamics365-retail/)機能とマージしました。 |2019 年 11 月 23 日 |
 | 店舗で利用可能な現物在庫のチャネル側での計算 | 次のリリース ウェーブに移動されました。 |2019 年 11 月 5 日 |
 | 店舗での在庫 (入庫/出庫) 操作の改善 | 次のリリース ウェーブに移動されました。 |2019 年 11 月 5 日 |
@@ -571,9 +634,9 @@ ms.locfileid: "2896019"
 | クライアンテリング - 製品コレクションを使用したクロス セル | 次のリリース ウェーブに移動されました。 |2019 年 9 月 6 日 |
 | 小売チャネル間での支払管理の一貫性 | 次のリリース ウェーブに移動されました。 |2019 年 9 月 6 日 |
 | Customer Service におけるオムニチャネル注文の注文取り消しの改善 | 次のリリース ウェーブに移動されました。 |2019 年 9 月 6 日 |
-| チャネル別に構成された Retail の自動請求 | 次のリリース ウェーブに移動されました。 |2019 年 9 月 6 日 |
-| Modern POS 拡張機能の独立したデプロイとインストール パッケージ。 | 次のリリース ウェーブに移動されました。 |2019 年 9 月 6 日 |
-| 店内従業員のタスク管理 | 次のリリース ウェーブに移動されました。 |2019 年 8 月 28 日 |
+| チャネルに基づくサポート料金の自動請求の向上 | 次のリリース ウェーブに移動されました。 |2019 年 9 月 6 日 |
+| Modern POS 拡張機能の独立したデプロイとインストール パッケージ | 次のリリース ウェーブに移動されました。 |2019 年 9 月 6 日 |
+| 第一線の作業者とマネージャー向けの HQ と POS でのタスク管理 | 次のリリース ウェーブに移動されました。 |2019 年 8 月 28 日 |
 | 小売注文処理における在庫分析コード サポートの強化 | 次のリリース ウェーブに移動されました。 |2019 年 7 月 19 日 |
 | 店舗でのバッチ分析コードのサポートの向上 | 次のリリース ウェーブに移動されました。 |2019 年 7 月 19 日 |
 
@@ -586,8 +649,11 @@ ms.locfileid: "2896019"
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
 |[外部コンプライアンスの認定](artificial-intelligence/dynamics365-fraud-protection/product-compliance.md) | パブリック プレビューの日付が 2019 年 10 月から 2019 年 8 月に変更されました。 一般提供の日付が**近日発表**から 2019 年 10 月に変更されました。  |2019 年 8 月 27 日|
-|[Dynamics 365 Fraud Protection の拡張と調整](artificial-intelligence/dynamics365-fraud-protection/extend-tailor-dynamics-365-fraud-protection.md) | パブリック プレビューの日付が 2019 年 10 月から 2019 年 12 月に変更されました。   |2019 年 8 月 19 日|
  
+### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
+| 機能 | 理由  |  削除日|
+|----------|----------|---------------|
+| Dynamics 365 Fraud Protection の拡張と調整 | 次のリリース ウェーブに移動されました。 |2019 年 12 月 10 日 |
 
 
 ## <a name="dynamics-365-connected-store"></a>Dynamics 365 Connected Store
@@ -596,25 +662,31 @@ ms.locfileid: "2896019"
 ### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
 | 機能 |  追加日 |
 |---------|---------------|
-|[温度と湿度の監視](artificial-intelligence/dynamics365-connected-store/refrigeration-temperature-humidity-monitoring.md) |  2019 年 9 月 17 日| 
-|[店舗のヒート マップ](artificial-intelligence/dynamics365-connected-store/store-heatmap.md) |  2019 年 9 月 17 日| 
-|[スケジュールされたレポート](artificial-intelligence/dynamics365-connected-store/scheduled-reports.md) |  2019 年 9 月 17 日| 
 |[通知](artificial-intelligence/dynamics365-connected-store/notifications.md) |  2019 年 9 月 17 日| 
 |[客足](artificial-intelligence/dynamics365-connected-store/foot-traffic-people-count.md) |  2019 年 9 月 17 日| 
-|[顧客層](artificial-intelligence/dynamics365-connected-store/customer-demographics.md) |  2019 年 9 月 17 日| 
 |[チェックアウト キューの管理](artificial-intelligence/dynamics365-connected-store/checkout-queue-wait-time.md) |  2019 年 9 月 17 日| 
  
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
-|[温度と湿度の監視](artificial-intelligence/dynamics365-connected-store/refrigeration-temperature-humidity-monitoring.md) |  一般提供の日付が**近日発表**から**近日発表**に変更されました。  |2019 年 11 月 25 日|
-|[店舗のヒート マップ](artificial-intelligence/dynamics365-connected-store/store-heatmap.md) |  一般提供の日付が**近日発表**から**近日発表**に変更されました。  |2019 年 11 月 25 日|
-|[チェックアウト キューの管理](artificial-intelligence/dynamics365-connected-store/checkout-queue-wait-time.md) |  一般提供の日付が**近日発表**から**近日発表**に変更されました。  |2019 年 11 月 25 日|
-|[顧客層](artificial-intelligence/dynamics365-connected-store/customer-demographics.md) |  一般提供の日付が**近日発表**から**近日発表**に変更されました。  |2019 年 11 月 25 日|
-|[客足](artificial-intelligence/dynamics365-connected-store/foot-traffic-people-count.md) |  一般提供の日付が**近日発表**から**近日発表**に変更されました。  |2019 年 11 月 25 日|
-|[通知](artificial-intelligence/dynamics365-connected-store/notifications.md) |  一般提供の日付が**近日発表**から**近日発表**に変更されました。  |2019 年 11 月 25 日|
-|[スケジュールされたレポート](artificial-intelligence/dynamics365-connected-store/scheduled-reports.md) |  一般提供の日付が**近日発表**から**近日発表**に変更されました。  |2019 年 11 月 25 日|
+|[温度と湿度の監視](artificial-intelligence/dynamics365-connected-store/refrigeration-temperature-humidity-monitoring.md) | パブリック プレビュー日付を削除しました。    |2019 年 12 月 20 日|
+|[客足](artificial-intelligence/dynamics365-connected-store/foot-traffic-people-count.md) | パブリック プレビューの日付が 2019 年 10 月から 2019 年 12 月に変更されました。    |2019 年 12 月 20 日|
+|[店舗のヒート マップ](artificial-intelligence/dynamics365-connected-store/store-heatmap.md) | パブリック プレビュー日付を削除しました。 一般提供の日付が削除されました。  |2019 年 12 月 20 日|
+|[顧客層](artificial-intelligence/dynamics365-connected-store/customer-demographics.md) | パブリック プレビュー日付を削除しました。 一般提供の日付が削除されました。  |2019 年 12 月 20 日|
+|[通知](artificial-intelligence/dynamics365-connected-store/notifications.md) | パブリック プレビューの日付が 2019 年 10 月から 2020 年 3 月に変更されました。    |2019 年 12 月 17 日|
+|[チェックアウト キューの管理](artificial-intelligence/dynamics365-connected-store/checkout-queue-wait-time.md) | パブリック プレビューの日付が 2019 年 10 月から 2020 年 3 月に変更されました。    |2019 年 12 月 17 日|
  
+### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
+| 機能 | 理由  |  削除日|
+|----------|----------|---------------|
+| 客足 | 次のリリース ウェーブに移動されました。 |2019 年 12 月 20 日 |
+| チェックアウト キューの管理 | 次のリリース ウェーブに移動されました。 |2019 年 12 月 20 日 |
+| 通知 | 次のリリース ウェーブに移動されました。 |2019 年 12 月 20 日 |
+| スケジュールされたレポート | 次のリリース ウェーブに移動されました。 |2019 年 12 月 20 日 |
+| 顧客層 | 優先順位が下げられ、配信されません。 |2019 年 12 月 17 日 |
+| スケジュールされたレポート | 次のリリース ウェーブに移動されました。 |2019 年 12 月 17 日 |
+| 店舗のヒートマップ | 将来のリリース ウェーブに移動されました。  |2019 年 12 月 17 日 |
+| 温度と湿度の監視 | 優先順位が下げられ、配信されません。 |2019 年 12 月 17 日 |
 
 
 ## <a name="dynamics-365-business-central"></a>Dynamics 365 Business Central
@@ -623,6 +695,12 @@ ms.locfileid: "2896019"
 ### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
 | 機能 |  追加日 |
 |---------|---------------|
+|[会計スケジュール レポートにおける空の行のスキップ](dynamics365-business-central/skip-empty-lines-account-schedule-report.md) |  2019 年 12 月 16 日| 
+|[Business Central オンラインでプリンター拡張機能のブロックを解除する新しいイベント](dynamics365-business-central/new-events-unblock-printer-extensions-business-central-online.md) |  2019 年 12 月 10 日| 
+|[Business Central オンラインで利用可能な MICR フォント](dynamics365-business-central/micr-fonts-business-central-online.md) |  2019 年 12 月 10 日| 
+|[メキシコの電子請求 (CFDI) の機能向上](dynamics365-business-central/electronic-invoicing-cfdi-improvements-mexico.md) |  2019 年 12 月 9 日| 
+|[ノルウェーの標準監査ファイル - 税 (SAF-T)](dynamics365-business-central/standard-audit-file--tax-saf-t-norway.md) |  2019 年 12 月 9 日| 
+|[販売ドキュメントで参照および外部ドキュメント番号を表示する](dynamics365-business-central/view-reference-external-document-no.-sales-documents.md) |  2019 年 12 月 9 日| 
 |[[名前 2] フィールドを顧客カードと仕入先カードに追加する](dynamics365-business-central/add-name-2-field-customer-vendor-cards.md) |  2019 年 11 月 12 日| 
 |[一般仕訳帳明細行の数を表示する](dynamics365-business-central/view-number-general-journal-lines.md) |  2019 年 10 月 29 日| 
 |[アーカイブされた販売や購買に関わるドキュメントにジョブ関連情報を含める](dynamics365-business-central/include-job-information-archived-sales-purchase-documents.md) |  2019 年 10 月 21 日| 
@@ -645,51 +723,48 @@ ms.locfileid: "2896019"
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
-|[[名前 2] フィールドを顧客カードと仕入先カードに追加する](dynamics365-business-central/add-name-2-field-customer-vendor-cards.md) | パブリック プレビューの日付が 2019 年 11 月に更新されました。   |2019 年 11 月 25 日|
-|[[名前 2] フィールドを顧客カードと仕入先カードに追加する](dynamics365-business-central/add-name-2-field-customer-vendor-cards.md) | パブリック プレビュー日付を削除しました。   |2019 年 11 月 25 日|
-|[[名前 2] フィールドを顧客カードと仕入先カードに追加する](dynamics365-business-central/add-name-2-field-customer-vendor-cards.md) | パブリック プレビューの日付が 2019 年 11 月に更新されました。   |2019 年 11 月 25 日|
-|[データベース エクスポート ファイルをダウンロードする機能](dynamics365-business-central/ability-download-database-backup-file.md) |  一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 1 日|
-|[C/AL 定義から AL テーブル定義にテーブルを変換する](dynamics365-business-central/convert-tables-cal-definitions-al-table-defintions.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 10 月 1 日|
-|[AL で利用可能なデータベース分析情報](dynamics365-business-central/database-insights-made-al.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 10 月 1 日|
-|[複数ページにわたるマルチタスク](dynamics365-business-central/multi-tasking-across-multiple-pages.md) | パブリック プレビューの日付が 2019 年 9 月から 2019 年 8 月に変更されました。   |2019 年 8 月 15 日|
-|[拡張性のデザイン](dynamics365-business-central/system-application-application-foundation.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 27 日|
-|[複数ページにわたるマルチタスク](dynamics365-business-central/multi-tasking-across-multiple-pages.md) | パブリック プレビューの日付が 2019 年 9 月に更新されました。   |2019 年 6 月 24 日|
-|[複数の値によるオプション フィールドのフィルター処理](dynamics365-business-central/filtering-option-fields-multiple-values.md) | パブリック プレビューの日付が 2019 年 9 月に更新されました。   |2019 年 6 月 24 日|
-|[高速で敏捷なデータ入力](dynamics365-business-central/speed-agility-data-entry.md) | パブリック プレビューの日付が 2019 年 9 月に更新されました。   |2019 年 6 月 24 日|
-|[コードを書かずにユーザー プロファイルをカスタマイズする](dynamics365-business-central/customize-user-profile-without-writing-code.md) | パブリック プレビューの日付が 2019 年 9 月に更新されました。   |2019 年 6 月 24 日|
-|[デザイナーを使用する開発者のパワー アップ](dynamics365-business-central/more-power-developers-using-designer.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 20 日|
-|[リスト ビューの保存とパーソナライズ](dynamics365-business-central/saving-personalizing-list-views.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 20 日|
-|[ナビゲーション メニューにリンクを追加する](dynamics365-business-central/add-links-navigation-menu.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 20 日|
-|[一般的なユーザー エクスペリエンスの調整](dynamics365-business-central/general-user-experience-adjustments.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 19 日|
-|[少ないクリック数での列のサイズ変更](dynamics365-business-central/resize-columns.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 19 日|
-|[ロール センターでのアクションのパーソナライズ](dynamics365-business-central/personalize-actions-navigation-role-center.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 19 日|
-|[レポートをより効率的にフィルター処理する](dynamics365-business-central/powerful-filtering-capabilities-reports.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 19 日|
-|[C/AL テーブルから AL テーブルへのパフォーマンス データのアップグレードのサポート](dynamics365-business-central/support-performant-data-upgrade-cal-tables-al-tables.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 19 日|
-|[ビルドと展開でのアプリの依存関係の処理の改善](dynamics365-business-central/improved-app-dependency-handling-build-deploy.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 19 日|
-|[AL アプリケーションとして提供される基本アプリケーション](dynamics365-business-central/base-application-delivered-as-al-appplications.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 19 日|
-|[アクセス モディファイアー](dynamics365-business-central/access-modifiers.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 19 日|
-|[アタッチして次にデバッグ](dynamics365-business-central/attach-debug-next.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 19 日|
-|[代理キー](dynamics365-business-central/surrogate-keys.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 18 日|
-|[ページ バックグラウンド タスク](dynamics365-business-central/page-background-tasks.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 18 日|
-|[ロックフリー番号シリーズ](dynamics365-business-central/lock-free-number-series.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 18 日|
-|[パートナーは Business Central 管理センターでサポート連絡先の詳細を入力できる](dynamics365-business-central/partners-enter-support-contact-details-business-central-administration-center.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 18 日|
-|[Business Central 管理センターでの稼働停止のレポート](dynamics365-business-central/new-option-report-production-outage-business-central-administration-center.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 18 日|
-|[Business Central 管理センターでの新しいサポートの要請オプション](dynamics365-business-central/new-support-request-option-tenant-admin-center.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 18 日|
-|[すべてのビジネス機能の概要を取得する](dynamics365-business-central/easy-access-capability-overview.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 18 日|
-|[データへのメモとリンクの追加](dynamics365-business-central/add-notes-links-data.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 18 日|
-|[フル キーボード ショートカットのサポート](dynamics365-business-central/full-keyboard-shortcut-support.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 18 日|
-|[Business Central 専用の最新クライアント](dynamics365-business-central/modern-clients-only-business-central-cloud-on-premises.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 18 日|
-|[転記時に明細行の説明を G/L エントリに繰り越す](dynamics365-business-central/carry-line-descriptions-general-ledger-entries-when-posting.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 17 日|
-|[アラームと利息メモをキャンセルする](dynamics365-business-central/cancel-issued-reminders-finance-charge-memos.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 17 日|
-|[Outlook のビジネス受信トレイで会社を切り替える](dynamics365-business-central/switch-between-companies-business-inbox-outlook.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 14 日|
-|[更新イベントの詳細な通知](dynamics365-business-central/improvements-update-testing-preparation.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 14 日|
-|[データベース エクスポート ファイルをダウンロードする機能](dynamics365-business-central/ability-download-database-backup-file.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 14 日|
-|[Excel 統合の機能拡張](dynamics365-business-central/enhancements-excel-integration.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。   |2019 年 6 月 14 日|
+|[データベース エクスポート ファイルをダウンロードする機能](dynamics365-business-central/ability-download-database-backup-file.md) |   一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 10 月 1 日|
+|[C/AL 定義から AL テーブル定義にテーブルを変換する](dynamics365-business-central/convert-tables-cal-definitions-al-table-defintions.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 10 月 1 日|
+|[AL で利用可能なデータベース分析情報](dynamics365-business-central/database-insights-made-al.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 10 月 1 日|
+|[複数ページにわたるマルチタスク](dynamics365-business-central/multi-tasking-across-multiple-pages.md) | パブリック プレビューの日付が 2019 年 9 月から 2019 年 8 月に変更されました。    |2019 年 8 月 15 日|
+|[拡張性のデザイン](dynamics365-business-central/system-application-application-foundation.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 27 日|
+|[複数ページにわたるマルチタスク](dynamics365-business-central/multi-tasking-across-multiple-pages.md) | パブリック プレビューの日付が 2019 年 9 月に更新されました。    |2019 年 6 月 24 日|
+|[複数の値によるオプション フィールドのフィルター処理](dynamics365-business-central/filtering-option-fields-multiple-values.md) | パブリック プレビューの日付が 2019 年 9 月に更新されました。    |2019 年 6 月 24 日|
+|[高速で敏捷なデータ入力](dynamics365-business-central/speed-agility-data-entry.md) | パブリック プレビューの日付が 2019 年 9 月に更新されました。    |2019 年 6 月 24 日|
+|[コードを書かずにユーザー プロファイルをカスタマイズする](dynamics365-business-central/customize-user-profile-without-writing-code.md) | パブリック プレビューの日付が 2019 年 9 月に更新されました。    |2019 年 6 月 24 日|
+|[デザイナーを使用する開発者のパワー アップ](dynamics365-business-central/more-power-developers-using-designer.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 20 日|
+|[リスト ビューの保存とパーソナライズ](dynamics365-business-central/saving-personalizing-list-views.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 20 日|
+|[ナビゲーション メニューにリンクを追加する](dynamics365-business-central/add-links-navigation-menu.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 20 日|
+|[一般的なユーザー エクスペリエンスの調整](dynamics365-business-central/general-user-experience-adjustments.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 19 日|
+|[少ないクリック数での列のサイズ変更](dynamics365-business-central/resize-columns.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 19 日|
+|[ロール センターでのアクションのパーソナライズ](dynamics365-business-central/personalize-actions-navigation-role-center.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 19 日|
+|[レポートをより効率的にフィルター処理する](dynamics365-business-central/powerful-filtering-capabilities-reports.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 19 日|
+|[C/AL テーブルから AL テーブルへのパフォーマンス データのアップグレードのサポート](dynamics365-business-central/support-performant-data-upgrade-cal-tables-al-tables.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 19 日|
+|[ビルドと展開でのアプリの依存関係の処理の改善](dynamics365-business-central/improved-app-dependency-handling-build-deploy.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 19 日|
+|[AL アプリケーションとして提供される基本アプリケーション](dynamics365-business-central/base-application-delivered-as-al-appplications.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 19 日|
+|[アクセス モディファイアー](dynamics365-business-central/access-modifiers.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 19 日|
+|[アタッチして次にデバッグ](dynamics365-business-central/attach-debug-next.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 19 日|
+|[代理キー](dynamics365-business-central/surrogate-keys.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 18 日|
+|[ページ バックグラウンド タスク](dynamics365-business-central/page-background-tasks.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 18 日|
+|[ロックフリー番号シリーズ](dynamics365-business-central/lock-free-number-series.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 18 日|
+|[パートナーは Business Central 管理センターでサポート連絡先の詳細を入力できる](dynamics365-business-central/partners-enter-support-contact-details-business-central-administration-center.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 18 日|
+|[Business Central 管理センターでの稼働停止のレポート](dynamics365-business-central/new-option-report-production-outage-business-central-administration-center.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 18 日|
+|[Business Central 管理センターでの新しいサポートの要請オプション](dynamics365-business-central/new-support-request-option-tenant-admin-center.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 18 日|
+|[すべてのビジネス機能の概要を取得する](dynamics365-business-central/easy-access-capability-overview.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 18 日|
+|[データへのメモとリンクの追加](dynamics365-business-central/add-notes-links-data.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 18 日|
+|[フル キーボード ショートカットのサポート](dynamics365-business-central/full-keyboard-shortcut-support.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 18 日|
+|[Business Central 専用の最新クライアント](dynamics365-business-central/modern-clients-only-business-central-cloud-on-premises.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 18 日|
+|[転記時に明細行の説明を G/L エントリに繰り越す](dynamics365-business-central/carry-line-descriptions-general-ledger-entries-when-posting.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 17 日|
+|[アラームと利息メモをキャンセルする](dynamics365-business-central/cancel-issued-reminders-finance-charge-memos.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 17 日|
+|[Outlook のビジネス受信トレイで会社を切り替える](dynamics365-business-central/switch-between-companies-business-inbox-outlook.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 14 日|
+|[更新イベントの詳細な通知](dynamics365-business-central/improvements-update-testing-preparation.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 14 日|
+|[データベース エクスポート ファイルをダウンロードする機能](dynamics365-business-central/ability-download-database-backup-file.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 14 日|
+|[Excel 統合の機能拡張](dynamics365-business-central/enhancements-excel-integration.md) | パブリック プレビューの日付が 2019 年 8 月に更新されました。    |2019 年 6 月 14 日|
  
 ### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
 | 機能 | 理由  |  削除日|
 |----------|----------|---------------|
-| 技術的アップグレードのサポート | 優先順位が下げられ、配信されません。 |2019 年 10 月 04 日 |
+| 技術的アップグレードのサポート | 優先順位が下げられ、配信されません。 |2019 年 10 月 4 日 |
 | 大きな品目相互参照番号を書き込む | 将来のリリース ウェーブに移動されました。  |2019 年 9 月 6 日 |
 | コード ドキュメント属性 | 次のリリース ウェーブに移動されました。 |2019 年 8 月 29 日 |
 
@@ -701,7 +776,7 @@ ms.locfileid: "2896019"
 | 機能 |  追加日 |
 |---------|---------------|
 |[アラート通知 (時間、頻度、統合) のカスタマイズとユーザー アカウントの削除](artificial-intelligence/dynamics365-market-insights/customize-alert-notifications-time-frequency-consolidation-delete-user-accounts.md) |  2019 年 7 月 1 日| 
-|[自分のトピックについてニュースや新しい分析情報があるときにメール通知を受け取る](artificial-intelligence/dynamics365-market-insights/get-alerts-when-people-talk-about-product-brand-or-company-web.md) |  2019 年 6 月 16 日| 
+|[自分のトピックについて関連するニュースや分析情報があるときにアラートを受け取る](artificial-intelligence/dynamics365-market-insights/get-alerts-when-people-talk-about-product-brand-or-company-web.md) |  2019 年 6 月 16 日| 
 |[ソーシャル メディア、メール、IM、テキストを介して個々の分析情報を同僚と簡単に共有する](artificial-intelligence/dynamics365-market-insights/share-insights-others.md) |  2019 年 6 月 10 日| 
 |[Web アプリで興味のあるトピックに関連するニュースや分析情報にアクセスする](artificial-intelligence/dynamics365-market-insights/drill-into-details-insights-directly-newsfeed.md) |  2019 年 6 月 10 日| 
 |[Web データ、検索アクティビティ、閲覧行動からビジネス トピックに関連する追加の分析情報を得る (米国のみ)](artificial-intelligence/dynamics365-market-insights/initial-set-insights-october-2019.md) |  2019 年 6 月 10 日| 
@@ -710,11 +785,11 @@ ms.locfileid: "2896019"
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
-|[ユーザーのビジネス領域でトピックの特性を定義して、より関連性の高い分析情報を得る](artificial-intelligence/dynamics365-market-insights/define-relevant-topics-business.md) |  一般提供の日付が 2019 年 10 月から**近日発表**に変更されました。  |2019 年 9 月 16 日|
-|[ソーシャル メディア、メール、IM、テキストを介して個々の分析情報を同僚と簡単に共有する](artificial-intelligence/dynamics365-market-insights/share-insights-others.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 9 月に変更されました。   |2019 年 7 月 1 日|
-|[Web データ、検索アクティビティ、閲覧行動からビジネス トピックに関連する追加の分析情報を得る (米国のみ)](artificial-intelligence/dynamics365-market-insights/initial-set-insights-october-2019.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 9 月に変更されました。   |2019 年 7 月 1 日|
-|[ユーザーのビジネス領域でトピックの特性を定義して、より関連性の高い分析情報を得る](artificial-intelligence/dynamics365-market-insights/define-relevant-topics-business.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 9 月に変更されました。   |2019 年 7 月 1 日|
-|[Web アプリで興味のあるトピックに関連するニュースや分析情報にアクセスする](artificial-intelligence/dynamics365-market-insights/drill-into-details-insights-directly-newsfeed.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 9 月に変更されました。   |2019 年 7 月 1 日|
+|[ユーザーのビジネス領域でトピックの特性を定義して、より関連性の高い分析情報を得る](artificial-intelligence/dynamics365-market-insights/define-relevant-topics-business.md) |   一般提供の日付が 2019 年 10 月から 2020 年 3 月に変更されました。  |2019 年 9 月 16 日|
+|[ソーシャル メディア、メール、IM、テキストを介して個々の分析情報を同僚と簡単に共有する](artificial-intelligence/dynamics365-market-insights/share-insights-others.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 9 月に変更されました。    |2019 年 7 月 1 日|
+|[Web データ、検索アクティビティ、閲覧行動からビジネス トピックに関連する追加の分析情報を得る (米国のみ)](artificial-intelligence/dynamics365-market-insights/initial-set-insights-october-2019.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 9 月に変更されました。    |2019 年 7 月 1 日|
+|[ユーザーのビジネス領域でトピックの特性を定義して、より関連性の高い分析情報を得る](artificial-intelligence/dynamics365-market-insights/define-relevant-topics-business.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 9 月に変更されました。    |2019 年 7 月 1 日|
+|[Web アプリで興味のあるトピックに関連するニュースや分析情報にアクセスする](artificial-intelligence/dynamics365-market-insights/drill-into-details-insights-directly-newsfeed.md) | パブリック プレビューの日付が 2019 年 8 月から 2019 年 9 月に変更されました。    |2019 年 7 月 1 日|
  
 ### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
 | 機能 | 理由  |  削除日|
@@ -738,4 +813,26 @@ ms.locfileid: "2896019"
 |[すぐに使える分析情報](artificial-intelligence/dynamics365-product-insights/out-of-the-box-insights.md) |  2019 年 9 月 11 日| 
 |[360 度シグナル](artificial-intelligence/dynamics365-product-insights/360-degree-signals.md) |  2019 年 9 月 11 日| 
  
+### <a name="release-date-changed"></a>リリース日の変更
+| 機能 | 変更 |  更新日 |
+|----------|----------|---------------|
+|[共有と検出](artificial-intelligence/dynamics365-product-insights/sharing-discovery.md) |   一般提供の日付が削除されました。  |2019 年 12 月 12 日|
+|[すぐに使える分析情報](artificial-intelligence/dynamics365-product-insights/out-of-the-box-insights.md) |   一般提供の日付が削除されました。  |2019 年 12 月 12 日|
+|[360 度シグナル](artificial-intelligence/dynamics365-product-insights/360-degree-signals.md) |   一般提供の日付が削除されました。  |2019 年 12 月 12 日|
+|[組み込みのコラボレーション](artificial-intelligence/dynamics365-product-insights/built-in-collaboration.md) |   一般提供の日付が削除されました。  |2019 年 12 月 12 日|
+|[対話型ドリルダウン](artificial-intelligence/dynamics365-product-insights/interactive-drilldowns.md) |   一般提供の日付が削除されました。  |2019 年 12 月 12 日|
+|[豊富なカスタム メトリック](artificial-intelligence/dynamics365-product-insights/rich-custom-metrics.md) |   一般提供の日付が削除されました。  |2019 年 12 月 12 日|
+|[価値の高い AI 分析情報](artificial-intelligence/dynamics365-product-insights/high-value-ai-insights.md) |   一般提供の日付が削除されました。  |2019 年 12 月 12 日|
+|[深い統合](artificial-intelligence/dynamics365-product-insights/deep-integration.md) |   一般提供の日付が削除されました。  |2019 年 12 月 12 日|
+ 
+
+
+## <a name="education"></a>教育
+
+ 
+### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
+| 機能 |  追加日 |
+|---------|---------------|
+|[高等教育アクセラレーターの新しいシナリオ](industry-accelerators/education/new-scenarios-higher-education-accelerator.md) |  2019 年 12 月 9 日| 
+
  

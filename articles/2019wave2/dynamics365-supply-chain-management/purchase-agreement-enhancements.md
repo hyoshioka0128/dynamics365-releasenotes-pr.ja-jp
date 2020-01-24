@@ -2,26 +2,26 @@
 title: 購買契約書の機能強化
 description: 購買契約書の機能強化
 author: relnotes
-ms.reviewer: josaw
-ms.date: 08/02/2019
+ms.reviewer: kamaybac
+ms.date: 12/09/2019
 ms.assetid: 3662278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mkirknel
 dynamics365pdf: true
-ms.openlocfilehash: 92ffb732261613993b67ca1c5e705636c692ea79
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: af4683a544f3908f7df98ae73e77460477d86fd1
+ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660590"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2909733"
 ---
 # <a name="purchase-agreement-enhancements"></a>購買契約書の機能強化
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-| 2019 年 11 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 30 日|
 
 
 
@@ -45,3 +45,7 @@ ms.locfileid: "2660590"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[購買契約](https://docs.microsoft.com/dynamics365/supply-chain/procurement/purchase-agreements) (ドキュメント)

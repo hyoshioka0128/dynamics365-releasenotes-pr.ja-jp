@@ -2,26 +2,26 @@
 title: 高度な輸送計画
 description: 輸送計画の目的で、複数の積荷を 1 つのトリップにグループ化できる新しいトリップの概念が導入されました。
 author: relnotes
-ms.reviewer: josaw
-ms.date: 10/04/2019
+ms.reviewer: kamaybac
+ms.date: 12/13/2019
 ms.assetid: bc62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
-ms.openlocfilehash: b1951b76fc841a7cf7ed19f48374201ae03bd2e4
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: f46451fb25908c8264e65a9b5d6b4d70a0ee58e0
+ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660549"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2909942"
 ---
 # <a name="advanced-transportation-planning"></a>高度な輸送計画
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 1 月| 2020 年 3 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 2 月| 近日発表|
 
 
 

@@ -3,18 +3,18 @@ title: 推奨アクションから実行するアクション オプションを
 description: ''
 author: relnotes
 ms.reviewer: udag
-ms.date: 10/22/2019
+ms.date: 01/07/2020
 ms.assetid: eac57080-f3d4-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: mney
 dynamics365pdf: true
-ms.openlocfilehash: dc6f6823fc571b6fdf8c26d420ca969f89b525d4
-ms.sourcegitcommit: 5d6e90743e29603bfc5d06566a6966de05931982
+ms.openlocfilehash: 857dd54ee4a9bb2041ce2ea3c4504aada67ee041
+ms.sourcegitcommit: ba5b15c33dc3669937bf5219b1b38995cffb661b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "2668687"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "2947505"
 ---
 # <a name="extend-action-options-taken-from-the-suggested-actions"></a>推奨アクションから実行するアクション オプションを拡張する
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]

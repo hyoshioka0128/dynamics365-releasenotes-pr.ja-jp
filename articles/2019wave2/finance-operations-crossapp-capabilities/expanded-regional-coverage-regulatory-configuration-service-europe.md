@@ -1,27 +1,31 @@
 ---
+redirect_url: planned-features
 title: ヨーロッパへの Regulatory Configuration Service の適用範囲地域の拡大
 description: Regulatory Configuration Service (RCS) を使用すると、企業やパワー ユーザーは、法的要件の変更によって頻繁に影響を受ける規制レポート、E-Invoice、請求書レイアウト、支払方法、および税規則を構成できます。 これらの構成は、複数のアプリケーションまたは 1 つのアプリケーションの複数のバージョンでコードを書くのではなく、1 か所で行うことができます。
 author: relnotes
-ms.reviewer: sericks
-ms.date: 10/17/2019
+ms.reviewer: kfend
+ms.date: 12/19/2019
 ms.assetid: da62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: janeaug
 dynamics365pdf: true
-ms.openlocfilehash: d5c939672fa20f79a2b53a9b525920b9060950a6
-ms.sourcegitcommit: 5d6e90743e29603bfc5d06566a6966de05931982
+ms.openlocfilehash: cec12446e81675510f65f5ab6c2f5b85c5a1e8a0
+ms.sourcegitcommit: ecf709e1d8de3b52e1156bceb99cb7e3819f9db3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "2668720"
+ms.lasthandoff: 01/13/2020
+ms.locfileid: "2950848"
 ---
+<!--from editor: In the list of countries, below, is "planned preview" correct for Europe or should it be "public preview"? -->
+
+
 # <a name="expanded-regional-coverage-of-regulatory-configuration-service-to-europe"></a>ヨーロッパへの Regulatory Configuration Service の適用範囲地域の拡大
 [!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-| 2019 年 12 月|
+|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-| 2020 年 3 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

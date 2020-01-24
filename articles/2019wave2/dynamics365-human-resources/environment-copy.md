@@ -1,5 +1,5 @@
 ---
-title: 環境のコピー
+title: より幅広い環境管理
 description: より幅広い環境管理
 author: kherr75
 ms.reviewer: anbichse
@@ -9,14 +9,14 @@ ms.topic: article
 ms.service: business-applications
 ms.author: kherr
 dynamics365pdf: true
-ms.openlocfilehash: d370fc63335a7d7d9382fdc5829c91db0ac5ce7d
-ms.sourcegitcommit: cf8b2ba74d2b553c2a721942221c285ffcf184c5
+ms.openlocfilehash: 75cbb94aa9c8eb14bf3a931aecba7948be32937d
+ms.sourcegitcommit: 259173373fe401be988294ec51edc2c0af2bd0bc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2893399"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "2905707"
 ---
-# <a name="environment-copy"></a>環境のコピー
+# <a name="broader-environment-management"></a>より幅広い環境管理
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -31,8 +31,6 @@ ms.locfileid: "2893399"
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 適切なソリューション環境計画は、お客様の環境を正常に機能させ、その柔軟性を高めるうえで不可欠なものです。 また、環境の速度と品質を高めることにもつながります。 この機能を使用すると、Core HR データを、運用インスタンスからサンドボックスやテスト インスタンスへと移動することができます。
-
-詳細については、「[Core HR インスタンスのコピー](https://docs.microsoft.com/dynamics365/talent/hr-copy-instance)」を参照してください。
 <!--feature detail end -->
 
 
