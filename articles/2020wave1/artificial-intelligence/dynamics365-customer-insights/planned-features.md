@@ -1,0 +1,46 @@
+---
+title: Dynamics 365 Customer Insights の新機能と予定されている機能 (2020 年リリース ウェーブ 1)
+description: Dynamics 365 Customer Insights で計画されている機能の概要。
+author: relnotes
+ms.reviewer: jimholtz
+ms.date: 01/15/2020
+ms.topic: summary
+ms.service: business-applications
+ms.author: fweigel
+dynamics365pdf: true
+ms.openlocfilehash: 4c657b7ade4ba619184ed4c984afe8b6539988d2
+ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/25/2020
+ms.locfileid: "2986694"
+---
+# <a name="whats-new-and-planned-for-dynamics-365-customer-insights"></a><span data-ttu-id="2c378-103">Dynamics 365 Customer Insights の新機能と予定されている機能</span><span class="sxs-lookup"><span data-stu-id="2c378-103">What's new and planned for Dynamics 365 Customer Insights</span></span>
+
+<span data-ttu-id="2c378-104">このトピックでは、2020 年 4 月から 2020 年 9 月までにリリースが計画されている機能の一覧を示します。</span><span class="sxs-lookup"><span data-stu-id="2c378-104">This topic lists features that are planned to release from April 2020 through September 2020.</span></span> <span data-ttu-id="2c378-105">このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。</span><span class="sxs-lookup"><span data-stu-id="2c378-105">Because this topic lists features that may not have released yet, **delivery timelines may change and projected functionality may not be released** (see [Microsoft policy](https://go.microsoft.com/fwlink/p/?linkid=2007332)).</span></span>
+
+<span data-ttu-id="2c378-106">機能は**一般提供**列で示されている月内に提供されます。</span><span class="sxs-lookup"><span data-stu-id="2c378-106">In the **General availability** column, the feature will be delivered within the month listed.</span></span> <span data-ttu-id="2c378-107">提供日がその月内のどの日になるかはわかりません。</span><span class="sxs-lookup"><span data-stu-id="2c378-107">The delivery date can be any day within that month.</span></span> <span data-ttu-id="2c378-108">リリースされた機能には、リリース日を含む完全な日付が表示されます。</span><span class="sxs-lookup"><span data-stu-id="2c378-108">Released features show the full date, including the day of release.</span></span>
+
+<span data-ttu-id="2c378-109">このチェック マーク (![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。")</span><span class="sxs-lookup"><span data-stu-id="2c378-109">This check mark (![This feature is released.](/dynamics365-release-plan/media/green-checkmark.png "This feature is released.")</span></span> <span data-ttu-id="2c378-110">) は、パブリック プレビュー/早期アクセス向けおよび一般提供向けにリリース済みの機能を示しています。</span><span class="sxs-lookup"><span data-stu-id="2c378-110">) shows which features have been released for public preview or early access and for general availability.</span></span>
+
+| <span data-ttu-id="2c378-111">機能</span><span class="sxs-lookup"><span data-stu-id="2c378-111">Feature</span></span>    | <span data-ttu-id="2c378-112">有効対象</span><span class="sxs-lookup"><span data-stu-id="2c378-112">Enabled for</span></span>    |  <span data-ttu-id="2c378-113">パブリック プレビュー</span><span class="sxs-lookup"><span data-stu-id="2c378-113">Public preview</span></span> |  <span data-ttu-id="2c378-114">一般提供</span><span class="sxs-lookup"><span data-stu-id="2c378-114">General availability</span></span> | 
+| ---------- |---------------- | :---------------: |:--------------: |
+ | [<span data-ttu-id="2c378-115">追加の予測的分析情報</span><span class="sxs-lookup"><span data-stu-id="2c378-115">Additional predictive insights</span></span>](additional-predictive-insights.md) | <span data-ttu-id="2c378-116">管理者、作成者、またはアナリスト、自動的</span><span class="sxs-lookup"><span data-stu-id="2c378-116">Admins, makers, or analysts, automatically</span></span> | <span data-ttu-id="2c378-117">2020 年 4 月</span><span class="sxs-lookup"><span data-stu-id="2c378-117">Apr 2020</span></span>| | 
+ | [<span data-ttu-id="2c378-118">新しい Power Automate コネクタと Microsoft Teams アドインによる拡張性の強化</span><span class="sxs-lookup"><span data-stu-id="2c378-118">Extensibility enhancements with new Power Automate connectors and Microsoft Teams add-in</span></span>](extensibility-enhancements-new-power-automate-connectors-teams-add-in.md) | <span data-ttu-id="2c378-119">エンド ユーザー、管理者/作成者/アナリストによる有効化</span><span class="sxs-lookup"><span data-stu-id="2c378-119">End users by admins, makers, or analysts</span></span> | <span data-ttu-id="2c378-120">2020 年 4 月</span><span class="sxs-lookup"><span data-stu-id="2c378-120">Apr 2020</span></span>| | 
+ | [<span data-ttu-id="2c378-121">増分およびほぼリアルタイムのデータ取り込みをサポート</span><span class="sxs-lookup"><span data-stu-id="2c378-121">Support for incremental and near real-time data ingestion</span></span>](support-incremental-near-real-time-data-ingestion.md) | <span data-ttu-id="2c378-122">エンド ユーザー、管理者/作成者/アナリストによる有効化</span><span class="sxs-lookup"><span data-stu-id="2c378-122">End users by admins, makers, or analysts</span></span> | <span data-ttu-id="2c378-123">2020 年 4 月</span><span class="sxs-lookup"><span data-stu-id="2c378-123">Apr 2020</span></span>| | 
+ | [<span data-ttu-id="2c378-124">データ プロファイル機能</span><span class="sxs-lookup"><span data-stu-id="2c378-124">Data profiling capabilities</span></span>](data-profiling-capabilities.md) | <span data-ttu-id="2c378-125">エンド ユーザー、管理者/作成者/アナリストによる有効化</span><span class="sxs-lookup"><span data-stu-id="2c378-125">End users by admins, makers, or analysts</span></span> | -|<span data-ttu-id="2c378-126">2020 年 4 月</span><span class="sxs-lookup"><span data-stu-id="2c378-126">Apr 2020</span></span> | 
+ | [<span data-ttu-id="2c378-127">データの統一の向上</span><span class="sxs-lookup"><span data-stu-id="2c378-127">Data unification improvements</span></span>](data-unification-improvements.md) | <span data-ttu-id="2c378-128">エンド ユーザー、管理者/作成者/アナリストによる有効化</span><span class="sxs-lookup"><span data-stu-id="2c378-128">End users by admins, makers, or analysts</span></span> | -|<span data-ttu-id="2c378-129">2020 年 4 月</span><span class="sxs-lookup"><span data-stu-id="2c378-129">Apr 2020</span></span> | 
+ | [<span data-ttu-id="2c378-130">セグメントとメジャーの機能強化</span><span class="sxs-lookup"><span data-stu-id="2c378-130">Enhancements to segments and measures</span></span>](enhancements-segments-measures.md) | <span data-ttu-id="2c378-131">エンド ユーザー、管理者/作成者/アナリストによる有効化</span><span class="sxs-lookup"><span data-stu-id="2c378-131">End users by admins, makers, or analysts</span></span> | -|<span data-ttu-id="2c378-132">2020 年 4 月</span><span class="sxs-lookup"><span data-stu-id="2c378-132">Apr 2020</span></span> | 
+ | [<span data-ttu-id="2c378-133">システム管理の機能強化</span><span class="sxs-lookup"><span data-stu-id="2c378-133">System administration enhancements</span></span>](system-administration-enhancements.md) | <span data-ttu-id="2c378-134">エンド ユーザー、管理者/作成者/アナリストによる有効化</span><span class="sxs-lookup"><span data-stu-id="2c378-134">End users by admins, makers, or analysts</span></span> | -|<span data-ttu-id="2c378-135">2020 年 4 月</span><span class="sxs-lookup"><span data-stu-id="2c378-135">Apr 2020</span></span> | 
+ | [<span data-ttu-id="2c378-136">政府機関向け Microsoft Dynamics 365 Online で利用できる Customer Insights</span><span class="sxs-lookup"><span data-stu-id="2c378-136">Customer Insights available in Microsoft Dynamics 365 Online Government</span></span>](customer-insights-dynamics-365-online-government.md) | <span data-ttu-id="2c378-137">管理者、作成者、またはアナリスト、自動的</span><span class="sxs-lookup"><span data-stu-id="2c378-137">Admins, makers, or analysts, automatically</span></span> | -|<span data-ttu-id="2c378-138">2020 年 5 月</span><span class="sxs-lookup"><span data-stu-id="2c378-138">May 2020</span></span> | 
+
+<span data-ttu-id="2c378-139">**有効対象** 列の値の説明:</span><span class="sxs-lookup"><span data-stu-id="2c378-139">Description of **Enabled for** column values:</span></span>
+
+- <span data-ttu-id="2c378-140">**エンド ユーザー、自動的**: これらの機能には、エンド ユーザーに対するユーザー エクスペリエンスへの変更が含まれており、自動的に有効になります。</span><span class="sxs-lookup"><span data-stu-id="2c378-140">**End users, automatically**: These features include change(s) to the user experience for end users and are enabled automatically.</span></span>
+
+- <span data-ttu-id="2c378-141">**管理者、作成者、またはアナリスト、自動的**: これらの機能は、管理者、作成者、またはビジネス アナリストによって使用されることが意図されており、自動的に有効になります。</span><span class="sxs-lookup"><span data-stu-id="2c378-141">**Admins, makers, or analysts, automatically**: These features are meant to be used by administrators, makers, or business analysts and are enabled automatically.</span></span>
+
+- <span data-ttu-id="2c378-142">**エンド ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。</span><span class="sxs-lookup"><span data-stu-id="2c378-142">**End users by admins, makers, or analysts**: These features must be enabled or configured by the administrators, makers, or business analysts to be available for their end users.</span></span>
+
+
+<span data-ttu-id="2c378-143">Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="2c378-143">For a list of the countries or regions where Dynamics 365 business applications are available, see the [International availability guide](https://aka.ms/dynamics_365_international_availability_deck).</span></span> 
