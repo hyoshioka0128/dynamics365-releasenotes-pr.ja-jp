@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
-ms.openlocfilehash: 6a89ebd542bd15cda4c705b2ca437cb18244ee47
-ms.sourcegitcommit: ecf709e1d8de3b52e1156bceb99cb7e3819f9db3
+ms.openlocfilehash: 00445750750784c4ef5a0e7d04692f1d5eb7318f
+ms.sourcegitcommit: 9ed7d336a9c9e173a6b5bf0cb3571bed1f4e6849
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2020
-ms.locfileid: "2950815"
+ms.lasthandoff: 01/28/2020
+ms.locfileid: "2991730"
 ---
 # <a name="user-productivity--saved-views--phase-1"></a>ユーザーの生産性 - 保存されているビュー - フェーズ 1
 
@@ -48,8 +48,6 @@ ms.locfileid: "2950815"
 **Platform update 32**
 
 - 機能の継続的な安定化。 
-
-  ![すべての仕入先ページの複数のビュー](media/user-productivity-saved-views-1.png "[すべての仕入先] ページの複数のビュー")
 
 保存されているビューを有効にする方法については、以下の**関連項目**セクションのリンク先を参照してください。
 <!--feature detail end -->

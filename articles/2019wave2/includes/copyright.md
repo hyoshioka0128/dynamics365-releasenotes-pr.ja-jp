@@ -9,7 +9,7 @@
 
 このドキュメントは、Microsoft 製品の無体財産権に関する法的な権利をお客さまに許諾するものではありません。 内部的な参照目的に限り、このドキュメントを複製して使用することができます。 
 
-© 2019 Microsoft Corporation. All rights reserved. 
+© 2020 Microsoft Corporation. All rights reserved. 
 
 <!-- string for PDF contents heading -->
 

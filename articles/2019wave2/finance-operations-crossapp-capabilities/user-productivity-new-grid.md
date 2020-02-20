@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
-ms.openlocfilehash: 83270a708f10a6ddbb4de62256c0eba58243bc7b
-ms.sourcegitcommit: ecf709e1d8de3b52e1156bceb99cb7e3819f9db3
+ms.openlocfilehash: 7f1181a000e1c4d98854a1189be77de425da899f
+ms.sourcegitcommit: 9ed7d336a9c9e173a6b5bf0cb3571bed1f4e6849
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2020
-ms.locfileid: "2950837"
+ms.lasthandoff: 01/28/2020
+ms.locfileid: "2991741"
 ---
 # <a name="user-productivity--new-grid-control--phase-2"></a>ユーザーの生産性 - 新しいグリッド コントロール - フェーズ 2
 
@@ -43,8 +43,6 @@ ms.locfileid: "2950837"
 新しいグリッドでは、より複雑な機能を組み込むこともできます。 グリッドへのこれらの追加は、以降の月次アップデートで導入および強化されます。
 
 - **合計**: ビジネス ユーザーは、表形式グリッドの数値列について合計を表示できます。 たとえば、会計担当のユーザーは、特定の顧客に対するフィルター処理されたトランザクション セットの合計を表示できます。 この機能は、Platform update 29 の新しいグリッド コントロール機能の一部として初めて利用可能になり、以降のプラットフォーム バージョンで進化を続けます。
-
-  ![金額列に表示された合計](media/user-productivity-new-grid-1.png "金額列に表示された合計")
 
 - **高速データ入力**: この機能を使用すると、ユーザーはサーバーに先行してグリッドにデータを入力できます。 したがって、ユーザーが別の行に移動する前にサーバーがグリッド内の 1 行を検証するのを待つ必要性が最小限に抑えられます。 この機能は、Platform update 31 の新しいグリッド コントロール機能の一部として初めて利用可能になり、以降のプラットフォーム バージョンで進化を続けます。
 

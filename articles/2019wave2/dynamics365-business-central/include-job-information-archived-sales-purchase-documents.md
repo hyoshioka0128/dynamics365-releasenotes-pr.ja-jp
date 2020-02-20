@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 1e33c850122715be96bd975ab4b0c7803113a84b
-ms.sourcegitcommit: ba5b15c33dc3669937bf5219b1b38995cffb661b
+ms.openlocfilehash: 16a2d66c211f99189b225683b9ba66406e7be1af
+ms.sourcegitcommit: 9ed7d336a9c9e173a6b5bf0cb3571bed1f4e6849
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2020
-ms.locfileid: "2947571"
+ms.lasthandoff: 01/28/2020
+ms.locfileid: "2991763"
 ---
 # <a name="include-job-information-in-archived-sales-and-purchase-documents"></a>アーカイブされた販売や購買に関わるドキュメントにジョブ関連情報を含める
 
@@ -26,14 +26,14 @@ ms.locfileid: "2947571"
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-発注書や見積書は、顧客やベンダーと合意するまで、何度かやり取りが繰り返されることがあります。 このプロセス全体を通して、さまざまなバージョンの見積書や発注書、特にプロジェクトやジョブに関連する情報を記録しておくと便利です。
+発注書は、顧客やベンダーと合意するまで、何度かやり取りが繰り返されることがあります。 このプロセス全体を通して、さまざまなバージョンの発注書、特にプロジェクトやジョブに関連する情報を記録しておくと便利です。
 <!-- bv end -->
 
 
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-販売または購入の見積書や発注書に、ジョブ関連データをアーカイブできるようになりました。
+販売注文または発注書に、ジョブ関連データをアーカイブできるようになりました。
 <!--feature detail end -->
 
 
