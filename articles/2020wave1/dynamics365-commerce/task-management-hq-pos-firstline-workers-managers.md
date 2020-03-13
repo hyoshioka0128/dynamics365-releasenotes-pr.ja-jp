@@ -3,25 +3,25 @@ title: 第一線の作業者とマネージャー向けの HQ と POS でのタ�
 description: Dynamics 365 Commerce でのタスク管理は、第一線の地域マネージャーや店舗マネージャーおよび作業者の生産性を高めるための機能で、タスク リストの作成、割り当て基準の管理、バック オフィスと販売時点管理 (POS) アプリケーション間でのステータスのシームレスな追跡を可能にします。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 01/10/2020
+ms.date: 02/10/2020
 ms.assetid: 8063278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: gmohanv
 dynamics365pdf: true
-ms.openlocfilehash: 090a4ea819e174a33a16356b825b5f5cefdadc49
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 670aa166cbfb54dcd7012d3fc9b9974678f16671
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986796"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3079766"
 ---
 # <a name="task-management-in-hq-and-pos-for-first-line-workers-and-managers"></a>第一線の作業者とマネージャー向けの HQ と POS でのタスク管理
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -50,3 +50,7 @@ ms.locfileid: "2986796"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[タスク管理](https://docs.microsoft.com/dynamics365/commerce/task-mgmt-overview) (ドキュメント)

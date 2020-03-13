@@ -3,25 +3,25 @@ title: '拡張されたローカライズ (イタリア): 覚書 - 定期輸出�
 description: Dynamics 365 Finance が、以前はイタリアのパートナー Cluster Reply によって提供された、拡張されたローカライズ (イタリア) (EXIL) アドインでのみ利用可能であった、イタリア語固有の機能セットが利用できるように拡張されました。
 author: relnotes
 ms.reviewer: kfend
-ms.date: 01/14/2020
+ms.date: 02/10/2020
 ms.assetid: e6654f0b-f0db-e911-a812-000d3a4f1168
 ms.topic: article
 ms.service: business-applications
 ms.author: mrolecki
 dynamics365pdf: true
-ms.openlocfilehash: 10617000ff32e0a9b27060b39842db735664b0ca
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: f8987dc9c6ae680b723782eb35b4e40d91d6f18a
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986758"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3079342"
 ---
-# <a name="extended-italian-localization-intent-letters--invoicing-of-usual-exporters"></a>拡張されたローカライズ (イタリア): 覚書 – 定期輸出業者への請求書発行
+# <a name="extended-italian-localization-intent-letters--invoicing-of-usual-exporters"></a>拡張されたローカライズ (イタリア): 覚書 - 定期輸出業者への請求書発行
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 2 月| 2020 年 8 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 8 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -48,3 +48,7 @@ ms.locfileid: "2986758"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[覚書 – 定期輸出業者への請求書発行](https://docs.microsoft.com/dynamics365/finance/localizations/emea-ita-exil-intent-letter) (ドキュメント)

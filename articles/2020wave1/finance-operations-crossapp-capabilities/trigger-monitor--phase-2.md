@@ -1,22 +1,22 @@
 ---
-title: フローのトリガーと監視 - フェーズ 2
-description: フローのトリガーと監視 - フェーズ 2
+title: インスタント フローの作成とトリガー
+description: インスタント フローの作成とトリガー
 author: relnotes
 ms.reviewer: sericks
-ms.date: 01/15/2020
+ms.date: 02/04/2020
 ms.assetid: 8fba5b04-e01d-ea11-a811-000d3a8f022a
 ms.topic: article
 ms.service: business-applications
 ms.author: cgarty
 dynamics365pdf: true
-ms.openlocfilehash: 98d4f1a1ed28b16f908ac75390635569866e03e1
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 4cc34ecce1e22309ddc800a28bcc3cf984aa464b
+ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986579"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "3031981"
 ---
-# <a name="trigger-and-monitor-a-flow--phase-2"></a>フローのトリガーと監視 - フェーズ 2
+# <a name="create-and-trigger-instant-flows"></a>インスタント フローの作成とトリガー
 [!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 

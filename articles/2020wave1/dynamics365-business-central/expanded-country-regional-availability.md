@@ -3,25 +3,25 @@ title: 利用可能な国と地域の拡大
 description: ''
 author: relnotes
 ms.reviewer: edupont
-ms.date: 01/08/2020
+ms.date: 02/04/2020
 ms.assetid: 14686bf8-bec8-e911-a996-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: soalex
 dynamics365pdf: true
-ms.openlocfilehash: 3b23da1324ca27c9397a7c406f11c82b565ae0e0
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: d999084c0a102df739a9e103bcc7343fe42abd47
+ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986826"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "3031860"
 ---
 # <a name="expanded-country-and-regional-availability"></a>利用可能な国と地域の拡大
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|2020 年 2 月| 2020 年 4 月|
+|管理者、作成者、またはアナリスト、自動的|-| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

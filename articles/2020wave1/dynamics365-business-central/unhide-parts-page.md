@@ -3,25 +3,25 @@ title: ページ上のパーツの再表示
 description: ページ上のパーツの再表示
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 12/10/2019
+ms.date: 02/03/2020
 ms.assetid: d92d468f-14e1-e911-a812-000d3a4f1168
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: b1b714ecad8902b1e4ceb4f7c864e99b36ccefbe
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: cb4dc2c3b0a4a4d5997bb56f479e6b7367c1115e
+ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986813"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "3032355"
 ---
 # <a name="unhide-parts-on-a-page"></a>ページ上のパーツの再表示
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -49,3 +49,7 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[ワークスペースのパーソナライズ](https://docs.microsoft.com/dynamics365/business-central/ui-personalization-user) (ドキュメント)

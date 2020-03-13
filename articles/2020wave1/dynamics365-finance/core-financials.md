@@ -9,15 +9,13 @@ ms.topic: structure
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: c3249dccf222debac9b32921544e0af01f6cd1d5
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: a41e926e45c4bb5a0c36260ed863f46375771d81
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986613"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3080371"
 ---
-<!--Content missing -->
-
 # <a name="core-financials"></a>コア財務
 
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]

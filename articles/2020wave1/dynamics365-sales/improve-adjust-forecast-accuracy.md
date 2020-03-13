@@ -3,25 +3,25 @@ title: 予測精度の改善と調整
 description: 予測をシームレスに調整して解釈を深め、精度を向上させます。
 author: relnotes
 ms.reviewer: udag
-ms.date: 01/09/2020
+ms.date: 02/10/2020
 ms.assetid: d95dbaff-4ad5-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: dandalla
 dynamics365pdf: true
-ms.openlocfilehash: da7855e4477b6ab4a64b4e60447173a9d63b25e0
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: d402ab3a558dae164d39493541a6aab898f373e8
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986732"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3079491"
 ---
 # <a name="improve-and-adjust-forecast-accuracy"></a>予測精度の改善と調整
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 7 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -39,12 +39,12 @@ ms.locfileid: "2986732"
 - **予測調整によって解釈を深める**: 変更に寄与する基になるレコードを特定し、調整の履歴を分析するために変更の理由を把握します。
 <!--feature detail end -->
 
-
-![メモで予測を調整し、履歴を表示する](media/forecasting_adjustment.png "メモで予測を調整し、履歴を表示します。")
+![メモで予測を調整し、履歴を表示する](media/forecasting_adjustment.png "メモで予測を調整し、履歴を表示する")
 <!-- Picture 1 -->
 
 > [!NOTE]
-> この機能は、統一インターフェイスでのみ使用できます。 <br>
+> この機能は、統一インターフェイスでのみ使用できます。 
+>
 > この機能は、Dynamics 365 Sales Enterprise のみを対象としています。
 
 
@@ -52,3 +52,7 @@ ms.locfileid: "2986732"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[予測の値を調整する](https://docs.microsoft.com/dynamics365/sales-enterprise/adjust-values-in-forecast) (ドキュメント)

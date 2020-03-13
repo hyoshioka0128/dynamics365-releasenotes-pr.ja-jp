@@ -3,21 +3,21 @@ title: Dynamics 365 Sales Insights の新機能と予定されている機能 (2
 description: Dynamics 365 Sales Insights で計画されている機能の概要。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 01/16/2020
+ms.date: 02/19/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: raysmith
 dynamics365pdf: true
-ms.openlocfilehash: 32c0f850270f985f5c4aee2eed1a380ee3656187
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 395da1f013a0886e6704fcf474284834651ce8ab
+ms.sourcegitcommit: 5164b04916273ffd769ce37c79b1fd63ce1bf937
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986838"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "3081896"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-sales-insights"></a>Dynamics 365 Sales Insights の新機能と予定されている機能
 
-このトピックでは、2020 年 4 月から 2020 年 9 月までにリリースが計画されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+このトピックでは、2020 年 4 月から 2020 年 9 月にかけてリリースが計画されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
 機能は**一般提供**列で示されている月内に提供されます。 提供日がその月内のどの日になるかはわかりません。 リリースされた機能には、リリース日を含む完全な日付が表示されます。
 
@@ -32,8 +32,8 @@ ms.locfileid: "2986838"
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
  | [より正確なパイプライン予測で得られるメリット](benefit-more-accurate-pipeline-predictions.md) | 管理者、作成者、またはアナリスト、自動的  | 2020 年 4 月| | 
- | [見通し予測で当て推量を取り除く](remove-guesswork-predictive-forecasting.md) | 管理者、作成者、またはアナリスト、自動的  | 2020 年 2 月|2020 年 4 月 | 
- | [予測から隠れた分析情報を見つける](uncover-hidden-insights-forecasts.md) | 管理者、作成者、またはアナリスト、自動的  | 2020 年 2 月|2020 年 4 月 | 
+ | [見通し予測で当て推量を取り除く](remove-guesswork-predictive-forecasting.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 7 日|2020 年 4 月 | 
+ | [予測から隠れた分析情報を見つける](uncover-hidden-insights-forecasts.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 7 日|2020 年 4 月 | 
 
 
 ## <a name="conversation-intelligence"></a>会話インテリジェンス
@@ -53,7 +53,6 @@ ms.locfileid: "2986838"
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
- | [新しい Dynamics 365 Sales モバイル アプリを使用して、外出先でサポートを受ける](receive-assistance-on-the-go-via-new-dynamics-365-sales-mobile-app.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 9 月| | 
  | [分析情報の強化によるメリット](benefit-enhanced-insights.md) | エンド ユーザー、自動的  | 2020 年 2 月|2020 年 4 月 | 
 
 
@@ -63,12 +62,20 @@ ms.locfileid: "2986838"
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
- | [リレーションシップ分析での簡単な設定と UI 構成のメリット](benefit-easy-setup-ui-configuration--relationship-analytics.md) | 管理者、作成者、またはアナリスト、自動的  | 2020 年 4 月| | 
- | [自動取り込みによる常に最新の取引先担当者の情報と、関係者の検出のメリット](benefit-evergreen-contact-information-stakeholders-detection--auto-capture.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 8 月| | 
- | [自動取り込みを使用した非常にきめ細かな制御で販売担当者を支援する](empower-sellers-highly-granular-controls--auto-capture.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 8 月| | 
- | [AI を搭載した自動取り込みが一般提供される](ai-infused-auto-capture-generally--auto-capture.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | -|2020 年 4 月 | 
- | [つながり検索のプライバシー管理の強化](better-privacy-controls-who-knows-whom--relationship-analytics.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | -|2020 年 4 月 | 
+ | [世界中で利用可能になった "つながりを探す"](who-knows-whom-now-worldwide.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | -|2020 年 5 月 | 
+ | [自動取り込みを一般提供](ai-infused-auto-capture-generally--auto-capture.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | -|2020 年 8 月 | 
 
+## <a name="sales-acceleration"></a>営業の加速
+営業の加速の目的は、インサイド販売担当者がよりスマートに販売できるようにすることを意図することです。 強力なパイプラインの構築、コンテキストの提供、営業リズム全体で自動化された推奨を提示することは、販売プロセスの変革に役立ちます。
+
+ | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
+ | ---------- | ---------- | :----------: |:----------: |
+ | [複数のチャネルで顧客とつながる](connect-customers-across-multiple-channels.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化 | 2020 年 4 月 |-|
+ |[営業リズムによるベスト プラクティスの適用](enforce-best-practices-sales-cadence.md)| エンド ユーザー、管理者/作成者/アナリストによる有効化 | 2020 年 4 月 |-|
+ | [すべての顧客に関する完全なコンテキストを一元的に取得する](gain-full-context-every-customer-one-place.md)| エンド ユーザー、管理者/作成者/アナリストによる有効化 | 2020 年 4 月 |-|
+ | [インテリジェント キューの効果的な使用](work-effectively-intelligent-queue.md)| エンド ユーザー、管理者/作成者/アナリストによる有効化 | 2020 年 4 月 |-|
+ 
+ 
 **有効対象**列の値の説明:
 
 - **エンド ユーザー、自動的**: これらの機能には、エンド ユーザーに対するユーザー エクスペリエンスへの変更が含まれており、自動的に有効になります。

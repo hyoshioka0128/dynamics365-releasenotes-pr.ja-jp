@@ -3,30 +3,30 @@ title: 技術者の時間キャプチャの精度
 description: より正確なタイムスタンプ キャプチャを構成する機能。
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 01/10/2020
+ms.date: 02/17/2020
 ms.assetid: 0ff76893-45cb-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: jacoh
 dynamics365pdf: true
-ms.openlocfilehash: 3bf7a726ae15f2c1d4895ecbb93aa9e8c1da6b47
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 288ed02715eb9254396a05ac7a23bb36dc987569
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986615"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3079568"
 ---
 # <a name="technician-time-capture-precision"></a>技術者の時間キャプチャの精度
 [!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|-|2020 年 2 月| 2020 年 4 月|
+|管理者、作成者、またはアナリスト、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-Dynamics 365 Field Service では、基になる Field Service の状態が変更になったときの、予約タイムスタンプのキャプチャがサポートされています。 ただし、多くの顧客は、予約状態の変更について、より細かい頻度でタイムスタンプをキャプチャする必要があります。 顧客はこの機能により、原価計算の精度を高め、各予約と作業指示書のタイミングをより深く理解し、その他の拡張シナリオを推進できます。    これが、Field Service の構成を介してサポートされるようになりました。 
+Dynamics 365 Field Service では、基になる Field Service の状態が変更になったときの、予約タイムスタンプのキャプチャがサポートされています。 ただし、多くの顧客は、予約状態の変更について、より細かい頻度でタイムスタンプをキャプチャする必要があります。 顧客はこの機能により、原価計算の精度を高め、各予約と作業指示書のタイミングをより深く理解し、その他の拡張シナリオを推進できます。    これが、Field Service の構成を介してサポートされるようになりました。
 <!-- bv end -->
 
 
@@ -52,3 +52,7 @@ Field Service でこの構成設定が導入されたことで、Field Service �
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[タイムスタンプの頻度の設定](https://docs.microsoft.com/dynamics365/field-service/booking-timestamps#timestamp-frequency-setting) (ドキュメント)

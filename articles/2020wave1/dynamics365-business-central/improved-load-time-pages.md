@@ -3,25 +3,25 @@ title: ページの読み込み時間の向上
 description: ページの読み込み時間の向上
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 01/15/2020
+ms.date: 02/03/2020
 ms.assetid: c9b05388-851a-ea11-a811-000d3a8f022a
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: d55a5120bf1d49c772f9ef9672c883bc07d7a3dd
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 6eb528832a20e1e1b7dd709067262a0c388a2780
+ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986666"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "3031838"
 ---
 # <a name="improved-load-time-for-pages"></a>ページの読み込み時間の向上
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -46,3 +46,7 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[開発者向けのパフォーマンス トピック](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/performance/performance-developer) (ドキュメント)

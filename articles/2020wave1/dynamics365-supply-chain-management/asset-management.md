@@ -9,12 +9,12 @@ ms.topic: structure
 ms.service: business-applications
 ms.author: arijitba
 dynamics365pdf: true
-ms.openlocfilehash: 6addd7a0a604aa8ea27b4eadab3da1bea8a1b7e2
-ms.sourcegitcommit: 9ede92eba84a02579fc8fc63e6a9673b034ce30c
+ms.openlocfilehash: c5817d2fc46f3c5256c3a7256e8ae06b35bdb587
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "2976554"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3079428"
 ---
 # <a name="asset-management"></a>資産管理
 

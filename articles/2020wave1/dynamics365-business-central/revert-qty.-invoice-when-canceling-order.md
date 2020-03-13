@@ -3,25 +3,25 @@ title: 注文をキャンセルする場合、請求書に対して数量を元�
 description: 請求書をキャンセルすると、請求された数量が元に戻され、元の注文で請求書の数量がリセットされるようになりました。
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 12/10/2019
+ms.date: 02/04/2020
 ms.assetid: a4becc12-3aef-e911-a812-000d3a4f1ebb
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 126f75c84641c38103cc89d6f48cbe8bf29ba829
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: cd31511b496862fc90727efb869334bcb312d31c
+ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986652"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "3031706"
 ---
 # <a name="revert-qty-to-invoice-when-canceling-order"></a>注文をキャンセルする場合、請求書に対して数量を元に戻します
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|2020 年 1 月| 2020 年 4 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -48,3 +48,7 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 ## <a name="thank-you-for-your-idea"></a>アイデアをありがとうございます
 [このアイデア](https://experience.dynamics.com/ideas/idea/?ideaid=e64f533a-783c-e911-867a-0003ff689eb8)をお送りいただき、ありがとうございました。 アイデア、コメント、投票を参考に、製品のロードマップに追加するものを決定しています。
+
+## <a name="see-also"></a>関連項目
+
+[転記された売上請求書を取り消すには](https://docs.microsoft.com/dynamics365/business-central/sales-how-correct-cancel-sales-invoice#to-cancel-a-posted-sales-invoice) (ドキュメント)

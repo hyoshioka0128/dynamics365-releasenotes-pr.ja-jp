@@ -1,34 +1,34 @@
 ---
-title: AI を搭載した自動取り込みが一般提供される - 自動取り込み
+title: 自動取り込みの一般提供
 description: ''
 author: relnotes
 ms.reviewer: udag
-ms.date: 09/13/2019
+ms.date: 01/29/2020
 ms.assetid: d36b871b-34cb-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: goravi
 dynamics365pdf: true
-ms.openlocfilehash: e8ab0e9c3c11f333a61a9c001e763287438a3021
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 688b604b2b8568ea18a922d094aadebfeada9e31
+ms.sourcegitcommit: 0a73f7354797bcbf643214c5f32d32a0b03a2899
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986844"
+ms.lasthandoff: 02/08/2020
+ms.locfileid: "3033415"
 ---
-# <a name="ai-infused-auto-capture-is-generally-available"></a>AI を搭載した自動取り込みが一般提供されます
+# <a name="auto-capture-is-generally-available"></a>自動取り込みの一般提供
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| 2020 年 8 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
 2019 年リリース ウェーブ 2 の一環として、新しいバージョンの自動取り込みをパブリック プレビューとしてリリースしました。 AI 機能を組み込むことにより、取り込まれた活動の適切なレコードへのマッピングが向上し、取り込まれた活動で示されている新しい連絡先が自動的に検出されるようになりました。 さらに、オンボーディングを改善し、UI を合理化して、管理者が機能を簡単に有効にでき、販売担当者が活動と連絡先を簡単に追跡できるようにしました。  
 
-2020 年リリース ウェーブ 1 の一環として、これらの機能が一般提供されます。  
+2020 年リリース ウェーブ 1 の一環として、これらの機能が一般提供されます。
 <!-- bv end -->
 
 

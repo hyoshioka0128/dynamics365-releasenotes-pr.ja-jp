@@ -3,18 +3,18 @@ title: 最新のクライアント
 description: ''
 author: relnotes
 ms.reviewer: edupont04
-ms.date: 12/11/2019
+ms.date: 01/27/2020
 ms.assetid: 4846d70c-27cb-e911-a996-000d3a4f3343
 ms.topic: structure
 ms.service: business-applications
 ms.author: jannikb
 dynamics365pdf: true
-ms.openlocfilehash: e03ddfc5f0724776f94cc49293e08bd01523a6dd
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 0a31163a012c4a7a10bdfee910ab672c16031297
+ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986817"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "3032399"
 ---
 # <a name="modern-clients"></a>最新のクライアント
 

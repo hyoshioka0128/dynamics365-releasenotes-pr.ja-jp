@@ -3,18 +3,18 @@ title: クロス アプリ機能
 description: ''
 author: relnotes
 ms.reviewer: ''
-ms.date: 01/07/2020
+ms.date: 01/27/2020
 ms.assetid: 9e6abc3b-76c8-e911-a968-000d3a4f3883
 ms.topic: structure
 ms.service: business-applications
 ms.author: robadawy
 dynamics365pdf: true
-ms.openlocfilehash: 5c4200a998d5e519db50cc0f0ccaf6509683c72d
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: c25a62704e5e5735ed6bf7ec7c5f5e6c6615e60e
+ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986586"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "3032047"
 ---
 # <a name="cross-app-features"></a>クロス アプリ機能
 
@@ -32,7 +32,6 @@ Finance and Operations アプリでは、新たに BarTender が統合されま�
 
 ## <a name="licensing"></a>ライセンス
 インターフェイスは、現在のユーザーが使用を許可されている Finance and Operations アプリに適合するようになっているので、自分のライセンスに含まれていないメニューやメニュー項目を非表示にする面倒がありません。
-
 <!--structure end-->
 
 

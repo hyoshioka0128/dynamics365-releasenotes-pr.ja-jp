@@ -3,30 +3,30 @@ title: レコードの自動的な作成と更新
 description: サポート案件レコードの自動的な作成と更新
 author: relnotes
 ms.reviewer: nenellim
-ms.date: 01/13/2020
+ms.date: 02/05/2020
 ms.assetid: 239a8695-3f70-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: craigm
 dynamics365pdf: true
-ms.openlocfilehash: 8479628ad7886473e7da2864bd246c1dfa1bc91e
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 8525f63fbc16fb0b680a780f59052e149d906a64
+ms.sourcegitcommit: 0a73f7354797bcbf643214c5f32d32a0b03a2899
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986632"
+ms.lasthandoff: 02/08/2020
+ms.locfileid: "3033294"
 ---
 # <a name="automatically-create-and-update-records"></a>レコードの自動的な作成と更新
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|-|2020 年 2 月| 2020 年 6 月|
+|管理者、作成者、またはアナリスト、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| 2020 年 6 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-企業は、最新の Dynamics 365 アプリケーションに移行し、顧客から送信された電子メールに基づいてサポート案件レコードの自動作成を引き続き利用できます。  管理者はこの機能を使用して、利用可能なアクティビティのセットからリードまたはその他任意のエンティティ レコードを作成することもできます。
+企業は、最新の Dynamics 365 アプリケーションに移行し、顧客から送信された電子メールに基づいてサポート案件レコードの自動作成を引き続き利用できます。 管理者はこの機能を使用して、利用可能なアクティビティのセットからリードまたはその他任意のエンティティ レコードを作成することもできます。
 <!-- bv end -->
 
 
@@ -44,3 +44,7 @@ ms.locfileid: "2986632"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[顧客サービス ハブでレコードを自動的に作成または更新する](https://docs.microsoft.com/dynamics365/customer-service/automatically-create-update-records) (ドキュメント)

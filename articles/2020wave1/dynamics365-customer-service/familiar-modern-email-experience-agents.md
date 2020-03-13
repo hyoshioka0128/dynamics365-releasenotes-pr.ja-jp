@@ -3,30 +3,30 @@ title: エージェント向けの使い慣れた最新のメール エクスペ
 description: エージェント向けの使い慣れた最新のメール エクスペリエンス
 author: relnotes
 ms.reviewer: laalexan
-ms.date: 01/10/2020
+ms.date: 02/05/2020
 ms.assetid: e661278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: craigm
 dynamics365pdf: true
-ms.openlocfilehash: de316c342b2fb8a3a0e509daff5c3c713ce43a81
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 6db99a0e7e7d2ac53c46bb34905d7a9fd45f434b
+ms.sourcegitcommit: 0a73f7354797bcbf643214c5f32d32a0b03a2899
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986784"
+ms.lasthandoff: 02/08/2020
+ms.locfileid: "3033371"
 ---
 # <a name="familiar-modern-email-experience-for-agents"></a>エージェント向けの使い慣れた最新のメール エクスペリエンス
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-メールは、エージェントが顧客との通信に使用する重要な通信チャネルです。 堅牢で最新のメール エクスペリエンスを使用することにより、エージェントは、テンプレートと、可能な限り最高の顧客サービス エクスペリエンスを促進する充実した書式設定機能を使用して、高品質のメールを迅速かつ簡単に作成できます。 
+メールは、エージェントが顧客との通信に使用する重要な通信チャネルです。 堅牢で最新のメール エクスペリエンスを使用することにより、エージェントは、テンプレートと、可能な限り最高の顧客サービス エクスペリエンスを促進する充実した書式設定機能を使用して、高品質のメールを迅速かつ簡単に作成できます。
 <!-- bv end -->
 
 
@@ -49,3 +49,7 @@ ms.locfileid: "2986784"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[メールの表示と作成](https://docs.microsoft.com/dynamics365/customer-service/customer-service-hub-user-guide-basics#view-and-create-email) (ドキュメント)

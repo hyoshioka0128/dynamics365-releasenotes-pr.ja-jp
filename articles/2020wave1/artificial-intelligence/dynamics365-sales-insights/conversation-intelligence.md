@@ -3,18 +3,18 @@ title: 会話インテリジェンス
 description: ''
 author: relnotes
 ms.reviewer: shubhadaj
-ms.date: 09/27/2019
+ms.date: 01/27/2020
 ms.assetid: 6568f6b4-e9c9-e911-a96a-000d3a4f36ce
 ms.topic: structure
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: 6576d281943fcaeeaa3f2e19a579cb6fd1e3a874
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: a6d11bbc146e78db850b893b158b21b85771252f
+ms.sourcegitcommit: 0a73f7354797bcbf643214c5f32d32a0b03a2899
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986840"
+ms.lasthandoff: 02/08/2020
+ms.locfileid: "3033338"
 ---
 # <a name="conversation-intelligence"></a>会話インテリジェンス
 

@@ -3,37 +3,39 @@ title: イベント管理エクスペリエンスの改善
 description: ''
 author: relnotes
 ms.reviewer: shellyha
-ms.date: 01/09/2020
+ms.date: 02/19/2020
 ms.assetid: b916e9c7-281d-ea11-a811-000d3a8f0752
 ms.topic: article
 ms.service: business-applications
-ms.author: yukom
+ms.author: shsuri
 dynamics365pdf: true
-ms.openlocfilehash: c90ed43bd3b4f3f97ad76e7f88ec10cf363f67ec
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: bf5dcc922dc4ac0361f68c5c6d6b5613c7b02501
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986740"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3080239"
 ---
 # <a name="improved-event-management-experience"></a>イベント管理エクスペリエンスの改善
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
 
 
-
+## <a name="business-value"></a>ビジネス バリュー
+<!-- bv start -->
+このリリースでは、登録プロセスの速度と同時実行性を向上させるために、イベント登録エクスペリエンスが大幅に見直されています。 
+<!-- bv end -->
 
 
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-このリリースでは、登録プロセスの速度と同時実行性を向上させるために、イベント登録エクスペリエンスが大幅に見直されています。 イベント プランナーは、Marketing アプリケーション内でフォームを使用してイベント登録用のフォームを作成できます。これにより、イベント プランナーは使い慣れたドラッグ アンド ドロップ インターフェイスを使用して登録フォームを作成し、より多くの種類のフィールドを含めることができます。 さらに、Marketing アプリケーションの他のフォームと同様に、初めてイベント登録フォームをサードパーティのコンテンツ管理システム (CMS) に埋め込むことができます。 
-
-また、イベント プランナーは、イベントを離れることなく、イベント エンティティから直接イベント登録フォームをデザインすることができます。
-
+- **イベントでマーケティング フォームを使用する**: イベント プランナーは、Marketing アプリケーション内でフォームを使用してイベント登録用のフォームを作成できます。これにより、イベント プランナーは使い慣れたドラッグ アンド ドロップ インターフェイスを使用して登録フォームを作成し、より多くの種類のフィールドを含めることができます。 
+- **登録フォームを CMS に埋め込む**: Marketing アプリケーションの他のフォームと同様に、初めてイベント登録フォームをサードパーティのコンテンツ管理システム (CMS) に埋め込むことができます。 
+- **イベント内でフォームをデザインする**: イベント プランナーは、イベントを離れることなく、イベント エンティティからイベント登録フォームをデザインすることができます。
 <!--feature detail end -->
 
 
@@ -44,3 +46,7 @@ ms.locfileid: "2986740"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[Dynamics 365 Marketing の新機能](https://docs.microsoft.com/dynamics365/marketing/whats-new-marketing)

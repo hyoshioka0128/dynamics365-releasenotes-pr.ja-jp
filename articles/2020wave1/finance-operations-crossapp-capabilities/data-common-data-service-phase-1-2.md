@@ -3,18 +3,18 @@ title: Common Data Service のデータ - フェーズ 1 と 2
 description: Common Data Service のデータ - フェーズ 1 と 2
 author: RamaKrishnamoorthy
 ms.reviewer: rhaertle
-ms.date: 01/08/2020
+ms.date: 02/03/2020
 ms.assetid: 5838d44d-8d1b-ea11-a812-000d3a8f010c
 ms.topic: article
 ms.service: business-applications
 ms.author: ramasri
 dynamics365pdf: true
-ms.openlocfilehash: 54a41489d0c3ffc00f107a9ed1a6d4e45a410cd9
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 5f4d40ae9370ef535830c5097b9172978ca74ff5
+ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986725"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "3032036"
 ---
 # <a name="data-in-common-data-service--phase-1--2"></a>Common Data Service のデータ - フェーズ 1 と 2
 [!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
@@ -32,7 +32,7 @@ ms.locfileid: "2986725"
 <!--feature detail start -->
 Finance and Operations アプリのデータを Common Data Service で取得し、最新の状態に保ちます。 
 
-Finance and Operations アプリとその他の Dynamics 365 アプリの間で収束する概念を調和させることで、二重書き込みフレームワークをシームレスなエクスペリエンスにしています。 これにより、企業はアプリの境界を超えて、ニア リアルタイムのデータを同期的に、双方向で交換できるようになるため、"1 つの Dynamics 365" エクスペリエンスが実現します。 
+Finance and Operations アプリと Dynamics 365 のモデル駆動型アプリの間で収束する概念を調和させることで、二重書き込みフレームワークをシームレスなエクスペリエンスにしています。 これにより、企業はアプリの境界を超えて、ニア リアルタイムのデータを同期的に、双方向で交換できるようになるため、統合されたエクスペリエンスがユーザーに提供されます。 
 
 すべてのビジネスが固有のものであることがわかっているので、二重書き込みフレームワークを拡張可能にしました。 これには、カスタム エンティティの有効化に加え、Common Data Service と最重要ビジネス データ用の関連ツールをフルに使用するための既存のエンティティへの拡張が含まれます。
 
@@ -110,7 +110,6 @@ Finance and Operations アプリとその他の Dynamics 365 アプリの間で�
 [フェーズ 1](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/finance-operations-crossapp-capabilities/data-common-data-service-phase-1) のプレビュー時には、マスター データと参照データのシナリオに関する一連の機能が引き続き提供されます。**フェーズ 2** の機能では、価格設定、見積、注文、請求書、資産など、エンドツーエンドのシナリオがサポートされる予定です。 これらのシナリオは、ユーザーとパートナーによってさらに充実させることができます。 これらの領域に対するエンティティの対応範囲は、プレビュー時に発表されます。 
 
 フェーズ 2 の機能は、1 月から 2 月にかけてのプレビューを予定しています。
-
 <!--feature detail end -->
 
 

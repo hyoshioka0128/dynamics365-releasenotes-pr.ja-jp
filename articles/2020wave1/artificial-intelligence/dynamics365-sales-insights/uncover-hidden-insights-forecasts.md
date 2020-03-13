@@ -3,32 +3,32 @@ title: 予測から隠れた分析情報を見つける
 description: ''
 author: relnotes
 ms.reviewer: udag
-ms.date: 01/16/2020
+ms.date: 02/10/2020
 ms.assetid: 2c748d11-a2d7-e911-a812-000d3a4f15f1
 ms.topic: article
 ms.service: business-applications
 ms.author: dandalla
 dynamics365pdf: true
-ms.openlocfilehash: bc5ed2c0f8f49c1b1fb061fffb63ea817e0dc657
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 1f4f6bed0cb0270eaf5e2abf66c18aabfcb436e7
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986836"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3080063"
 ---
 # <a name="uncover-hidden-insights-in-your-forecasts"></a>予測から隠れた分析情報を見つける
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2020 年 2 月| 2020 年 4 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 7 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
 Dynamics 365 Sales の予測機能は、営業マネージャーが信頼できる有意義な予測数値をリーダーシップに活用できる優れた柔軟性を提供します。 営業マネージャーは、スナップショットを取得し、その時点で予測を凍結して予測を分析し、スナップショット間の変化を通じてより深い理解を得ることができます。 
 
-取引フロー分析では、2 つのスナップショットを視覚的に比較することで、営業マネージャーは予測値の変化だけでなく、変化に寄与している背後のレコードを簡単に確認できます。 たとえば、営業マネージャーとして、自身のチームが 10 万件の取引を成約すると予測していたものの、8 万件しか成約しなかった場合、どの取引が成約しなかったのかを調査してその理由を把握し、将来のプランニングに生かすことができます。 
+取引フロー分析では、2 つのスナップショットを視覚的に比較することで、営業マネージャーは予測値の変化だけでなく、変化に寄与している背後のレコードを簡単に確認できます。 たとえば、営業マネージャーとして、自身のチームが 10 万件の取引を成約すると予測していたものの、8 万件しか成約しなかった場合、どの取引が成約しなかったのかを調査してその理由を把握し、将来のプランニングに生かすことができます。
 <!-- bv end -->
 
 
@@ -39,10 +39,9 @@ Dynamics 365 Sales の予測機能は、営業マネージャーが信頼でき�
 - **スナップショットの履歴を表示する**: 予測ごとに、取得されたすべてのスナップショットのログを調べ、必要に応じて管理します。 Sales Enablement マネージャーが組織にとって有益な学習を構築できるようにします。
 - **取引フローとスナップショットの視覚化のメリット**: 2 つの予測スナップショットを視覚的に比較して、予測が時間とともに変化した経緯と理由について理解を深めます。
 - **累積トレンド グラフを活用する**: タイムライン グラフ全体で予測を視覚的に調査します。
-
 <!--feature detail end -->
 
-![予測が時間とともにどのように変化しているかを理解する](media/forecasting_dealflow.png "予測が時間とともにどのように変化しているかを理解する")
+![予測が時間と共にどのように変化しているかを理解する](media/forecasting_dealflow.png "予測が時間と共にどのように変化しているかを理解する")
 <!-- Picture 1 -->
 
 
@@ -52,3 +51,7 @@ Dynamics 365 Sales の予測機能は、営業マネージャーが信頼でき�
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[スナップショット間の取引フローを分析する](https://docs.microsoft.com/dynamics365/ai/sales/analyze-deals-flow-between-snapshots) (ドキュメント)

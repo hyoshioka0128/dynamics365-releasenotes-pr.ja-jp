@@ -3,25 +3,25 @@ title: Dynamics 365 Sales や Microsoft SharePoint に標準化された PDF ド
 description: ''
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 01/09/2020
+ms.date: 02/03/2020
 ms.assetid: 53991d2d-22db-e911-a812-000d3a4f13c0
 ms.topic: article
 ms.service: business-applications
 ms.author: bharavar
 dynamics365pdf: true
-ms.openlocfilehash: 29f5759a80a53d59994196d81022073c94cef6da
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 3fd6ee8076cb44d839d119d5c005e910491e4276
+ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986731"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "3032080"
 ---
 # <a name="save-standardized-pdf-documents-to-dynamics-365-sales-or-microsoft-sharepoint"></a>Dynamics 365 Sales や Microsoft SharePoint に標準化された PDF ドキュメントを保存する
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -39,17 +39,18 @@ Dynamics 365 Sales では、過去数か月の作業で、販売担当者が見�
 -  Word テンプレートに基づいて標準化された PDF ドキュメントを SharePoint に保存する。
 <!--feature detail end -->
 
-![PDF を Dynamics 365 Sales または Microsoft SharePoint に保存するダイアログ ボックス](media/save-sharepoint-1.png "PDF を Dynamics 365 Sales または Microsoft SharePoint に保存するダイアログ ボックス。")
+![PDF を Dynamics 365 Sales または Microsoft SharePoint に保存するダイアログ ボックス](media/save-sharepoint-1.png "PDF を Dynamics 365 Sales または Microsoft SharePoint に保存するダイアログ ボックス")
 <!-- Picture 1 -->
 
-![メモに追加された PDF ドキュメント](media/save-sharepoint-2.png "メモに追加された PDF ドキュメント。")
+![メモに追加された PDF ドキュメント](media/save-sharepoint-2.png "メモに追加された PDF ドキュメント")
 <!-- Picture 2 -->
 
-![SharePoint サイトに追加された PDF ドキュメント](media/save-sharepoint-3.png "SharePoint サイトに追加された PDF ドキュメント。")
+![SharePoint サイトに追加された PDF ドキュメント](media/save-sharepoint-3.png "SharePoint サイトに追加された PDF ドキュメント")
 <!-- Picture 3 -->
 
 > [!NOTE]
-> この機能は、従来の Web クライアントと統一インターフェイスの両方で使用できます。<br>
+> この機能は、統一インターフェイスでのみ使用できます。 
+>
 > この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
 
 
@@ -57,3 +58,7 @@ Dynamics 365 Sales では、過去数か月の作業で、販売担当者が見�
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[営業レコードから PDF ドキュメントを作成する](https://docs.microsoft.com/dynamics365/sales-enterprise/create-quote-pdf) (ドキュメント)

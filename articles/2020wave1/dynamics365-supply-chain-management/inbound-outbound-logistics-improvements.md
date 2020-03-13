@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: pjacobse
 dynamics365pdf: true
-ms.openlocfilehash: bb3a526051a37dfaacd710c585b7c272a429ea03
-ms.sourcegitcommit: 9ede92eba84a02579fc8fc63e6a9673b034ce30c
+ms.openlocfilehash: 9af082cc872729e7963d93719a900590fb74d612
+ms.sourcegitcommit: 1e222f5d9816ce7157d63f308aea14d853628226
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "2976530"
+ms.lasthandoff: 02/10/2020
+ms.locfileid: "3035852"
 ---
 # <a name="inbound-and-outbound-logistics-improvements"></a>インバウンドおよびアウトバウンドのロジスティクスの改善
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
@@ -77,10 +77,6 @@ ms.locfileid: "2976530"
   - ラベル (短いピッキング シナリオの場合) と再印刷の無効化がサポートされます。
 
   - ウェーブ ラベル履歴のクリーンアップがサポートされます。
-
-
-
-
 
   これらの修正により、パレット化前のカートンのラベル付けのサポートがより効率的になります。 個々のカートンのスキャンを使用して自動的に注文受領確認を実行する大規模小売業者に出荷する会社をサポートします。
 

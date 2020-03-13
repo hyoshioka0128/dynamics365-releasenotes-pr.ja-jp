@@ -3,25 +3,25 @@ title: 高精度パイプライン管理で予測を理解する
 description: 関係するレコードの簡単な管理、明確な視覚化、ほぼリアルタイムの更新が可能であり、これによって予測精度が向上します。
 author: relnotes
 ms.reviewer: udag
-ms.date: 01/15/2020
+ms.date: 02/10/2020
 ms.assetid: cfe1014a-cfca-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: dandalla
 dynamics365pdf: true
-ms.openlocfilehash: 9833aebd5a473963039316d570c196fc0ad6ca60
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 0432c12e1a7e8ac7f0f1565b1e90c1d0b7c299be
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986588"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3080205"
 ---
 # <a name="understand-forecasts-with-precision-pipeline-management"></a>高精度パイプライン管理で予測を理解する
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 7 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -39,12 +39,12 @@ ms.locfileid: "2986588"
 - **ほぼリアルタイムの更新のメリット**: 予測値の自動再計算を利用することで、常に可能な限り最新のデータを確認できます。
 <!--feature detail end -->
 
-
-![視覚的なかんばんボードを使用して取引を調整する](media/forecasting_kanban.png "視覚的なかんばんボードを使用して取引を調整する。")
+![視覚的なかんばんボードを使用して取引を調整する](media/forecasting_kanban.png "視覚的なかんばんボードを使用して取引を調整する")
 <!-- Picture 1 -->
 
 > [!NOTE]
-> この機能は、統一インターフェイスでのみ使用できます。<br>
+> この機能は、統一インターフェイスでのみ使用できます。 
+>
 > この機能は、Dynamics 365 Sales Enterprise のみを対象としています。
 
 
@@ -52,3 +52,7 @@ ms.locfileid: "2986588"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[基礎となる営業案件の表示と管理](https://docs.microsoft.com/dynamics365/sales-enterprise/view-and-manage-underlying-opportunities) (ドキュメント)

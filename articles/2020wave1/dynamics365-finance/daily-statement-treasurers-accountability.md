@@ -3,18 +3,18 @@ title: 会計登録者の会計責任に関する日次明細
 description: ''
 author: relnotes
 ms.reviewer: roschlom
-ms.date: 01/08/2020
+ms.date: 02/13/2020
 ms.assetid: 33cde637-7fcb-e911-a968-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: cb52b5c968cb7bb1dc06e80ff20b8925a9fa3302
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 714b2278194df6f3fd1d08364ea57dddddfd5eb1
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986612"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3080349"
 ---
 # <a name="daily-statement-of-treasurers-accountability"></a>会計登録者の会計責任に関する日次明細
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]

@@ -3,18 +3,18 @@ title: Power Platform
 description: ''
 author: relnotes
 ms.reviewer: edupont04
-ms.date: 09/02/2019
+ms.date: 01/27/2020
 ms.assetid: e79a8a12-bccd-e911-a96a-000d3a4f36ce
 ms.topic: structure
 ms.service: business-applications
 ms.author: jannikb
 dynamics365pdf: true
-ms.openlocfilehash: bdd5294e775c9c8593972d437147f13a689aacad
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 63d816c548678a267b96d928f57cd73a851f2d15
+ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986656"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "3031728"
 ---
 # <a name="power-platform"></a>Power Platform
 

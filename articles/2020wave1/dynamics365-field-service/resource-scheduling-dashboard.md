@@ -3,32 +3,30 @@ title: リソース スケジュール ダッシュボード
 description: リソース スケジュール分析情報ダッシュボード
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 01/10/2020
+ms.date: 02/10/2020
 ms.assetid: e34c84f9-b7ca-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: feiqiu
 dynamics365pdf: true
-ms.openlocfilehash: bd94069c5f173651d968a2469c55330966e2630e
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 233011550ceda92070bc67fcd0b2a512c1a9bc24
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986771"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3079580"
 ---
 # <a name="resource-scheduling-dashboard"></a>リソース スケジュール ダッシュボード
 [!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-サービス マネージャーや派遣担当者がリソースを効果的に使用していることを確認するには、適切な指標と測定基準を調べる必要があります。 この新しいダッシュボードには、初期状態でリソース スケジューリングの指標と測定値が用意されています。 
-
-
+サービス マネージャーや派遣担当者がリソースを効果的に使用していることを確認するには、適切な指標と測定基準を調べる必要があります。 この新しいダッシュボードには、初期状態でリソース スケジューリングの指標と測定値が用意されています。
 <!-- bv end -->
 
 
@@ -49,3 +47,6 @@ ms.locfileid: "2986771"
 
 
 
+
+## <a name="see-also"></a>関連項目
+[リソース スケジュールと最適化の分析ダッシュボード](https://docs.microsoft.com/dynamics365/field-service/scheduling-analytics-reports) (ドキュメント)
