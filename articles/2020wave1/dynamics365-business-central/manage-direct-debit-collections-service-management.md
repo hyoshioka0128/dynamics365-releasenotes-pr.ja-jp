@@ -3,25 +3,26 @@ title: Service Management で口座引落の回収を管理する
 description: Service Management で作成した請求書に対する口座引落回収機能を使用して、顧客未収金を回収します。
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 12/10/2019
+ms.date: 02/04/2020
 ms.assetid: 71a02882-4aca-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 11a6c37099610cd6b39b9be7ee02192e95ca05f1
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 74cbaf04a901346becc47c2aa9d86f2b10e4b46d
+ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986823"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "3032465"
 ---
 # <a name="manage-direct-debit-collections-in-service-management"></a>Service Management で口座引落の回収を管理する
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|2020 年 1 月| 2020 年 4 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| 2020 年 4 月|
+
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->

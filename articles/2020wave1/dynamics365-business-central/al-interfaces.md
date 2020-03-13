@@ -3,25 +3,25 @@ title: AL インターフェイス
 description: AL でインターフェイスを定義および実装して、コードがインターフェイスに準拠する任意のタイプと対話できるようにします。
 author: relnotes
 ms.reviewer: solsen
-ms.date: 12/12/2019
+ms.date: 02/12/2020
 ms.assetid: 2fc48a30-db1c-ea11-a811-000d3a8f0f1e
 ms.topic: article
 ms.service: business-applications
 ms.author: pborring
 dynamics365pdf: true
-ms.openlocfilehash: 41380a1acd01ff676c86cf417ccda015bc5993dc
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 79eacf0972e4626ff5ba72d97db3854da8fedaa8
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986675"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3080041"
 ---
 # <a name="al-interfaces"></a>AL インターフェイス
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2020 年 2 月| 2020 年 4 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -54,3 +54,7 @@ ms.locfileid: "2986675"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[AL Development Environment](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-reference-overview) (ドキュメント)

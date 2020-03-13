@@ -9,16 +9,13 @@ ms.topic: structure
 ms.service: business-applications
 ms.author: jeffbl
 dynamics365pdf: true
-ms.openlocfilehash: 77eef53b0a80217815e717e911e58fa9847eebfc
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 92e121f9a71e746d9af453bcd4f7e6045dd76083
+ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986635"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "3032278"
 ---
-<!--from editor: Content needed. -->
-
-
 # <a name="unified-commerce"></a>統合型コマース
 
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]

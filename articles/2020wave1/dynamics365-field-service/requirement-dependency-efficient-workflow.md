@@ -3,25 +3,25 @@ title: 効率的なワークフローのための要件の依存関係
 description: 要件やタスク間に依存関係を作成して、一貫した効率的なワークフローを推進するために必要な順序で実行されるようにします。
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 01/15/2020
+ms.date: 02/17/2020
 ms.assetid: f9f164ca-0c1e-ea11-a811-000d3a8f022a
 ms.topic: article
 ms.service: business-applications
 ms.author: ragguru
 dynamics365pdf: true
-ms.openlocfilehash: 044ed7bd84102682034049b1d58d9879d3423195
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: dd13f32dca735bf68beb5fda2de6af146187351e
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986616"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3079601"
 ---
 # <a name="requirement-dependency-for-efficient-workflow"></a>効率的なワークフローのための要件の依存関係
 [!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,3 +47,7 @@ ms.locfileid: "2986616"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[要件の依存関係の順にスケジュールする](https://docs.microsoft.com/dynamics365/field-service/rso-requirement-dependency) (ドキュメント)

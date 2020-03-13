@@ -2,26 +2,26 @@
 title: 顧客および仕入先向けドキュメント レイアウトの強化
 description: 販売および購入分野のレポート選択の設定に基づいて顧客および仕入先向けのドキュメント レイアウトを入力し、ドキュメントの送信先にする会社固有の連絡先を指定します。
 author: relnotes
-ms.reviewer: edupont
-ms.date: 01/10/2020
+ms.reviewer: sgroespe
+ms.date: 02/07/2020
 ms.assetid: c1160c96-3205-ea11-a811-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 19422835abf53bffe65c627797fbb859189b75c0
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 4d832a79de01f2e66c79dbe16fac9fff8f73c0c6
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986828"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3079997"
 ---
 # <a name="enhanced-customer-and-vendor-document-layout"></a>顧客および仕入先向けドキュメント レイアウトの強化
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|2020 年 1 月| 2020 年 4 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -35,9 +35,9 @@ ms.locfileid: "2986828"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-**レポートの選択**ページの設定に基づいて仕入先および顧客の**ドキュメント レイアウト** ページを設定できるようになりました。 特定のドキュメントが特定の会社の連絡先に送信されるようにするには、特定のドキュメント レイアウトに対して使用する会社の連絡先を選択するだけです。 
+**レポートの選択**ページの設定に基づいて仕入先および顧客の**ドキュメント レイアウト** ページを設定できるようになりました。 特定のドキュメントが特定の会社の連絡先に送信されるようにするには、特定のドキュメント レイアウトに対して使用する会社の連絡先を選択します。 
 
-顧客の**ドキュメント レイアウト** ページに、リマインダーおよび転記された出荷のための使用目的オプションが追加されました。 仕入先の**ドキュメント レイアウト** ページに、発注書および転記された返品出荷のための使用目的オプションが追加されました。 
+顧客の**ドキュメント レイアウト** ページに、リマインダーおよび転記された出荷のための使用目的オプションが追加されました。 仕入先の**ドキュメント レイアウト** ページに、発注書および転記された返品出荷のための使用目的オプションが追加されました。
 <!--feature detail end -->
 
 ![顧客のドキュメント レイアウト ページ](media/cust-doc-layouts.png "顧客のドキュメント レイアウト ページ")
@@ -54,3 +54,7 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 ## <a name="thank-you-for-your-idea"></a>アイデアをありがとうございます
 [このアイデア](https://experience.dynamics.com/ideas/idea/?ideaid=4dc371df-492c-e811-bbd3-0003ff689d14)をお送りいただき、ありがとうございました。 アイデア、コメント、投票を参考に、製品のロードマップに追加するものを決定しています。
+
+## <a name="see-also"></a>関連項目
+
+[顧客と仕入先のドキュメント レイアウトを定義する](https://docs.microsoft.com/dynamics365/business-central/ui-define-customer-vendor-document-layouts) (ドキュメント)

@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: perlynne
 dynamics365pdf: true
-ms.openlocfilehash: 68377167c7e2593612679806241ff0f524f001f1
-ms.sourcegitcommit: 9ede92eba84a02579fc8fc63e6a9673b034ce30c
+ms.openlocfilehash: f695247b406980087c7872cc5e0f050c9ca31c61
+ms.sourcegitcommit: 1e222f5d9816ce7157d63f308aea14d853628226
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "2976556"
+ms.lasthandoff: 02/10/2020
+ms.locfileid: "3035797"
 ---
 # <a name="catch-weight-product-processing-with-warehouse-management"></a>倉庫管理での CW 製品処理
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]

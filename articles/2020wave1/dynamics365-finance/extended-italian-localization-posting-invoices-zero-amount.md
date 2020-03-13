@@ -3,25 +3,25 @@ title: '拡張されたローカライズ (イタリア): 金額がゼロの請�
 description: Dynamics 365 Finance が、以前はイタリアのパートナー Cluster Reply によって提供された、拡張されたローカライズ (イタリア) (EXIL) アドインでのみ利用可能であった、イタリア語固有の機能セットが利用できるように拡張されました。
 author: relnotes
 ms.reviewer: kfend
-ms.date: 12/17/2019
+ms.date: 02/10/2020
 ms.assetid: 9773b7f5-eedb-e911-a812-000d3a4f1168
 ms.topic: article
 ms.service: business-applications
 ms.author: mrolecki
 dynamics365pdf: true
-ms.openlocfilehash: c884874891e91c62689cef27ce42c08f98849f3d
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 2e9798ab6fcd277ff921b2af5acca37696a082c1
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986757"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3079458"
 ---
 # <a name="extended-italian-localization-posting-invoices-with-zero-amount"></a>拡張されたローカライズ (イタリア): 金額がゼロの請求書の転記
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -44,3 +44,7 @@ ms.locfileid: "2986757"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[金額がゼロの請求書の転記](https://docs.microsoft.com/dynamics365/finance/localizations/emea-ita-exil-zero-invoice-posting) (ドキュメント)

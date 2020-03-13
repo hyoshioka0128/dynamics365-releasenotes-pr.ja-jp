@@ -1,20 +1,20 @@
 ---
 title: 予測
-description: Dynamics 365 Forecasting に新しい一連の機能を導入し、組織がボトムアップの売上予測プロセスをネイティブで作成して管理できるようにします。
+description: Dynamics 365 Sales の予測に新しい一連の機能を導入し、組織がボトムアップの売上予測プロセスをネイティブで作成して管理できるようにします。
 author: relnotes
 ms.reviewer: shubhadaj
-ms.date: 09/17/2019
+ms.date: 02/07/2020
 ms.assetid: 11fc578d-dcd4-e911-a968-000d3a4f3883
 ms.topic: structure
 ms.service: business-applications
 ms.author: ronik
 dynamics365pdf: true
-ms.openlocfilehash: 2b10e0d8cb5f8d8ee283b50dc383a81a25c464d6
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: ba6c7f833761ab432641e7d204a73dfbac66d1a8
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986733"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3079502"
 ---
 # <a name="forecasting"></a>予測
 
@@ -23,7 +23,7 @@ ms.locfileid: "2986733"
 <!--structure start-->
 組織は、ビジネスの健全性を真に理解し、正確な情報に基づいて戦略的に意思決定を下すために、販売目標を正確に予測する必要があります。 CEO は、ビジネス変革を戦略的に行うために、すべての製品の需要を予測する必要があります。COO は、リソースを効率的に割り当てるためにビジネスの範囲を理解する必要があります。CFO は、ビジネスを成長に導く財務計画の作成のために、今後のキャッシュ フローを可視化する必要があります。 ただし、これらの戦略的な意思決定を伝えることができる正確な販売予測機能の開発には、苦労を伴うことがよくあります。
 
-Dynamics 365 Forecasting に新しい一連の機能を導入し、組織がボトムアップの売上予測プロセスをネイティブで作成して管理できるようにします。 
+Dynamics 365 Sales の予測に新しい一連の機能を導入し、組織がボトムアップの売上予測プロセスをネイティブで作成して管理できるようにします。 
 
 正確な予測は、チームの全員に役立ちます。
 

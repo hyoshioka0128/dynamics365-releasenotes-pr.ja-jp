@@ -3,18 +3,18 @@ title: リレーションシップ分析と自動取り込み
 description: ''
 author: relnotes
 ms.reviewer: shubhadaj
-ms.date: 09/12/2019
+ms.date: 01/27/2020
 ms.assetid: 03eab01a-a7d5-e911-a968-000d3a4f3883
 ms.topic: structure
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: b211ed7372954a62c59bc30bbf4180479b6e5ef1
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: d70d5ca14c4916be64721ff0c2bb04f864853d10
+ms.sourcegitcommit: 0a73f7354797bcbf643214c5f32d32a0b03a2899
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986837"
+ms.lasthandoff: 02/08/2020
+ms.locfileid: "3033270"
 ---
 # <a name="relationship-analytics-and-auto-capture"></a>リレーションシップ分析と自動取り込み
 
@@ -30,9 +30,8 @@ ms.locfileid: "2986837"
 データ入力を自動化し、リレーションシップを成功に導く要素を深く理解することは、チームの全員にとって重要です。
 
 -**販売担当者**は、すべての顧客エンゲージメントが前のエンゲージメントからシームレスに継続することに注力する必要があります。 自動化により、Dynamics 365 Sales の更新にかかる時間を節約できる一方で、リレーションシップ ベンチマークは、効果的な販売戦略を発見し、販売のエキスパートを特定するのに役立ちます。 これらはすべて、より迅速なペースで取引を進めることに貢献します。
--**営業マネージャー**は、進捗状況を効果的に追跡し、継続中の取引のステータスを明確に理解することで、ギャップを迅速に特定して積極的に対処する必要があります。 成績上位の販売担当者の行動と属性を理解することは、営業チーム全体でベスト プラクティスを浸透させるのに役立ちます。
+-**営業マネージャー**は、進捗状況を効果的に追跡し、継続中の取引のステータスを明確に理解することで、ギャップを迅速に特定してプロアクティブに対処する必要があります。 成績上位の販売担当者の行動と属性を理解することは、営業チーム全体でベスト プラクティスを浸透させるのに役立ちます。
 -**セールス イネーブルメント マネージャー**には、何が成功をもたらすかを理解するために、類似の取引の属性に基づくリレーションシップ インサイトが必要です。 各エンゲージメントのコンテキストに関連する販売ガイダンスは、販売担当者に使用される可能性が高くなっています。
-
 <!--structure end-->
 
 

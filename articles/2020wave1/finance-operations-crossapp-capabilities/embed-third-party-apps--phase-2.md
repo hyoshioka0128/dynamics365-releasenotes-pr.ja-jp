@@ -3,18 +3,18 @@ title: サード パーティのアプリを埋め込む - フェーズ 2
 description: サード パーティのアプリを埋め込む
 author: relnotes
 ms.reviewer: sericks
-ms.date: 01/10/2020
+ms.date: 02/18/2020
 ms.assetid: ec26b6a7-db1d-ea11-a811-000d3a8f0f1e
 ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
-ms.openlocfilehash: a887bef155e003cd879e50990b0fb26a415a1b6a
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: a415c8fd6f2d8ab4dd62c54eb2a92dfd48cf0112
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986720"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3079216"
 ---
 # <a name="embed-third-party-apps--phase-2"></a>サード パーティのアプリを埋め込む - フェーズ 2
 [!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
@@ -22,6 +22,10 @@ ms.locfileid: "2986720"
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
 |エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 4 月| -|
+
+
+
+
 
 
 ## <a name="feature-details"></a>機能の詳細
@@ -32,9 +36,7 @@ ms.locfileid: "2986720"
 
 この機能は、**保存されているビュー**機能が有効になっていることに依存することに注意してください。
 
-**10.0.7 / Platform update 31** 新しい Web サイト ホスト コントロールが追加され、開発者がサード パーティのアプリを Finance and Operations ページに直接埋め込めるようになりました。 
-
-
+**10.0.7 / Platform update 31** 新しい Web サイト ホスト コントロールが追加され、開発者がサード パーティのアプリを Finance and Operations ページに直接埋め込めるようになりました。
 <!--feature detail end -->
 
 
@@ -45,3 +47,7 @@ ms.locfileid: "2986720"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[ユーザー エクスペリエンスのパーソナライズ](https://docs.microsoft.com/dynamics365/fin-ops-core/fin-ops/get-started/personalize-user-experience) (ドキュメント)

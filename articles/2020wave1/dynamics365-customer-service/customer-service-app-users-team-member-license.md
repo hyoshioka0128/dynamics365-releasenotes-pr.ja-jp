@@ -3,25 +3,25 @@ title: Team Member ライセンスを持つユーザーが利用できる Custom
 description: Customer Service アプリは、Team Member ライセンスを持つユーザーが利用できるようになりました。
 author: relnotes
 ms.reviewer: nenellim
-ms.date: 01/14/2020
+ms.date: 02/04/2020
 ms.assetid: 94afdc4e-db0f-ea11-a811-000d3a4f1ebb
 ms.topic: article
 ms.service: business-applications
 ms.author: prvenka
 dynamics365pdf: true
-ms.openlocfilehash: f4e2c60c17f04570b1ed4798c7d1741761408c9d
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: aef684ad235095ccede776f5023f806ea82e4675
+ms.sourcegitcommit: 0a73f7354797bcbf643214c5f32d32a0b03a2899
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986631"
+ms.lasthandoff: 02/08/2020
+ms.locfileid: "3033404"
 ---
 # <a name="customer-service-app-available-for-users-with-team-member-license"></a>Team Member ライセンスを持つユーザーが利用できる Customer Service アプリ
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -48,3 +48,7 @@ ms.locfileid: "2986631"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[顧客サービス チーム メンバー アプリ](https://docs.microsoft.com/dynamics365/customer-service/customer-service-team-member) (ドキュメント)

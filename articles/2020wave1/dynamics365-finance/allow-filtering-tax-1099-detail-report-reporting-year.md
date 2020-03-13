@@ -3,25 +3,25 @@ title: 申告年による税の詳細レポート 1099 のフィルター処理�
 description: この機能を使用すると、税の詳細レポート 1099 を申告年でフィルター処理できます。
 author: relnotes
 ms.reviewer: roschlom
-ms.date: 01/10/2020
+ms.date: 02/18/2020
 ms.assetid: e1b3ed42-0133-ea11-a810-000d3a8f010c
 ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: fe465ccebf9e5926175bb9a45f6b694734447b05
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: c5e4675770988c0419c3e491b2e76ab31cbbea99
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986769"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3080404"
 ---
 # <a name="allow-filtering-the-tax-1099-detail-report-by-reporting-year"></a>申告年による税の詳細レポート 1099 のフィルター処理の許可
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -33,7 +33,7 @@ ms.locfileid: "2986769"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-税の詳細レポート 1099 では、申告年でフィルター処理できる新しいフィルター処理オプションを利用できます。 
+税の詳細レポート 1099 では、申告年でフィルター処理できる新しいフィルター処理オプションを利用できます。 申告年度末の 1099 レポートの詳細については、「[年度末の 1099 レポート](https://docs.microsoft.com/dynamics365/finance/localizations/noam-usa-year-end-1099-reporting)」を参照してください。
 <!--feature detail end -->
 
 
@@ -44,3 +44,7 @@ ms.locfileid: "2986769"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[年度末の 1099 レポート](https://docs.microsoft.com/dynamics365/finance/localizations/noam-usa-year-end-1099-reporting) (ドキュメント)

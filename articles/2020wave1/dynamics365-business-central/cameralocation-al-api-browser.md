@@ -3,25 +3,25 @@ title: ブラウザーで利用可能なカメラ/位置 AL API
 description: ブラウザーで利用可能なカメラ/位置 AL API
 author: mikebcMSFT
 ms.reviewer: solsen
-ms.date: 01/14/2020
+ms.date: 02/03/2020
 ms.assetid: 64e0ad63-3c36-ea11-a813-000d3a579c34
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 5f7551029dddd25059f79dea181ad40739087e82
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: e4cb1f94284f14f12d0ef4aecd0db44a68e4cdf7
+ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986830"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "3031926"
 ---
 # <a name="cameralocation-al-api-available-in-the-browser"></a>ブラウザーで利用可能なカメラ/位置 AL API
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -46,3 +46,7 @@ ms.locfileid: "2986830"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[着信ドキュメント](https://docs.microsoft.com/dynamics365/business-central/across-income-documents) (ドキュメント)

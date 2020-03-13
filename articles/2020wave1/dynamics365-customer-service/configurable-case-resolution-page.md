@@ -3,25 +3,25 @@ title: 構成可能なサポート案件の解決ページ
 description: 構成可能なサポート案件の解決ページ
 author: relnotes
 ms.reviewer: nenellim
-ms.date: 01/13/2020
+ms.date: 02/18/2020
 ms.assetid: 85355db5-1c0b-ea11-a811-000d3a4f1ebb
 ms.topic: article
 ms.service: business-applications
 ms.author: dadavids
 dynamics365pdf: true
-ms.openlocfilehash: 913d93f6ae5cec124450a8db748246c1afc022cd
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 6ae3cd0914a543e5f521101d26f4e4a61f7a95e3
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986634"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3079744"
 ---
 # <a name="configurable-case-resolution-page"></a>構成可能なサポート案件の解決ページ
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -38,17 +38,7 @@ ms.locfileid: "2986634"
 - サポート案件の解決のフォーム/ダイアログ ボックスに解決の種類などのフィールドを追加します。 
 - 新しいクライアント側ビジネス検証を導入したり、既存の検証を削除したりします。
 - サポート案件の解決エンティティをカスタマイズします。 
-- カスタマイズ不可能なモーダル ダイアログ エクスペリエンス (既定の設定) またはカスタマイズ可能なフォーム エクスペリエンスを選択します。 
-
+- カスタマイズ不可能なモーダル ダイアログ エクスペリエンス (既定の設定) またはカスタマイズ可能なフォーム エクスペリエンスを選択します。
 <!--feature detail end -->
 
 
-
-
-
-
-
-
-
-## <a name="thank-you-for-your-idea"></a>アイデアをありがとうございます
-[このアイデア](https://successhub.crm.dynamics.com/main.aspx?appid=fd4f1ee4-c98c-489b-bbc3-fcd4d16f8157&pagetype=entityrecord&etn=adx_idea&id=de81c069-699e-e911-80e7-0003ff68d318)をお送りいただき、ありがとうございました。 アイデア、コメント、投票を参考に、製品のロードマップに追加するものを決定しています。

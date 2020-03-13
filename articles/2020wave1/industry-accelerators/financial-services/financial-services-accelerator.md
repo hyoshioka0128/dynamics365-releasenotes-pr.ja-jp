@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: snagy
 dynamics365pdf: true
-ms.openlocfilehash: cd088450a425457547247086194841a7a6bf8dd6
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 9fa81ea5b211792e233cbb7fd390aa6f5a897a64
+ms.sourcegitcommit: 1e222f5d9816ce7157d63f308aea14d853628226
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986582"
+ms.lasthandoff: 02/10/2020
+ms.locfileid: "3035786"
 ---
 # <a name="financial-services-accelerator"></a>Financial Services Accelerator
 [!include[industry-accelerators/financial-services banner](../includes/industry-accelerators/financial-services.md)]

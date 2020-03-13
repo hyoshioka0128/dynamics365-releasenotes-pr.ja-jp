@@ -3,30 +3,30 @@ title: 返品の優先支払方法を設定する
 description: この機能を使用すると、管理者は小売店レベルで返品ポリシーを作成し、元の支払方法に基づいて優先払戻支払方法を設定できます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 01/10/2020
+ms.date: 02/18/2020
 ms.assetid: 50fad14a-a4ca-e911-a968-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: rapraj
 dynamics365pdf: true
-ms.openlocfilehash: b16ddb35a24376aa430df1103ba6dd126b167737
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 656370714e01e9f2381ef58c6a01796cbc9f4122
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986797"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3079788"
 ---
 # <a name="set-preferred-payment-methods-for-returns"></a>返品の優先支払方法を設定する
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-返品は小売業者にとって不可欠な操作です。 返品を受け入れ、顧客に払い戻す機能により、小売業者は顧客のニーズと問題に対応できます。 こうした新しいチェック機能により、小売業者は返品プロセスに安全対策を導入し、適切な支払タイプに至るまで払戻を追跡できるため、運用コストと詐欺のリスクを軽減できます。 
+返品は小売業者にとって不可欠な操作です。 返品を受け入れ、顧客に払い戻す機能により、小売業者は顧客のニーズと問題に対応できます。 こうした新しいチェック機能により、小売業者は返品プロセスに安全対策を導入し、適切な支払タイプに至るまで払戻を追跡できるため、運用コストと詐欺のリスクを軽減できます。
 <!-- bv end -->
 
 
@@ -48,3 +48,6 @@ ms.locfileid: "2986797"
 
 
 
+
+## <a name="see-also"></a>関連項目
+[チャネルの返品と払戻のポリシーを作成および更新する](https://docs.microsoft.com/dynamics365/commerce/refund_policy_returns) (ドキュメント)

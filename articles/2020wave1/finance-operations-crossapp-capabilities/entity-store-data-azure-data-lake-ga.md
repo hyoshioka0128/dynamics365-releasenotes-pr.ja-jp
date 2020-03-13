@@ -3,25 +3,25 @@ title: Azure Data Lake でエンティティ格納が利用可能に
 description: 顧客は、Finance and Operations アプリの分析データとトランザクション データ (エンティティ格納で集計の測定として定義される) を独自の Azure Data Lake で使用して、ほぼリアルタイムの AI と分析を実現できます。
 author: relnotes
 ms.reviewer: kfend
-ms.date: 12/16/2019
+ms.date: 02/13/2020
 ms.assetid: c3876dfc-31cc-e911-a996-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: milindav
 dynamics365pdf: true
-ms.openlocfilehash: 6621d5b116024c64e457989e61ec1504591e629e
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 37cb2f720795e59dc889675c0e212efbd5a155f1
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986722"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3080140"
 ---
 # <a name="entity-store-data-is-available-in-azure-data-lake"></a>Azure Data Lake でエンティティ格納が利用可能に
 [!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 6 月 1 日| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 6 月 1 日| 2020 年 8 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -53,4 +53,4 @@ Azure Data Lake でのエンティティ格納スキーマの一般提供に伴�
 
 ## <a name="see-also"></a>関連項目
 
-[Data Lake でエンティティ格納を構成する方法](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/data-entities/entity-store-data-lake) (ドキュメント)
+[エンティティ格納を Data Lake として使用可能にする](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/data-entities/entity-store-data-lake) (ドキュメント)

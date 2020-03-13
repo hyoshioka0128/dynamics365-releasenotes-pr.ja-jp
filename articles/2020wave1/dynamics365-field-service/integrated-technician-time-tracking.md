@@ -3,25 +3,25 @@ title: 統合された技術者の時間追跡
 description: 統合された技術者の時間追跡
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 01/13/2020
+ms.date: 02/17/2020
 ms.assetid: 65137991-b7ca-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: jacoh
 dynamics365pdf: true
-ms.openlocfilehash: a59c22f07e415c5bee0e513bdf76e54c239b49fe
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 9a98c7ba141eab4ab3bead512ba6f35ad6c584e9
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986619"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3079645"
 ---
 # <a name="integrated-technician-time-tracking"></a>統合された技術者の時間追跡
 [!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -43,7 +43,7 @@ Field Service では以下がサポートされます。
 - 手動時間キャプチャ。
 - 特定の業務プロセスやニーズに固有のカスタム時間キャプチャのメカニズム。
 
-この機能では、承認された時間エントリからコストをキャプチャする時間実績を簡単にキャプチャできます。これにより組織はより正確な会計実務と損益計算を推進できます。
+この機能では、承認された時間エントリからコストをキャプチャする時間実績をキャプチャできます。これにより組織はより正確な会計実務と損益計算を推進できます。
 <!--feature detail end -->
 
 
@@ -55,3 +55,7 @@ Field Service では以下がサポートされます。
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[Dynamics 365 Field Service の時間エントリ](https://docs.microsoft.com/dynamics365/field-service/field-service-time-entry) (ドキュメント)

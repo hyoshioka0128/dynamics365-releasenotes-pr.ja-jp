@@ -3,18 +3,18 @@ title: 店舗で利用可能な現物在庫のチャネル側での計算
 description: この機能により、POS (販売時点管理) アプリケーションのユーザーは、リアルタイムのサービス呼び出しを使用しなくても、店舗の手持在庫データにアクセスできるようになります。
 author: hhainesms
 ms.reviewer: josaw
-ms.date: 01/13/2020
+ms.date: 01/28/2020
 ms.assetid: 988847a0-0300-ea11-a811-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
 ms.author: hhaines
 dynamics365pdf: true
-ms.openlocfilehash: 02b179cc915153f06a9dc16d517abcfb01eb4e56
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 37c06c554a73ab03b984c0c0ab271dfc9c42c5df
+ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986812"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "3031695"
 ---
 # <a name="channel-side-calculations-for-available-physical-inventory-for-stores"></a>店舗で利用可能な現物在庫のチャネル側での計算
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
@@ -26,7 +26,7 @@ ms.locfileid: "2986812"
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-本社 (HQ) にリアルタイム サービス (RTS) コールバックを実行することなく、推定手持店舗在庫の値を取得することを希望する多くの小売業者がいます。  
+本社 (HQ) にリアルタイム サービス (RTS) コールバックを実行することなく、推定手持店舗在庫の値を取得することを希望する多くの小売業者がいます。
 <!-- bv end -->
 
 

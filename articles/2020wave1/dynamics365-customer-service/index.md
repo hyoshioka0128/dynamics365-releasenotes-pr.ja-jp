@@ -3,18 +3,18 @@ title: Dynamics 365 Customer Service の 2020 年リリース ウェーブ 1 の
 description: Dynamics 365 Customer Service の 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 01/13/2020
+ms.date: 01/27/2020
 ms.assetid: 3dbfe61e-b435-ea11-a813-000d3a579c35
 ms.topic: overview
 ms.service: business-applications
 ms.author: eichimur
 dynamics365pdf: true
-ms.openlocfilehash: d343e76845ebccd19b5b03280867f80f60c9c865
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: b46862836ade5935534a065bccdc66349df5bdad
+ms.sourcegitcommit: 0a73f7354797bcbf643214c5f32d32a0b03a2899
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2984357"
+ms.lasthandoff: 02/08/2020
+ms.locfileid: "3033305"
 ---
 # <a name="overview-of-dynamics-365-customer-service-2020-release-wave-1"></a>Dynamics 365 Customer Service の 2020 年リリース ウェーブ 1 の概要
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
@@ -29,5 +29,4 @@ Dynamics 365 Customer Service は顧客サポートのエンド ツー エンド
 - **Connected Customer Service**: 組織による予防的で予測的なサービス モデルの進化を支援するために、IoT 診断、IoT デバイス更新、サポート案件管理をリンクします。
 
 次のセクションでは、これらの領域でリリースされている特定の機能の詳細について説明します。
-
 <!--overview end-->

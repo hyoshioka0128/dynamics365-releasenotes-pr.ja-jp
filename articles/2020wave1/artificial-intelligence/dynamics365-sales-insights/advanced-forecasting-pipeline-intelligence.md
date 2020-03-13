@@ -3,18 +3,18 @@ title: 高度な予測とパイプライン インテリジェンス
 description: ''
 author: relnotes
 ms.reviewer: shubhadaj
-ms.date: 09/12/2019
+ms.date: 01/27/2020
 ms.assetid: 5d42affe-88d5-e911-a968-000d3a4f3883
 ms.topic: structure
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: 18079880f0404419e42538a4c18fcf08ddeeea70
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: f32fc6ce904e2807100997d397812100df4a5374
+ms.sourcegitcommit: 0a73f7354797bcbf643214c5f32d32a0b03a2899
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986684"
+ms.lasthandoff: 02/08/2020
+ms.locfileid: "3033393"
 ---
 # <a name="advanced-forecasting-and-pipeline-intelligence"></a>高度な予測とパイプライン インテリジェンス
 
@@ -30,7 +30,6 @@ ms.locfileid: "2986684"
 - **販売担当者**は、獲得できる可能性が最も高い潜在顧客や取引に集中することで、時間をより効率的に管理できます。 
 - **営業マネージャー**は、ボトムアップ予測に関する柔軟性が高く明確なビューを使用して、営業チームの実行を計画し、売上予測をより確実に達成できます。その間ずっと、ビジネスに影響を及ぼすそれらの機会についてより深く理解できます。
 - **販売促進マネージャー**は、より高い柔軟性を利用して、営業の実行を正確に反映する、より詳細で有意義なガイダンスを提供できます。
-
 <!--structure end-->
 
 

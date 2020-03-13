@@ -1,32 +1,32 @@
 ---
-title: Connected Customer Service (IoT + 顧客サービス)
-description: Connected Customer Service (IoT + 顧客サービス)
+title: Connected Customer Service (IoT + Customer Service)
+description: Connected Customer Service (IoT + Customer Service)
 author: relnotes
 ms.reviewer: kabala
-ms.date: 01/13/2020
+ms.date: 02/03/2020
 ms.assetid: 97ad9a7a-19db-e911-a812-000d3a4f13c0
 ms.topic: article
 ms.service: business-applications
 ms.author: jessiewa
 dynamics365pdf: true
-ms.openlocfilehash: d2b31b85b7145f72d0605d01ea49ed6e9b9079e5
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: dc730679c5771dbd73ed691009ad10f08525872f
+ms.sourcegitcommit: 0a73f7354797bcbf643214c5f32d32a0b03a2899
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986792"
+ms.lasthandoff: 02/08/2020
+ms.locfileid: "3033426"
 ---
-# <a name="connected-customer-service-iot--customer-service"></a>Connected Customer Service (IoT + 顧客サービス)
+# <a name="connected-customer-service-iot--customer-service"></a>Connected Customer Service (IoT + Customer Service)
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-Connect Customer Service を活用することで、企業は IoT シグナルを通じて顧客のデバイスの問題を積極的に探し、それらの問題を事前に解決すると同時に、顧客満足度を高め、サポート サービス コストを削減できます。
+Connected Customer Service を活用することで、企業は IoT シグナルを通じて顧客のデバイスの問題を積極的に探し、それらの問題を事前に解決すると同時に、顧客満足度を高め、サポート サービス コストを削減できます。
 <!-- bv end -->
 
 
@@ -50,3 +50,6 @@ Connected Customer Service は、IoT 診断、IoT デバイスの更新、およ
 
 
 
+<!-- Note from editor: Please fix this link. ## See also
+
+<!--[n/a](https://he top of the tree for these topics, and then you can review from there - https://review.docs.microsoft.com/en-us/dynamics365/customer-service/cs-iot-overview?branch=iotinteg) (docs)-->

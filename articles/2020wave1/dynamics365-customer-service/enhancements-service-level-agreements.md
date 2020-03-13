@@ -3,25 +3,25 @@ title: サービス レベル アグリーメントの強化
 description: サービス レベル アグリーメントの強化
 author: relnotes
 ms.reviewer: nenellim
-ms.date: 01/13/2020
+ms.date: 02/05/2020
 ms.assetid: ec61278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: deepap
 dynamics365pdf: true
-ms.openlocfilehash: 9d0b1d79e3ce198643de43069d95e8c122517e0e
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 417a6c9a93247dc9d9ac7deed39bc00e65e9cefb
+ms.sourcegitcommit: 0a73f7354797bcbf643214c5f32d32a0b03a2899
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986626"
+ms.lasthandoff: 02/08/2020
+ms.locfileid: "3033525"
 ---
 # <a name="enhancements-in-service-level-agreements"></a>サービス レベル アグリーメントの強化
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|-|2020 年 3 月| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 5 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -37,6 +37,8 @@ ms.locfileid: "2986626"
 <!--feature detail end -->
 
 
+> [!NOTE]
+> サービス レベル アグリーメントの統合クライアント エクスペリエンスが別のパッケージで有効になっていても、管理者はこの機能を構成する必要があり、それによってユーザーが自動的に影響を受けることはありません。
 
 
 
@@ -44,3 +46,6 @@ ms.locfileid: "2986626"
 
 
 
+## <a name="see-also"></a>関連項目
+
+[サービス レベル アグリーメント](https://docs.microsoft.com/dynamics365/customer-service/define-service-level-agreements#configure-slas-in-customer-service-hub) (ドキュメント)

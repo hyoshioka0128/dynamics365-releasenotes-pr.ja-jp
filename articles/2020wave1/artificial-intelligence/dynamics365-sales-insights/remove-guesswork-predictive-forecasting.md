@@ -3,25 +3,25 @@ title: 見通し予測で当て推量を取り除く
 description: ''
 author: relnotes
 ms.reviewer: udag
-ms.date: 01/16/2020
+ms.date: 02/10/2020
 ms.assetid: 0950d5ae-d0ca-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: dandalla
 dynamics365pdf: true
-ms.openlocfilehash: 9fe1de9f27d457044dcaff838256b9d7783c2bc4
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 03bf07dd0072a1fc340def8c5a672534644b8692
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986676"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3080074"
 ---
 # <a name="remove-the-guesswork-with-predictive-forecasting"></a>見通し予測で当て推量を取り除く
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2020 年 2 月| 2020 年 4 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 7 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -37,7 +37,6 @@ ms.locfileid: "2986676"
 <!--feature detail start -->
 - **過去の証拠を探る**: 主観的なボトムアップ予測を見通し予測で補完し、手作業を介さずに矛盾や不整合を特定します。
 - **既存のデータを活用する**: 実際のパフォーマンスと予測を直接比較して、取引獲得数が予測に対してどのように推移しているかを視覚的に対比します。 この予測モデルは、過去の取引や進行中の情報ルートからすべての関連データを収集し、最も影響のあるシグナルを特定します。
- 
 <!--feature detail end -->
 
 ![実際の結果と予測値を比較する](media/forecasting_predictive.png "実際の結果と予測値を比較する")
@@ -50,3 +49,7 @@ ms.locfileid: "2986676"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[見通し予測を使用して収益の結果を分析する](https://docs.microsoft.com/dynamics365/ai/sales/analyze-revenue-outcome-using-predictive-forecasting) (ドキュメント)

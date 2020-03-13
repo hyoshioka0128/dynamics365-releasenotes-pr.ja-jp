@@ -3,21 +3,21 @@ title: Dynamics 365 Customer Service の新機能と予定されている機能 
 description: Dynamics 365 Customer Service に対して計画されている機能の概要。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 01/15/2020
+ms.date: 02/19/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: jeffcom
 dynamics365pdf: true
-ms.openlocfilehash: 5e57930c24689145338dfc25157b8bdb3729d1b8
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: dc4b537eff8476118e6f8dc69dc9484a7f9100c7
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986624"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3079689"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-customer-service"></a>Dynamics 365 Customer Service の新機能と予定されている機能
 
-このトピックでは、2020 年 4 月から 2020 年 9 月までにリリースが計画されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+このトピックでは、2020 年 4 月から 2020 年 9 月にかけてリリースが計画されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
 機能は**一般提供**列で示されている月内に提供されます。 提供日がその月内のどの日になるかはわかりません。 リリースされた機能には、リリース日を含む完全な日付が表示されます。
 
@@ -31,37 +31,37 @@ Customer Service により、すべての組織は、徹底したケース管理
 
  | 機能    | 有効対象    |  パブリック プレビュー | 早期アクセス* | 一般提供 |
  | ---------- | ---------- | :----------: |:-----------:|:----------: |
-| [Connected Customer Service (IoT + Customer Service)](connected-customer-service-iot-customer-service.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |  -|2020 年 2 月 |2020 年 4 月 | 
-| [ナレッジ機能に対するエージェントの生産性強化](agent-productivity-enhancements-knowledge-capabilities.md) | エンド ユーザー、自動的  |  -|2020 年 2 月 |2020 年 4 月 | 
-| [構成可能なサポート案件の解決ページ](configurable-case-resolution-page.md) | エンド ユーザー、自動的  |  -|2020 年 2 月 |2020 年 4 月 | 
-| [Team Member ライセンスを持つユーザーが利用できる Customer Service アプリ](customer-service-app-users-team-member-license.md) | エンド ユーザー、自動的  |  -|2020 年 2 月 |2020 年 4 月 | 
-| [顧客サービス ハブ アプリを既定で利用できるようになりました](customer-service-hub-app-now-default.md) | エンド ユーザー、自動的  |  -|2020 年 2 月 |2020 年 4 月 | 
-| [サポート案件ルーティング規則の強化](enhancements-case-routing-rules.md) | 管理者、作成者、またはアナリスト、自動的  |  -|2020 年 2 月 |2020 年 4 月 | 
-| [キュー ページの強化](enhancements-queue-page.md) | エンド ユーザー、自動的  |  -|2020 年 2 月 |2020 年 4 月 | 
-| [エージェント向けの使い慣れた最新のメール エクスペリエンス](familiar-modern-email-experience-agents.md) | エンド ユーザー、自動的  |  -|2020 年 2 月 |2020 年 4 月 | 
-| [ライセンスの適用 – 新しい Team Member ライセンスを持つユーザー](license-enforcement-users-new-team-member-licenses.md) | エンド ユーザー、自動的  |  -|2020 年 2 月 |2020 年 4 月 | 
-| [サービス スケジュール設定の新しい作業時間カレンダー](new-work-hour-calendar-service-scheduling.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |  -|2020 年 2 月 |2020 年 4 月 | 
-| [タイム ラインの充実したテキスト メモとキーワード検索](rich-text-notes-keyword-search-timeline.md) | エンド ユーザー、自動的  |  -|2020 年 2 月 |2020 年 4 月 | 
-| [統一インターフェイスでのサイト エンティティのサポート](support-site-entity-unified-interface.md) | エンド ユーザー、自動的  |  -|2020 年 2 月 |2020 年 4 月 | 
-| [サービス レベル契約の拡張](enhancements-service-level-agreements.md) | 管理者、作成者、またはアナリスト、自動的  |  -|2020 年 3 月 |2020 年 4 月 | 
-| [レコードの自動的な作成と更新](automatically-create-update-records.md) | 管理者、作成者、またはアナリスト、自動的  |  -|2020 年 2 月 |2020 年 6 月 | 
+ | [Connected Customer Service (IoT + Customer Service)](connected-customer-service-iot-customer-service.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日|2020 年 4 月 | 
+ | [ナレッジ機能に対するエージェントの生産性強化](agent-productivity-enhancements-knowledge-capabilities.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
+ | [構成可能なサポート案件の解決ページ](configurable-case-resolution-page.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
+ | [Team Member ライセンスを持つユーザーが利用できる Customer Service アプリ](customer-service-app-users-team-member-license.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
+ | [顧客サービス ハブ アプリを既定で利用できるようになった](customer-service-hub-app-now-default.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
+ | [サポート案件ルーティング規則の強化](enhancements-case-routing-rules.md) | 管理者、作成者、またはアナリスト、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
+ | [キュー ページの強化](enhancements-queue-page.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
+ | [エージェント向けの使い慣れた最新のメール エクスペリエンス](familiar-modern-email-experience-agents.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
+ | [ライセンスの適用 – 新しい Team Member ライセンスを持つユーザー](license-enforcement-users-new-team-member-licenses.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
+ | [サービス スケジュール設定の新しい作業時間カレンダー](new-work-hour-calendar-service-scheduling.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |-|2020 年 2 月|2020 年 4 月 | 
+ | [タイム ラインの充実したテキスト メモとキーワード検索](rich-text-notes-keyword-search-timeline.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
+ | [統一インターフェイスでのサイト エンティティのサポート](support-site-entity-unified-interface.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
+ | [サービス レベル契約の拡張](enhancements-service-level-agreements.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 5 日|2020 年 4 月 | 
+ | [レコードの自動的な作成と更新](automatically-create-update-records.md) | 管理者、作成者、またはアナリスト、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日|2020 年 6 月 | 
 
 
 ## <a name="omnichannel-for-customer-service"></a>Customer Service 用オムニチャネル
 
-Customer Service 用オムニチャネルでは、Dynamics 365 Customer Service の機能を拡張する機能のスイートが提供されます。組織はデジタル メッセージ チャネルにより、顧客とすばやくやり取りし、エンゲージメントを促進することができます。
+Customer Service 用オムニチャネルでは、Dynamics 365 Customer Service の機能を拡張する機能のスイートが提供されます。組織はデジタル メッセージング チャネルにより、顧客とすばやくやり取りし、エンゲージメントを促進することができます。
 
  | 機能    | 有効対象    |  パブリック プレビュー | 早期アクセス* | 一般提供 |
  | ---------- | ---------- | :----------: |:-----------:|:----------: |
-| [Microsoft Teams 向けデジタル メッセージング サポート](digital-messaging-support-teams.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |  2020 年 4 月|- |- | 
-| [Twilio 経由の WhatsApp 向けデジタル メッセージング サポート](digital-messaging-support-whatsapp-through-twilio.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |  2020 年 4 月|- |- | 
-| [LINE 向けデジタル メッセージング サポート](digital-messaging-support-line.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |  -|- |2020 年 4 月 | 
-| [Twilio 経由の SMS 向けデジタル メッセージング サポート](digital-messaging-support-sms-through-twilio.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |  -|- |2020 年 4 月 | 
-| [Twitter 向けデジタル メッセージング サポート](digital-messaging-support-twitter.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |  -|- |2020 年 4 月 | 
-| [WeChat 向けデジタル メッセージング サポート](digital-messaging-support-wechat.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |  -|- |2020 年 4 月 | 
-| [ライブ チャットの会話を音声/ビデオ通話に格上げする](elevate-live-chat-conversations-voicevideo-call.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化 | -|-| 2020 年 4 月 |
-| [サードパーティ プロバイダーによる共同参照機能](co-browse-capabilities-through-third-party-providers.md) | 管理者、作成者、またはアナリスト、自動的  |  2020 年 1 月|- |2020 年 4 月 | 
-| [サード パーティを介したリモート アシスタンス機能](remote-assistance-capabilities-through-third-party.md) | 管理者、作成者、またはアナリスト、自動的  |  2020 年 1 月|- |2020 年 4 月 | 
+ | [Microsoft Teams 向けデジタル メッセージング サポート](digital-messaging-support-teams.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |2020 年 4 月|-|- | 
+ | [Twilio 経由の WhatsApp 向けデジタル メッセージング サポート](digital-messaging-support-whatsapp-through-twilio.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |2020 年 4 月|-|- | 
+ | [LINE 向けデジタル メッセージング サポート](digital-messaging-support-line.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |-|-|2020 年 4 月 | 
+ | [Twilio 経由の SMS 向けデジタル メッセージング サポート](digital-messaging-support-sms-through-twilio.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |-|-|2020 年 4 月 | 
+ | [Twitter 向けデジタル メッセージング サポート](digital-messaging-support-twitter.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |-|-|2020 年 4 月 | 
+ | [WeChat 向けデジタル メッセージング サポート](digital-messaging-support-wechat.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |-|-|2020 年 4 月 | 
+ | [ライブ チャットの会話を音声/ビデオ通話に格上げする](elevate-live-chat-conversations-voicevideo-call.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |-|-|2020 年 4 月 | 
+ | [サードパーティ プロバイダーによる共同参照機能](co-browse-capabilities-through-third-party-providers.md) | 管理者、作成者、またはアナリスト、自動的  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 31 日|-|2020 年 4 月 | 
+ | [サード パーティを介したリモート アシスタンス機能](remote-assistance-capabilities-through-third-party.md) | 管理者、作成者、またはアナリスト、自動的  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 31 日|-|2020 年 4 月 | 
 
 \* エンド ユーザーに影響するすべての必須の変更など、一部の機能は 2020 年 2 月 3 日に早期アクセスの一部としてオプトインできるようになります。 [早期アクセス](https://aka.ms/EarlyAccessFAQ) の詳細を確認してください。
 

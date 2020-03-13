@@ -3,21 +3,21 @@ title: Dynamics 365 Marketing の新機能と予定されている機能 (2020 �
 description: Dynamics 365 Marketing で計画されている機能の概要。
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 01/15/2020
+ms.date: 02/19/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: loril
 dynamics365pdf: true
-ms.openlocfilehash: f9926b20190e560823376ba5b62a38363dcc6faf
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: fc148c1fa989e76590d2adad44a730c798bb8e26
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986738"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3079546"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-marketing"></a>Dynamics 365 Marketing の新機能と予定されている機能
 
-このトピックでは、2020 年 4 月から 2020 年 9 月までにリリースが計画されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+このトピックでは、2020 年 4 月から 2020 年 9 月にかけてリリースが計画されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
 機能は**一般提供**列で示されている月内に提供されます。 提供日がその月内のどの日になるかはわかりません。 リリースされた機能には、リリース日を含む完全な日付が表示されます。
 
@@ -25,15 +25,19 @@ ms.locfileid: "2986738"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  早期アクセス* | 一般提供 | 
 | ---------- |---------------- | :---------------: |:-----------:|:--------------: |
- | [状況依存のメール メッセージ](contextual-email-messages.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化 |2020 年 8 月|-|- | 
- | [コンプライアンスが簡単に](compliance-made-easier.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化 |-|-|2020 年 4 月 | 
- | [Microsoft Forms Pro を使用した調査のサポート](support-surveys-using-forms-pro.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化 |-|-|2020 年 4 月 | 
- | [動的なメール メッセージをテスト送信する機能](ability-test-send-dynamic-email-messages.md) | エンド ユーザー、自動的 |-|2020 年 2 月|2020 年 4 月 | 
- | [さらに分析するために Excel にデータをエクスポートする](export-data-excel-further-analysis.md) | エンド ユーザー、自動的 |-|2020 年 2 月|2020 年 4 月 | 
- | [メール コンテンツ デザイナーの改善](improved-email-content-designer.md) | エンド ユーザー、自動的 |-|2020 年 2 月|2020 年 4 月 | 
- | [イベント管理エクスペリエンスの改善](improved-event-management-experience.md) | エンド ユーザー、自動的 |-|2020 年 2 月|2020 年 4 月 | 
- | [セグメントの設計と管理の改善](improved-segment-design-management.md) | エンド ユーザー、自動的 |-|2020 年 2 月|2020 年 4 月 | 
- | [顧客体験エクスペリエンスの改善](improved-customer-journey-experience.md) | エンド ユーザー、自動的 |-|2020 年 2 月|2020 年 4 月 | 
+| [状況依存のメール メッセージ](contextual-email-messages.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 8 月|-|- | 
+| [動的なメール メッセージをテスト送信する機能](ability-test-send-dynamic-email-messages.md) | エンド ユーザー、自動的|-|-|2020 年 4 月 | 
+| [コンプライアンスが簡単に](compliance-made-easier.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-|2020 年 4 月 | 
+| [セグメントの設計と管理の改善](improved-segment-design-management.md) | エンド ユーザー、自動的|-|-|2020 年 4 月 | 
+ | [スマート スケジューラ](smart-scheduler.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化 |-|-|2020 年 4 月 | 
+ | [スパム チェッカー](spam-checker.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化 |-|-|2020 年 4 月 | 
+| [Microsoft Forms Pro を使用した調査のサポート](support-surveys-using-forms-pro.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-|2020 年 4 月 | 
+| [さらに分析するためにマーケティング結果を Excel にエクスポートする](export-data-excel-further-analysis.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
+| [メール コンテンツ デザイナーの改善](improved-email-content-designer.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
+| [イベント管理エクスペリエンスの改善](improved-event-management-experience.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
+| [顧客体験エクスペリエンスの改善](improved-customer-journey-experience.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
+ | [マーケティング キャンペーンで Customer Insights のセグメントを発見して使用する](discover-use-segments-customer-insights-marketing-campaigns.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化 |-|-|2020 年 5 月 | 
+ | [電子メールとフォームのインプレース編集](in-place-editing-email-forms.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化 |-|-|2020 年 5 月 | 
 
 \* エンド ユーザーに影響するすべての必須の変更など、一部の機能は 2020 年 2 月 3 日に早期アクセスの一部としてオプトインできるようになります。 [早期アクセス](https://aka.ms/EarlyAccessFAQ) の詳細を確認してください。
 

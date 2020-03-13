@@ -1,29 +1,27 @@
 ---
 title: グローバリゼーション
-description: 2020 年リリース ウェーブ 1 では、ブラジル向けの小売ローカリゼーションと、ドイツ向けの会計サービス統合を提供することにより、すぐに使用できる小売ローカリゼーションを拡張します。
+description: 2020 年リリース ウェーブ 1 では、ドイツ向け会計サービスの統合を提供し、フランスとノルウェー向けの小売トランザクションのデジタル署名を財務統合フレームワークに移行することにより、すぐに使える Commerce ローカリゼーションを拡張します。
 author: relnotes
 ms.reviewer: ''
-ms.date: 08/30/2019
+ms.date: 02/07/2020
 ms.assetid: ee8cf522-43c8-e911-a968-000d3a4f3883
 ms.topic: structure
 ms.service: business-applications
-ms.author: sshvedov
+ms.author: epopov
 dynamics365pdf: true
-ms.openlocfilehash: 8bf2a1c66dbe74f9722b29f434a0b1df34ecd0fb
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: bdfe07b0034f84163674d8aca91b1d2b9eff2e75
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986805"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3079854"
 ---
-<!--from editor: Need content. Maybe use the text from planned-features.md? -->
-
 # <a name="globalization"></a>グローバリゼーション
 
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
 
 <!--structure start-->
-
+2020 年リリース ウェーブ 1 では、ドイツ向け会計サービスの統合を提供し、フランスとノルウェー向けの小売トランザクションのデジタル署名を財務統合フレームワークに移行することにより、すぐに使える Commerce ローカリゼーションを拡張します。
 <!--structure end-->
 
 

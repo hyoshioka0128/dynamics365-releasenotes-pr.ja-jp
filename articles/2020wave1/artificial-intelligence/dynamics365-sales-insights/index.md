@@ -3,18 +3,18 @@ title: Dynamics 365 Sales Insights の 2020 年リリース ウェーブ 1 の�
 description: Dynamics 365 Sales Insights の 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 09/12/2019
+ms.date: 01/27/2020
 ms.assetid: ef0b01f2-e4c9-e911-a996-000d3a4f3343
 ms.topic: overview
 ms.service: business-applications
 ms.author: ronik
 dynamics365pdf: true
-ms.openlocfilehash: a5a74abcf7c4fdaea284641f77975a87104e709c
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 0bebe18b14ace968fb1d45ed78d1f471dbc56a1b
+ms.sourcegitcommit: 0a73f7354797bcbf643214c5f32d32a0b03a2899
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2984544"
+ms.lasthandoff: 02/08/2020
+ms.locfileid: "3033327"
 ---
 # <a name="overview-of-dynamics-365-sales-insights-2020-release-wave-1"></a>Dynamics 365 Sales Insights の 2020 年リリース ウェーブ 1 の概要
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
@@ -22,7 +22,7 @@ ms.locfileid: "2984544"
 <!--overview start-->
 仕事で行うすべてのことからデータが作成されます。 このデータは組織の中心に位置し、プロセスを強化し、アーカイブを生成し、意思決定に情報をもたらします。 組織の成長と拡大に伴い、データ フットプリントも増加します。これがプロセスを加速し、デジタル変革で意思決定を強化する必要性を高めるきっかけとなります。 デジタル変革を取り入れる組織は、利益率の大幅な改善を示しており、コストを削減しながら収益を増やすことができます。 
 
-営業組織にとって変革とは、販売データをさらに活用し、よりスマートで迅速な販売を可能にして競争を勝ち抜くことです。 顧客に関するより深いナレッジと加速したインテリジェンスが組織を導き、適切なタイミングと適切なコンテキストでチャンスを積極的に追求することを可能にします。 さらに、それぞれの組織に合わせてコーチングと学習を調整して、ビジネスを常に前進させます。 
+営業組織にとって変革とは、販売データをさらに活用し、よりスマートで迅速な販売を可能にして競争を勝ち抜くことです。 顧客に関するより深いナレッジと加速したインテリジェンスが組織を導き、適切なタイミングと適切なコンテキストで先を見越してチャンスを追求することを可能にします。 さらに、それぞれの組織に合わせてコーチングと学習を調整して、ビジネスを常に前進させます。 
 
 Dynamics 365 Sales Insights では、Microsoft のクラウドの力が利用され、Dynamics 365 から得られる販売情報、Office 365 でのコミュニケーション、LinkedIn でのリレーションシップ、Microsoft の AI の力が結び付けられて、販売が変革されます。 販売組織は、顧客エンゲージメントを包括的に把握してすばやい対応を提供し、ビジネス戦略を守りながら急速な市場の変化に適応し、特定のビジネス要件とガイドラインに順応します。
 
@@ -62,6 +62,5 @@ Dynamics 365 Sales Insights について、当社はいつでもお客様やパ�
 
 - [Dynamics 365 Sales Insights の製品 Web サイト](https://dynamics.microsoft.com/ai/sales/) 
 - [Dynamics 365 Sales Insights の製品ドキュメント](https://docs.microsoft.com/dynamics365/ai/sales/help-hub)  
-- [Dynamics 365 Sales Insights の製品アイデア サイト](https://aka.ms/SalesInsightsIdeas)  
-
+- [Dynamics 365 Sales Insights の製品アイデア サイト](https://aka.ms/SalesInsightsIdeas)
 <!--overview end-->

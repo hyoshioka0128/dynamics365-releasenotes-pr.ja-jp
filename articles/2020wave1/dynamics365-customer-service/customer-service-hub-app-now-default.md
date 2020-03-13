@@ -3,25 +3,25 @@ title: 顧客サービス ハブ アプリを既定で利用できるように�
 description: 顧客サービス ハブ アプリを既定で利用できるようになりました
 author: relnotes
 ms.reviewer: nenellim
-ms.date: 01/13/2020
+ms.date: 02/18/2020
 ms.assetid: dec30231-4b1c-ea11-a811-000d3a8f0f1e
 ms.topic: article
 ms.service: business-applications
 ms.author: psands
 dynamics365pdf: true
-ms.openlocfilehash: e6dfd90c8df9b64db50686914ad58c8597599abe
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 3e7b12cf6a7770bd57bb8800c4619ebeab145e40
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986630"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3079733"
 ---
 # <a name="customer-service-hub-app-is-now-available-by-default"></a>顧客サービス ハブ アプリを既定で利用できるようになりました
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -44,3 +44,7 @@ ms.locfileid: "2986630"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[顧客サービス ハブの可用性](https://docs.microsoft.com/dynamics365/customer-service/availability-customer-service-hub) (ドキュメント)
