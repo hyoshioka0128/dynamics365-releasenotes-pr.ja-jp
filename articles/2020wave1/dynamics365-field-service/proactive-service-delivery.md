@@ -9,14 +9,14 @@ ms.topic: structure
 ms.service: business-applications
 ms.author: kyley
 dynamics365pdf: true
-ms.openlocfilehash: 2771c043f546719980a2cb88e98954c89d695029
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 9e21da5353f59cb3cd40bb92e4425de3501d4a50
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986772"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3079612"
 ---
-# <a name="proactive-service-delivery"></a><span data-ttu-id="34ae9-102">プロアクティブなサービス提供</span><span class="sxs-lookup"><span data-stu-id="34ae9-102">Proactive service delivery</span></span>
+# <a name="proactive-service-delivery"></a><span data-ttu-id="47950-102">プロアクティブなサービス提供</span><span class="sxs-lookup"><span data-stu-id="47950-102">Proactive service delivery</span></span>
 
 [!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
 

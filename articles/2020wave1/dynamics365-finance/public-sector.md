@@ -9,16 +9,14 @@ ms.topic: structure
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: c713860860010356520c6b648d4fb4f5e3b96402
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 7c6f3c6d4195c1fb3e7c1bbec557d0d37c17d160
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986599"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3079271"
 ---
-<!--content missing -->
-
-# <a name="public-sector"></a><span data-ttu-id="54252-102">公的機関</span><span class="sxs-lookup"><span data-stu-id="54252-102">Public sector</span></span>
+# <a name="public-sector"></a><span data-ttu-id="cba2b-102">公的機関</span><span class="sxs-lookup"><span data-stu-id="cba2b-102">Public sector</span></span>
 
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
 

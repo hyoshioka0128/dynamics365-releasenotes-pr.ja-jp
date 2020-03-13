@@ -1,45 +1,45 @@
 ---
 title: メール コンテンツ デザイナーの改善
 description: ''
-author: jain-shailesh
-ms.reviewer: shellyha
-ms.date: 01/09/2020
+author: relnotes
+ms.reviewer: alfergus
+ms.date: 02/18/2020
 ms.assetid: a47d10ea-14ce-e911-a996-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
-ms.author: shjain
+ms.author: prrana
 dynamics365pdf: true
-ms.openlocfilehash: 2552c07a14e6bd883d82ba1fa7f3e6c689d72f07
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: ad506f72162f4e81f78c9e15f25306eb2f37f0bc
+ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986741"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "3079282"
 ---
-# <a name="improved-email-content-designer"></a><span data-ttu-id="c4049-102">メール コンテンツ デザイナーの改善</span><span class="sxs-lookup"><span data-stu-id="c4049-102">Improved email content designer</span></span>
+# <a name="improved-email-content-designer"></a><span data-ttu-id="34eb3-102">メール コンテンツ デザイナーの改善</span><span class="sxs-lookup"><span data-stu-id="34eb3-102">Improved email content designer</span></span>
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
 
-| <span data-ttu-id="c4049-103">有効対象</span><span class="sxs-lookup"><span data-stu-id="c4049-103">Enabled for</span></span>    |  <span data-ttu-id="c4049-104">パブリック プレビュー</span><span class="sxs-lookup"><span data-stu-id="c4049-104">Public preview</span></span> | <span data-ttu-id="c4049-105">早期アクセス</span><span class="sxs-lookup"><span data-stu-id="c4049-105">Early access</span></span> | <span data-ttu-id="c4049-106">一般提供</span><span class="sxs-lookup"><span data-stu-id="c4049-106">General availability</span></span> | 
+| <span data-ttu-id="34eb3-103">有効対象</span><span class="sxs-lookup"><span data-stu-id="34eb3-103">Enabled for</span></span>    |  <span data-ttu-id="34eb3-104">パブリック プレビュー</span><span class="sxs-lookup"><span data-stu-id="34eb3-104">Public preview</span></span> | <span data-ttu-id="34eb3-105">早期アクセス</span><span class="sxs-lookup"><span data-stu-id="34eb3-105">Early access</span></span> | <span data-ttu-id="34eb3-106">一般提供</span><span class="sxs-lookup"><span data-stu-id="34eb3-106">General availability</span></span> | 
 | ---------- | :----------: |:----------: |:----------: |
-|<span data-ttu-id="c4049-107">エンド ユーザー、自動的</span><span class="sxs-lookup"><span data-stu-id="c4049-107">End users, automatically</span></span>|-|<span data-ttu-id="c4049-108">2020 年 2 月</span><span class="sxs-lookup"><span data-stu-id="c4049-108">Feb 2020</span></span>| <span data-ttu-id="c4049-109">2020 年 4 月</span><span class="sxs-lookup"><span data-stu-id="c4049-109">Apr 2020</span></span>|
+|<span data-ttu-id="34eb3-107">エンド ユーザー、自動的</span><span class="sxs-lookup"><span data-stu-id="34eb3-107">End users, automatically</span></span>|-|<span data-ttu-id="34eb3-108">![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。")</span><span class="sxs-lookup"><span data-stu-id="34eb3-108">![This feature is released.](/dynamics365-release-plan/media/green-checkmark.png "This feature is released.")</span></span> <span data-ttu-id="34eb3-109">2020 年 2 月 3 日</span><span class="sxs-lookup"><span data-stu-id="34eb3-109">Feb 3, 2020</span></span>| <span data-ttu-id="34eb3-110">2020 年 4 月</span><span class="sxs-lookup"><span data-stu-id="34eb3-110">Apr 2020</span></span>|
+
+
+## <a name="business-value"></a><span data-ttu-id="34eb3-111">ビジネス バリュー</span><span class="sxs-lookup"><span data-stu-id="34eb3-111">Business value</span></span>
+<!-- bv start -->
+<span data-ttu-id="34eb3-112">新機能により、マーケティング担当者は魅力的で洗練された電子メール メッセージを作成して、顧客の注意をより効果的に引くことができます。</span><span class="sxs-lookup"><span data-stu-id="34eb3-112">New features allow marketers to create attractive and sophisticated email messages, capturing customer attention more effectively.</span></span> <span data-ttu-id="34eb3-113">インターフェイスの更新と高度なプレビュー機能により、電子メールの作成が迅速かつ一貫したものになります。</span><span class="sxs-lookup"><span data-stu-id="34eb3-113">Interface updates and advanced preview capabilities ensure that email creation is quick and consistent.</span></span>
+<!-- bv end -->
 
 
 
-
-
-
-## <a name="feature-details"></a><span data-ttu-id="c4049-110">機能の詳細</span><span class="sxs-lookup"><span data-stu-id="c4049-110">Feature details</span></span>
+## <a name="feature-details"></a><span data-ttu-id="34eb3-114">機能の詳細</span><span class="sxs-lookup"><span data-stu-id="34eb3-114">Feature details</span></span>
 <!--feature detail start -->
-<span data-ttu-id="c4049-111">マーケティング担当者は、より直感的なデザインと最新のスタイルを備えた改善されたメール デザイナーを使用して、魅力的で洗練されたメール メッセージを作成できます。</span><span class="sxs-lookup"><span data-stu-id="c4049-111">Marketers can create attractive and sophisticated email messages using an improved email designer with a more intuitive design and updated styling.</span></span> 
-
-<span data-ttu-id="c4049-112">このリリースでは、次の機能強化が追加されます。</span><span class="sxs-lookup"><span data-stu-id="c4049-112">With this release we are adding these enhancements:</span></span> 
-
-- <span data-ttu-id="c4049-113">新しいレイアウト機能を備えた**新規および改善されたメール テンプレート**を使用して、メール メッセージをデザインするプロセスをスムーズに開始できます。</span><span class="sxs-lookup"><span data-stu-id="c4049-113">**New and improved email templates** that use new layout capabilities to help jumpstart the process of designing email messages.</span></span>
-- <span data-ttu-id="c4049-114">背景画像の設定を可能にし、メール メッセージをより魅力的にする、**ピクチャ オーバー ピクチャ**およびボタン オーバー ピクチャの機能。</span><span class="sxs-lookup"><span data-stu-id="c4049-114">**Picture-over-picture** and button-over-picture capabilities to allow setting background images and make email messages more attractive.</span></span>
-- <span data-ttu-id="c4049-115">メール デザイナーに組み込まれた**アクセシビリティのデザインとテスト**。</span><span class="sxs-lookup"><span data-stu-id="c4049-115">**Accessibility design and testing** built into the email designer.</span></span>
-- <span data-ttu-id="c4049-116">開封率を高めるための**カスタム メール プリヘッダー**。</span><span class="sxs-lookup"><span data-stu-id="c4049-116">**Custom email preheaders** for higher open rates.</span></span>
-- <span data-ttu-id="c4049-117">画像、境界線、ボタンに**角を丸くする**設定を行う機能。</span><span class="sxs-lookup"><span data-stu-id="c4049-117">Ability to set **rounded corners** for images, borders, and buttons.</span></span>
-- <span data-ttu-id="c4049-118">より優れたレイアウトとデザインを作成するための**追加の要素プロパティ**。</span><span class="sxs-lookup"><span data-stu-id="c4049-118">**Additional element properties** for creating better layout and design.</span></span> <span data-ttu-id="c4049-119">たとえば、背景を設定するプロパティを持つ選択可能な列。</span><span class="sxs-lookup"><span data-stu-id="c4049-119">For example, selectable columns with properties to set the background.</span></span>
+- <span data-ttu-id="34eb3-115">**新規および改善された電子メール テンプレート**: レイアウト機能が更新された新しい電子メール テンプレートにより、デザイン プロセスを有利に開始できます。</span><span class="sxs-lookup"><span data-stu-id="34eb3-115">**New and improved email templates**: New email templates with updated layout capabilities give you a head start on the design process.</span></span>
+- <span data-ttu-id="34eb3-116">**ドラッグして要素サイズを変更**: より直感的なコントロールにより、画像、仕切り、ボタンなどの電子メール コンテンツ要素をドラッグしてサイズ変更できます。</span><span class="sxs-lookup"><span data-stu-id="34eb3-116">**Drag to resize elements**: More intuitive controls enable you to drag and resize email content elements including images, dividers, and buttons.</span></span>
+- <span data-ttu-id="34eb3-117">**カラー ピッカーの改善**: 改善されたカラー ピッカー コントロールでは、ブラウザーとモバイル デバイスがサポートされます。</span><span class="sxs-lookup"><span data-stu-id="34eb3-117">**Improved color picker**: Improved color picker controls offer support across browsers and mobile devices.</span></span>
+- <span data-ttu-id="34eb3-118">**メール全体のプロパティ制御**: 更新されたプロパティ制御により、メール全体のプロパティを設定して、数回クリックするだけで一貫した外観を作成できます。</span><span class="sxs-lookup"><span data-stu-id="34eb3-118">**Email-wide property controls**: Updated property controls allow you to set email-wide properties, creating a consistent look with just a few clicks.</span></span>
+- <span data-ttu-id="34eb3-119">**その他のカスタマイズ オプション**: ピクチャ オーバー ピクチャおよびボタン オーバー ピクチャ機能により、デザインの柔軟性が向上します。</span><span class="sxs-lookup"><span data-stu-id="34eb3-119">**More customization options**: Picture-over-picture and button-over-picture capabilities add flexibility to your designs.</span></span> <span data-ttu-id="34eb3-120">メールの開封率を上げるために、カスタマイズされた電子メール メッセージ プレビュー テキストを含むカスタム プリヘッダーを追加できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="34eb3-120">To help boost email open rates, you can now add custom preheaders with tailored email message preview text.</span></span> <span data-ttu-id="34eb3-121">丸い角や個別にカスタマイズ可能な列などのオプションにより、さらに多くのデザインの可能性が提供されます。</span><span class="sxs-lookup"><span data-stu-id="34eb3-121">Options such as rounded corners and individually customizable columns offer even more design possibilities.</span></span>
+- <span data-ttu-id="34eb3-122">**電子メール プレビューの改善**: 解決されたダイナミック テキストでフィールドをプレビューできるようになりました。</span><span class="sxs-lookup"><span data-stu-id="34eb3-122">**Improved email preview**: You can now preview fields with resolved dynamic text.</span></span> <span data-ttu-id="34eb3-123">拡張プレビューにより、顧客がメッセージを受け取ったときにメッセージがどのように表示されるかを正確に確認できます。</span><span class="sxs-lookup"><span data-stu-id="34eb3-123">The enhanced preview means you’ll see exactly how your messages will look when customers receive them.</span></span> <span data-ttu-id="34eb3-124">組み込みのアクセシビリティ チェッカーにより、すべての受信者がメッセージを表示できるようになります。</span><span class="sxs-lookup"><span data-stu-id="34eb3-124">The built-in accessibility checker helps you ensure that all recipients can view your messages.</span></span>
+- <span data-ttu-id="34eb3-125">**更新されたフォームおよびページ デザイナー**: 電子メール コンテンツ デザイナーの改善点は、フォームおよびページ デザイナーでも利用できます。</span><span class="sxs-lookup"><span data-stu-id="34eb3-125">**Updated forms and pages designers**: The email content designer improvements are also available in the forms and pages designers.</span></span>
 <!--feature detail end -->
 
 
@@ -50,3 +50,7 @@ ms.locfileid: "2986741"
 
 
 
+
+## <a name="see-also"></a><span data-ttu-id="34eb3-126">関連項目</span><span class="sxs-lookup"><span data-stu-id="34eb3-126">See also</span></span>
+
+<span data-ttu-id="34eb3-127">[Dynamics 365 Marketing の新機能](https://docs.microsoft.com/dynamics365/marketing/whats-new-marketing)</span><span class="sxs-lookup"><span data-stu-id="34eb3-127">[What's new in Dynamics 365 Marketing](https://docs.microsoft.com/dynamics365/marketing/whats-new-marketing) (docs)</span></span>

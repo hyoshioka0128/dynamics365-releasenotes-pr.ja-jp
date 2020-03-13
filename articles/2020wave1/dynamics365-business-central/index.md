@@ -1,0 +1,38 @@
+---
+title: Dynamics 365 Business Central 2020 年リリース ウェーブ 1 の概要
+description: Dynamics 365 Business Central 2020 年リリース ウェーブ 1 の概要
+author: relnotes
+ms.reviewer: edupont
+ms.date: 01/28/2020
+ms.assetid: 27840536-ec41-ea11-a812-000d3a563be2
+ms.topic: overview
+ms.service: business-applications
+ms.author: mikeeh
+dynamics365pdf: true
+ms.openlocfilehash: c6e343af50b27d3a20b4d29378018dc6753641cd
+ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "3031816"
+---
+# <a name="overview-of-dynamics-365-business-central-2020-release-wave-1"></a><span data-ttu-id="23b6b-103">Dynamics 365 Business Central 2020 年リリース ウェーブ 1 の概要</span><span class="sxs-lookup"><span data-stu-id="23b6b-103">Overview of Dynamics 365 Business Central 2020 release wave 1</span></span>
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
+<!--overview start-->
+<span data-ttu-id="23b6b-104">Dynamics 365 Business Central では、中小企業の組織向けに設計および最適化された包括的なビジネス アプリケーション ソリューションが提供されます。</span><span class="sxs-lookup"><span data-stu-id="23b6b-104">Dynamics 365 Business Central provides a comprehensive business-application solution designed and optimized for small and mid-sized organizations.</span></span> <span data-ttu-id="23b6b-105">2018 年 4 月の発売以来、Business Central はビジネスをデジタルに変革しようとしている組織による採用が増えています。</span><span class="sxs-lookup"><span data-stu-id="23b6b-105">Since its launch in April 2018, Business Central has seen increasing adoption by organizations looking to digitally transform their businesses.</span></span> <span data-ttu-id="23b6b-106">2020 年リリース ウェーブ 1 では、急速に成長する顧客ベース、ユーザーの生産性の向上、地理的拡大、お客様からの要望の高い機能の要求に応えるために、Business Central の投資ではサービスの基礎に重点を置きます。</span><span class="sxs-lookup"><span data-stu-id="23b6b-106">For 2020 release wave 1, Business Central investments center on service fundamentals to meet the demands of a rapidly growing customer base, enhanced user productivity, geographic expansion, and top  customer-requested features.</span></span> <span data-ttu-id="23b6b-107">移行ツールの向上は、オンプレミスの Dynamics GP、Dynamics SL、および Dynamics NAV のお客様を Business Central online に移行することの優先度を反映しています。</span><span class="sxs-lookup"><span data-stu-id="23b6b-107">Improvements in migration tools reflect the prioritization of bringing on-premises Dynamics GP, Dynamics SL, and Dynamics NAV customers to Business Central online.</span></span>
+
+- <span data-ttu-id="23b6b-108">**サービスの基本**: パフォーマンス、信頼性、サポート性はビジネスの中核です。</span><span class="sxs-lookup"><span data-stu-id="23b6b-108">**Service fundamentals**: Performance, reliability, and supportability are at the core of the business.</span></span> <span data-ttu-id="23b6b-109">このウェーブでは、サービスの品質とアクセシビリティに焦点を当てています。</span><span class="sxs-lookup"><span data-stu-id="23b6b-109">This wave focuses on service quality and accessibility.</span></span> <span data-ttu-id="23b6b-110">このウェーブは、Business Central サービス セキュリティへの物質的で徹底的な投資の結果ももたらします。</span><span class="sxs-lookup"><span data-stu-id="23b6b-110">This wave also brings the results of a material top-to-bottom investment in Business Central service security.</span></span>
+
+    <span data-ttu-id="23b6b-111">パートナーは、Business Central エコシステムの重要なコンポーネントです。このウェーブは、Azure Insights を通じてパートナーに テレメトリの可視性をもたらします。</span><span class="sxs-lookup"><span data-stu-id="23b6b-111">Partners are a critical component of the Business Central ecosystem; this wave brings telemetry visibility for partners through Azure Insights.</span></span> <span data-ttu-id="23b6b-112">トップ パートナーから要望された改善を Common Data Service との統合に提供して、他の Dynamics 365 ワークロードとの統合の拡張性を向上させています。</span><span class="sxs-lookup"><span data-stu-id="23b6b-112">We are delivering top partner-requested improvements to the integration with Common Data Service to improve the extensibility of integrations with other Dynamics 365 workloads.</span></span> <span data-ttu-id="23b6b-113">最後に、機能の公開と AL 言語でのコードの非推奨の管理のサポートにより、今後中断のないサービスの進化が可能になります。</span><span class="sxs-lookup"><span data-stu-id="23b6b-113">Finally, feature flighting and support for managing deprecation of code in the AL language enable the non-disruptive future evolution of the service.</span></span>
+
+- <span data-ttu-id="23b6b-114">**生産性**: エンドユーザーの生産性は重要です。</span><span class="sxs-lookup"><span data-stu-id="23b6b-114">**Productivity**: End-user productivity is critical.</span></span> <span data-ttu-id="23b6b-115">このリリースでは、最新のクライアント エクスペリエンスの強化、合理化されたデータ入力、および反復的な販売注文明細行や発注書明細行の自動挿入などの要望のあった機能によって生産性を向上させるパターンを継続しています。</span><span class="sxs-lookup"><span data-stu-id="23b6b-115">This release continues the pattern of delivering improved productivity with enhancements to the modern client experience, streamlined data entry, and requested features, such as auto-insert for recurring sales and purchase order lines.</span></span>
+
+- <span data-ttu-id="23b6b-116">**地理的拡大**: 2020 年リリース ウェーブ 1 では、テナントごとに複数言語の翻訳をインストールする機能が追加されています。</span><span class="sxs-lookup"><span data-stu-id="23b6b-116">**Geographic expansion**: 2020 release wave 1 adds the ability to install multiple language translations for each tenant.</span></span> <span data-ttu-id="23b6b-117">また、このウェーブでは、スロベニア、クロアチア、ラトビア、ハンガリー、ペルー、コロンビア向けのローカライズが追加されます。</span><span class="sxs-lookup"><span data-stu-id="23b6b-117">Also, this wave adds localizations for Slovenia, Croatia, Latvia, Hungary, Peru, and Columbia.</span></span> <span data-ttu-id="23b6b-118">今後のウェーブでは、ブラジルとインド向けのローカライズが続きます。</span><span class="sxs-lookup"><span data-stu-id="23b6b-118">Localization for Brazil and India will follow in a later wave.</span></span>
+
+- <span data-ttu-id="23b6b-119">**お客様からの機能強化の要望**: Business Central では、お客様からの機能強化の要望に継続的に対応していきます。</span><span class="sxs-lookup"><span data-stu-id="23b6b-119">**Customer requested enhancements**: Business Central continues to respond to top customer-enhancement requests.</span></span> <span data-ttu-id="23b6b-120">製品アイデア ポータルから選択した複数の機能に加えて、口座調整など、多くのフィードバックを受け取る分野を強化しています。</span><span class="sxs-lookup"><span data-stu-id="23b6b-120">In addition to multiple features picked from the product Ideas portal, we are enhancing areas that receive significant feedback, such as bank reconciliation.</span></span>
+
+- <span data-ttu-id="23b6b-121">**顧客移行ツール**: Dynamics の既存のお客様が Business Central Online に簡単に移行できるように、より広範な Dynamics GP と Dynamics NAV バージョンのセットからの移行のサポートを追加し、Dynamics GP のお客様と仕入先の選択的移行を改善し、Dynamics GP 勘定科目表のセットアップ移行を強化しています。</span><span class="sxs-lookup"><span data-stu-id="23b6b-121">**Customer migration tools**: To simplify the journey for existing Dynamics customers to Business Central online, we’re adding support for migration from a broader set of Dynamics GP and Dynamics NAV versions, making improvements for selective migration of Dynamics GP customers and vendors, and enhancing the Dynamics GP Chart of Account setups migration.</span></span>
+
+<span data-ttu-id="23b6b-122">また、これらの機能強化は、Dynamics GP、Dynamics NAV、Dynamics SL のお客様が移行できるようにすること、Business Central online に垂直ソリューションを提供しているパートナーを活性化すること、Dynamics 365 の新規お客様の拡大をさらに加速することにより、お客様のさらなる導入を促進するように設計されています。</span><span class="sxs-lookup"><span data-stu-id="23b6b-122">Together, these enhancements are designed to drive further customer adoption by empowering the migration of Dynamics GP, Dynamics NAV, and Dynamics SL customers, activating the partners who are bringing their vertical solutions to Business Central online, and further accelerating the growth of net new customers to Dynamics 365.</span></span>
+<!--overview end-->

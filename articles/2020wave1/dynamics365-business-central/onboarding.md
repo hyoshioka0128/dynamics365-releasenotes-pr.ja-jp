@@ -3,25 +3,25 @@ title: オンボード
 description: ''
 author: relnotes
 ms.reviewer: edupont04
-ms.date: 08/30/2019
+ms.date: 01/27/2020
 ms.assetid: 74563a84-27cb-e911-a996-000d3a4f3343
 ms.topic: structure
 ms.service: business-applications
 ms.author: jannikb
 dynamics365pdf: true
-ms.openlocfilehash: e3679b6644556ae2dbf6b296dc821cfeb38e60ef
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: c25afbf142e91182b6daa1b227ebd02367c9d9c2
+ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986654"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "3031739"
 ---
-# <a name="onboarding"></a><span data-ttu-id="2a0d5-102">オンボード</span><span class="sxs-lookup"><span data-stu-id="2a0d5-102">Onboarding</span></span>
+# <a name="onboarding"></a><span data-ttu-id="4d696-102">オンボード</span><span class="sxs-lookup"><span data-stu-id="4d696-102">Onboarding</span></span>
 
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 <!--structure start-->
-<span data-ttu-id="2a0d5-103">2020 年リリース ウェーブ 1 では、新しいユーザーがより短時間で Business Central に慣れることができるように、オンボーディング エクスペリエンスが強化されています。</span><span class="sxs-lookup"><span data-stu-id="2a0d5-103">With 2020 release wave 1, we improve the onboarding experience to get new users acquainted with Business Central faster.</span></span>
+<span data-ttu-id="4d696-103">2020 年リリース ウェーブ 1 では、新しいユーザーがより短時間で Business Central に慣れることができるように、オンボーディング エクスペリエンスが強化されています。</span><span class="sxs-lookup"><span data-stu-id="4d696-103">With 2020 release wave 1, we improve the onboarding experience to get new users acquainted with Business Central faster.</span></span>
 <!--structure end-->
 
 
