@@ -235,7 +235,7 @@ ms.locfileid: "2952548"
 |[CW 統合の強化 10.0.1](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.1.md) |   一般提供の日付が 2020 年 3 月から**近日発表**に変更されました。  |2019 年 12 月 10 日|
 |[在庫エイジング レポート ストレージ](dynamics365-supply-chain-management/inventory-aging-report-storage.md) |   一般提供の日付が 2019 年 11 月から 2020 年 1 月に変更されました。  |2019 年 11 月 26 日|
 |[ピッキング作業作成ステップからの需要補充作業の分割](dynamics365-supply-chain-management/split-demand-replenishment-work-create-pick-work-step.md) |   一般提供の日付が 2019 年 11 月から 2020 年 1 月に変更されました。  |2019 年 11 月 19 日|
-|[仕入先の入札 - 仕入先からの質問および要約された回答](dynamics365-supply-chain-management/vendor-bidding—questions-vendors-summarized-responses.md) |   一般提供の日付が 2019 年 12 月から**近日発表**に変更されました。  |2019 年 11 月 18 日|
+|[仕入先の入札 - 仕入先からの質問および要約された回答](dynamics365-supply-chain-management/vendor-bidding-questions-vendors-summarized-responses.md) |   一般提供の日付が 2019 年 12 月から**近日発表**に変更されました。  |2019 年 11 月 18 日|
 |[倉庫プロセスの品質管理](dynamics365-supply-chain-management/quality-management-warehouse-processes.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 1 月に変更されました。 一般提供の日付が 2020 年 1 月から 2020 年 3 月に変更されました。  |2019 年 11 月 15 日|
 |[ウェーブ ステップ コード](dynamics365-supply-chain-management/wave-step-code.md) | パブリック プレビューの日付が 2019 年 11 月から 2020 年 1 月に変更されました。 一般提供の日付が 2020 年 1 月から 2020 年 3 月に変更されました。  |2019 年 11 月 15 日|
 |[CW 統合の強化 10.0.6](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.6.md) |   一般提供の日付が 2020 年 2 月から**近日発表**に変更されました。  |2019 年 11 月 12 日|
@@ -355,7 +355,7 @@ ms.locfileid: "2952548"
 |[ウェーブの間の高度な積荷構築](dynamics365-supply-chain-management/advanced-load-building-during-wave.md) | パブリック プレビューの日付が 2019 年 2 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
 |[倉庫のスロッティング](dynamics365-supply-chain-management/warehouse-slotting.md) | パブリック プレビューの日付が 2019 年 3 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
 |[ウェーブ ステータスのビジュアル化](dynamics365-supply-chain-management/wave-status-visualization.md) | パブリック プレビューの日付が 2019 年 3 月から 2019 年 8 月に変更されました。    |2019 年 7 月 19 日|
-|[仕入先の入札 - 仕入先からの質問および要約された回答](dynamics365-supply-chain-management/vendor-bidding—questions-vendors-summarized-responses.md) |   一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 7 月 10 日|
+|[仕入先の入札 - 仕入先からの質問および要約された回答](dynamics365-supply-chain-management/vendor-bidding-questions-vendors-summarized-responses.md) |   一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 7 月 10 日|
 |[購買契約書の機能強化](dynamics365-supply-chain-management/purchase-agreement-enhancements.md) |   一般提供の日付が 2019 年 10 月から 2019 年 11 月に変更されました。  |2019 年 7 月 10 日|
 |[CW 統合の強化 10.0.3](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.3.md) |   一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 6 月 14 日|
 |[CW 統合の強化 10.0.2](dynamics365-supply-chain-management/further-catch-weight-integration-10.0.2.md) |   一般提供の日付が 2019 年 10 月から 2019 年 12 月に変更されました。  |2019 年 6 月 14 日|
@@ -625,7 +625,7 @@ ms.locfileid: "2952548"
 |----------|----------|---------------|
 | デバイス ライセンス認証トークンの自動更新 | 優先順位が下げられ、配信されません。 |2020 年 1 月 6 日 |
 | 店舗での小売トランザクションの財務調整 (パブリック プレビュー) | 次のリリース ウェーブに移動されました。 |2019 年 12 月 13 日 |
-| コール センターでの外部ギフト カードのサポート | この機能を [eコマースおよびコール センターでの外部ギフト カードのサポート](dynamics365-retail/)機能とマージしました。 |2019 年 11 月 23 日 |
+| コール センターでの外部ギフト カードのサポート | この機能を [eコマースおよびコール センターでの外部ギフト カードのサポート](dynamics365-retail/index.md)機能とマージしました。 |2019 年 11 月 23 日 |
 | 店舗で利用可能な現物在庫のチャネル側での計算 | 次のリリース ウェーブに移動されました。 |2019 年 11 月 5 日 |
 | 店舗での在庫 (入庫/出庫) 操作の改善 | 次のリリース ウェーブに移動されました。 |2019 年 11 月 5 日 |
 | 保証の設定と販売 | 次のリリース ウェーブに移動されました。 |2019 年 9 月 6 日 |
@@ -833,6 +833,6 @@ ms.locfileid: "2952548"
 ### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
 | 機能 |  追加日 |
 |---------|---------------|
-|[高等教育アクセラレーターの新しいシナリオ](industry-accelerators/education/new-scenarios-higher-education-accelerator.md) |  2019 年 12 月 9 日| 
+
 
  
