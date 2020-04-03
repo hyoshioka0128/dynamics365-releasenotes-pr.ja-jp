@@ -1,6 +1,31 @@
 {
   "redirections": [
     {
+      "source_path": "articles/2020wave1/artificial-intelligence/dynamics365-connected-store/checkout-queue-management.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2020wave1/artificial-intelligence/dynamics365-connected-store/foot-traffic.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2020wave1/artificial-intelligence/dynamics365-connected-store/installation-deployment-guide.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2020wave1/artificial-intelligence/dynamics365-connected-store/notifications.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/2020wave1/artificial-intelligence/dynamics365-connected-store/scheduled-reports.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "articles/2019wave2/dynamics365-talent/attract.md",
       "redirect_url": "index",
       "redirect_document_id": "false"
