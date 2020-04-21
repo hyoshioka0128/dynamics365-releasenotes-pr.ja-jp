@@ -3,27 +3,27 @@ title: Finance Insights
 description: Finance Insights の形式で提供される AI を活用した機能
 author: relnotes
 ms.reviewer: ''
-ms.date: 02/07/2020
+ms.date: 03/12/2020
 ms.assetid: cad7d1ea-7447-ea11-a812-000d3a579c34
 ms.topic: structure
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: acedbf95ba126be186b810fee6a3d293ae5dda4d
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: fbe3028d3aba513500caceb4b5853029c4e12e9b
+ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079293"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "3152249"
 ---
-# <a name="finance-insights"></a><span data-ttu-id="36104-103">Finance Insights</span><span class="sxs-lookup"><span data-stu-id="36104-103">Finance Insights</span></span>
+# <a name="finance-insights"></a><span data-ttu-id="be70d-103">Finance Insights</span><span class="sxs-lookup"><span data-stu-id="be70d-103">Finance Insights</span></span>
 
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
 
 <!--structure start-->
-<span data-ttu-id="36104-104">Finance Insights は、財務プロセスに AI の力を活用することにより、デジタル変革を加速します。</span><span class="sxs-lookup"><span data-stu-id="36104-104">Finance Insights accelerates your digital transformation by bringing the power of AI into your finance processes.</span></span> <span data-ttu-id="36104-105">組織が迅速に意思決定を行い、リスクを軽減し、戦略的イニシアチブに集中しようとするときは、反復的で、時間がかかり、価値の低い毎日の活動を財務から取り除くことが重要です。</span><span class="sxs-lookup"><span data-stu-id="36104-105">As organizations look to make decisions rapidly, reduce risk and focus on strategic initiatives, it is critical to free finance from repetitive, time-consuming, and low-value daily activities.</span></span> <span data-ttu-id="36104-106">AI の力を活用する Finance Insights は、会社の現金持高を迅速に把握して対処するだけでなく、それを改善するためのプロアクティブなアクションを実行できるようにします。</span><span class="sxs-lookup"><span data-stu-id="36104-106">Leveraging the power of AI, Finance Insights enables you to not only quickly understand and act on your company's cash position, but also to take proactive action to improve it.</span></span> <span data-ttu-id="36104-107">面倒なタスクは自動化または削除され、AI 専門知識の開発または採用の障壁は回避され、ビジネスを前進させるための分析情報が残されます。</span><span class="sxs-lookup"><span data-stu-id="36104-107">Menial tasks are automated or removed, the barrier of developing or hiring AI expertise is bypassed, and you're left with insights to move your business forward.</span></span>  
+<span data-ttu-id="be70d-104">Finance Insights は、財務プロセスに AI の力を活用することにより、デジタル変革を加速します。</span><span class="sxs-lookup"><span data-stu-id="be70d-104">Finance Insights accelerates your digital transformation by bringing the power of AI into your finance processes.</span></span> <span data-ttu-id="be70d-105">組織が迅速に意思決定を行い、リスクを軽減し、戦略的イニシアチブに集中しようとするときは、反復的で、時間がかかり、価値の低い毎日の活動を財務から取り除くことが重要です。</span><span class="sxs-lookup"><span data-stu-id="be70d-105">As organizations look to make decisions rapidly, reduce risk and focus on strategic initiatives, it is critical to free finance from repetitive, time-consuming, and low-value daily activities.</span></span> <span data-ttu-id="be70d-106">AI の力を活用する Finance Insights は、会社の現金持高を迅速に把握して対処するだけでなく、それを改善するためのプロアクティブなアクションを実行できるようにします。</span><span class="sxs-lookup"><span data-stu-id="be70d-106">Leveraging the power of AI, Finance Insights enables you to not only quickly understand and act on your company's cash position, but also to take proactive action to improve it.</span></span> <span data-ttu-id="be70d-107">面倒なタスクは自動化または削除され、AI 専門知識の開発または採用の障壁は回避され、ビジネスを前進させるための分析情報が残されます。</span><span class="sxs-lookup"><span data-stu-id="be70d-107">Menial tasks are automated or removed, the barrier of developing or hiring AI expertise is bypassed, and you're left with insights to move your business forward.</span></span>  
 
-<span data-ttu-id="36104-108">2020 年リリース ウェーブ 1 の Dynamics 365 Finance では、会社のキャッシュ フローを正確かつインテリジェントに予測するのに役立つ、構成可能で拡張可能なモデルが提供されます。</span><span class="sxs-lookup"><span data-stu-id="36104-108">In 2020 release wave 1, Dynamics 365 Finance provides configurable and extensible models to help you accurately and intelligently predict your company’s cash flow.</span></span> <span data-ttu-id="36104-109">顧客支払予測では、期限どおりまたは遅れて支払うことが予測される顧客と、その予測に寄与している要因が表示されます。</span><span class="sxs-lookup"><span data-stu-id="36104-109">Customer payment predictions show which customers you can expect to pay on time or late and what factors are contributing to that prediction.</span></span> <span data-ttu-id="36104-110">予算と外部データを含めた現金の出入りを使用して、予測銀行残高とキャッシュ フローを経時的に表示できます。</span><span class="sxs-lookup"><span data-stu-id="36104-110">Using your cash in and out including budget and external data, you can view a forecasted bank balance and cash flow over time.</span></span> <span data-ttu-id="36104-111">これらの新機能と、仕入先支払および回収の自動化を組み合わせることにより、会社の成功を後押しする充実したインテリジェントな財務システムが実現します。</span><span class="sxs-lookup"><span data-stu-id="36104-111">These new capabilities, paired with automation in vendor payments and collections, provide a rich and intelligent financial system to power your company’s success.</span></span>
+<span data-ttu-id="be70d-108">2020 年リリース ウェーブ 1 の Dynamics 365 Finance では、会社のキャッシュ フローを正確かつインテリジェントに予測するのに役立つ、構成可能で拡張可能なモデルが提供されます。</span><span class="sxs-lookup"><span data-stu-id="be70d-108">In 2020 release wave 1, Dynamics 365 Finance provides configurable and extensible models to help you accurately and intelligently predict your company’s cash flow.</span></span> <span data-ttu-id="be70d-109">顧客支払予測では、期限どおりまたは遅れて支払うことが予測される顧客と、その予測に寄与している要因が表示されます。</span><span class="sxs-lookup"><span data-stu-id="be70d-109">Customer payment predictions show which customers you can expect to pay on time or late and what factors are contributing to that prediction.</span></span> <span data-ttu-id="be70d-110">予算と外部データを含めた現金の出入りを使用して、予測銀行残高とキャッシュ フローを経時的に表示できます。</span><span class="sxs-lookup"><span data-stu-id="be70d-110">Using your cash in and out including budget and external data, you can view a forecasted bank balance and cash flow over time.</span></span> <span data-ttu-id="be70d-111">これらの新機能と、仕入先支払および回収の自動化を組み合わせることにより、会社の成功を後押しする充実したインテリジェントな財務システムが実現します。</span><span class="sxs-lookup"><span data-stu-id="be70d-111">These new capabilities, paired with automation in vendor payments and collections, provide a rich and intelligent financial system to power your company’s success.</span></span>
 <!--structure end-->
 
 

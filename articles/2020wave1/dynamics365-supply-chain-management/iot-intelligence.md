@@ -1,22 +1,22 @@
 ---
-title: IOT インテリジェンス
+title: IoT インテリジェンス
 description: ''
 author: relnotes
 ms.reviewer: ''
-ms.date: 08/30/2019
+ms.date: 03/12/2020
 ms.assetid: 81d53734-57cb-e911-a96f-000d3a4f33c1
 ms.topic: structure
 ms.service: business-applications
 ms.author: arijitba
 dynamics365pdf: true
-ms.openlocfilehash: acfa5939cbdb0479d4205585590b8d9bc8ca51c4
-ms.sourcegitcommit: 9ede92eba84a02579fc8fc63e6a9673b034ce30c
+ms.openlocfilehash: ba60dc75e42d1bc0fcb1c38045c89e18b9e2f9ef
+ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "2976538"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "3219196"
 ---
-# <a name="iot-intelligence"></a><span data-ttu-id="3fc8d-102">IOT インテリジェンス</span><span class="sxs-lookup"><span data-stu-id="3fc8d-102">IOT Intelligence</span></span>
+# <a name="iot-intelligence"></a><span data-ttu-id="29f0b-102">IoT インテリジェンス</span><span class="sxs-lookup"><span data-stu-id="29f0b-102">IoT Intelligence</span></span>
 
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 

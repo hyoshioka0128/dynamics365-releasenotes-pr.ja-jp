@@ -3,20 +3,20 @@ title: 原価計算
 description: ''
 author: relnotes
 ms.reviewer: ''
-ms.date: 08/30/2019
+ms.date: 03/12/2020
 ms.assetid: 30904670-57cb-e911-a96f-000d3a4f33c1
 ms.topic: structure
 ms.service: business-applications
 ms.author: aevengir
 dynamics365pdf: true
-ms.openlocfilehash: 3c27d53b19714b00eb8c3e567b957356991ee31f
-ms.sourcegitcommit: 9ede92eba84a02579fc8fc63e6a9673b034ce30c
+ms.openlocfilehash: 61ba55926645db3797bbde0d7685841fa6b3ffeb
+ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "2976549"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "3152183"
 ---
-# <a name="costing"></a><span data-ttu-id="b1213-102">原価計算</span><span class="sxs-lookup"><span data-stu-id="b1213-102">Costing</span></span>
+# <a name="costing"></a><span data-ttu-id="b43ca-102">原価計算</span><span class="sxs-lookup"><span data-stu-id="b43ca-102">Costing</span></span>
 
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
