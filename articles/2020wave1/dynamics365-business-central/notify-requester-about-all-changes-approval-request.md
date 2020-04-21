@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 3f462f3d8bd48d250dbf22e044652fdcd42d819e
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: f818c11fd205200e39a38daee972d07672c5f74c
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079920"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232750"
 ---
 # <a name="notify-requester-about-all-changes-for-an-approval-request"></a>承認要求の変更を要求者にすべて通知する
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -51,4 +51,8 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [ワークフローを作成するには](https://docs.microsoft.com/dynamics365/business-central/across-how-to-create-workflows#to-create-a-workflow) (ドキュメント)
+<!--docs end-->
+

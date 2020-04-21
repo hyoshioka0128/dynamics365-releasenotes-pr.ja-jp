@@ -3,18 +3,18 @@ title: 注文量よりも多くの商品を受け取る
 description: 注文数量に対する入庫数量について指定された許容範囲に基づいて、発注書と倉庫の超過入庫を許可します。
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 02/04/2020
+ms.date: 03/18/2020
 ms.assetid: 7c144f9f-4aca-e911-a968-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 4a5a05bfa18e20be19ab0bd01a27845259b62e03
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: ce42adeed6b67ca29c06b0cd229c3d15c5e52e03
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3032432"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232706"
 ---
 # <a name="receive-more-items-than-ordered"></a>注文量よりも多くの商品を受け取る
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -42,10 +42,9 @@ ms.locfileid: "3032432"
 超過入庫コードを選択したら、リリース済みの発注書と倉庫入庫の**入庫する数量**フィールドに、注文数量よりも多い数量を入力できます。
 <!--feature detail end -->
 
-![超過入庫許容率フィールドがハイライトされた超過入庫コード](media/over-receipt-codes.png "[超過入庫許容率] フィールドがハイライトされた超過入庫コード")
+![超過入庫許容率フィールドがハイライトされた超過入庫コードの表示](media/over-receipt-codes.png "超過入庫許容率フィールドがハイライトされた超過入庫コードの表示")
 <!-- Picture 1 -->
-
-![発注書明細行の超過入庫](media/over-receipt-purch-order.png "発注書明細行の超過入庫")
+![発注書明細行での超過入庫の表示](media/over-receipt-purch-order.png "発注書明細行での超過入庫の表示")
 <!-- Picture 2 -->
 
 
@@ -59,3 +58,11 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 ## <a name="thank-you-for-your-idea"></a>アイデアをありがとうございます
 [このアイデア](https://experience.dynamics.com/ideas/idea/?ideaid=7c83f7d7-8763-e911-b047-0003ff68b7ef)をお送りいただき、ありがとうございました。 アイデア、コメント、投票を参考に、製品のロードマップに追加するものを決定しています。
+
+## <a name="see-also"></a>関連項目
+
+
+<!--docs start-->
+[商品の受け取り](https://docs.microsoft.com/dynamics365/business-central/warehouse-how-receive-items) (ドキュメント)
+<!--docs end-->
+

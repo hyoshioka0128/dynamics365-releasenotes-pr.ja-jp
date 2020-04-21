@@ -3,18 +3,18 @@ title: キュー ページの強化
 description: キュー ページの強化
 author: relnotes
 ms.reviewer: nenellim
-ms.date: 02/18/2020
+ms.date: 02/25/2020
 ms.assetid: 88310307-1a0b-ea11-a811-000d3a4f1ebb
 ms.topic: article
 ms.service: business-applications
 ms.author: dadavids
 dynamics365pdf: true
-ms.openlocfilehash: a2ddcc82df3b6ee592e5f8ba37a99b23627e2b44
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: af2c3f5e5b672730a69271fcf35603a744328a9f
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079700"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233173"
 ---
 # <a name="enhancements-in-the-queue-page"></a>キュー ページの強化
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
@@ -37,4 +37,18 @@ ms.locfileid: "3079700"
 <!--feature detail end -->
 
 
+
+
+
+
+
+
+
+
+## <a name="see-also"></a>関連項目
+
+
+<!--docs start-->
+[レコードとページ内を移動する](https://docs.microsoft.com/dynamics365/customer-service/customer-service-hub-user-guide-basics#navigate-through-records-and-pages) (ドキュメント)
+<!--docs end-->
 

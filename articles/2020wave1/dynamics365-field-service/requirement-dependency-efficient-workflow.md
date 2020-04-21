@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: ragguru
 dynamics365pdf: true
-ms.openlocfilehash: dd13f32dca735bf68beb5fda2de6af146187351e
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: b24d84c5851488c84f225b392bb798232207af85
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079601"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232057"
 ---
 # <a name="requirement-dependency-for-efficient-workflow"></a>効率的なワークフローのための要件の依存関係
 [!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
@@ -50,4 +50,8 @@ ms.locfileid: "3079601"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [要件の依存関係の順にスケジュールする](https://docs.microsoft.com/dynamics365/field-service/rso-requirement-dependency) (ドキュメント)
+<!--docs end-->
+

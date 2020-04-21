@@ -3,18 +3,18 @@ title: ライセンス
 description: Dynamics 365 Sales は採用率の高い営業ツールであり、重要な営業シナリオに合わせて調整されたすぐに使える機能で、世界中の営業チームに価値をもたらします。 それは単なる営業アプリケーション以上の、システム全体です。
 author: relnotes
 ms.reviewer: shubhadaj
-ms.date: 02/08/2020
+ms.date: 03/26/2020
 ms.assetid: 08fe4a1b-99d9-e911-a812-000d3a4f13c0
 ms.topic: structure
 ms.service: business-applications
 ms.author: amitsiva
 dynamics365pdf: true
-ms.openlocfilehash: 38a23c584c914256e25ccc77754ab325b175c02c
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 1106b22e6e43ef38ca89b9db985582dc76de4c06
+ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080689"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "3218800"
 ---
 # <a name="licensing"></a>ライセンス
 
@@ -31,9 +31,10 @@ Dynamics 365 Sales は、変化する顧客と営業のニーズを満たすた�
 
 営業案件とは、営業エンゲージメントに革命を起こし、生産性を改善して、絶えず変化する顧客のニーズを満たす進化を意味します。 
 
-このドキュメントで説明する営業組織の課題は、企業調査、アナリストのレポート、顧客とのやりとりに基づいています。
+ここで説明する営業組織の課題は、企業調査、アナリストのレポート、顧客とのやりとりに基づいています。
 
 **2020 年リリース ウェーブ 1 のテーマ:**
+
 - **簡素化**: 物事をより簡単に成し遂げ、販売に専念します。
 
   販売担当者は顧客とのより深い関係の構築に集中する必要があります。 そのためには、個別のエンゲージメントに時間を集中して、より多くの取引を迅速に成立させるために顧客のニーズを理解する必要があります。 Dynamics 365 Sales は、生産性を改善するエクスペリエンスの簡素化とインテリジェンスの導入に取り組んでいます。 顧客との緊密なコラボレーション、そして一貫して顧客のフィードバックに耳を傾けることにより、当社は販売担当者のエクスペリエンスを強化し続けます。
@@ -50,7 +51,7 @@ Dynamics 365 Sales は、変化する顧客と営業のニーズを満たすた�
 
   予測は、販売担当者が自信を持って強力なパイプラインを構築し、販売サイクルを短縮し、予測の精度を改善することを支援します。 その結果、営業リーダーは自分のビジネスをより正確に把握し、より効果的に計画を立てることができます。 Dynamics 365 Sales は予測ソリューションを導入し、独自のビジネス要件を満たす柔軟性と、インテリジェントな予測のための直感的なインターフェイスを両方とも提供します。
 
-当社はいつでもお客様やパートナーのご意見を求めています。 Dynamics 365 Sales に関するアイデアやお考えを、https://aka.ms/SalesIdeas にぜひお寄せください。 
+当社はいつでもお客様やパートナーのご意見を求めています。 Dynamics 365 Sales に関するアイデアやお考えを、https://aka.ms/SalesIdeas にぜひお寄せください。
 <!--structure end-->
 
 

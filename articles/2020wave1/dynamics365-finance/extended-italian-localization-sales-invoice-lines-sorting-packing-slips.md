@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mrolecki
 dynamics365pdf: true
-ms.openlocfilehash: d0b0f8c17d0d0fe1f98be091e1e0dee90511c8c0
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: fa3ceab4e6aebbe0a09f09adbd6a7259d1066bc6
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079365"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3231980"
 ---
 # <a name="extended-italian-localization-sales-invoice-lines-sorting-by-packing-slips"></a>拡張されたローカライズ (イタリア): 梱包明細順での売上請求明細行の並べ替え
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
@@ -47,4 +47,8 @@ ms.locfileid: "3079365"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [梱包明細の売上請求明細行の並べ替え](https://docs.microsoft.com/dynamics365/finance/localizations/emea-ita-exil-invoicing-packing-slips) (ドキュメント)
+<!--docs end-->
+

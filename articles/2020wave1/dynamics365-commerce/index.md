@@ -3,18 +3,18 @@ title: Dynamics 365 Commerce 2020 年リリース ウェーブ 1 の概要
 description: Dynamics 365 Commerce 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: josaw
-ms.date: 02/07/2020
+ms.date: 03/12/2020
 ms.assetid: 6e019de0-eb41-ea11-a812-000d3a563be2
 ms.topic: overview
 ms.service: business-applications
 ms.author: balajiba
 dynamics365pdf: true
-ms.openlocfilehash: 8fc8a732ae4d51caca0e7275aabeebbbe9a3856b
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 193b30244954c78b85fbb8dee59e77112acb5a37
+ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079832"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "3151875"
 ---
 # <a name="overview-of-dynamics-365-commerce-2020-release-wave-1"></a>Dynamics 365 Commerce 2020 年リリース ウェーブ 1 の概要
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]

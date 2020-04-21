@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: snagy
 dynamics365pdf: true
-ms.openlocfilehash: 9fa81ea5b211792e233cbb7fd390aa6f5a897a64
-ms.sourcegitcommit: 1e222f5d9816ce7157d63f308aea14d853628226
+ms.openlocfilehash: 43dafb10af2a08952dc17c3c5a9749d61cd7bd57
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/10/2020
-ms.locfileid: "3035786"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232310"
 ---
 # <a name="financial-services-accelerator"></a>Financial Services Accelerator
 [!include[industry-accelerators/financial-services banner](../includes/industry-accelerators/financial-services.md)]
@@ -47,4 +47,8 @@ Financial Services Accelerator の初期リリースは、[リテール バン�
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [Financial Services Accelerator](https://aka.ms/FSIAcceleratorDocs) (ドキュメント)
+<!--docs end-->
+

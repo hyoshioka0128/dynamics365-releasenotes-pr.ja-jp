@@ -3,18 +3,18 @@ title: Finance and Operations クロス アプリ機能 2020 年リリース ウ
 description: Finance and Operations クロス アプリ機能 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: sericks
-ms.date: 01/27/2020
+ms.date: 03/12/2020
 ms.assetid: e418dcc9-b422-ea11-a810-000d3a8f022a
 ms.topic: overview
 ms.service: business-applications
 ms.author: robadawy
 dynamics365pdf: true
-ms.openlocfilehash: 7f2267dc8380c8abb352416da9966facb57e34bd
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: e7affaf4438d68dbe80801f8aef68e5b74b6d9a9
+ms.sourcegitcommit: f7b958b02d7cb7543a3f81414e7b3e62a5b8539d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3031992"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "3158217"
 ---
 # <a name="overview-of-finance-and-operations-cross-app-capabilities-2020-release-wave-1"></a>Finance and Operations クロス アプリ機能 2020 年リリース ウェーブ 1 の概要
 [!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]

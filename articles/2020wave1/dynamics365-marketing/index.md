@@ -3,18 +3,18 @@ title: Dynamics 365 Marketing 2020 年リリース ウェーブ 1 の概要
 description: Dynamics 365 Marketing 2020 年リリース ウェーブ 1 の概要
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 02/07/2020
+ms.date: 03/12/2020
 ms.assetid: d3915f9e-1dce-e911-a996-000d3a4f3343
 ms.topic: overview
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: 646f06aa31f7a3ade5d0caf6c7161b2684488fba
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 6be7a1a95f2ade04c58361cdcb6ba29201832306
+ms.sourcegitcommit: f7b958b02d7cb7543a3f81414e7b3e62a5b8539d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080151"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "3157579"
 ---
 # <a name="overview-of-dynamics-365-marketing-2020-release-wave-1"></a>Dynamics 365 Marketing 2020 年リリース ウェーブ 1 の概要
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]

@@ -3,18 +3,18 @@ title: 構成可能なサポート案件の解決ページ
 description: 構成可能なサポート案件の解決ページ
 author: relnotes
 ms.reviewer: nenellim
-ms.date: 02/18/2020
+ms.date: 03/09/2020
 ms.assetid: 85355db5-1c0b-ea11-a811-000d3a4f1ebb
 ms.topic: article
 ms.service: business-applications
 ms.author: dadavids
 dynamics365pdf: true
-ms.openlocfilehash: 6ae3cd0914a543e5f521101d26f4e4a61f7a95e3
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 5b669fc3afffa9f6f255f4717fca02f71161c142
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079744"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233267"
 ---
 # <a name="configurable-case-resolution-page"></a>構成可能なサポート案件の解決ページ
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
@@ -37,8 +37,23 @@ ms.locfileid: "3079744"
 
 - サポート案件の解決のフォーム/ダイアログ ボックスに解決の種類などのフィールドを追加します。 
 - 新しいクライアント側ビジネス検証を導入したり、既存の検証を削除したりします。
-- サポート案件の解決エンティティをカスタマイズします。 
+- サポート案件の解決エンティティをカスタマイズします (2020 年 4 月 1 日に一般提供)。 
 - カスタマイズ不可能なモーダル ダイアログ エクスペリエンス (既定の設定) またはカスタマイズ可能なフォーム エクスペリエンスを選択します。
 <!--feature detail end -->
 
+
+
+
+
+
+
+
+
+
+## <a name="see-also"></a>関連項目
+
+
+<!--docs start-->
+[サポート案件の解決ダイアログの変更](https://docs.microsoft.com/dynamics365/customer-service/customer-service-hub-user-guide-modify-case-resolution-dialog) (ドキュメント)
+<!--docs end-->
 

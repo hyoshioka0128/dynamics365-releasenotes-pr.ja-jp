@@ -3,18 +3,18 @@ title: Connected Customer Service (IoT + Customer Service)
 description: Connected Customer Service (IoT + Customer Service)
 author: relnotes
 ms.reviewer: kabala
-ms.date: 02/03/2020
+ms.date: 02/25/2020
 ms.assetid: 97ad9a7a-19db-e911-a812-000d3a4f13c0
 ms.topic: article
 ms.service: business-applications
 ms.author: jessiewa
 dynamics365pdf: true
-ms.openlocfilehash: dc730679c5771dbd73ed691009ad10f08525872f
-ms.sourcegitcommit: 0a73f7354797bcbf643214c5f32d32a0b03a2899
+ms.openlocfilehash: 6524ab5a4617943f3acfa2e29892e5d1ea8f35e4
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/08/2020
-ms.locfileid: "3033426"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233234"
 ---
 # <a name="connected-customer-service-iot--customer-service"></a>Connected Customer Service (IoT + Customer Service)
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
@@ -50,6 +50,11 @@ Connected Customer Service は、IoT 診断、IoT デバイスの更新、およ
 
 
 
-<!-- Note from editor: Please fix this link. ## See also
 
-<!--[n/a](https://he top of the tree for these topics, and then you can review from there - https://review.docs.microsoft.com/en-us/dynamics365/customer-service/cs-iot-overview?branch=iotinteg) (docs)-->
+## <a name="see-also"></a>関連項目
+
+
+<!--docs start-->
+[Connected Customer Service](https://docs.microsoft.com/dynamics365/customer-service/cs-iot-overview) (ドキュメント)
+<!--docs end-->
+

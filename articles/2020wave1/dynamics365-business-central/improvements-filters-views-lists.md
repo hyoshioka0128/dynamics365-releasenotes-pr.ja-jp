@@ -1,27 +1,27 @@
 ---
-title: フィルターとビューをより簡単に使用する
-description: リストでのフィルターとビューの改善
+title: フィルター式の向上
+description: フィルター式の向上
 author: mikebcMSFT
-ms.reviewer: sgroespe
-ms.date: 02/03/2020
+ms.reviewer: jswymer
+ms.date: 04/01/2020
 ms.assetid: 9f86de01-4236-ea11-a813-000d3a579c34
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 9656f615269e99fce92e028ab7c70b9ea1d884b4
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: fcd3c460d25efa93b4f90f6077451e95a4a3aaf9
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3031805"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232200"
 ---
-# <a name="use-filters-and-views-more-easily"></a>フィルターとビューをより簡単に使用する
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+# <a name="improvements-to-filter-expressions"></a>フィルター式の向上
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| 2020 年 4 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -33,13 +33,18 @@ ms.locfileid: "3031805"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-2019 年リリース ウェーブ 2 では、ユーザーが Web クライアントでフィルターをビューとして永続的に保存できるようにすることで、よく使用されるフィルターを作り直す必要がなくなりました。 コミュニティのフィードバックに基づいて、現在はフィルターのエクスペリエンスをさらに改善しています。
+Business Central の 2019 年リリース ウェーブ 2 では、ユーザーが Web クライアントでフィルターをビューとして永続的に保存できるようにすることで、よく使用されるフィルターを作り直す必要がなくなりました。 コミュニティのフィードバックに基づいて、現在はフィルターのエクスペリエンスをさらに改善しています。
 
-- 日付範囲やフィルター トークンなどの式を使用するフィルターを作成するときに、フィルター フィールドを切り替えて、式または対応する値を表示できます。 式を表示するには、キーボードまたはマウスを使用してフィルター フィールドにフォーカスを設定するだけです。 これは、リスト ビューを保存するときに特に便利であり、日付や時間に依存する式を必要に応じて簡単に変更できます。
+日付範囲やフィルター トークンなどの式を使用するフィルターを作成するときに、フィルター フィールドを切り替えて、式または対応する値を表示できます。 式をもう一度表示するには、キーボードまたはマウスを使用してフィルター フィールドにフォーカスを設定するだけです。 この機能は以下に適用されます。
 
-- リスト ページにいる間に、URL をブラウザーのお気に入りとして保存すると、現在のビューが含まれるので、そのお気に入りに移動すると、ビューに直接リンクできます。 Web クライアントの URL には、保存されたビューとフィルターのみが含まれることに注意してください。
+- リストに対するフィルター。 これは、リスト ビューを保存するときに特に便利であり、日付や時間に依存する式を必要に応じて簡単に変更できます。
+- レポート要求ページ、XMLPort 要求ページ、および類似のフィルター画面上のフィルターに対するフィルター。
 
-- Business Central でリストを使用するときは、切断された場合、または最後にアクセスしたビューに戻ろうとして Web ページをリロードした場合に、中断したところから再開できます。
+![値としての 1 つのフィルター式と編集中の別の式を表示するフィルター処理されたリスト](media/filter-expression.png "値としての 1 つのフィルター式と編集中の別の式を表示するフィルター処理されたリスト")
+
+### <a name="try-it-now"></a>試してみましょう
+[こちら](https://businesscentral.dynamics.com/?page=31)でオンライン環境にログインして、アイテム リストなどのフィルター式の設定と編集を体験してください。  
+
 <!--feature detail end -->
 
 
@@ -47,10 +52,16 @@ ms.locfileid: "3031805"
 
 
 
+## <a name="tell-us-what-you-think"></a>フィードバック
+Dynamics 365 Business Central の機能向上のためのアイデア、提案、フィードバックをお寄せください。 フォーラム (https://aka.ms/bcIdeas) をご利用ください。
 
 
 
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [リスト ビューの保存とパーソナライズ](https://docs.microsoft.com/dynamics365/business-central/ui-views) (ドキュメント)
+<!--docs end-->
+

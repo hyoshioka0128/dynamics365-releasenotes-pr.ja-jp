@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: rapraj
 dynamics365pdf: true
-ms.openlocfilehash: 656370714e01e9f2381ef58c6a01796cbc9f4122
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 0f0048be10fa930db8b343e1aacaaa2cc474b1af
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079788"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233300"
 ---
 # <a name="set-preferred-payment-methods-for-returns"></a>返品の優先支払方法を設定する
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
@@ -50,4 +50,8 @@ ms.locfileid: "3079788"
 
 
 ## <a name="see-also"></a>関連項目
+
+<!--docs start-->
 [チャネルの返品と払戻のポリシーを作成および更新する](https://docs.microsoft.com/dynamics365/commerce/refund_policy_returns) (ドキュメント)
+<!--docs end-->
+

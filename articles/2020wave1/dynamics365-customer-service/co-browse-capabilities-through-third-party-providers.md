@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: srikot
 dynamics365pdf: true
-ms.openlocfilehash: 3f33ccca364fca55e44aec89cfced28cdbaf8a66
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 1fd3c3daec4dc5070972bfeeac05efc8a5d7e30d
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079755"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233245"
 ---
 # <a name="co-browse-capabilities-through-third-party-providers"></a>サードパーティ プロバイダーによる共同参照機能
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
@@ -47,4 +47,8 @@ ms.locfileid: "3079755"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [Customer Service 用オムニチャネルのガイド](https://docs.microsoft.com/dynamics365/omnichannel/omnichannel-customer-service-guide) (ドキュメント)
+<!--docs end-->
+

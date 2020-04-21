@@ -3,18 +3,18 @@ title: AL インターフェイス
 description: AL でインターフェイスを定義および実装して、コードがインターフェイスに準拠する任意のタイプと対話できるようにします。
 author: relnotes
 ms.reviewer: solsen
-ms.date: 02/12/2020
+ms.date: 04/02/2020
 ms.assetid: 2fc48a30-db1c-ea11-a811-000d3a8f0f1e
 ms.topic: article
 ms.service: business-applications
 ms.author: pborring
 dynamics365pdf: true
-ms.openlocfilehash: 79eacf0972e4626ff5ba72d97db3854da8fedaa8
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 1c2c301da721c4927d8b67232b838b5ecca7c54d
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080041"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233014"
 ---
 # <a name="al-interfaces"></a>AL インターフェイス
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -44,6 +44,8 @@ ms.locfileid: "3080041"
 新しい QuickFix CodeAction を使用して、1 つ以上のインターフェイス実装のコンパイラ エラーが欠落している場合に、インターフェイス スタブを挿入できます。
 
 変数を特定のインターフェイスとして宣言して、インターフェイスを実装するオブジェクトを渡せるようにし、渡されたオブジェクトに対するインターフェイス実装をポリモーフィックな方法で呼び出すことができます。
+
+![意図を把握し、代替実装を作成するためのインターフェイスを定義する](media/interface.png "意図を把握し、代替実装を作成するためのインターフェイスを定義する")
 <!--feature detail end -->
 
 
@@ -57,4 +59,8 @@ ms.locfileid: "3080041"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [AL Development Environment](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-reference-overview) (ドキュメント)
+<!--docs end-->
+

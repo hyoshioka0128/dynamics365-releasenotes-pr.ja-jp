@@ -1,5 +1,5 @@
 ---
-title: '拡張されたイタリア語ローカライズ: 銀行口座設定の強化'
+title: '拡張されたローカライズ (イタリア): 銀行口座設定の強化'
 description: Dynamics 365 Finance が、以前はイタリアのパートナー Cluster Reply によって提供された、拡張されたローカライズ (イタリア) (EXIL) アドインでのみ利用可能であった、イタリア語固有の機能セットが利用できるように拡張されました。
 author: relnotes
 ms.reviewer: kfend
@@ -9,14 +9,14 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mrolecki
 dynamics365pdf: true
-ms.openlocfilehash: 2d3b78015c6e7a93740f7aaca99a0a0e275bf409
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: c39325c0f80801dee0239def04b962a256051320
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080305"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232552"
 ---
-# <a name="extended-italian-localization-bank-account-setup-enhancement"></a>拡張されたイタリア語ローカライズ: 銀行口座設定の強化
+# <a name="extended-italian-localization-bank-account-setup-enhancement"></a>拡張されたローカライズ (イタリア): 銀行口座設定の強化
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -47,4 +47,8 @@ ms.locfileid: "3080305"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [銀行データの有用性の強化](https://docs.microsoft.com/dynamics365/finance/localizations/emea-ita-exil-bank-accounts-setup) (ドキュメント)
+<!--docs end-->
+

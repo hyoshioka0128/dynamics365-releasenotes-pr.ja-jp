@@ -1,27 +1,27 @@
 ---
 title: 公的機関
-description: ''
+description: このリリースでは、予算編成、買掛金勘定、カナダの税の改善に重点が置かれています。
 author: relnotes
 ms.reviewer: ''
-ms.date: 08/26/2019
+ms.date: 03/12/2020
 ms.assetid: 45ac6fc8-42c8-e911-a968-000d3a4f3883
 ms.topic: structure
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: 7c6f3c6d4195c1fb3e7c1bbec557d0d37c17d160
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 3ef3a8773ce5cc9c628213ca443c232691bb7d1f
+ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079271"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "3152216"
 ---
 # <a name="public-sector"></a>公的機関
 
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
 
 <!--structure start-->
-
+このリリースには、予算編成、買掛金勘定、カナダの税に関する公的機関の改善が含まれています。
 <!--structure end-->
 
 

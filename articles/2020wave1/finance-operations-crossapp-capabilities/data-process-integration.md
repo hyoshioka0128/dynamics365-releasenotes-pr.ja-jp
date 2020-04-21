@@ -3,18 +3,18 @@ title: データとプロセスの統合
 description: 独自の Azure Data Lake Storage Gen2 データ レイクですべてのデータが利用可能
 author: relnotes
 ms.reviewer: ''
-ms.date: 02/07/2020
+ms.date: 03/12/2020
 ms.assetid: e83944e6-75c8-e911-a968-000d3a4f3883
 ms.topic: structure
 ms.service: business-applications
 ms.author: robadawy
 dynamics365pdf: true
-ms.openlocfilehash: 965935942d24ead20b64e71dd29f9fab550ced08
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: c5595a26d166f79fc4bd7066c31348dc6725c23c
+ms.sourcegitcommit: f7b958b02d7cb7543a3f81414e7b3e62a5b8539d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079414"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "3158233"
 ---
 # <a name="data-and-process-integration"></a>データとプロセスの統合
 

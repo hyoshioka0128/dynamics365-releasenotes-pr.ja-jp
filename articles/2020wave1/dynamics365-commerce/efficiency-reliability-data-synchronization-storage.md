@@ -3,25 +3,25 @@ title: データの同期および保存の効率と信頼性
 description: ''
 author: relnotes
 ms.reviewer: josaw
-ms.date: 01/11/2020
+ms.date: 02/24/2020
 ms.assetid: 9b3daeb0-73fb-e911-a813-000d3a4f1ebb
 ms.topic: article
 ms.service: business-applications
 ms.author: jashanno
 dynamics365pdf: true
-ms.openlocfilehash: b4ed0b81d824697a0ea19c58ec8fb98fd93ce5c4
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 90aaeaec7f95d9a8d5007822656bf84ed20dcfa5
+ms.sourcegitcommit: 2928661abcc468748ffc7c33516ebc8e3cd5d653
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986643"
+ms.lasthandoff: 03/04/2020
+ms.locfileid: "3098247"
 ---
 # <a name="efficiency-and-reliability-of-data-synchronization-and-storage"></a>データの同期および保存の効率と信頼性
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|2020 年 5 月| 2020 年 7 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 5 月| 2020 年 7 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

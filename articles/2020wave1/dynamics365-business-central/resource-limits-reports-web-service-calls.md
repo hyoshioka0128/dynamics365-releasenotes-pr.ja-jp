@@ -3,25 +3,25 @@ title: レポートおよび Web サービス呼び出しに対するリソー�
 description: Business Central インストールのリソースを保護するために、レポートおよび SOAP Web サービス呼び出しの最大実行時間に制限を構成できるようになりました
 author: relnotes
 ms.reviewer: jswymer
-ms.date: 12/16/2019
+ms.date: 03/25/2020
 ms.assetid: 075dbe76-ea1b-ea11-a811-000d3a8f0f1e
 ms.topic: article
 ms.service: business-applications
 ms.author: kepontop
 dynamics365pdf: true
-ms.openlocfilehash: 2ab4cdfd5c47e935f680426f99d8a27ebe58fa27
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 3c813481f4232599ba53124be8fa890f5ce6d872
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986655"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232684"
 ---
 # <a name="resource-limits-for-reports-and-web-service-calls"></a>レポートおよび Web サービス呼び出しに対するリソースの制限
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、自動的|2020 年 4 月| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,4 +47,12 @@ Business Central (オンプレミス) の場合、管理者がサーバーの設
 
 
 
+
+
+## <a name="see-also"></a>関連項目
+
+
+<!--docs start-->
+[Business Central Server の構成](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/administration/configure-server-instance?) (ドキュメント)
+<!--docs end-->
 

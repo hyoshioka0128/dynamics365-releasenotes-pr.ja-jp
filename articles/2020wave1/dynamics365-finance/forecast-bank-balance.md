@@ -3,25 +3,25 @@ title: 銀行残高の予測
 description: 顧客からの支払と仕入先への支払の予測に基づいて、銀行口座の残高を予測できます。
 author: relnotes
 ms.reviewer: roschlom
-ms.date: 02/19/2020
+ms.date: 03/14/2020
 ms.assetid: a8cc82bd-4ccb-e911-a968-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: e209ba0e767661ddac64020ca1e7ae27d0e84b04
-ms.sourcegitcommit: 253ced14f24423a040cb579f436e63d215e9049d
+ms.openlocfilehash: eeee726791586f09d6255caf748b918ba7b43ef5
+ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "3077607"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "3152106"
 ---
 # <a name="forecast-bank-balance"></a>銀行残高の予測
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 7 月| -|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 5 月| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

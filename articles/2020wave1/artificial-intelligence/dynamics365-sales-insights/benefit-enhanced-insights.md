@@ -3,25 +3,25 @@ title: 分析情報の強化によるメリット
 description: ''
 author: relnotes
 ms.reviewer: udag
-ms.date: 02/05/2020
+ms.date: 03/03/2020
 ms.assetid: 47667a41-caca-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: ermanor
 dynamics365pdf: true
-ms.openlocfilehash: ef6aace1d529601e008edb71c6ca7ca87ddd9144
-ms.sourcegitcommit: 0a73f7354797bcbf643214c5f32d32a0b03a2899
+ms.openlocfilehash: 36fed8f0e1b450333226f4ea7a2eece0019c8bd9
+ms.sourcegitcommit: 99f8fe366e70064e41204f9ee5c16fe397396d16
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/08/2020
-ms.locfileid: "3033437"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "3115141"
 ---
 # <a name="benefit-from-enhanced-insights"></a>分析情報の強化によるメリット
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 6 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -37,7 +37,7 @@ ms.locfileid: "3033437"
 <!--feature detail start -->
 - **ユーザー インターフェイスの改善**: アダプティブ カードのインフラストラクチャに基づく、分析情報カードの新しいモダンなレイアウトが提供されます。 新しいレイアウトでは、カードのコンテンツがより適切に整理され、高度なアクションをカード内から直接実行するオプションがサポートされるため、販売担当者はコンテキストを変更せずに生産性を向上できます。
 - **セクション別に分析情報をグループ化する**: カードをカードの種類別にグループ化できます。 今日が期限のタスク、期限の近い営業案件、近日中に開催される会議など、信頼度が 100% のカードは [通知] セクションに含められ、予測モデルとヒューリスティックに基づく、より信頼度が低いカードは分析情報のセクションに含められます。 これらの 2 つのセクションに分けることで、組織はより適切なガイダンスとフォーカスをカードを通じて販売担当者に提供できます。
-- **ドリルダウンしてより多くのコンテキストを得る**: カードに柔軟にドリルダウンして、より多くの情報を得ることができます。これにより、販売担当者は最善の行動方針を選択するために必要なすべての情報をいつでも入手できます。 
+- **ドリルダウンしてより多くのコンテキストを得る**: カードに柔軟にドリルダウンして、より多くの情報を得ることができます。これにより、販売担当者は最善の行動方針を選択するために必要なすべての情報をいつでも入手できます。
 <!--feature detail end -->
 
 ![分析情報の強化によるメリット](media/salesinsight_dynamics365assistant_benefitfromenhancedinsights.png "分析情報の強化によるメリット")

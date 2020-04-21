@@ -3,25 +3,25 @@ title: 関連情報を強調表示する焦点を絞った分析情報
 description: 強調表示された分析情報で迅速に行動する
 author: relnotes
 ms.reviewer: iawilt
-ms.date: 01/15/2020
+ms.date: 02/25/2020
 ms.assetid: 760856cb-5b1d-ea11-a811-000d3a8f075c
 ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 dynamics365pdf: true
-ms.openlocfilehash: ec4a617d76d777452562c437ee7ed0dbf088daf5
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 0f2c999980e2d9e1d6a636c6dcd70c50628f648f
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986848"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233344"
 ---
 # <a name="focused-insights-highlight-relevant-information"></a>関連情報を強調表示する焦点を絞った分析情報
 [!include[artificial-intelligence/dynamics365-customer-service-insights banner](../includes/artificial-intelligence/dynamics365-customer-service-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2020 年 2 月| 2020 年 4 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -45,4 +45,12 @@ Dynamics 365 Customer Service Insights では、主要なトピックと顧客�
 
 
 
+
+
+## <a name="see-also"></a>関連項目
+
+
+<!--docs start-->
+[顧客サービス データから主要なインサイトを検出する](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/keyinsights) (ドキュメント)
+<!--docs end-->
 

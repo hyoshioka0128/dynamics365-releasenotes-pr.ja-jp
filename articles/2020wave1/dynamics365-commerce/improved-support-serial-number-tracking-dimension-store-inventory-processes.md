@@ -3,25 +3,25 @@ title: 店舗在庫プロセスでのシリアル番号追跡用分析コード�
 description: ''
 author: relnotes
 ms.reviewer: josaw
-ms.date: 01/10/2020
+ms.date: 02/20/2020
 ms.assetid: 87274ed9-f20c-ea11-a811-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
 ms.author: boycez
 dynamics365pdf: true
-ms.openlocfilehash: 3b30cf3b79431a66243df5bb2096d7b77b04383b
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 7b6d3fa35355eb9f2409fa36bdae3070922fec09
+ms.sourcegitcommit: 2928661abcc468748ffc7c33516ebc8e3cd5d653
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986639"
+ms.lasthandoff: 03/04/2020
+ms.locfileid: "3098189"
 ---
 # <a name="improved-support-for-serial-number-tracking-dimension-in-store-inventory-processes"></a>店舗在庫プロセスでのシリアル番号追跡用分析コードのサポートの改善
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|2020 年 4 月| 2020 年 7 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 4 月| 2020 年 7 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -33,7 +33,7 @@ ms.locfileid: "2986639"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-この機能を使用すると、販売時点管理 (POS) ユーザーは、発注書または移動オーダーの受信時にシリアル番号を登録できます。
+この機能を使用すると、POS ユーザーは発注書または移動オーダーの受信時にシリアル番号を登録できます。
 <!--feature detail end -->
 
 

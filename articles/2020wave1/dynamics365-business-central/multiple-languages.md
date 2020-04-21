@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: soalex
 dynamics365pdf: true
-ms.openlocfilehash: 445cf900b4d9f48592d76303619d7f748e49b476
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: f1b0b86e0a514a1757fd6134406d1ba0b8e4a4f7
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3032410"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232794"
 ---
 # <a name="multiple-languages"></a>複数の言語
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -46,4 +46,8 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [サポートされている言語](https://aka.ms/bccountries) (ドキュメント)
+<!--docs end-->
+

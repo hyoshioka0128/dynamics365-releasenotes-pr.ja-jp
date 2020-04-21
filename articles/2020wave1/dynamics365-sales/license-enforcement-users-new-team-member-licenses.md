@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: sriknair
 dynamics365pdf: true
-ms.openlocfilehash: efc5ed73a5dd0be865d3132c1c56aaaf0afad39f
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: 6461bcf9f52163514883fe6b44dc4184187de618
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3032146"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232398"
 ---
 # <a name="license-enforcement---users-with-new-team-member-licenses"></a>ライセンスの適用 - 新しい Team Member ライセンスを持つユーザー
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -33,7 +33,7 @@ ms.locfileid: "3032146"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-2018 年 10 月中またはそれ以降に購入された Team Member ライセンスの場合、ライセンス ベースのアクセスにより、ユーザーは指定されたアプリ モジュールのセットに制限されます。 これらのユーザーは、顧客サービス ハブ、セールス ハブ、またはカスタム アプリ モジュールにアクセスできなくなります。 指定されているアプリ モジュールは次のとおりです。
+2018 年 10 月中またはそれ以降に購入された Team Member ライセンスの場合、ライセンス ベースのアクセスにより、ユーザーは指定されたアプリ モジュールのセットに制限されます。 これらのユーザーは、顧客サービス ハブ、営業ハブ、またはカスタム アプリ モジュールにアクセスできなくなります。 指定されているアプリ モジュールは次のとおりです。
 
 - 顧客サービス チーム メンバー 
 - 営業チーム メンバー
@@ -56,4 +56,8 @@ ms.locfileid: "3032146"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [Team Member ライセンスを持つユーザー向けの営業チーム メンバー アプリ](https://docs.microsoft.com/dynamics365/sales-enterprise/sales-team-member) (ドキュメント)
+<!--docs end-->
+

@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: dholt
 dynamics365pdf: true
-ms.openlocfilehash: e6b73ffcab5049833e24be0beb9323acaa84d299
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 6962425675eb5f7a306f624cebfae3afc66fb3fa
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080107"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232266"
 ---
 # <a name="extend-geographies-and-localization-to-languages-beyond-english"></a>地域とローカライズを英語以外の言語に拡張する
 [!include[artificial-intelligence/dynamics365-fraud-protection banner](../includes/artificial-intelligence/dynamics365-fraud-protection.md)]
@@ -44,4 +44,8 @@ ms.locfileid: "3080107"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [Fraud protection の概要](https://docs.microsoft.com/dynamics365/fraud-protection/overview) (ドキュメント)
+<!--docs end-->
+

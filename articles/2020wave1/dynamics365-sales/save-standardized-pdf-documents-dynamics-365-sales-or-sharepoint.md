@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: bharavar
 dynamics365pdf: true
-ms.openlocfilehash: 3fd6ee8076cb44d839d119d5c005e910491e4276
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: 8d86ece803692e1ec43f042206a57438a4031c7d
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3032080"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232354"
 ---
 # <a name="save-standardized-pdf-documents-to-dynamics-365-sales-or-microsoft-sharepoint"></a>Dynamics 365 Sales や Microsoft SharePoint に標準化された PDF ドキュメントを保存する
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -61,4 +61,8 @@ Dynamics 365 Sales では、過去数か月の作業で、販売担当者が見�
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [営業レコードから PDF ドキュメントを作成する](https://docs.microsoft.com/dynamics365/sales-enterprise/create-quote-pdf) (ドキュメント)
+<!--docs end-->
+

@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: naitikds
 dynamics365pdf: true
-ms.openlocfilehash: f97a14c63fad1473adda6e2f7f8c67834270005d
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: 7bcfd3db89dd8dd1ebd88c33b1ad3fdf0e2b328f
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3032091"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232365"
 ---
 # <a name="sales-team-member-app-module"></a>営業チーム メンバー アプリ モジュール
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -56,4 +56,8 @@ Team Member ライセンスは、限定された一連のユース ケースの�
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [Team Member ライセンスを持つユーザー向けの営業チーム メンバー アプリ](https://docs.microsoft.com/dynamics365/sales-enterprise/sales-team-member) (ドキュメント)
+<!--docs end-->
+

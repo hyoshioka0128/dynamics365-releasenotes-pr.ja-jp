@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: pachatte
 dynamics365pdf: true
-ms.openlocfilehash: f6669bef117bec711f20b249461283482f0162f0
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: 6e1e67165f5378264d54bf3ed227e294d22c50c8
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3032157"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232376"
 ---
 # <a name="manage-feature-settings-and-configure-the-sales-hub-application-from-a-centralized-location"></a>機能設定を管理し、一元化された場所から営業ハブ アプリケーションを構成する
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -57,4 +57,8 @@ Dynamics 365 Sales を向上させるための取り組みの一環として、�
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [管理設定の概要](https://docs.microsoft.com/dynamics365/sales-enterprise/admin-settings-overview) (ドキュメント)
+<!--docs end-->
+

@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: shajain
 dynamics365pdf: true
-ms.openlocfilehash: 102cf42278bbad0b80d4ffc1b606436ba001f6c3
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 0f8d67d644599c6c418a015dd43d2d321ad9eb71
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079865"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233333"
 ---
 # <a name="enable-resetting-of-receipt-numbers-at-the-beginning-of-the-fiscal-year"></a>会計年度の初めに受領番号をリセットできるようにする
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
@@ -47,4 +47,8 @@ ms.locfileid: "3079865"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [レシート番号のリセット](https://docs.microsoft.com/dynamics365/commerce/reset_receipt_number_sequence) (ドキュメント)
+<!--docs end-->
+

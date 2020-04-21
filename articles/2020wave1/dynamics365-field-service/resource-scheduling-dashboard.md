@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: feiqiu
 dynamics365pdf: true
-ms.openlocfilehash: 233011550ceda92070bc67fcd0b2a512c1a9bc24
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 01b4358961fdd1551e6d4cde356050cae4c531ba
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079580"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233135"
 ---
 # <a name="resource-scheduling-dashboard"></a>リソース スケジュール ダッシュボード
 [!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
@@ -49,4 +49,8 @@ ms.locfileid: "3079580"
 
 
 ## <a name="see-also"></a>関連項目
+
+<!--docs start-->
 [リソース スケジュールと最適化の分析ダッシュボード](https://docs.microsoft.com/dynamics365/field-service/scheduling-analytics-reports) (ドキュメント)
+<!--docs end-->
+

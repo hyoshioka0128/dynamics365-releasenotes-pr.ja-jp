@@ -1,22 +1,22 @@
 ---
-title: スマート スケジューラ
+title: 自動スケジューラ
 description: ''
 author: relnotes
 ms.reviewer: alfergus
-ms.date: 02/19/2020
+ms.date: 03/16/2020
 ms.assetid: b61235db-6f48-ea11-a812-000d3a579c39
 ms.topic: article
 ms.service: business-applications
 ms.author: gagatera
 dynamics365pdf: true
-ms.openlocfilehash: e66a51326db08f0c0c33b411180133c4bee483fd
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 0e022e07fc498f831570b9e696d417c7583c21bb
+ms.sourcegitcommit: f7b958b02d7cb7543a3f81414e7b3e62a5b8539d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080680"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "3157634"
 ---
-# <a name="smart-scheduler"></a>スマート スケジューラ
+# <a name="automated-scheduler"></a>自動スケジューラ
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
@@ -26,17 +26,19 @@ ms.locfileid: "3080680"
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-スマート スケジューラは、AI を使用して、顧客が電子メールを表示して開く可能性が最も高い時期に電子メールを送信することで、マーケティング担当者が顧客エンゲージメントを最大限に高められるようにします。 
+自動スケジューラは、AI を使用して、顧客が電子メール メッセージを見て開く可能性が最も高い時期にメッセージを送信することで、マーケティング担当者が顧客エンゲージメントを最大限に高められるようにします。
 <!-- bv end -->
 
 
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-- **取引先担当者が読む可能性が高いときに電子メールを送信する**: マーケティング電子メールでの過去のやり取りに基づいて、スマート スケジューラは機械学習を使用して、各取引先担当者が電子メールを積極的に読む可能性が最も高い日時を見つけます。
-- **電子メールを送信するのに最適なタイミングを自動的に選択する**: 履歴データを分析することにより、スマート スケジューラは、指定可能な時間枠内で、各取引先担当者に次の電子メールを送信する最適なタイミングを自動的に選択します。 
+- **取引先担当者が読む可能性が高いときに電子メール メッセージを送信する**: マーケティング電子メール メッセージでの過去のやり取りに基づいて、自動スケジューラは機械学習を使用して、各取引先担当者が電子メール メッセージを積極的に読む可能性が最も高い日時を見つけます。
+- **電子メール メッセージを送信するのに最適なタイミングを自動的に選択する**: 履歴データを分析することにより、自動スケジューラは、指定可能な時間枠内で、各取引先担当者に次の電子メール メッセージを送信する最適なタイミングを自動的に選択します。
 <!--feature detail end -->
 
+![スマート スケジューリング オプションがオンになっている顧客体験](media/smartscheduler.png "スマート スケジューリング オプションがオンになっている顧客体験")
+<!-- Picture 1 -->
 
 
 

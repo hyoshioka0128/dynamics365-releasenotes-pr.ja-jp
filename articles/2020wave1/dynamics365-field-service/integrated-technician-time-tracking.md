@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: jacoh
 dynamics365pdf: true
-ms.openlocfilehash: 9a98c7ba141eab4ab3bead512ba6f35ad6c584e9
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: c2a7d060cb978cbb6d6100da706ff04fe7961998
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079645"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232111"
 ---
 # <a name="integrated-technician-time-tracking"></a>統合された技術者の時間追跡
 [!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
@@ -58,4 +58,8 @@ Field Service では以下がサポートされます。
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [Dynamics 365 Field Service の時間エントリ](https://docs.microsoft.com/dynamics365/field-service/field-service-time-entry) (ドキュメント)
+<!--docs end-->
+

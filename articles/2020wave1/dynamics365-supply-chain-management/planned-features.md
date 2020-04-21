@@ -3,17 +3,17 @@ title: Dynamics 365 Supply Chain Management の新機能と予定されている
 description: Dynamics 365 Supply Chain Management で計画されている機能の概要。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 02/19/2020
+ms.date: 04/02/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: msalam
 dynamics365pdf: true
-ms.openlocfilehash: c128fa2f4d19d1652f7959501f0850a5d3db8f52
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 030a25515101988c6ca0823126218a8a823fa0aa
+ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079535"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "3219185"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-supply-chain-management"></a>Dynamics 365 Supply Chain Management の新機能と予定されている機能
 
@@ -31,11 +31,11 @@ ms.locfileid: "3079535"
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
+ | [資産の利用可能性に基づいた製造リソース スケジュール](am-resource-scheduling-based-asset-availability.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 7 月|- | 
+ | [プロジェクト タイプに関連する新しいプロジェクト モジュール変更との統合](am-uptake-new-project-module-changes-related-project-type.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 9 月|- | 
  | [資産管理ライフサイクルと固定資産の統合](fixed-assets-integration-asset-management-lifecycle.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 2 月|2020 年 4 月 | 
  | [資産管理で作業指示書を視覚的にスケジューリングする](visual-scheduling-work-orders-asset-management.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 2 月|2020 年 4 月 | 
- | [プロジェクト タイプに関連する新しいプロジェクト モジュール変更との統合](am-uptake-new-project-module-changes-related-project-type.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 5 月|2020 年 7 月 | 
  | [IoT インテリジェンスからの IoT と資産管理メンテナンス要求の統合](am-iot-integration-asset-management-maintenance-requests-iot-intelligence.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 5 月|2020 年 7 月 | 
- | [資産の利用可能性に基づいた製造リソース スケジュール](am-resource-scheduling-based-asset-availability.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 5 月|2020 年 7 月 | 
 
 
 ## <a name="costing"></a>原価計算
@@ -55,6 +55,7 @@ ms.locfileid: "3079535"
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
  | [手持在庫サービス](inventory-on-hand-service.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 5 月| | 
+| [手持在庫レポート ストレージ](inventory-on-hand-report-storage.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |   2020 年 4 月 |2020 年 5 月 | 
 
 
 ## <a name="iot-intelligence"></a>IoT インテリジェンス
@@ -63,7 +64,7 @@ ms.locfileid: "3079535"
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
- | [IoT インテリジェンス コア分析情報](iot-intelligence-core-insights.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 2 月|2020 年 4 月 | 
+ | [IoT インテリジェンス コア分析情報](iot-intelligence-core-insights.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | -|2020 年 4 月 | 
 
 
 ## <a name="manufacturing"></a>製造
@@ -72,8 +73,19 @@ ms.locfileid: "3079535"
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
- | [ジョブ カード デバイスの機能向上](improved-job-card-device.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 2 月|2020 年 4 月 | 
+ | [ジョブ カード デバイスの機能向上](improved-job-card-device.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
+ | [製造領域向けの新しいデータ エンティティ](new-data-entities-manufacturing-area.md) | エンド ユーザー、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 3 月 1 日|2020 年 5 月 | 
+| [ジョブ カード デバイスからのバッチ番号での完了レポート](report-as-finished-batch-numbers-job-card-device.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |   2020 年 4 月 |2020 年 6 月 | 
  | [製造インテリジェンス](manufacturing-intelligence.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 5 月|2020 年 7 月 | 
+
+
+## <a name="planning"></a>計画
+
+
+
+ | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
+ | ---------- | ---------- | :----------: |:----------: |
+ | [前処理フィルターが有効になっている場合に、手持在庫のある品目がマスター プランに含まれる](master-planning-include-items-on-hand-when-pre-processing-filters-are-enabled.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日|2020 年 4 月 | 
 
 
 ## <a name="portals"></a>ポータル
@@ -82,7 +94,7 @@ ms.locfileid: "3079535"
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
- | [顧客セルフサービス エクスペリエンス](customer-self-service-experiences.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 2 月|2020 年 4 月 | 
+ | [顧客セルフサービス エクスペリエンス](customer-self-service-experiences.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 5 月|2020 年 6 月 | 
 
 
 ## <a name="trade-and-source"></a>取引とソース
@@ -91,18 +103,18 @@ ms.locfileid: "3079535"
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
+ | [エンタープライズ規模 – 購入のシステム パフォーマンス](enterprise-scale-purchase-system-performance.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 7 月|- | 
+ | [エンタープライズ規模 – 営業のシステム パフォーマンス](enterprise-scale-sales-system-performance.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 7 月|- | 
+ | [リード タイムと稼働日に基づいて発注書の配送日を計算する (公的機関)](calculate-po-delivery-date-based-lead-times-working-days-public-sector.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
  | [原産国の機能強化](country-origin-enhancements.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 2 月|2020 年 4 月 | 
  | [外部カタログの機能強化](external-catalog-enhancements.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 2 月|2020 年 4 月 | 
  | [危険物製品情報の管理](hazardous-materials-product-information-management.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 2 月|2020 年 4 月 | 
  | [危険物出荷ドキュメント](hazardous-materials-shipping-documentation.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 2 月|2020 年 4 月 | 
  | [その他の請求の拡張](miscellaneous-charges-enhancements.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 2 月|2020 年 4 月 | 
  | [cXML による発注書の配信](purchase-order-delivery-via-cxml.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 2 月|2020 年 4 月 | 
- | [リード タイムと稼働日に基づいて発注書の配送日を計算する (公的機関)](calculate-po-delivery-date-based-lead-times-working-days-public-sector.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 2 月|2020 年 4 月 | 
- | [エンタープライズ規模 – システム パフォーマンスの購入](enterprise-scale-purchase-system-performance.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | -|2020 年 7 月 | 
- | [エンタープライズ規模 – システム パフォーマンスの販売](enterprise-scale-sales-system-performance.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | -|2020 年 7 月 | 
- | [受注オペレーターの効率 - 流通](sales-order-operator-efficiency--distribution.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 5 月|2020 年 7 月 | 
  | [拡張注文保留による販売プロセス管理](sales-process-control-via-enhanced-order-holds.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 5 月|2020 年 7 月 | 
- | [複数の購買作業項目の委任](delegation-multiple-purchasing-work-items.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 7 月|2020 年 9 月 | 
+ | [複数の購買作業項目の委任](delegation-multiple-purchasing-work-items.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 8 月|2020 年 9 月 | 
+ | [受注オペレーターの効率 - 流通](sales-order-operator-efficiency--distribution.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 7 月|近日発表 | 
 
 
 ## <a name="warehouse-management-and-transportation"></a>倉庫管理と輸送
@@ -111,12 +123,15 @@ ms.locfileid: "3079535"
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
- | [倉庫管理での CW 製品処理](catch-weight-product-processing-warehouse-management.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 2 月|2020 年 4 月 | 
+ | [倉庫管理での CW 製品処理](catch-weight-product-processing-warehouse-management.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
  | [インバウンドおよびアウトバウンドのロジスティクスの改善](inbound-outbound-logistics-improvements.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 2 月|2020 年 4 月 | 
- | [自動倉庫プロセス用の材料取り扱い機器の統合フレームワーク (以前の MHAX)](integration-framework-material-handling-equipment-automated-warehouse-processes-previously-mhax.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 2 月|2020 年 4 月 | 
- | [Warehouse Mobile App の一括展開](mass-deployment-warehouse-mobile-app.md) | 管理者、作成者、またはアナリスト、自動的  | 2020 年 3 月|2020 年 4 月 | 
+ | [倉庫管理で既存の CW タグを使用するための機能強化](enhancement-use-existing-catch-weight-tags-warehouse-management.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 3 月 6 日|2020 年 4 月 | 
+| [倉庫管理のためのラベル印刷の機能強化](label-printing-enhancements-warehouse-management.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |   ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 3 月 6 日 |2020 年 4 月 | 
+ | [Warehouse Mobile App の一括展開](mass-deployment-warehouse-mobile-app.md) | 管理者、作成者、またはアナリスト、自動的  | 2020 年 4 月|2020 年 4 月 | 
+| [倉庫保管モバイル アプリのライセンス プレート受取の機能強化](license-plate-receiving-enhancements-warehousing-mobile-app.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |   2020 年 4 月 |2020 年 5 月 | 
+ | [倉庫管理 – 入庫積荷管理の機能強化](warehouse-management-inbound-load-management-enhancement.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | 2020 年 4 月|2020 年 5 月 | 
 
-**有効対象** 列の値の説明:
+**有効対象**列の値の説明:
 
 - **エンド ユーザー、自動的**: これらの機能には、エンド ユーザーに対するユーザー エクスペリエンスへの変更が含まれており、自動的に有効になります。
 

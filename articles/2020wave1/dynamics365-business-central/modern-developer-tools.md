@@ -3,18 +3,18 @@ title: 最新の開発者ツール
 description: ''
 author: relnotes
 ms.reviewer: edupont04
-ms.date: 01/27/2020
+ms.date: 03/12/2020
 ms.assetid: 04ec7547-27cb-e911-a996-000d3a4f3343
 ms.topic: structure
 ms.service: business-applications
 ms.author: jannikb
 dynamics365pdf: true
-ms.openlocfilehash: b5d04dfe2475cac82ed437a888977494c0ea9bbf
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: 6ca838dfd8cac552629c93411bcfdc796a21f3ad
+ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3031772"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "3151985"
 ---
 # <a name="modern-developer-tools"></a>最新の開発者ツール
 

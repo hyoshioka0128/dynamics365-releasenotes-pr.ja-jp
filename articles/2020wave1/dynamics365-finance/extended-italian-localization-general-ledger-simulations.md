@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mrolecki
 dynamics365pdf: true
-ms.openlocfilehash: 289e3d422c8a088bb0b2d9993301be3f54dfe40b
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 294a100d70d3baf2bffdd624754ba99e55b929bd
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079368"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232541"
 ---
 # <a name="extended-italian-localization-general-ledger-simulations"></a>拡張されたローカライズ (イタリア): 一般会計のシミュレーション
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
@@ -47,4 +47,8 @@ ms.locfileid: "3079368"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [一般会計のシミュレーション](https://docs.microsoft.com/dynamics365/finance/localizations/emea-ita-exil-general-ledger-simulations) (ドキュメント)
+<!--docs end-->
+

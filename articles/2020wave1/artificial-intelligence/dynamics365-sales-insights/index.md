@@ -3,18 +3,18 @@ title: Dynamics 365 Sales Insights の 2020 年リリース ウェーブ 1 の�
 description: Dynamics 365 Sales Insights の 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 01/27/2020
+ms.date: 03/12/2020
 ms.assetid: ef0b01f2-e4c9-e911-a996-000d3a4f3343
 ms.topic: overview
 ms.service: business-applications
 ms.author: ronik
 dynamics365pdf: true
-ms.openlocfilehash: 0bebe18b14ace968fb1d45ed78d1f471dbc56a1b
-ms.sourcegitcommit: 0a73f7354797bcbf643214c5f32d32a0b03a2899
+ms.openlocfilehash: 4712c6de62747cf24f021b851fb810f3eeafbd5a
+ms.sourcegitcommit: f7b958b02d7cb7543a3f81414e7b3e62a5b8539d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/08/2020
-ms.locfileid: "3033327"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "3158283"
 ---
 # <a name="overview-of-dynamics-365-sales-insights-2020-release-wave-1"></a>Dynamics 365 Sales Insights の 2020 年リリース ウェーブ 1 の概要
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]

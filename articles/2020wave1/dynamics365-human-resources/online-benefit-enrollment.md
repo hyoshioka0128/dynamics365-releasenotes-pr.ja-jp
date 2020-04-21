@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: shielas
 dynamics365pdf: true
-ms.openlocfilehash: 69fd209921bac3cad5df014a3daca25a8c6876fc
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: f1aacfb642506f1e17d14480955f4124b6b72143
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079205"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232497"
 ---
 # <a name="online-benefit-enrollment"></a>福利厚生のオンライン登録
 [!include[dynamics365-human-resources banner](../includes/dynamics365-human-resources.md)]
@@ -49,4 +49,8 @@ ms.locfileid: "3079205"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [給付金管理の概要](https://docs.microsoft.com/dynamics365/human-resources/hr-benefits-management-overview) (ドキュメント)
+<!--docs end-->
+

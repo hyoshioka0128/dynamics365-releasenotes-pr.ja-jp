@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: jessiewa
 dynamics365pdf: true
-ms.openlocfilehash: 42a74c15e1cbb7224ab575ed245303be020d243a
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 09c98d13aaf6ce1253a3fc315ecb7cb1f37d9362
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079722"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232134"
 ---
 # <a name="support-for-site-entity-in-the-unified-interface"></a>統一インターフェイスでのサイト エンティティのサポート
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
@@ -47,4 +47,8 @@ ms.locfileid: "3079722"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [サイトについて](https://docs.microsoft.com/dynamics365/customer-service/customer-service-hub-user-guide-basics#understand-site) (ドキュメント)
+<!--docs end-->
+

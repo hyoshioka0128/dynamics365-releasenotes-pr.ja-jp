@@ -3,18 +3,18 @@ title: 与信管理
 description: 与信管理では、会計と財務の専門家が与信限度額の個別管理、プロセスの自動化、またはその両方を行えるコントロールが追加されます。
 author: relnotes
 ms.reviewer: roschlom
-ms.date: 02/19/2020
+ms.date: 03/06/2020
 ms.assetid: f2373834-f41e-ea11-a810-000d3a8f0f1e
 ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: 7f20079b3d46bc2caa5e923d9ca4bc55f9da8f3a
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 939d546ffed40d386b79d6cad160d04a2bd343dd
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080360"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233124"
 ---
 # <a name="credit-management"></a>与信管理
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
@@ -38,7 +38,6 @@ ms.locfileid: "3080360"
 - リスク スコアの管理
 - システム推奨の与信限度額
 - 構成可能なブロック ルール
-- 与信ケースの自動化
 - 与信保留の動的解除
 - 与信限度額管理
 - 与信限度額履歴の追跡
@@ -55,4 +54,8 @@ ms.locfileid: "3080360"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [売掛金勘定の貸方転記および取立](https://docs.microsoft.com/dynamics365/finance/accounts-receivable/collections-credit-accounts-receivable) (ドキュメント)
+<!--docs end-->
+

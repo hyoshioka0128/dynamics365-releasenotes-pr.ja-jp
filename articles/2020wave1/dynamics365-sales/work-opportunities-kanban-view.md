@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: cindyliu
 dynamics365pdf: true
-ms.openlocfilehash: ff4907904e2a25143357604bddac31dca5eb95c7
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: 4b7ca9107aed083f1405416541bf80784c7a54f5
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3032058"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232332"
 ---
 # <a name="work-with-opportunities-in-the-kanban-view"></a>かんばんビューで営業案件を処理する
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -26,7 +26,7 @@ ms.locfileid: "3032058"
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-Dynamics 365 Sales をより良く、より簡単かつ効率的にする方法について、お客様からのご意見に積極的に耳を傾けています。 Dynamics 365 Sales は、販売担当者がより深いリレーションシップを構築し、生産性を向上できるよう支援することを目的としています。 
+Dynamics 365 Sales をより良く、より簡単かつ効率的にする方法について、お客様からのご意見に積極的に耳を傾けています。 Dynamics 365 Sales は、販売担当者がより深いリレーションシップを構築し、生産性を向上できるように支援することを目的としています。 
 
 Dynamics 365 Sales を向上させるための取り組みの一環として、不要なストレスを取り除き、機能をより使いやすいものにする機能強化を継続的に導入しています。
 <!-- bv end -->
@@ -56,4 +56,8 @@ Dynamics 365 Sales を向上させるための取り組みの一環として、�
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [かんばんビューで営業案件を処理する](https://docs.microsoft.com/dynamics365/sales-enterprise/opportunity-kanban-view) (ドキュメント)
+<!--docs end-->
+

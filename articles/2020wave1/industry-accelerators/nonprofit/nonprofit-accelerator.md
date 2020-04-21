@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: snagy
 dynamics365pdf: true
-ms.openlocfilehash: d9fefb4e7816ddd06745ea3fd1231f697755e3bc
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: ba4eaed1ee12cd4410c118f3834b8432c15d4f82
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986575"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3231749"
 ---
 # <a name="nonprofit-accelerator"></a>Nonprofit Accelerator
 [!include[industry-accelerators/nonprofit banner](../includes/industry-accelerators/nonprofit.md)]
@@ -47,4 +47,8 @@ Nonprofit Accelerator は急速に進化を続けており、利用可能な最�
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [Nonprofit Accelerator](https://docs.microsoft.com/common-data-model/nfp-accelerator) (ドキュメント)
+<!--docs end-->
+

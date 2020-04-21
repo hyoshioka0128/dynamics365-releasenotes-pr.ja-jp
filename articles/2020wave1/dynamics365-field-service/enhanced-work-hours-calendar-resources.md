@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: sampatn
 dynamics365pdf: true
-ms.openlocfilehash: 5546d788d39e4ba7f8d4db93bf92d1a9f4f8ee90
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 94da7c78b22779937f1a3e45f3a31eb61cd02598
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079667"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232106"
 ---
 # <a name="enhanced-work-hours-calendar-for-resources"></a>強化されたリソースの作業時間カレンダー
 [!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
@@ -48,4 +48,8 @@ ms.locfileid: "3079667"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [作業時間の追加](https://docs.microsoft.com/dynamics365/field-service/set-up-bookable-resources#add-work-hours) (ドキュメント)
+<!--docs end-->
+

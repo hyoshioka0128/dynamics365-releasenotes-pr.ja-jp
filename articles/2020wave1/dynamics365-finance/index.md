@@ -3,18 +3,18 @@ title: Dynamics 365 Finance 2020 年リリース ウェーブ 1 の概要
 description: Dynamics 365 Finance 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: roschlom
-ms.date: 01/27/2020
+ms.date: 03/12/2020
 ms.assetid: d1390ef1-f41e-ea11-a810-000d3a8f0f1e
 ms.topic: overview
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: 42c4d427acdbf74b34efab35948306c9d9ee7efe
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: f35378672ffcec28195e4ba724cd1d357fa5c3c2
+ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3032234"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "3152238"
 ---
 # <a name="overview-of-dynamics-365-finance-2020-release-wave-1"></a>Dynamics 365 Finance 2020 年リリース ウェーブ 1 の概要
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]

@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: soalex
 dynamics365pdf: true
-ms.openlocfilehash: d999084c0a102df739a9e103bcc7343fe42abd47
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: 5eecd4970dcf366441dcb5f700ba576face2acfe
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3031860"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232871"
 ---
 # <a name="expanded-country-and-regional-availability"></a>利用可能な国と地域の拡大
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -51,4 +51,8 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [利用可能な国と地域](https://aka.ms/bccountries) (ドキュメント)
+<!--docs end-->
+

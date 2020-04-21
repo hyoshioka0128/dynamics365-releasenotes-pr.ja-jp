@@ -3,25 +3,25 @@ title: 予測精度の改善と調整
 description: 予測をシームレスに調整して解釈を深め、精度を向上させます。
 author: relnotes
 ms.reviewer: udag
-ms.date: 02/10/2020
+ms.date: 02/20/2020
 ms.assetid: d95dbaff-4ad5-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: dandalla
 dynamics365pdf: true
-ms.openlocfilehash: d402ab3a558dae164d39493541a6aab898f373e8
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: ca16f6762877c2f1c9841bfd1899498f6d375208
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079491"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232409"
 ---
 # <a name="improve-and-adjust-forecast-accuracy"></a>予測精度の改善と調整
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 7 日| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -55,4 +55,14 @@ ms.locfileid: "3079491"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--blog start-->
+[Dynamics 365 Sales の高度な予測による説明責任の推進](https://aka.ms/forecasting.blog) (ブログ)
+<!--blog end-->
+
+
+
+<!--docs start-->
 [予測の値を調整する](https://docs.microsoft.com/dynamics365/sales-enterprise/adjust-values-in-forecast) (ドキュメント)
+<!--docs end-->
+

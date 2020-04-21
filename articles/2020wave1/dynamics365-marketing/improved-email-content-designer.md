@@ -3,18 +3,18 @@ title: メール コンテンツ デザイナーの改善
 description: ''
 author: relnotes
 ms.reviewer: alfergus
-ms.date: 02/18/2020
+ms.date: 03/18/2020
 ms.assetid: a47d10ea-14ce-e911-a996-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: prrana
 dynamics365pdf: true
-ms.openlocfilehash: ad506f72162f4e81f78c9e15f25306eb2f37f0bc
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: b91eb4bb114b7d97bcd3301239fa79c8c8b4a855
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079282"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232453"
 ---
 # <a name="improved-email-content-designer"></a>メール コンテンツ デザイナーの改善
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
@@ -42,6 +42,8 @@ ms.locfileid: "3079282"
 - **更新されたフォームおよびページ デザイナー**: 電子メール コンテンツ デザイナーの改善点は、フォームおよびページ デザイナーでも利用できます。
 <!--feature detail end -->
 
+  ![ボタン オーバー ピクチャを備えた魅力的な電子メール デザイン](media/email-design-update-email-editor.jpg "ボタン オーバー ピクチャを備えた魅力的な電子メール デザイン")
+<!-- Picture 1 -->
 
 
 
@@ -53,4 +55,8 @@ ms.locfileid: "3079282"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [Dynamics 365 Marketing の新機能](https://docs.microsoft.com/dynamics365/marketing/whats-new-marketing)
+<!--docs end-->
+

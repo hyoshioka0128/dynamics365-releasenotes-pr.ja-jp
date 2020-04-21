@@ -3,25 +3,25 @@ title: 見通し予測で当て推量を取り除く
 description: ''
 author: relnotes
 ms.reviewer: udag
-ms.date: 02/10/2020
+ms.date: 02/20/2020
 ms.assetid: 0950d5ae-d0ca-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: dandalla
 dynamics365pdf: true
-ms.openlocfilehash: 03bf07dd0072a1fc340def8c5a672534644b8692
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 58d5999a59397185f90876d83c7fbfbf357a5edf
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080074"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232255"
 ---
 # <a name="remove-the-guesswork-with-predictive-forecasting"></a>見通し予測で当て推量を取り除く
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 7 日| 2020 年 4 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -52,4 +52,14 @@ ms.locfileid: "3080074"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--blog start-->
+[Dynamics 365 Sales の高度な予測による説明責任の推進](https://aka.ms/forecasting.blog) (ブログ)
+<!--blog end-->
+
+
+
+<!--docs start-->
 [見通し予測を使用して収益の結果を分析する](https://docs.microsoft.com/dynamics365/ai/sales/analyze-revenue-outcome-using-predictive-forecasting) (ドキュメント)
+<!--docs end-->
+

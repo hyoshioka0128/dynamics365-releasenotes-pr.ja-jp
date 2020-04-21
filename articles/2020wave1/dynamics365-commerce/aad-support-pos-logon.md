@@ -3,25 +3,25 @@ title: Azure AD での POS サインインのサポート
 description: ''
 author: relnotes
 ms.reviewer: josaw
-ms.date: 01/10/2020
+ms.date: 03/06/2020
 ms.assetid: e6241ff2-f00c-ea11-a811-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
 ms.author: boycez
 dynamics365pdf: true
-ms.openlocfilehash: 0e981f6180271559238728582f429101a9e6324d
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 91198f3bc6d55e212efa2cbf766f03ae17c57c47
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986650"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232651"
 ---
 # <a name="azure-ad-support-for-pos-sign-in"></a>Azure AD での POS サインインのサポート
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 2 月| 2020 年 5 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 24 日| 2020 年 5 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -46,4 +46,12 @@ ms.locfileid: "2986650"
 
 
 
+
+
+## <a name="see-also"></a>関連項目
+
+
+<!--docs start-->
+[POS サインインの Azure Active Directory 認証の有効化](https://docs.microsoft.com/dynamics365/commerce/aad-pos-logon) (ドキュメント)
+<!--docs end-->
 

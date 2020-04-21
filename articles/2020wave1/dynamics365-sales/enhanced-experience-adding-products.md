@@ -3,25 +3,25 @@ title: 営業案件に製品を追加するエクスペリエンスの強化
 description: カタログから製品を直接検索できます。 製品の詳細をインラインで調べ、製品を比較して、情報に基づいた選択を行うことができます。 一度に複数の製品を追加できます。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 02/04/2020
+ms.date: 03/24/2020
 ms.assetid: 0989253e-61cb-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: naitikds
 dynamics365pdf: true
-ms.openlocfilehash: a5f8356580877827ea17e2849cb2e596f9f82734
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: 0ddb90b8f6c6ac715a033a4577fd466056fac045
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3032135"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232420"
 ---
 # <a name="enhanced-experience-for-adding-products-to-opportunities"></a>営業案件に製品を追加するエクスペリエンスの強化
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|-| 2020 年 7 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -48,9 +48,7 @@ Dynamics 365 Sales では、パイプライン管理、製品調達、営業全�
 <!-- Picture 3 -->
 
 > [!NOTE]
-> この機能は、統一インターフェイスでのみ使用できます。 
->
-> この機能は、Dynamics 365 Sales Enterprise で使用できます。
+> この機能は、統一インターフェイスでのみ使用できます。 この機能は、Dynamics 365 Sales Enterprise で使用できます。
 
 
 
@@ -60,4 +58,8 @@ Dynamics 365 Sales では、パイプライン管理、製品調達、営業全�
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [強化されたエクスペリエンスを使用して営業案件に製品を追加する](https://docs.microsoft.com/dynamics365/sales-enterprise/add-products-enhanced-experience) (ドキュメント)
+<!--docs end-->
+

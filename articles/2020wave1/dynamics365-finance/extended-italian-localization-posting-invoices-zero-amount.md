@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mrolecki
 dynamics365pdf: true
-ms.openlocfilehash: 2e9798ab6fcd277ff921b2af5acca37696a082c1
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 41c519fd52070de03b74ac744526f9348f7a985d
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079458"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233080"
 ---
 # <a name="extended-italian-localization-posting-invoices-with-zero-amount"></a>拡張されたローカライズ (イタリア): 金額がゼロの請求書の転記
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
@@ -47,4 +47,8 @@ ms.locfileid: "3079458"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [金額がゼロの請求書の転記](https://docs.microsoft.com/dynamics365/finance/localizations/emea-ita-exil-zero-invoice-posting) (ドキュメント)
+<!--docs end-->
+

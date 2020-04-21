@@ -3,25 +3,25 @@ title: Common Data Service のデータ - フェーズ 1 と 2
 description: Common Data Service のデータ - フェーズ 1 と 2
 author: RamaKrishnamoorthy
 ms.reviewer: rhaertle
-ms.date: 02/03/2020
+ms.date: 04/01/2020
 ms.assetid: 5838d44d-8d1b-ea11-a812-000d3a8f010c
 ms.topic: article
 ms.service: business-applications
 ms.author: ramasri
 dynamics365pdf: true
-ms.openlocfilehash: 5f4d40ae9370ef535830c5097b9172978ca74ff5
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: 88b558589dae39d149a3a56f72aba9451aa8c5de
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3032036"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3231881"
 ---
 # <a name="data-in-common-data-service--phase-1--2"></a>Common Data Service のデータ - フェーズ 1 と 2
-[!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 19 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 
@@ -119,4 +119,12 @@ Finance and Operations アプリと Dynamics 365 のモデル駆動型アプリ�
 
 
 
+
+
+## <a name="see-also"></a>関連項目
+
+
+<!--docs start-->
+[二重書き込みのホームページ](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/dual-write-home-page) (ドキュメント)
+<!--docs end-->
 

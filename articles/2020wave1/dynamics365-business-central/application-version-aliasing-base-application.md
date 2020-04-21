@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: pborring
 dynamics365pdf: true
-ms.openlocfilehash: f0498dd8f5c3f5bcf4c0dc7cc911797aa26c2ce3
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 379ba3e2e41c6d74a09e05f9e8d177d7973a9e2a
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080019"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233003"
 ---
 # <a name="application-version-for-aliasing-base-application"></a>ベース アプリケーションのエイリアス用のアプリケーション バージョン
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -58,4 +58,8 @@ Microsoft のベース アプリケーションへの明示的な依存関係は
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [AL Development Environment](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-reference-overview) (ドキュメント)
+<!--docs end-->
+

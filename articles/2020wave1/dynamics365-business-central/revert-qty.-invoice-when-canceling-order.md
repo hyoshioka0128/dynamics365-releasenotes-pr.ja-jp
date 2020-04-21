@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: cd31511b496862fc90727efb869334bcb312d31c
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: 2f9f26a2ae80911dca82445d190ee928b74c10c0
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3031706"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232673"
 ---
 # <a name="revert-qty-to-invoice-when-canceling-order"></a>注文をキャンセルする場合、請求書に対して数量を元に戻します
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -51,4 +51,8 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [転記された売上請求書を取り消すには](https://docs.microsoft.com/dynamics365/business-central/sales-how-correct-cancel-sales-invoice#to-cancel-a-posted-sales-invoice) (ドキュメント)
+<!--docs end-->
+

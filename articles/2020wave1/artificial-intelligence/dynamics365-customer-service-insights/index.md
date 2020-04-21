@@ -3,18 +3,18 @@ title: Dynamics 365 Customer Service Insights 2020 年リリース ウェーブ 
 description: Dynamics 365 Customer Service Insights 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: shellyha
-ms.date: 01/08/2020
+ms.date: 01/27/2020
 ms.assetid: e5943543-7123-ea11-a810-000d3a8f004f
 ms.topic: overview
 ms.service: business-applications
 ms.author: tpalmer
 dynamics365pdf: true
-ms.openlocfilehash: ba190883697adf04cd9c97440cfb41afee8b1fa8
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 61a2b7ae3b78c6794ee1674e57ece58e2c292817
+ms.sourcegitcommit: 2928661abcc468748ffc7c33516ebc8e3cd5d653
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2984379"
+ms.lasthandoff: 03/04/2020
+ms.locfileid: "3098454"
 ---
 # <a name="overview-of-dynamics-365-customer-service-insights-2020-release-wave-1"></a>Dynamics 365 Customer Service Insights 2020 年リリース ウェーブ 1 の概要
 [!include[artificial-intelligence/dynamics365-customer-service-insights banner](../includes/artificial-intelligence/dynamics365-customer-service-insights.md)]

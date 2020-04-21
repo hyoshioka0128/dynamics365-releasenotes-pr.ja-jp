@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: eosipova
 dynamics365pdf: true
-ms.openlocfilehash: d069285495c44b9e13a623aed3ced4f431dfc367
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 4462d86139f2486c5e1bd4ce001a9dbd882e7d5c
+ms.sourcegitcommit: db53421debc891ea407773d0e9b39feb7a01fef3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079184"
+ms.lasthandoff: 03/09/2020
+ms.locfileid: "3110756"
 ---
 # <a name="compliance-made-easier"></a>コンプライアンスが簡単に
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
@@ -39,6 +39,7 @@ GDPR とアクセシビリティ ガイドラインへのコンプライアン�
 <!--feature detail end -->
 
 
+![電子メール アクセシビリティ チェッカー](media/email-editor-accessibility-checker.png "電子メール アクセシビリティ チェッカー") 
 
 
 

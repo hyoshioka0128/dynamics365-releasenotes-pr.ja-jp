@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: gmohanv
 dynamics365pdf: true
-ms.openlocfilehash: 670aa166cbfb54dcd7012d3fc9b9974678f16671
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 40f33dbd8184c6c31f4672c76117bdcaa6a84992
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079766"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233287"
 ---
 # <a name="task-management-in-hq-and-pos-for-first-line-workers-and-managers"></a>第一線の作業者とマネージャー向けの HQ と POS でのタスク管理
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
@@ -53,4 +53,8 @@ ms.locfileid: "3079766"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [タスク管理](https://docs.microsoft.com/dynamics365/commerce/task-mgmt-overview) (ドキュメント)
+<!--docs end-->
+

@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mrolecki
 dynamics365pdf: true
-ms.openlocfilehash: 51ab8964c38822bddf228a8f90a4ba0e498f166d
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 7c0ebeddd6a40e4a8de3a2a56cc1d0f558142014
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080284"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232530"
 ---
 # <a name="extended-italian-localization-improved-inquiry-on-debitcredit"></a>拡張されたローカライズ (イタリア): 改善された借方/貸方の照会
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
@@ -47,4 +47,8 @@ ms.locfileid: "3080284"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [改善された借方/貸方の照会](https://docs.microsoft.com/dynamics365/finance/localizations/emea-ita-exil-improved-inquiry-settlement) (ドキュメント)
+<!--docs end-->
+

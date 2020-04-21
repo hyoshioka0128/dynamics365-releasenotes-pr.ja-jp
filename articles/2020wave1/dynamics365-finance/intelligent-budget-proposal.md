@@ -3,25 +3,25 @@ title: インテリジェントな予算提案
 description: インテリジェントな予算提案により、過去の予算と実際の支出に基づいて予算提案を自動的に作成できます。
 author: relnotes
 ms.reviewer: roschlom
-ms.date: 02/19/2020
+ms.date: 03/14/2020
 ms.assetid: 8441aef2-4ccb-e911-a968-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: f1a9d5efe3e2e9542a2707f54c60a49c27d8cf28
-ms.sourcegitcommit: 253ced14f24423a040cb579f436e63d215e9049d
+ms.openlocfilehash: af3543014b698914d9d78c9bc0d49b6ea7faa98e
+ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "3077605"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "3152095"
 ---
 # <a name="intelligent-budget-proposal"></a>インテリジェントな予算提案
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 7 月| -|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 5 月| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

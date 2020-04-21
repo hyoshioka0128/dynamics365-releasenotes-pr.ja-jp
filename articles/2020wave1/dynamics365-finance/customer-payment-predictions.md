@@ -3,25 +3,25 @@ title: 顧客支払予測
 description: 顧客支払予測は、未払い請求書に対する顧客の支払時期を予測することにより、正確なキャッシュ フロー予測を実現します。
 author: relnotes
 ms.reviewer: roschlom
-ms.date: 02/19/2020
+ms.date: 03/14/2020
 ms.assetid: 6daafc9c-d5ca-e911-a996-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: 88f35053ec72140d13f2dae681d1c62b1d68cf71
-ms.sourcegitcommit: 253ced14f24423a040cb579f436e63d215e9049d
+ms.openlocfilehash: 2b2dc20a8952c7dfa129fc1fee8e571c595caf25
+ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "3077609"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "3152150"
 ---
 # <a name="customer-payment-predictions"></a>顧客支払予測
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 7 月| -|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 5 月| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -38,7 +38,6 @@ ms.locfileid: "3077609"
 -   請求書または販売注文がいつ支払われるか?
 -   どの顧客が期限どおりまたは遅れて支払うか?
 -   どの請求書または注文が支払われるか?
-
 <!--feature detail end -->
 
 

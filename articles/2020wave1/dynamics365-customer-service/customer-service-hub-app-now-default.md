@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: psands
 dynamics365pdf: true
-ms.openlocfilehash: 3e7b12cf6a7770bd57bb8800c4619ebeab145e40
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: c40e4af3d73be7083bbc6cd1e238b089d9d87b71
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079733"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233212"
 ---
 # <a name="customer-service-hub-app-is-now-available-by-default"></a>顧客サービス ハブ アプリを既定で利用できるようになりました
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
@@ -47,4 +47,8 @@ ms.locfileid: "3079733"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [顧客サービス ハブの可用性](https://docs.microsoft.com/dynamics365/customer-service/availability-customer-service-hub) (ドキュメント)
+<!--docs end-->
+

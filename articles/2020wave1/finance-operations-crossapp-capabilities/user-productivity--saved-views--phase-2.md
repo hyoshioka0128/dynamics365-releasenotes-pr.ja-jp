@@ -3,18 +3,18 @@ title: ユーザーの生産性 - 保存されているビュー - フェーズ 
 description: ''
 author: relnotes
 ms.reviewer: sericks
-ms.date: 01/10/2020
+ms.date: 03/02/2020
 ms.assetid: abfdf192-d91d-ea11-a811-000d3a8f0f1e
 ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
-ms.openlocfilehash: a5cf2c068bdc8c34d40dc546490c6b7e53cbc9cf
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 5e6835108621b9604e8c806e0f5fa841ba9b1042
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986713"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3231826"
 ---
 # <a name="user-productivity--saved-views--phase-2"></a>ユーザーの生産性 - 保存されているビュー - フェーズ 2
 [!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
@@ -24,15 +24,17 @@ ms.locfileid: "2986713"
 |エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 4 月| -|
 
 
-
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 [保存されているビュー](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-finance-operations/saved-views)のプレビューは、2019 年 10 月の Platform update 29 で使用できるようになりました。 
 
 この機能の継続的な進化は、この機能が一般公開されるまで、毎月の更新の一部として引き続き導入されます。
 
+**10.0.10/Platform update 34**
+- ビューのタスク レコーダーのサポートを追加。 記録は公開されたビューまたは標準ビューで行う必要があります。 
+
 **10.0.9/Platform update 33**
-- ビューを既定としてユーザーに公開します。
+- ビューを既定としてユーザーに公開。
 
 **10.0.8/Platform update 32**
 - 機能の継続的な安定化。 
@@ -54,9 +56,7 @@ ms.locfileid: "2986713"
 
 ## <a name="see-also"></a>関連項目
 
+<!--docs start-->
 [保存されているビュー](https://docs.microsoft.com/dynamics365/fin-ops-core/fin-ops/get-started/saved-views) (ドキュメント)
-
-
-
-
+<!--docs end-->
 

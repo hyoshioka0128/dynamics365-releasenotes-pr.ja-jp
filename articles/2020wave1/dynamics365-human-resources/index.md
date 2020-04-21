@@ -3,18 +3,18 @@ title: Dynamics 365 Human Resources 2020 年リリース ウェーブ 1 の概�
 description: Dynamics 365 Human Resources 2020 年リリース ウェーブ 1 の概要
 author: brpotter
 ms.reviewer: anbichse
-ms.date: 02/07/2020
+ms.date: 03/12/2020
 ms.assetid: 5388a40d-9431-ea11-a810-000d3a8f0752
 ms.topic: overview
 ms.service: business-applications
 ms.author: brpotter
 dynamics365pdf: true
-ms.openlocfilehash: 5877a9078449aa8d73b914f5359b16cd80e7a081
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 6c642570acc4c4c0bc52da9a9f1b1eaa5afb7717
+ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080293"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "3152381"
 ---
 # <a name="overview-of-dynamics-365-human-resources-2020-release-wave-1"></a>Dynamics 365 Human Resources 2020 年リリース ウェーブ 1 の概要
 [!include[dynamics365-human-resources banner](../includes/dynamics365-human-resources.md)]

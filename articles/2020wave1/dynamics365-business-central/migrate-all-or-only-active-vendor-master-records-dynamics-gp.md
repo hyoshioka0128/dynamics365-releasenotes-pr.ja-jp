@@ -1,27 +1,27 @@
 ---
 title: Dynamics GP からすべてまたはアクティブな仕入先マスター レコードを移行する
-description: 現在の Dynamics GP クラウド移行ツールにサポートを追加して、ユーザーがすべてまたはアクティブな仕入先マスター レコードを移行する必要があるかどうかを指定して追加のアドレスを移行できるようにします。
+description: 現在の Dynamics GP Cloud Migration ツールにサポートを追加して、ユーザーがすべてまたはアクティブな仕入先マスター レコードを移行する必要があるかどうかを指定して追加のアドレスを移行できるようにします。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 02/10/2020
+ms.date: 03/19/2020
 ms.assetid: f6f2600d-ac16-ea11-a811-000d3a8f075c
 ms.topic: article
 ms.service: business-applications
 ms.author: jenolson
 dynamics365pdf: true
-ms.openlocfilehash: c62f7884e7e04392150e40234a7c255a6459e9b0
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: c216a8eda26c9750204a698fbfbfac68fb467557
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079942"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232805"
 ---
 # <a name="migrate-all-or-only-active-vendor-master-records-from-dynamics-gp"></a>Dynamics GP からすべてまたはアクティブな仕入先マスター レコードを移行する
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 3 月| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 3 月 2 日| 2020 年 4 月|
 
 
 
@@ -40,4 +40,12 @@ ms.locfileid: "3079942"
 
 
 
+
+
+## <a name="see-also"></a>関連項目
+
+
+<!--docs start-->
+[Dynamics GP からの移行](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/administration/migrate-dynamics-gp) (ドキュメント)
+<!--docs end-->
 

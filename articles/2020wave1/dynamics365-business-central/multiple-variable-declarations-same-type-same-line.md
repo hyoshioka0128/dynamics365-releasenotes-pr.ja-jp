@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: pborring
 dynamics365pdf: true
-ms.openlocfilehash: 7f222d94a189837d1efd62f60e8528c582e5e41a
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 38c7f6f288649988242ebfb47b4864b9e24ef8f8
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079933"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232783"
 ---
 # <a name="multiple-variable-declarations-of-the-same-type-in-the-same-line"></a>同じ行に同じ型の変数を複数宣言する
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -49,4 +49,8 @@ ms.locfileid: "3079933"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [AL Development Environment](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-reference-overview) (ドキュメント)
+<!--docs end-->
+

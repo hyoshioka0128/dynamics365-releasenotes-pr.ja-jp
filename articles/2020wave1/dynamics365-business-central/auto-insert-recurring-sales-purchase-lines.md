@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: be686193a33e7baa3fdd7730ea26d070e5e69204
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: 1ddeb7ec0569b9121114d9b00cff17aed32052dd
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3031948"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232992"
 ---
 # <a name="auto-insert-recurring-sales-and-purchase-lines"></a>定期的な販売と購買注文明細行の自動挿入
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -55,4 +55,8 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [定期的な販売および購買注文明細行の作成](https://docs.microsoft.com/dynamics365/business-central/sales-how-work-standard-lines) (ドキュメント)
+<!--docs end-->
+

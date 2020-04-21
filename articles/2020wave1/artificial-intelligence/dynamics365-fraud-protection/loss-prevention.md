@@ -3,25 +3,25 @@ title: 損失防止
 description: 損失防止
 author: relnotes
 ms.reviewer: v-davido
-ms.date: 12/13/2019
+ms.date: 03/09/2020
 ms.assetid: c39bc917-d8d0-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: veganesa
 dynamics365pdf: true
-ms.openlocfilehash: b540d8e76eea8b0bbfc1987b4d76a4a80d56bbb2
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 3df300ef3e41f4bb032b936aa2c40dbf6d178c0e
+ms.sourcegitcommit: 99f8fe366e70064e41204f9ee5c16fe397396d16
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986685"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "3114844"
 ---
 # <a name="loss-prevention"></a>損失防止
 [!include[artificial-intelligence/dynamics365-fraud-protection banner](../includes/artificial-intelligence/dynamics365-fraud-protection.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 3 月| 2020 年 7 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 3 月 2 日| 2020 年 7 月|
 
 
 

@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: gagatera
 dynamics365pdf: true
-ms.openlocfilehash: 4abb831dc11370a31e403d06fea2a874dfb64474
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 196fa7ae02b9776b93a872564449352c04cc9c42
+ms.sourcegitcommit: 14f80cb313c8fb6b4ade7e43b4c56d2aea742570
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080679"
+ms.lasthandoff: 03/04/2020
+ms.locfileid: "3099774"
 ---
 # <a name="spam-checker"></a>スパム チェッカー
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
@@ -42,7 +42,7 @@ ms.locfileid: "3080679"
 <!--feature detail end -->
 
 
-
+![危険度 - 中と表示されたスパム スコア](media/spamscore.png "危険度 - 中と表示されたスパム スコア") 
 
 
 

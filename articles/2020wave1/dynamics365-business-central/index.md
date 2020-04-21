@@ -3,18 +3,18 @@ title: Dynamics 365 Business Central 2020 年リリース ウェーブ 1 の概�
 description: Dynamics 365 Business Central 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: edupont
-ms.date: 01/28/2020
+ms.date: 03/12/2020
 ms.assetid: 27840536-ec41-ea11-a812-000d3a563be2
 ms.topic: overview
 ms.service: business-applications
 ms.author: mikeeh
 dynamics365pdf: true
-ms.openlocfilehash: c6e343af50b27d3a20b4d29378018dc6753641cd
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: cd72f4c1add076f3e0264abd76ab9514c3834d3b
+ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3031816"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "3152062"
 ---
 # <a name="overview-of-dynamics-365-business-central-2020-release-wave-1"></a>Dynamics 365 Business Central 2020 年リリース ウェーブ 1 の概要
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]

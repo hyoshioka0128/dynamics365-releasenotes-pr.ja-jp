@@ -3,18 +3,18 @@ title: Service Management で口座引落の回収を管理する
 description: Service Management で作成した請求書に対する口座引落回収機能を使用して、顧客未収金を回収します。
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 02/04/2020
+ms.date: 03/18/2020
 ms.assetid: 71a02882-4aca-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 74cbaf04a901346becc47c2aa9d86f2b10e4b46d
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: c9ba679b86397b043b95afcfe6ed7707a7a130e4
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3032465"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232827"
 ---
 # <a name="manage-direct-debit-collections-in-service-management"></a>Service Management で口座引落の回収を管理する
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -50,3 +50,11 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 ## <a name="thank-you-for-your-idea"></a>アイデアをありがとうございます
 [このアイデア](https://experience.dynamics.com/ideas/idea/?ideaid=ca99ab18-3231-e911-9461-0003ff68b049)をお送りいただき、ありがとうございました。 アイデア、コメント、投票を参考に、製品のロードマップに追加するものを決定しています。
+
+## <a name="see-also"></a>関連項目
+
+
+<!--docs start-->
+[SEPA 口座引落で支払を回収する](https://docs.microsoft.com/dynamics365/business-central/finance-collect-payments-with-sepa-direct-debit) (ドキュメント)
+<!--docs end-->
+
