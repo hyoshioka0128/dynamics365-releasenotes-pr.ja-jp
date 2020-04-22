@@ -3,25 +3,25 @@ title: イベント管理エクスペリエンスの改善
 description: ''
 author: relnotes
 ms.reviewer: shellyha
-ms.date: 02/19/2020
+ms.date: 03/30/2020
 ms.assetid: b916e9c7-281d-ea11-a811-000d3a8f0752
 ms.topic: article
 ms.service: business-applications
 ms.author: shsuri
 dynamics365pdf: true
-ms.openlocfilehash: bf5dcc922dc4ac0361f68c5c6d6b5613c7b02501
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 3944c44b03c2286f7688f6dd9de10299a6506cf1
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080239"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3231870"
 ---
 # <a name="improved-event-management-experience"></a>イベント管理エクスペリエンスの改善
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|-| 2020 年 5 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -38,6 +38,8 @@ ms.locfileid: "3080239"
 - **イベント内でフォームをデザインする**: イベント プランナーは、イベントを離れることなく、イベント エンティティからイベント登録フォームをデザインすることができます。
 <!--feature detail end -->
 
+![マーケティング フォームを使用したイベント登録](media/event-forms.png "マーケティング フォームを使用したイベント登録")
+<!-- Picture 1 -->
 
 
 
@@ -49,4 +51,8 @@ ms.locfileid: "3080239"
 
 ## <a name="see-also"></a>関連項目
 
-[Dynamics 365 Marketing の新機能](https://docs.microsoft.com/dynamics365/marketing/whats-new-marketing)
+
+<!--docs start-->
+[新機能](https://docs.microsoft.com/dynamics365/marketing/whats-new-marketing) (ドキュメント)
+<!--docs end-->
+

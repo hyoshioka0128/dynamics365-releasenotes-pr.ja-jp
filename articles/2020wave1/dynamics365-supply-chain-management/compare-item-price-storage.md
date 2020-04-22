@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aevengir
 dynamics365pdf: true
-ms.openlocfilehash: c11eb5af7b70a48cecfdee7ef1e096337ea77223
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 075cc4dc4fa5fa9035c34e5c4e3cfad9c97f89ff
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080184"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3231782"
 ---
 # <a name="compare-item-price-storage"></a>品目価格の比較の格納
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
@@ -56,4 +56,8 @@ ms.locfileid: "3080184"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [品目価格の比較の格納レポート](https://docs.microsoft.com/dynamics365/supply-chain/cost-management/compare-item-price) (ドキュメント)
+<!--docs end-->
+

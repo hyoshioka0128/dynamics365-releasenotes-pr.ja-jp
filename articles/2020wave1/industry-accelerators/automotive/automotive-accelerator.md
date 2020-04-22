@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: snagy
 dynamics365pdf: true
-ms.openlocfilehash: aa1dc4175077d46bd12a07dddb90ad1ee89a732e
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 3bbe02e2d983e54e51b223ccb39fcefb4976e58f
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986576"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232288"
 ---
 # <a name="automotive-accelerator"></a>Automotive Accelerator
 [!include[industry-accelerators/automotive banner](../includes/industry-accelerators/automotive.md)]
@@ -46,4 +46,8 @@ Automotive Accelerator の初期リリースは、一般にディーラーと OE
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [Automotive Accelerator](https://docs.microsoft.com/common-data-model/automotive-accelerator) (ドキュメント)
+<!--docs end-->
+

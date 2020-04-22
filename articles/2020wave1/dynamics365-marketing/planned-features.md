@@ -3,17 +3,17 @@ title: Dynamics 365 Marketing の新機能と予定されている機能 (2020 �
 description: Dynamics 365 Marketing で計画されている機能の概要。
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 02/19/2020
+ms.date: 04/02/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: loril
 dynamics365pdf: true
-ms.openlocfilehash: fc148c1fa989e76590d2adad44a730c798bb8e26
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 6e3f2bb6be2a55696cf241ad20d38cd5f0de1d18
+ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079546"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "3218690"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-marketing"></a>Dynamics 365 Marketing の新機能と予定されている機能
 
@@ -26,18 +26,18 @@ ms.locfileid: "3079546"
 | 機能    | 有効対象    |  パブリック プレビュー |  早期アクセス* | 一般提供 | 
 | ---------- |---------------- | :---------------: |:-----------:|:--------------: |
 | [状況依存のメール メッセージ](contextual-email-messages.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 8 月|-|- | 
-| [動的なメール メッセージをテスト送信する機能](ability-test-send-dynamic-email-messages.md) | エンド ユーザー、自動的|-|-|2020 年 4 月 | 
+| [動的なメール メッセージをテスト送信する機能](ability-test-send-dynamic-email-messages.md) | 管理者、作成者、またはアナリスト、自動的|-|-|2020 年 4 月 | 
+| [自動スケジューラ](smart-scheduler.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-|2020 年 4 月 | 
 | [コンプライアンスが簡単に](compliance-made-easier.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-|2020 年 4 月 | 
-| [セグメントの設計と管理の改善](improved-segment-design-management.md) | エンド ユーザー、自動的|-|-|2020 年 4 月 | 
- | [スマート スケジューラ](smart-scheduler.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化 |-|-|2020 年 4 月 | 
- | [スパム チェッカー](spam-checker.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化 |-|-|2020 年 4 月 | 
+| [セグメントの設計と管理の改善](improved-segment-design-management.md) | 管理者、作成者、またはアナリスト、自動的|-|-|2020 年 4 月 | 
+| [スパム チェッカー](spam-checker.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-|2020 年 4 月 | 
 | [Microsoft Forms Pro を使用した調査のサポート](support-surveys-using-forms-pro.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-|2020 年 4 月 | 
 | [さらに分析するためにマーケティング結果を Excel にエクスポートする](export-data-excel-further-analysis.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
 | [メール コンテンツ デザイナーの改善](improved-email-content-designer.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
-| [イベント管理エクスペリエンスの改善](improved-event-management-experience.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
 | [顧客体験エクスペリエンスの改善](improved-customer-journey-experience.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
- | [マーケティング キャンペーンで Customer Insights のセグメントを発見して使用する](discover-use-segments-customer-insights-marketing-campaigns.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化 |-|-|2020 年 5 月 | 
- | [電子メールとフォームのインプレース編集](in-place-editing-email-forms.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化 |-|-|2020 年 5 月 | 
+| [電子メールとフォームのインプレース編集](in-place-editing-email-forms.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-|2020 年 5 月 | 
+| [イベント管理エクスペリエンスの改善](improved-event-management-experience.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|-|2020 年 5 月 | 
+| [マーケティング キャンペーンで Customer Insights のセグメントを発見して使用する](discover-use-segments-customer-insights-marketing-campaigns.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-|2020 年 5 月 | 
 
 \* エンド ユーザーに影響するすべての必須の変更など、一部の機能は 2020 年 2 月 3 日に早期アクセスの一部としてオプトインできるようになります。 [早期アクセス](https://aka.ms/EarlyAccessFAQ) の詳細を確認してください。
 

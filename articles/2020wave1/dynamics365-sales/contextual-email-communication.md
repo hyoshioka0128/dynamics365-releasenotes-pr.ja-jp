@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: naitikds
 dynamics365pdf: true
-ms.openlocfilehash: 5b111613158670bf626e0deb5a65bd381d204bdc
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: fb2a007febc9206f7eeac93da66d93adf5c66bb9
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080228"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232431"
 ---
 # <a name="contextual-email-communication"></a>状況依存のメール通信
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -53,4 +53,8 @@ ms.locfileid: "3080228"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [状況依存のメール通信](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/dynamics365-sales/contextual-email-communication) (ドキュメント)
+<!--docs end-->
+

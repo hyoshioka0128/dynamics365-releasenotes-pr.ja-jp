@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mrolecki
 dynamics365pdf: true
-ms.openlocfilehash: 4263e27e61a27118fcc982873cddfb34856062c7
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 80ad54311bd6c9bbc274edffc5e0aa8c853ce02f
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079469"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3231958"
 ---
 # <a name="extended-italian-localization-tax-invoice-for-goods-delivered-for-free"></a>拡張されたローカライズ (イタリア): 無料で配送される商品の税金請求書
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
@@ -50,4 +50,8 @@ ms.locfileid: "3079469"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [無料で配送される商品の税金請求書](https://docs.microsoft.com/dynamics365/finance/localizations/emea-ita-exil-goods-for-free) (ドキュメント)
+<!--docs end-->
+

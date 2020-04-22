@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: xiaoyad
 dynamics365pdf: true
-ms.openlocfilehash: c17e88c2230b029c1bea5520ef10a824593a1056
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: eb7a2894894215c3c0af14d25851058210c8aed0
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079799"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233284"
 ---
 # <a name="agent-productivity-enhancements-to-knowledge-capabilities"></a>ナレッジ機能に対するエージェントの生産性強化
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
@@ -52,4 +52,8 @@ ms.locfileid: "3079799"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [サポート情報検索コントロール](https://docs.microsoft.com/dynamics365/customer-service/search-knowledge-articles-csh#knowledge-base-search-control) (ドキュメント)
+<!--docs end-->
+

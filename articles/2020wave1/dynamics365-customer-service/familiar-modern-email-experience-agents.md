@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: craigm
 dynamics365pdf: true
-ms.openlocfilehash: 6db99a0e7e7d2ac53c46bb34905d7a9fd45f434b
-ms.sourcegitcommit: 0a73f7354797bcbf643214c5f32d32a0b03a2899
+ms.openlocfilehash: 6de32fb6edc5f625b81df57b74dbbff544ef975b
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/08/2020
-ms.locfileid: "3033371"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233178"
 ---
 # <a name="familiar-modern-email-experience-for-agents"></a>エージェント向けの使い慣れた最新のメール エクスペリエンス
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
@@ -52,4 +52,8 @@ ms.locfileid: "3033371"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [メールの表示と作成](https://docs.microsoft.com/dynamics365/customer-service/customer-service-hub-user-guide-basics#view-and-create-email) (ドキュメント)
+<!--docs end-->
+

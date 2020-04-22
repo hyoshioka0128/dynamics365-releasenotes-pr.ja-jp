@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
-ms.openlocfilehash: a415c8fd6f2d8ab4dd62c54eb2a92dfd48cf0112
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: a9c74e07b2015f169821e6b32dd284c273247aaf
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079216"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3231771"
 ---
 # <a name="embed-third-party-apps--phase-2"></a>サード パーティのアプリを埋め込む - フェーズ 2
 [!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
@@ -50,4 +50,8 @@ ms.locfileid: "3079216"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [ユーザー エクスペリエンスのパーソナライズ](https://docs.microsoft.com/dynamics365/fin-ops-core/fin-ops/get-started/personalize-user-experience) (ドキュメント)
+<!--docs end-->
+

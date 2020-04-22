@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: eichimur
 dynamics365pdf: true
-ms.openlocfilehash: 0cee0ff4f8f5e42cb3618c751ad546ba79b341c9
-ms.sourcegitcommit: 0a73f7354797bcbf643214c5f32d32a0b03a2899
+ms.openlocfilehash: a911734401fc1fd2be9a4cbc4dcdffa9a6200728
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/08/2020
-ms.locfileid: "3033536"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233201"
 ---
 # <a name="enhancements-in-case-routing-rules"></a>サポート案件ルーティング規則の強化
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
@@ -47,4 +47,8 @@ ms.locfileid: "3033536"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [ルーティング規則セット](https://docs.microsoft.com/dynamics365/customer-service/create-rules-automatically-route-cases#create-a-routing-rule-set-customer-service-hub) (ドキュメント)
+<!--docs end-->
+

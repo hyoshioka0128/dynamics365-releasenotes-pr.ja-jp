@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: JCart
 dynamics365pdf: true
-ms.openlocfilehash: 43a3a1e4122a8e976754af52a0bc247ed07f6afb
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 2e6656d24b98b49c4e8773ef09eba0289682172c
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079161"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3231903"
 ---
 # <a name="leave-calendar-views"></a>休暇カレンダー ビュー
 [!include[dynamics365-human-resources banner](../includes/dynamics365-human-resources.md)]
@@ -52,6 +52,14 @@ ms.locfileid: "3079161"
 
 ## <a name="see-also"></a>関連項目
 
-[組織全体の休暇エクスペリエンスの向上](https://cloudblogs.microsoft.com/dynamics365/bdm/2020/02/06/improve-the-leave-and-absence-experience-across-the-organization/) (ブログ)
 
+<!--blog start-->
+[組織全体の休暇エクスペリエンスの向上](https://cloudblogs.microsoft.com/dynamics365/bdm/2020/02/06/improve-the-leave-and-absence-experience-across-the-organization/) (ブログ)
+<!--blog end-->
+
+
+
+<!--docs start-->
 [Dynamics 365 Human Resources の休暇の概要](https://docs.microsoft.com/dynamics365/human-resources/hr-leave-and-absence-overview) (ドキュメント)
+<!--docs end-->
+

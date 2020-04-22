@@ -2,26 +2,26 @@
 title: 技術者とエキスパートがファイルを共有してコラボレーションを改善する
 description: 技術者とエキスパート間でファイルを共有することでコラボレーションを改善する
 author: relnotes
-ms.reviewer: v-brycho
-ms.date: 01/09/2020
+ms.reviewer: krbjoran
+ms.date: 04/02/2020
 ms.assetid: d3d3eccc-f81a-ea11-a812-000d3a8f010c
 ms.topic: article
 ms.service: business-applications
-ms.author: hegate
+ms.author: xolee
 dynamics365pdf: true
-ms.openlocfilehash: d39dabd84d84e00a7e283409ec64bba2010c10e8
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: ce2fff51fabc931c19eff42d75c7dfca69f5cc46
+ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986578"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "3218613"
 ---
 # <a name="share-files-between-technicians-and-experts-to-improve-collaboration"></a>技術者とエキスパートがファイルを共有してコラボレーションを改善する
-[!include[mixed-reality/dynamics365-remote-assist banner](../includes/mixed-reality/dynamics365-remote-assist.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|ユーザー、管理者/作成者/アナリストによる有効化|-| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -33,7 +33,7 @@ ms.locfileid: "2986578"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
- このリリースでは、会話ツールとしてのテキスト チャットの添付ファイルを通じて、関連資料ファイル (手順、図、写真、その他のメディアなど) をキャプチャし、遠隔地のエキスパートと共有できるようにしています。 技術者は、こうしたファイルを Dynamics 365 Field Service 作業指示書にリンクすることもできます。 この機能は、HoloLens で既に利用可能です。
+このリリースでは、会話ツールとしてのテキスト チャットの添付ファイルを通じて、関連資料ファイル (手順、図、写真、その他のメディアなど) をキャプチャし、遠隔地のエキスパートと共有できるようにしています。 技術者は、こうしたファイルを Dynamics 365 Field Service 作業指示書にリンクすることもできます。 この機能は、HoloLens で既に利用可能です。
 <!--feature detail end -->
 
 

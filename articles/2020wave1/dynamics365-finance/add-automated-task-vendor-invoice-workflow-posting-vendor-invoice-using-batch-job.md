@@ -1,22 +1,22 @@
 ---
-title: バッチ ジョブを使用して仕入先請求書を転記するための自動化タスクを仕入先請求書ワークフローに追加する
+title: 仕入先請求書のバッチ転記
 description: 自動化された転記タスクを仕入先請求書ワークフローに追加して、バッチを使用して請求書を転記できるようになりました。
 author: relnotes
 ms.reviewer: roschlom
-ms.date: 02/13/2020
+ms.date: 03/16/2020
 ms.assetid: dc43cc48-ab4d-ea11-a812-000d3a579c39
 ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: 6bd85b25dab43a2584c5a2849abd30d584c616f1
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 976dba453ffa2f53eed405684f6c7d99b6c51b89
+ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080683"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "3151827"
 ---
-# <a name="add-an-automated-task-to-the-vendor-invoice-workflow-for-posting-the-vendor-invoice-using-a-batch-job"></a>バッチ ジョブを使用して仕入先請求書を転記するための自動化タスクを仕入先請求書ワークフローに追加する
+# <a name="vendor-invoice-batch-posting"></a>仕入先請求書のバッチ転記
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -33,7 +33,7 @@ ms.locfileid: "3080683"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-この機能を使用すると、自動化された転記タスクを仕入先請求書ワークフローに追加して、バッチを使用して請求書を転記できるようになります。 
+この機能を使用すると、自動化された転記タスクを仕入先請求書ワークフローに追加して、バッチを使用して請求書を転記できるようになります。
 <!--feature detail end -->
 
 

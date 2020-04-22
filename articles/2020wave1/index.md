@@ -3,22 +3,22 @@ title: Dynamics 365 の 2020 年リリース ウェーブ 1 の概要
 description: 2020 年リリース ウェーブ 1 の計画とは、2020 年 4 月から 2020 年 9 月の間にリリースが予定されている Dynamics 365 の機能を表します。
 author: ramanasridhar
 ms.reviewer: renwe
-ms.date: 02/19/2020
+ms.date: 04/03/2020
 ms.assetid: ''
 ms.topic: overview
 ms.service: business-applications
 ms.author: ramanasr
 dynamics365pdf: true
-ms.openlocfilehash: 4ba1f91fa126c941410e1eb491e4ded80fc57bbd
-ms.sourcegitcommit: 253ced14f24423a040cb579f436e63d215e9049d
+ms.openlocfilehash: 90c61de5e4dd2ce06d5832b2594f6eb87d5c5792
+ms.sourcegitcommit: 89cd9ffbc0fe4b4a65684b5ae150523629379375
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "3077537"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "3225295"
 ---
 # <a name="dynamics-365-2020-release-wave-1-plan"></a>Dynamics 365: 2020 年リリース ウェーブ 1 の計画
 
-**[2020 年リリース ウェーブ 1 の PDF のダウンロード](https://go.microsoft.com/fwlink/?linkid=2116924)** (2020 年 1 月 27 日最終更新)
+**[2020 年リリース ウェーブ 1 の PDF のダウンロード](https://go.microsoft.com/fwlink/?linkid=2116924)** (2020 年 3 月 23 日最終更新)
 
 2020 年リリース ウェーブ 1 の Dynamics 365 リリース計画 (旧称リリース ノート) では、**2020 年 4 月**から **2020 年 9 月**にかけてリリースされるすべての新機能について説明します。 このリリース計画は、[オンライン](https://aka.ms/Dynamics365ReleasePlan)で参照することも、[PDF ファイル](https://go.microsoft.com/fwlink/?linkid=2116924)のドキュメントとしてダウンロードすることもできます。 PDF ファイルには、Power Apps、Power Automate、Power Virtual Agents、Power Platform ガバナンスおよび管理と、Common Data Model およびデータ統合に関する情報も含まれています。
 
@@ -63,7 +63,7 @@ Dynamics 365 の 2020 年リリース ウェーブ 1 では、ビジネスを変
 - **[Dynamics 365 Business Central](dynamics365-business-central/index.md)** では、中小企業 (SMB) の組織向けに設計および最適化された包括的なビジネス アプリケーション ソリューションが提供されます。
 
 ### <a name="customer-data-platform"></a>顧客データ プラットフォーム
-- **[Dynamics 365 Customer Insights](artificial-intelligence/dynamics365-customer-insights/index.md)** では、すべての組織が、トランザクション、観察、行動などのさまざまなデータを統合し、単一の顧客ビューを得て、重要なビジネス プロセスを推進するインテリジェントな分析情報を導き出すことができます。
+- **[Dynamics 365 Customer Insights](artificial-intelligence/dynamics365-customer-insights/index.md)** では、すべての組織が、トランザクション、観察、行動などのさまざまなデータを統合し、単一の顧客ビューを得て、重要なビジネス プロセスを推進するインテリジェントな分析情報を導き出すことができます。
 
 ### <a name="microsoft-forms-pro"></a>Microsoft Forms Pro
 - **[Microsoft Forms Pro](microsoft-forms-pro/index.md)** は、企業アンケート ソリューションであり、組織内の全員がエンタープライズ グレードのアンケートを開発し、顧客や従業員からタイムリーなフィードバックを収集できます。 ポイント アンド クリックのシンプルさと AI 支援機能を備えた Forms Pro では、誰もがワークフローと組織のビジネス システムに直接統合されるカスタム アンケートを作成、送信、分析するツールを使用できます。
@@ -92,7 +92,7 @@ Dynamics 365 の 2020 年リリース ウェーブ 1 では、ビジネスを変
 |リリース計画の公開 |2020 年 1 月 27 日| Dynamics 365 および Power Platform 全体の 2020 年リリース ウェーブ 1 (2020 年 4 月 ～ 2020 年 9 月) で予定されている新機能について説明します。|
 |早期アクセス可能 |2020 年 2 月 3 日| 2020 年リリース ウェーブ 1 の 4 月の更新プログラムの一部として紹介される新機能を、ユーザーが自動的に使用できるようになる前にテストして確認できます。 現在、Dynamics 365 の [2020 年リリース ウェーブ 1 早期アクセス機能](https://aka.ms/Dynamics365EAFeatures)を確認できます。 |
 |リリース計画が 11 の追加言語で利用可能 |2020 年 2 月 12 日| Dynamics 365 および Power Platform のリリース計画が、[デンマーク語](https://docs.microsoft.com/da-DK/dynamics365/release-plans/)、[オランダ語](https://docs.microsoft.com/nl-NL/dynamics365/release-plans/)、[フィンランド語](https://docs.microsoft.com/fi-FI/dynamics365/release-plans/)、[フランス語](https://docs.microsoft.com/fr-FR/dynamics365/release-plans/)、[ドイツ語](https://docs.microsoft.com/de-DE/dynamics365/release-plans/)、[イタリア語](https://docs.microsoft.com/it-IT/dynamics365/release-plans/)、[日本語](https://docs.microsoft.com/ja-JP/dynamics365/release-plans/)、[ノルウェー語](https://docs.microsoft.com/nb-NO/dynamics365/release-plans/)、[ポルトガル語 (ブラジル)](https://docs.microsoft.com/pt-BR/dynamics365/release-plans/)、[スペイン語](https://docs.microsoft.com/es-ES/dynamics365/release-plans/)、[スウェーデン語](https://docs.microsoft.com/sv-SE/dynamics365/release-plans/)で公開されます。|
-|一般提供 |2020 年 4 月 1 日|2020 年リリース ウェーブ 1 の運用環境への展開が開始されます。 地域への展開は 2020 年 4 月 3 日に開始します。|
+|一般提供 |2020 年 4 月 1 日|2020 年リリース ウェーブ 1 の運用環境への展開が開始されます。 地域への展開は 2020 年 5 月 1 日に開始されます。|
 
 2019 年リリース ウェーブ 2 から引き続き、お使いの環境で各機能がどのように有効になるのかを示します。
 

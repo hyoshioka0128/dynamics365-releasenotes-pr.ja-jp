@@ -3,18 +3,18 @@ title: '拡張されたローカライズ (スイス): QR 請求書の実装'
 description: 2020 年 6 月 30 日より現在のスイスの支払伝票に変わる QR 請求書には、識別機能としてスイスの十字付きの QR コードが表示されます。 このスイス版 QR コードには、支払に必要なすべての情報のデジタル形式が含まれています。
 author: relnotes
 ms.reviewer: kfend
-ms.date: 02/14/2020
+ms.date: 03/24/2020
 ms.assetid: 07f2610b-f2db-e911-a812-000d3a4f1168
 ms.topic: article
 ms.service: business-applications
 ms.author: mrolecki
 dynamics365pdf: true
-ms.openlocfilehash: ce0968626bb585e185f321ac2304f64cf2ccc1a8
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 334eb8cd0a1a9eb61bd2d1a5dadbd97729ce9c3b
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079304"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3231947"
 ---
 # <a name="extended-swiss-localization-qr-bill-implementation"></a>拡張されたローカライズ (スイス): QR 請求書の実装
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
@@ -47,4 +47,7 @@ ms.locfileid: "3079304"
 
 ## <a name="see-also"></a>関連項目
 
+<!--docs start-->
 [スイス QR-請求書をサポートする国固有の更新プログラム](https://support.microsoft.com/help/4540315) (ドキュメント)
+<!--docs end-->
+

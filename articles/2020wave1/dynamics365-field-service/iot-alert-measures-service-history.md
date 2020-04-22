@@ -3,25 +3,25 @@ title: IoT アラート測定とサービス履歴
 description: 測定とサービス履歴を表示するように強化された IoT アラート。
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 01/13/2020
+ms.date: 02/25/2020
 ms.assetid: 23e9709e-b6ca-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: girishr
 dynamics365pdf: true
-ms.openlocfilehash: 100f824b63c1175edf7585f90406c6708b275d56
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: ec4b3fad5529b64f24b78458837abfbe7597fdcc
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986775"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232046"
 ---
 # <a name="iot-alert-measures-and-service-history"></a>IoT アラート測定とサービス履歴
 [!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 2 月|-| 2020 年 6 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|-| 2020 年 6 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -44,4 +44,12 @@ IoT アラートを実行するためには、追加のコンテキストがア�
 
 
 
+
+
+## <a name="see-also"></a>関連項目
+
+
+<!--docs start-->
+[デバイスの読み取り値のビジュアル化](https://docs.microsoft.com/dynamics365/field-service/cfs-visualizations-iot-hub) (ドキュメント)
+<!--docs end-->
 

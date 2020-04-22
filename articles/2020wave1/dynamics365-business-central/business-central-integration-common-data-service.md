@@ -3,18 +3,18 @@ title: Business Central と Common Data Service の統合
 description: Business Central と Common Data Service の統合。
 author: relnotes
 ms.reviewer: solsen
-ms.date: 02/05/2020
+ms.date: 04/02/2020
 ms.assetid: 2591eb8d-52ca-e911-a996-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: henrikwh
 dynamics365pdf: true
-ms.openlocfilehash: 325bf1650b90c6f04b374af1d791e67651a479c1
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: 1527c2c62a148c1942343fb1b59fe9f36ccbe3bc
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3031937"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232970"
 ---
 # <a name="business-central-integration-with-common-data-service"></a>Business Central と Common Data Service の統合
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -26,18 +26,20 @@ ms.locfileid: "3031937"
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-新しい Common Data Service オンボード エクスペリエンスが提供されます。ユーザーは Common Data Service 環境に接続して、Business Central の会社を Common Data Service の部署に関連付けることができます。 これにより、複数の企業が Common Data Service インスタンスに接続できるようになります。 セットアップの間に、既定の Common Data Service データベースの Common Data Service 接続エンティティが同期されます。 
+新しい Common Data Service オンボード エクスペリエンスが提供されます。ユーザーは Common Data Service 環境に接続して、Business Central の会社を Common Data Service の部署に関連付けることができます。 これにより、複数の企業が Common Data Service 環境に接続できるようになります。 セットアップの間に、既定の Common Data Service データベースの Common Data Service 接続エンティティが同期されます。 
 
-これにより、Common Data Service 向けの統合を開発している開発者に対する拡張性がサポートされます。
+Common Data Service 向けの Business Central 統合を開発している開発者に対する拡張性がサポートされます。 拡張性のサポートにより、Business Central Extensions を記述して、フィールドとテーブルを同期プロセスに追加し、既存のテーブルも拡張できます。 さらに、変換を作成し、値を変換およびマッピングできます。
 <!-- bv end -->
 
 
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-Common Data Service は、Dynamics 365 スイートの中心です。 Common Data Service を使用すると、Common Data Service でデータを利用できるため、ユーザーはビジネスをすべての方向から見ることができます。 データが Common Data Service に取り込まれると、ユーザーは Dynamics 365 ソリューション全体で共有されるデータの一貫したビューを取得できます。 Dynamics 365 Business Central では、他の統合が依存する "Business Central の CDS ベース ソリューション" で提供される既定の Common Data Service データベースのエンティティ セットがサポートされます。 ベース ソリューションには、会社のエンティティを Common Data Service の部署エンティティにマップする機能があります。 
+Common Data Service は Dynamics 365 スイートの中心にあり、ユーザーがビジネスをすべての方向から見ることができるようにします。 Common Data Service 内のデータにより、ユーザーとソリューションに Dynamics 365 ソリューション全体で共有されるデータの一貫したビューが与えられます。 Dynamics 365 Business Central では Common Data Service の既定のデータベース内のエンティティのセットがサポートされます。 "Business Central Common Data Service のベース ソリューション" は、他の統合が依存するものです。 ベース ソリューションにより、ユーザーは会社のエンティティを Common Data Service の部署エンティティにマップできます。 
 
-Common Data Service と統合する拡張機能を開発する場合、Business Central 2020 年リリース ウェーブ 1 では拡張性機能が提供され、Common Data Service テーブルと Common Data Service テーブル拡張機能を作成できます。 これにより、任意のカスタム属性を同期できます。
+Common Data Service と統合する拡張機能を開発する場合、2020 年リリース ウェーブ 1 では拡張性機能が提供され、そこで Common Data Service テーブルへのプロキシを Business Central に作成でき、これらは拡張可能になります。 これにより、カスタム属性を同期したり、同期プロセスに追加のテーブルを追加したりできます。 同期プロセスでのフィールド値のマッピングと変換のサポートが利用可能になりました。 
+
+"CRM Sales 統合" の新規インストールは、新しい "Business Central Common Data Service ベース ソリューション" の上にインストールされ、このソリューションに前述の機能を提供します。 
 <!--feature detail end -->
 
 
@@ -53,4 +55,9 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 ## <a name="see-also"></a>関連項目
 
-[Dynamics 365 Sales との統合](https://docs.microsoft.com/dynamics365/business-central/admin-prepare-dynamics-365-for-sales-for-integration) (ドキュメント)
+
+<!--docs start-->
+[Common Data Service との統合 ](https://docs.microsoft.com/dynamics365/business-central/admin-common-data-service) (ドキュメント)
+<!--docs end-->
+
+

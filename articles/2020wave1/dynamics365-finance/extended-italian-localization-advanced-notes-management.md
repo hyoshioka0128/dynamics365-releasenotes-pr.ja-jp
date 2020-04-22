@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mrolecki
 dynamics365pdf: true
-ms.openlocfilehash: 305a8186a3b4a7811add2df483318fa3722a0428
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 178f8f3d38aaf9fff61acdd1c7a737b3952c0ef3
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080316"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3231991"
 ---
 # <a name="extended-italian-localization-advanced-notes-management"></a>拡張されたローカライズ (イタリア): 詳細なメモの管理
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
@@ -47,4 +47,8 @@ ms.locfileid: "3080316"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [詳細なメモの管理](https://docs.microsoft.com/dynamics365/finance/localizations/emea-ita-exil-structured-notes) (ドキュメント)
+<!--docs end-->
+

@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
-ms.openlocfilehash: 3c56b5b42697d876383ab0ed45a37a2ce3788c97
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 9be702054590c3ee454dc6c962753e6be30aa295
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079381"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3231793"
 ---
 # <a name="recommended-fields"></a>推奨フィールド
 [!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
@@ -47,4 +47,8 @@ Finance and Operations アプリでは、ユーザーの満足度と生産性を
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [ユーザー エクスペリエンスのパーソナライズ](https://docs.microsoft.com/dynamics365/fin-ops-core/fin-ops/get-started/personalize-user-experience) (ドキュメント)
+<!--docs end-->
+

@@ -1,27 +1,27 @@
 ---
-title: 自動取り込みの一般提供
+title: 自動アクティビティと推奨される連絡先の改善
 description: ''
 author: relnotes
 ms.reviewer: udag
-ms.date: 01/29/2020
+ms.date: 03/17/2020
 ms.assetid: d36b871b-34cb-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
-ms.author: goravi
+ms.author: cindyliu
 dynamics365pdf: true
-ms.openlocfilehash: 688b604b2b8568ea18a922d094aadebfeada9e31
-ms.sourcegitcommit: 0a73f7354797bcbf643214c5f32d32a0b03a2899
+ms.openlocfilehash: 0d74a3d9621200b152cea93d384348f7d88b6db7
+ms.sourcegitcommit: f7b958b02d7cb7543a3f81414e7b3e62a5b8539d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/08/2020
-ms.locfileid: "3033415"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "3158360"
 ---
-# <a name="auto-capture-is-generally-available"></a>自動取り込みの一般提供
+# <a name="improvements-to-automatic-activity-and-contact-suggestions"></a>自動アクティビティと推奨される連絡先の改善
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| 2020 年 8 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| 2020 年 9 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

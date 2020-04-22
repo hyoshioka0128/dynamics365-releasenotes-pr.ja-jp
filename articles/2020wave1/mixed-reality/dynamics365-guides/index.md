@@ -3,18 +3,18 @@ title: Dynamics 365 Guides 2020 年リリース ウェーブ 1 の概要
 description: Dynamics 365 Guides 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 01/10/2020
+ms.date: 03/12/2020
 ms.assetid: 44e37dd6-e5c9-e911-a968-000d3a4f3883
 ms.topic: overview
 ms.service: business-applications
 ms.author: algodin
 dynamics365pdf: true
-ms.openlocfilehash: e5ecc552b82024fcc5538fef35e4e08a3aaad976
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 793621b71fb65d1525d28bbef4fc432dfc284814
+ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2984434"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "3219350"
 ---
 # <a name="overview-of-dynamics-365-guides-2020-release-wave-1"></a>Dynamics 365 Guides 2020 年リリース ウェーブ 1 の概要
 [!include[mixed-reality/dynamics365-guides banner](../includes/mixed-reality/dynamics365-guides.md)]

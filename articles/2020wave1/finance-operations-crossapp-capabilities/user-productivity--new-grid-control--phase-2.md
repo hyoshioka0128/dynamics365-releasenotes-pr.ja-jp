@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
-ms.openlocfilehash: 9c3a324524d08d2c05fd5bffcdf0f2146f043929
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 555b2c1b1f1987666ff5f9c431de0a101577b4eb
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986577"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3231837"
 ---
 # <a name="user-productivity--new-grid-control--phase-2"></a>ユーザーの生産性 - 新しいグリッド コントロール - フェーズ 2
 [!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
@@ -53,7 +53,11 @@ ms.locfileid: "2986577"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [Platform update 31 の新機能または変更点](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/get-started/whats-new-platform-update-31) (ドキュメント)
+<!--docs end-->
+
 
 
 

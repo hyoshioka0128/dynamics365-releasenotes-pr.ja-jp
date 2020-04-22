@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: prvenka
 dynamics365pdf: true
-ms.openlocfilehash: aef684ad235095ccede776f5023f806ea82e4675
-ms.sourcegitcommit: 0a73f7354797bcbf643214c5f32d32a0b03a2899
+ms.openlocfilehash: b8c08a9a514c52e169d98a2baf22ff0f12c33984
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/08/2020
-ms.locfileid: "3033404"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233223"
 ---
 # <a name="customer-service-app-available-for-users-with-team-member-license"></a>Team Member ライセンスを持つユーザーが利用できる Customer Service アプリ
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
@@ -51,4 +51,8 @@ ms.locfileid: "3033404"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [顧客サービス チーム メンバー アプリ](https://docs.microsoft.com/dynamics365/customer-service/customer-service-team-member) (ドキュメント)
+<!--docs end-->
+

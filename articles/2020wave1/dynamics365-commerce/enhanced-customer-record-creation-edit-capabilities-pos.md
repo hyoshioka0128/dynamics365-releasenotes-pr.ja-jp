@@ -3,25 +3,25 @@ title: POS での顧客レコードの作成および編集機能の強化
 description: この機能により、販売時点管理 (POS) での顧客レコードの作成および編集機能が強化されます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 01/10/2020
+ms.date: 02/24/2020
 ms.assetid: 907f1f57-ac1b-ea11-a812-000d3a8f010c
 ms.topic: article
 ms.service: business-applications
 ms.author: shajain
 dynamics365pdf: true
-ms.openlocfilehash: 1a57b92086239c187d4c308b556aefd1bf37eea6
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: ac89e05372331ca558ac02796e3b850deb09ec0b
+ms.sourcegitcommit: 2928661abcc468748ffc7c33516ebc8e3cd5d653
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986645"
+ms.lasthandoff: 03/04/2020
+ms.locfileid: "3098222"
 ---
 # <a name="enhanced-customer-record-creation-and-edit-capabilities-in-pos"></a>POS での顧客レコードの作成および編集機能の強化
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|2020 年 5 月| 2020 年 7 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 5 月| 2020 年 7 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

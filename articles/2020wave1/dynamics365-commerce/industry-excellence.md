@@ -3,18 +3,18 @@ title: 業界の卓越性
 description: 中核的な小売事業プロセスおよび業界の要件と機能への取り組み
 author: relnotes
 ms.reviewer: ''
-ms.date: 09/24/2019
+ms.date: 03/12/2020
 ms.assetid: a28498a7-1ddf-e911-a812-000d3a4f15f1
 ms.topic: structure
 ms.service: business-applications
 ms.author: jeffbl
 dynamics365pdf: true
-ms.openlocfilehash: da05b031fc72d842fad9b884a3ea77f997805641
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: c7408d9cade04948adc5f085daa386dcc7424f14
+ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986803"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "3151864"
 ---
 # <a name="industry-excellence"></a>業界の卓越性
 

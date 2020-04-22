@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mrolecki
 dynamics365pdf: true
-ms.openlocfilehash: f8987dc9c6ae680b723782eb35b4e40d91d6f18a
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: e5096815de30806d990c6604d9bede46d1a25f88
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079342"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233102"
 ---
 # <a name="extended-italian-localization-intent-letters--invoicing-of-usual-exporters"></a>拡張されたローカライズ (イタリア): 覚書 - 定期輸出業者への請求書発行
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
@@ -51,4 +51,8 @@ ms.locfileid: "3079342"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [覚書 – 定期輸出業者への請求書発行](https://docs.microsoft.com/dynamics365/finance/localizations/emea-ita-exil-intent-letter) (ドキュメント)
+<!--docs end-->
+

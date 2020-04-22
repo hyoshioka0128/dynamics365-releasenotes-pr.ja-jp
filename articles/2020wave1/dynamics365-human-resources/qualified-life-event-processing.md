@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: shielas
 dynamics365pdf: true
-ms.openlocfilehash: 93ef822c824372e9bab028a925fc3cff744c9f93
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: fb95aefe264d8cc87b8bd98b3810d989788bb2dd
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079197"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232479"
 ---
 # <a name="qualified-life-event-processing"></a>承認されたライフ イベント処理
 [!include[dynamics365-human-resources banner](../includes/dynamics365-human-resources.md)]
@@ -50,4 +50,8 @@ ms.locfileid: "3079197"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [給付金管理の概要](https://docs.microsoft.com/dynamics365/human-resources/hr-benefits-management-overview) (ドキュメント)
+<!--docs end-->
+

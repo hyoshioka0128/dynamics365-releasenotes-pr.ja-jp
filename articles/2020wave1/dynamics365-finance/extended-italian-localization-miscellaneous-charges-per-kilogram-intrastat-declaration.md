@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mrolecki
 dynamics365pdf: true
-ms.openlocfilehash: ad312c3207ca1d676b39c2c7897754b3fdecf184
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: f6ecf0547162054859fa7e1b4daf0b265ca756b4
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080272"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233091"
 ---
 # <a name="extended-italian-localization-miscellaneous-charges-per-kilogram-in-intrastat-declaration"></a>拡張されたローカライズ (イタリア): イントラスタット申告でのキログラムあたりの雑費
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
@@ -47,4 +47,8 @@ ms.locfileid: "3080272"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [イントラスタット申告でのキログラムあたりの雑費](https://docs.microsoft.com/dynamics365/finance/localizations/emea-ita-exil-misc-charges-intrastat) (ドキュメント)
+<!--docs end-->
+

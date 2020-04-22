@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: craigm
 dynamics365pdf: true
-ms.openlocfilehash: 8525f63fbc16fb0b680a780f59052e149d906a64
-ms.sourcegitcommit: 0a73f7354797bcbf643214c5f32d32a0b03a2899
+ms.openlocfilehash: a67d5be9d23ecc611e83b73145585d9140c92b4c
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/08/2020
-ms.locfileid: "3033294"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233256"
 ---
 # <a name="automatically-create-and-update-records"></a>レコードの自動的な作成と更新
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
@@ -47,4 +47,8 @@ ms.locfileid: "3033294"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [顧客サービス ハブでレコードを自動的に作成または更新する](https://docs.microsoft.com/dynamics365/customer-service/automatically-create-update-records) (ドキュメント)
+<!--docs end-->
+

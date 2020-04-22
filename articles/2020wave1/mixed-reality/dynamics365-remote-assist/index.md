@@ -3,18 +3,18 @@ title: Dynamics 365 Remote Assist 2020 年リリース ウェーブ 1 の概要
 description: Dynamics 365 Remote Assist 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 01/08/2020
+ms.date: 03/12/2020
 ms.assetid: d108acc9-4dcb-e911-a968-000d3a4f3883
 ms.topic: overview
 ms.service: business-applications
 ms.author: hegate
 dynamics365pdf: true
-ms.openlocfilehash: b9ef3790d9cd9ac356f49e1016cdf377aa4af12c
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: f168d3d121acb5a4b4cb3d8d93081ec2edfd081a
+ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2984423"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "3219317"
 ---
 # <a name="overview-of-dynamics-365-remote-assist-2020-release-wave-1"></a>Dynamics 365 Remote Assist 2020 年リリース ウェーブ 1 の概要
 [!include[mixed-reality/dynamics365-remote-assist banner](../includes/mixed-reality/dynamics365-remote-assist.md)]

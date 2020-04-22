@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 4d832a79de01f2e66c79dbe16fac9fff8f73c0c6
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 38c8f74ae0f922e269fbbfa173048de9dfbd80b1
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079997"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232904"
 ---
 # <a name="enhanced-customer-and-vendor-document-layout"></a>顧客および仕入先向けドキュメント レイアウトの強化
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -57,4 +57,8 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [顧客と仕入先のドキュメント レイアウトを定義する](https://docs.microsoft.com/dynamics365/business-central/ui-define-customer-vendor-document-layouts) (ドキュメント)
+<!--docs end-->
+

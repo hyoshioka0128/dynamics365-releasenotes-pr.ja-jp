@@ -3,18 +3,18 @@ title: さらに分析するためにマーケティング結果を Exce にエ�
 description: ''
 author: relnotes
 ms.reviewer: alfergus
-ms.date: 02/14/2020
+ms.date: 03/18/2020
 ms.assetid: 8be06a36-6b1c-ea11-a811-000d3a8f0752
 ms.topic: article
 ms.service: business-applications
 ms.author: agmiskow
 dynamics365pdf: true
-ms.openlocfilehash: 4e152e7fa40740bce13148a2f3087c3218d946d3
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: a3c2f6c644e45ad68003f2d3b7741bad95387488
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080162"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232464"
 ---
 # <a name="export-marketing-results-data-to-excel-for-further-analysis"></a>さらに分析するためにマーケティング結果を Exce にエクスポートする
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
@@ -37,6 +37,8 @@ Dynamics 365 Marketing は、取引先担当者がマーケティング活動に
 - **条件に基づくデータの表示**: マーケティング結果を Marketing または Excel で表示できます。
 <!--feature detail end -->
 
+![右上隅にエクスポート アイコンが表示されます](media/insights_export_to_csv.png "右上隅にエクスポート アイコンが表示されます")
+<!-- Picture 1 -->
 
 
 
@@ -50,4 +52,8 @@ Dynamics 365 Marketing は、取引先担当者がマーケティング活動に
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [2020 年 2 月の更新プログラム](https://docs.microsoft.com/dynamics365/marketing/whats-new-marketing#february-2020-update) (ドキュメント)
+<!--docs end-->
+

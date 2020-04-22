@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: shielas
 dynamics365pdf: true
-ms.openlocfilehash: 7902e7f8cb2dbc154cfd5deec78689ef2e3d040d
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 2d39abe51934ce7f98d9f8d7f95db7e51c8b41d6
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079238"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3231925"
 ---
 # <a name="enhanced-benefit-plan-configuration"></a>強化された福利厚生計画の構成
 [!include[dynamics365-human-resources banner](../includes/dynamics365-human-resources.md)]
@@ -50,4 +50,8 @@ ms.locfileid: "3079238"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [給付金管理の概要](https://docs.microsoft.com/dynamics365/human-resources/hr-benefits-management-overview) (ドキュメント)
+<!--docs end-->
+

@@ -3,25 +3,25 @@ title: 予測モデルのカスタマイズ
 description: 柔軟な列モデリングを使用し、さまざまな組織構造をサポートして、クォータ管理と高度なフィルター処理の利点を活用しながら、ビジネス ニーズに応じてアクセスを管理できます。
 author: relnotes
 ms.reviewer: udag
-ms.date: 02/10/2020
+ms.date: 02/20/2020
 ms.assetid: e6c53181-4ad5-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: dandalla
 dynamics365pdf: true
-ms.openlocfilehash: 6040428e23d324cdba6ef3ef8dcc94cd5a114fb2
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 82ea1af03021f97c2c8c0fc7955d2e29d5e625ac
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079513"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3231853"
 ---
 # <a name="customize-forecast-models"></a>予測モデルのカスタマイズ
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 7 日| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -44,7 +44,7 @@ ms.locfileid: "3079513"
 <!-- Picture 1 -->
 
 > [!NOTE]
-> この機能は、統一インターフェイスでのみ使用できます。 
+> この機能は、統一インターフェイスでのみ使用できます。
 >
 > この機能は、Dynamics 365 Sales Enterprise のみを対象としています。
 
@@ -56,4 +56,14 @@ ms.locfileid: "3079513"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--blog start-->
+[Dynamics 365 Sales の高度な予測による説明責任の推進](https://aka.ms/forecasting.blog) (ブログ)
+<!--blog end-->
+
+
+
+<!--docs start-->
 [自社組織で予測機能を設定する](https://docs.microsoft.com/dynamics365/sales-enterprise/configure-forecast) (ドキュメント)
+<!--docs end-->
+

@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: snagy
 dynamics365pdf: true
-ms.openlocfilehash: a4ce179f71eab3a4535c1600fe06211f0a88bd03
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: ecee155570719ceef247631ac08e320a75b4778f
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986572"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3231760"
 ---
 # <a name="healthcare-accelerator"></a>Healthcare Accelerator
 [!include[industry-accelerators/health banner](../includes/industry-accelerators/health.md)]
@@ -46,4 +46,8 @@ Healthcare Accelerator の 2019 年 10 月のリリースでは、モデル駆�
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [Healthcare Accelerator](https://docs.microsoft.com/common-data-model/health-accelerator) (ドキュメント)
+<!--docs end-->
+

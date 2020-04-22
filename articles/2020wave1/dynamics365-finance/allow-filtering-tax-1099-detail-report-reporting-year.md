@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: c5e4675770988c0419c3e491b2e76ab31cbbea99
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 2203a2376404c6757ab251e2a179cec575edd726
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080404"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232024"
 ---
 # <a name="allow-filtering-the-tax-1099-detail-report-by-reporting-year"></a>申告年による税の詳細レポート 1099 のフィルター処理の許可
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
@@ -47,4 +47,8 @@ ms.locfileid: "3080404"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [年度末の 1099 レポート](https://docs.microsoft.com/dynamics365/finance/localizations/noam-usa-year-end-1099-reporting) (ドキュメント)
+<!--docs end-->
+

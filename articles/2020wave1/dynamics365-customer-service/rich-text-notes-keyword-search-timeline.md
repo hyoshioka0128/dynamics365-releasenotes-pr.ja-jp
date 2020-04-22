@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: craigm
 dynamics365pdf: true
-ms.openlocfilehash: 77fa13142a0705e923eeff5a252152c18a7b6814
-ms.sourcegitcommit: 0a73f7354797bcbf643214c5f32d32a0b03a2899
+ms.openlocfilehash: 410c94eeded0dd4f64ba0b123bfd85cc3e281e07
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/08/2020
-ms.locfileid: "3033503"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232145"
 ---
 # <a name="rich-text-notes-and-keyword-search-in-the-timeline"></a>タイム ラインの充実したテキスト メモとキーワード検索
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
@@ -52,4 +52,8 @@ Dynamics 365 タイムライン コントロールの機能が次のように強
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [タイムライン](https://docs.microsoft.com/dynamics365/customer-service/customer-service-hub-user-guide-basics#timeline) (ドキュメント)
+<!--docs end-->
+

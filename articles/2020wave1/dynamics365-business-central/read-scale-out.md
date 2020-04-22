@@ -3,30 +3,30 @@ title: 読み取りスケールアウト
 description: Business Central Server では、Azure SQL Database や SQL Server (使用可能な場合) で読み取り専用のレプリカを使用できます。
 author: relnotes
 ms.reviewer: jswymer
-ms.date: 01/10/2020
+ms.date: 03/25/2020
 ms.assetid: eda564e4-e71b-ea11-a811-000d3a8f0f1e
 ms.topic: article
 ms.service: business-applications
 ms.author: kepontop
 dynamics365pdf: true
-ms.openlocfilehash: fb8b6581a6fe73cb0f91628c803410d1d3f0eb00
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 94ec29cf1ada33e70906b7d1604802f1f761c29d
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986653"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232717"
 ---
 # <a name="read-scale-out"></a>読み取りスケールアウト
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2020 年 3 月| 2020 年 4 月|
+|管理者、作成者、またはアナリスト、自動的|2020 年 4 月| 2020 年 4 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-顧客は、データベースの読み取り専用レプリカで選択したレポート、クエリ、Web サービスの呼び出しを実行することを選択できます。 これにより、分析ワークロードがプライマリ データベースに影響を与えることはありません。 
+顧客は、データベースの読み取り専用レプリカで選択したレポート、クエリ、Web サービスの呼び出しを実行することを選択できます。 これにより、分析ワークロードがプライマリ データベースに影響を与えることはありません。
 <!-- bv end -->
 
 
@@ -45,4 +45,12 @@ Business Central のアーティファクト (レポート、API ページ、ク
 
 
 
+
+
+## <a name="see-also"></a>関連項目
+
+
+<!--docs start-->
+[パフォーマンス向上のための読み取りスケールアウトの使用](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/administration/database-read-scale-out-overview) (ドキュメント)
+<!--docs end-->
 

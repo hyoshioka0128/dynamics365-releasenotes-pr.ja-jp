@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: srikot
 dynamics365pdf: true
-ms.openlocfilehash: 33e55622d5b4dfb50d271dc1fb4e47a96dfe6bf5
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 7bc6bf3d26a2cda7189ff5b4cb8a28d1046d9864
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079678"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232178"
 ---
 # <a name="remote-assistance-capabilities-through-third-party"></a>サード パーティを介したリモート アシスタンス機能
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
@@ -47,4 +47,8 @@ ms.locfileid: "3079678"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [Customer Service 用オムニチャネルのガイド](https://docs.microsoft.com/dynamics365/omnichannel/omnichannel-customer-service-guide) (ドキュメント)
+<!--docs end-->
+

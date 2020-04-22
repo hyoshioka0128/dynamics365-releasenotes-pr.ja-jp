@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mrolecki
 dynamics365pdf: true
-ms.openlocfilehash: 62336aae48840c5483d72f10f7e7ef5086789759
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 71cc54f4025fd95a84788e0c755b66a623d97f55
+ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986761"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "3218734"
 ---
 # <a name="extended-italian-localization-commission-settlement-on-payments"></a>拡張されたローカライズ (イタリア): 支払時での手数料決済
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]

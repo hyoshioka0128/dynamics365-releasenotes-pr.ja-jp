@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: emgibson
 dynamics365pdf: true
-ms.openlocfilehash: 9276e3ff1b368f2cc8d195ee4339fe565f51bc82
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: 54e798cbf1951c1d34a35b81ea20ee25913110f7
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3032179"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232442"
 ---
 # <a name="easier-selection-of-email-templates"></a>電子メール テンプレートの選択がより簡単に
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -58,4 +58,8 @@ Microsoft では、製品全体のエクスペリエンスを簡素化する取�
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [電子メール テンプレートを挿入する](https://docs.microsoft.com/dynamics365/sales-enterprise/insert-email-template) (ドキュメント)
+<!--docs end-->
+

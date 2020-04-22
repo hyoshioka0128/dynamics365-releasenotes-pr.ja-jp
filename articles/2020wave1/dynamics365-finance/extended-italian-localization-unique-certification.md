@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mrolecki
 dynamics365pdf: true
-ms.openlocfilehash: b8c8a80674f72427649b0dccfbdaaef692396860
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: c2db4115864de3669f72690a523030cb32da6cd1
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079326"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232519"
 ---
 # <a name="extended-italian-localization-unique-certification"></a>拡張されたローカライズ (イタリア): 独自認証
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
@@ -47,4 +47,8 @@ ms.locfileid: "3079326"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [固有の証明書](https://docs.microsoft.com/dynamics365/finance/localizations/emea-ita-exil-unique-certification) (ドキュメント)
+<!--docs end-->
+

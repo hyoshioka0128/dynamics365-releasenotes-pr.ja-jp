@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: sriknair
 dynamics365pdf: true
-ms.openlocfilehash: cf1a969c3003664b1ce644be5800aa408e2c11f7
-ms.sourcegitcommit: 0a73f7354797bcbf643214c5f32d32a0b03a2899
+ms.openlocfilehash: f65da84cf3edb1b7e6e835d82bb8bd865866f97d
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/08/2020
-ms.locfileid: "3033250"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3233157"
 ---
 # <a name="license-enforcement---users-with-new-team-member-licenses"></a>ライセンスの適用 - 新しい Team Member ライセンスを持つユーザー
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
@@ -53,4 +53,8 @@ ms.locfileid: "3033250"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [顧客サービス チーム メンバー アプリ](https://docs.microsoft.com/dynamics365/customer-service/customer-service-team-member) (ドキュメント)
+<!--docs end-->
+

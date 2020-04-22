@@ -3,17 +3,17 @@ title: Dynamics 365 Field Service の新機能と予定されている機能 (20
 description: Dynamics 365 Field Service で計画されている機能の概要。
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 02/19/2020
+ms.date: 03/02/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: jeffcom
 dynamics365pdf: true
-ms.openlocfilehash: 02f05079d9fccc5c1b2e369825a3a783aa99d942
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 91fcce89248fe823a920ecb06f6ae3312a538660
+ms.sourcegitcommit: 2928661abcc468748ffc7c33516ebc8e3cd5d653
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079623"
+ms.lasthandoff: 03/04/2020
+ms.locfileid: "3098896"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-field-service"></a>Dynamics 365 Field Service の新機能と予定されている機能
 
@@ -33,7 +33,7 @@ ms.locfileid: "3079623"
  | ---------- | ---------- | :----------: |:-----------:|:----------: |
  | [インシデントタイプの AI ベースの提案](incident-type-ai-based-suggestions.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |2020 年 4 月|-| | 
  | [IoT アラートの AI ベースの提案](iot-alert-ai-based-suggestions.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |2020 年 4 月|-|- | 
- | [IoT アラート測定とサービス履歴](iot-alert-measures-service-history.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |2020 年 2 月|-|2020 年 6 月 | 
+ | [IoT アラート測定とサービス履歴](iot-alert-measures-service-history.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|-|2020 年 6 月 | 
 
 
 ## <a name="proactive-service-delivery"></a>プロアクティブなサービス提供
@@ -43,9 +43,9 @@ ms.locfileid: "3079623"
  | 機能    | 有効対象    |  パブリック プレビュー | 早期アクセス* | 一般提供 |
  | ---------- | ---------- | :----------: |:-----------:|:----------: |
  | [Power Automate フローの利用](leveraging-power-automate-flows.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |2020 年 4 月|-| | 
- | [Dynamics 365 Supply Chain Management と Field Service 全体にわたる資産機能の統合](combined-asset-capabilities-across-dynamics-365-supply-chain-management-field-service.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |2020 年 2 月|-|2020 年 4 月 | 
- | [Dynamics 365 Supply Chain Management の統合](integration-dynamics-365-supply-chain-management.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |2020 年 2 月|-|2020 年 4 月 | 
- | [Field Service Mobile に対する Intune のサポート](intune-support-field-service-mobile.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |2020 年 2 月|-|2020 年 4 月 | 
+ | [Dynamics 365 Supply Chain Management と Field Service 全体にわたる資産機能の統合](combined-asset-capabilities-across-dynamics-365-supply-chain-management-field-service.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|-|2020 年 4 月 | 
+ | [Dynamics 365 Supply Chain Management の統合](integration-dynamics-365-supply-chain-management.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|-|2020 年 4 月 | 
+ | [Field Service Mobile に対する Intune のサポート](intune-support-field-service-mobile.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|-|2020 年 4 月 | 
 
 
 ## <a name="scheduling"></a>スケジューリング

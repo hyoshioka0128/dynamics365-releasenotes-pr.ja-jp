@@ -3,18 +3,18 @@ title: Dynamics 365 Sales 2020 年リリース ウェーブ 1 の概要
 description: Dynamics 365 Sales 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 02/07/2020
+ms.date: 03/12/2020
 ms.assetid: e223ca73-9dca-e911-a96a-000d3a4f36ce
 ms.topic: overview
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: 2609babe6cfdbbffddd062c9382d47190f470ea8
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: ec32d8ee8da74aecad0c68314e0c415ce1f237ad
+ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080217"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "3152326"
 ---
 # <a name="overview-of-dynamics-365-sales-2020-release-wave-1"></a>Dynamics 365 Sales 2020 年リリース ウェーブ 1 の概要
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]

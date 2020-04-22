@@ -3,25 +3,25 @@ title: 店舗での小売トランザクションの財務調整
 description: 店舗での小売トランザクションの財務調整
 author: anpurush
 ms.reviewer: josaw
-ms.date: 12/16/2019
+ms.date: 03/31/2020
 ms.assetid: 648f8c75-e91d-ea11-a811-000d3a8f004f
 ms.topic: article
 ms.service: business-applications
 ms.author: anpurush
 dynamics365pdf: true
-ms.openlocfilehash: ceb8c0c3bf608d741c1a28a6af0a9aaf00575455
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: a50a8ef38c50bc3ae80b9f10a915167504304dd7
+ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986642"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "3219471"
 ---
 # <a name="financial-reconciliation-of-retail-transactions-in-the-store"></a>店舗での小売トランザクションの財務調整
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 2 月| 2020 年 5 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 4 月| 2020 年 5 月|
 
 
 

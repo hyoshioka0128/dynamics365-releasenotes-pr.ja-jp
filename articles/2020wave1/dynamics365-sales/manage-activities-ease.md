@@ -3,18 +3,18 @@ title: 活動を簡単に管理
 description: 新しく改良されたグリッドで活動をすばやく見つけます。 メイン ページのすべての活動をシンプルかつ簡単に操作します。 ドラッグアンドドロップを使用して、活動を直感的に更新します。 視覚化されたカレンダー ビューで活動をすべて表示します。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 02/04/2020
+ms.date: 03/16/2020
 ms.assetid: 7765d5de-62cb-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: cindyliu
 dynamics365pdf: true
-ms.openlocfilehash: 0db3fd165f67e130780a968979061f67a1083a75
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: b6cc9a38ad3eb82050465b02439fb9f9abc36701
+ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3032168"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "3232387"
 ---
 # <a name="manage-activities-with-ease"></a>活動を簡単に管理
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -37,11 +37,11 @@ ms.locfileid: "3032168"
 <!--feature detail start -->
 - **活動をすばやく見つける**: 新しく改善されたグリッドに、活動のリストを表示します。 活動を管理およびフィルター処理する新しいインターフェースを活用して、作業する適切な活動をすばやく見つけることができます。
 - **活動間を簡単に移動する**: 新しい活動の作成、既存の活動の編集、メイン ページから移動することなく活動を完了または削除するプロセスを簡素化しました。
-- **活動を直感的に更新する**: かんばんボードでドラッグアンドドロップ パイプライン管理を使用して、活動をドラッグアンドドロップしてステータスを即座に更新します。 多くの活動を管理する場合に最適です。
-- **カレンダー ビューのメリット**: カレンダー ビューで視覚化した活動をすべて表示して、毎日のタスクを簡単かつ明確に理解します。
+- **活動を直感的に更新する**: 活動エンティティにかんばんコントロールが追加されたら、かんばんボードでドラッグ アンド ドロップ パイプライン管理を使用して活動をドラッグして移動し、ステータスを即座に更新できます。 多くの活動を管理する場合に最適です。
+- **カレンダー ビューのメリット**: 活動エンティティにカレンダー コントロールが追加されたら、カレンダー ビューで視覚化した活動をすべて表示して、毎日のタスクを簡単かつ明確に理解できます。
 <!--feature detail end -->
 
-![カレンダー ビュー](media/calendar-view.jpg "カレンダー ビュー")
+![活動を簡単に管理](media/manageactivityasease.png "活動を簡単に管理")
 <!-- Picture 1 -->
 
 > [!NOTE]
@@ -57,4 +57,8 @@ ms.locfileid: "3032168"
 
 ## <a name="see-also"></a>関連項目
 
+
+<!--docs start-->
 [活動の追跡および管理](https://docs.microsoft.com/dynamics365/sales-enterprise/manage-activities) (ドキュメント)
+<!--docs end-->
+
