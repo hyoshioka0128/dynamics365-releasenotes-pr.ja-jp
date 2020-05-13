@@ -3,25 +3,25 @@ title: 店舗内コンポーネントの大量展開
 description: 店舗内コンポーネントの大量展開
 author: relnotes
 ms.reviewer: josaw
-ms.date: 12/02/2019
+ms.date: 03/10/2020
 ms.assetid: 5063278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: jashanno
 dynamics365pdf: true
-ms.openlocfilehash: af8bc457852b893a70f31845677e82c72341fbdc
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: 91a0d39eeec1b2a48b1f4accc92120720738573d
+ms.sourcegitcommit: 8756c08fc492e62cc366fa85ee3e510af3d16f70
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2890115"
+ms.lasthandoff: 03/18/2020
+ms.locfileid: "3139515"
 ---
 # <a name="in-store-components-mass-deployment"></a>店舗内コンポーネントの大量展開
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 11 日| 2020 年 1 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 11 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 6 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -46,6 +46,6 @@ ms.locfileid: "2890115"
 
 
 ## <a name="see-also"></a>関連項目
-[Dynamics 365 Retail バージョン 10.0.7 の機能をプレビューする](https://docs.microsoft.com/dynamics365/retail/get-started/whats-new-10-0-7) 
+[Dynamics 365 Retail バージョン 10.0.7 の新機能と変更された機能](https://docs.microsoft.com/dynamics365/retail/get-started/whats-new-10-0-7) 
 
-[Retail セルフサービス コンポーネントの一括配置](https://docs.microsoft.com/dynamics365/retail/dev-itpro/retail-mass-deployment) (ドキュメント)
+[セルフサービス コンポーネントの一括配置](https://docs.microsoft.com/dynamics365/retail/dev-itpro/retail-mass-deployment) (ドキュメント)

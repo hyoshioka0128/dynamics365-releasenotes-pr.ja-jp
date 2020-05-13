@@ -2,26 +2,26 @@
 title: ウェーブの間の高度な積荷構築
 description: 高度な積荷構築により、ウェーブでは、条件を満たす積荷が存在する場合は出荷を既存の積荷に割り当てて、必要な場合は新しい積荷を作成することができます。
 author: relnotes
-ms.reviewer: josaw
-ms.date: 10/04/2019
+ms.reviewer: kamaybac
+ms.date: 01/27/2020
 ms.assetid: 6662278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
-ms.openlocfilehash: c707b087329cff65c05e1110b28dd8391bc85787
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: 50e641718e6118993f0a0598021ab290047366ad
+ms.sourcegitcommit: 539959f0153f0218e260146bc73a90ac391dfaa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660550"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "3058070"
 ---
 # <a name="advanced-load-building-during-a-wave"></a>ウェーブの間の高度な積荷構築
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 3 月 4 日| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 3 月 4 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 17 日|
 
 
 
@@ -41,3 +41,7 @@ ms.locfileid: "2660550"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[倉庫管理の概要](https://docs.microsoft.com/dynamics365/supply-chain/warehousing/warehouse-management-overview) (ドキュメント)

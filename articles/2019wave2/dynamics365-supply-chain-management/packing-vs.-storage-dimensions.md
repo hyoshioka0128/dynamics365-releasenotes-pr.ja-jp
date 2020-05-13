@@ -3,25 +3,25 @@ title: 梱包と保管の分析コード
 description: 指定した分析コードを梱包、保管、または入れ子の梱包に使用するプロセスをユーザーが指定できるよう、新しいフィールドが現物分析コード ページに追加されています。
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 12/10/2019
+ms.date: 04/07/2020
 ms.assetid: 9c62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
-ms.openlocfilehash: 70e144e0fa07888f76664670c98d4b04ad897b58
-ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
+ms.openlocfilehash: 408d9bc461dd436987f9088b7a057ad4e415891f
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/20/2019
-ms.locfileid: "2909810"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3319975"
 ---
 # <a name="packing-vs-storage-dimensions"></a>梱包と保管の分析コード
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 2 月| 近日発表|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 近日発表|
 
 
 
@@ -41,3 +41,9 @@ ms.locfileid: "2909810"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[倉庫管理の概要](https://docs.microsoft.com/dynamics365/supply-chain/warehousing/warehouse-management-overview) (ドキュメント)
+<!--docs end-->

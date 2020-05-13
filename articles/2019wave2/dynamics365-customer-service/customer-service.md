@@ -3,27 +3,25 @@ title: Customer Service
 description: Dynamics 365 Customer Service の目的は、ワールド クラスのカスタマー エクスペリエンスを提供することで、企業が競合他社との差別化を図れるようにすることです。
 author: relnotes
 ms.reviewer: shubhadaj
-ms.date: 10/11/2019
+ms.date: 03/12/2020
 ms.assetid: b2096b69-725d-e911-a973-000d3a1c79c5
 ms.topic: structure
 ms.service: business-applications
 ms.author: prvenka
 dynamics365pdf: true
-ms.openlocfilehash: f62032665165b8a84d4b08d4e681db0bcbdd8422
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 0b3e2395a43bdae91c4e7d7bdad4c0a8fccc5e9a
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2662188"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178947"
 ---
 # <a name="customer-service"></a>Customer Service
 
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 <!--structure start-->
-今日のお客様は、解決の容易さと速さを重んじており、いつでもどんなデバイスでも、自分が好むエンゲージメントのチャネルでサービスを受けるのを望んでいます。 これらの機能を可能にするために、インテリジェントなオムニチャネルのカスタマー エクスペリエンスと強力なエージェント エクスペリエンスを構築しています。
-
-製品の真のオムニチャネル エクスペリエンスではコンテキストが維持され、お客様がセルフサービス、ピアツーピア サービス、アシスト サービスの各チャネルをシームレスに切り替えるときに、連続したエクスペリエンスが提供されます。 強力なエージェント エクスペリエンスは、チャネルと業種 (LOB) アプリケーションの間で統一されたアプリケーション エクスペリエンスを提供し、エンゲージメントに対してコンテキスト対応であり、問題をより迅速に解決するための生産性ツールが付属しています。
+Dynamics 365 Customer Service は、サポート案件のルーティングと管理を行うための包括的で効率的なエージェント向けソリューションです。 エージェントは統一インターフェイスを使用して顧客の問題を迅速に解決できます。統一インターフェイスにより、顧客プロファイル、サービス レベル アグリーメント、サポート案件タイムラインを完全に把握し、ビジネス プロセス フローやナレッジ記事のレコメンデーションなどの生産性ツールにアクセスできます。 コミュニティ ポータルにより、顧客は自力で、またはコミュニティの関与を通じて問題を解決できます。 これらの機能はすべて、一貫した簡単な方法で顧客の問題解決を効率化するのに役立つように設計されています。
 <!--structure end-->
 
 

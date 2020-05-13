@@ -3,25 +3,25 @@ title: Regulatory Configuration Service での簡素化されたローカライ�
 description: Regulatory Configuration Service (RCS) を使用すると、企業やパワー ユーザーは、法的要件の変更によって頻繁に影響を受ける規制レポート、請求書、支払方法、および税規則を構成できます。 これらの構成は、複数のアプリケーションで共有して再利用できます。 これらの構成の保存、処理、および共有を簡素化するために、RCS では新しいタイプのグローバル リポジトリがサポートされます。これを使用して、ユーザーは自分の構成を直接 RCS で一元的に格納および管理できます。
 author: relnotes
 ms.reviewer: kfend
-ms.date: 12/16/2019
+ms.date: 01/24/2020
 ms.assetid: dc62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: janeaug
 dynamics365pdf: true
-ms.openlocfilehash: a99a9a08c78d21959f3ac7200bcc24166ed273dd
-ms.sourcegitcommit: ecf709e1d8de3b52e1156bceb99cb7e3819f9db3
+ms.openlocfilehash: 02b762af022af1e896980caa1110ebfa6d62855f
+ms.sourcegitcommit: 539959f0153f0218e260146bc73a90ac391dfaa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2020
-ms.locfileid: "2950936"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "3058532"
 ---
 # <a name="simplified-localization-configuration-management-in-regulatory-configuration-service"></a>Regulatory Configuration Service での簡素化されたローカライズ構成管理
-[!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

@@ -3,18 +3,18 @@ title: Dynamics 365 Customer Service Insights 2019 年リリース ウェーブ 
 description: Dynamics 365 Customer Service Insights 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: shellyha
-ms.date: 12/05/2019
+ms.date: 04/03/2020
 ms.assetid: c7a3fad1-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: tpalmer
 dynamics365pdf: true
-ms.openlocfilehash: 745d7f1efedd1a91d7be706cf8e36be826af800f
-ms.sourcegitcommit: 96a8b76935ff81eeb407aeb5dcf4d402a33b56da
+ms.openlocfilehash: 94bf4894221b1894f05ba42aa75c6d1811b22d0e
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2952526"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3319711"
 ---
 # <a name="overview-of-dynamics-365-customer-service-insights-2019-release-wave-2"></a>Dynamics 365 Customer Service Insights 2019 年リリース ウェーブ 2 の概要
 [!include[artificial-intelligence/dynamics365-customer-service-insights banner](../includes/artificial-intelligence/dynamics365-customer-service-insights.md)]
@@ -33,5 +33,4 @@ Dynamics 365 Customer Service Insights では、業界最先端の人工知能�
 2019 年リリース ウェーブ 2 を通じて、Customer Service Insights に多数の新機能が登場します。 最新情報については、「新機能」のページを定期的に確認してください。 追加の機能要求は、[Customer Service Insights のアイデア ページ](https://aka.ms/csiideas)で追加できます。
 
 [概要ビデオを見る](https://aka.ms/ROGCSI19RW2ROV)
-
 <!--overview end-->

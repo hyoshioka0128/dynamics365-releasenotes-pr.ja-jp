@@ -3,25 +3,25 @@ title: Lifecycle Services のデータベース移動 RESTful API
 description: 診断やデバッグの目的で、データベースが繰り返し更新されるよう設定できます。
 author: relnotes
 ms.reviewer: sericks
-ms.date: 12/02/2019
+ms.date: 02/06/2020
 ms.assetid: a7c806d6-d5c9-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: laswenka
 dynamics365pdf: true
-ms.openlocfilehash: e14c41a0982aa05536ce31796a884c964255e1cd
-ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
+ms.openlocfilehash: d394fcc5b7b7c1517304e266909cb0db9c4d4965
+ms.sourcegitcommit: 2928661abcc468748ffc7c33516ebc8e3cd5d653
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "2894053"
+ms.lasthandoff: 03/04/2020
+ms.locfileid: "3098451"
 ---
 # <a name="database-movement-restful-apis-in-lifecycle-services"></a>Lifecycle Services のデータベース移動 RESTful API
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 30 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 18 日|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 9 月 30 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -33,7 +33,7 @@ ms.locfileid: "2894053"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-Lifecycle Services (LCS) は RESTful API エンドポイントを公開します。 更新をトリガーするための認証方法と適切な呼び出し方法について説明するドキュメントが提供されます。  この機能は、Azure Logic Apps またはその他の繰り返しエンジンを使用して実行することで、スケジューリングと自動化を行うことができます。
+Lifecycle Services (LCS) は RESTful API エンドポイントを公開します。 更新をトリガーするための認証方法と適切な呼び出し方法について説明するドキュメントが提供されます。  Azure Logic Apps またはその他の繰り返しエンジンを使用してこの機能を実行すると、スケジューリングと自動化を行うことができます。
 <!--feature detail end -->
 
 

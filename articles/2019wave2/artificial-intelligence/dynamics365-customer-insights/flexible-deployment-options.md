@@ -3,18 +3,18 @@ title: 柔軟な展開オプション
 description: 柔軟な展開オプションにより、管理者は取り込みから統合結果まで、自分の Azure インスタンスにデータを保存できます。 
 author: relnotes
 ms.reviewer: mhart
-ms.date: 11/01/2019
+ms.date: 03/18/2020
 ms.assetid: ffae2bd0-5872-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: b47b6668ad0f2a649133ca33c69b60ffcbab3cab
-ms.sourcegitcommit: dcbeed56af9eb48c17dc368f15a265a04cd4d760
+ms.openlocfilehash: 5741acb2fcc43e1c967f7f350e4d7ae12bb2aeed
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/11/2019
-ms.locfileid: "2780689"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178276"
 ---
 # <a name="flexible-deployment-options"></a>柔軟な展開オプション
 
@@ -26,8 +26,7 @@ ms.locfileid: "2780689"
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-お客様は独自の Azure データ ストレージを持ち込んでデータの取り込みと統合データのストレージに利用でき、柔軟な構成オプションが提供されて、お客様固有の要件のサポートが支援されます。 
-
+お客様は独自の Azure データ ストレージを持ち込んでデータの取り込みと統合データのストレージに利用でき、柔軟な構成オプションが提供されて、お客様固有の要件のサポートが支援されます。
 <!-- bv end -->
 
 
@@ -45,3 +44,7 @@ ms.locfileid: "2780689"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[Customer Insights のインスタンスを作成する](https://docs.microsoft.com/dynamics365/ai/customer-insights/create-manage-environment) (ドキュメント)

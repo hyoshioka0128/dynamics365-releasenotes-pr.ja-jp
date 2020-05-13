@@ -3,25 +3,25 @@ title: ボット支援エージェントのガイダンス
 description: ボット支援エージェントのガイダンス
 author: relnotes
 ms.reviewer: shjais
-ms.date: 11/15/2019
+ms.date: 02/05/2020
 ms.assetid: 1862278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: mahesh
+ms.author: srikot
 dynamics365pdf: true
-ms.openlocfilehash: 3bec3b46dbf177de71213096ffd8672780036fc1
-ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
+ms.openlocfilehash: 305973b6c7a04cbc7717b4923d945710ec9e9522
+ms.sourcegitcommit: 539959f0153f0218e260146bc73a90ac391dfaa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "2893701"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "3058642"
 ---
 # <a name="bot-assisted-agent-guidance"></a>ボット支援エージェントのガイダンス
-[!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 31 日|
 
 
 

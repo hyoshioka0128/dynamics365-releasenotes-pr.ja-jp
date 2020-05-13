@@ -3,25 +3,25 @@ title: 仕訳帳の遅延税計算の有効化
 description: ユーザーが仕訳帳を作成または変更するときに税計算を遅らせることができます
 author: RichardLuan
 ms.reviewer: kfend
-ms.date: 01/06/2020
+ms.date: 01/16/2020
 ms.assetid: 52767a22-d51f-ea11-a810-000d3a8f004f
 ms.topic: article
 ms.service: business-applications
 ms.author: riluan
 dynamics365pdf: true
-ms.openlocfilehash: f320a4f884486c073e23f82632f52f016b2d0b12
-ms.sourcegitcommit: ecf709e1d8de3b52e1156bceb99cb7e3819f9db3
+ms.openlocfilehash: 5857ddd05dadea53027b3257f18763fd26be20c4
+ms.sourcegitcommit: 539959f0153f0218e260146bc73a90ac391dfaa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2020
-ms.locfileid: "2951149"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "3058598"
 ---
 # <a name="enable-delayed-tax-calculation-on-journals"></a>仕訳帳の遅延税計算の有効化
-[!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 21 日| 2020 年 1 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 21 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 3 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -49,4 +49,4 @@ ms.locfileid: "2951149"
 
 ## <a name="see-also"></a>関連項目
 
-[仕訳帳の遅延税計算の有効化](https://docs.microsoft.com/dynamics365/finance/general-ledger/enable-delayed-tax-calculation) (docs)
+[仕訳帳の遅延税計算の有効化](https://docs.microsoft.com/dynamics365/finance/general-ledger/enable-delayed-tax-calculation) (ドキュメント)

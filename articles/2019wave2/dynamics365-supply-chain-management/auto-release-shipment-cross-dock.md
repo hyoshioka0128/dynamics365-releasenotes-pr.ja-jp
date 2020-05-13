@@ -3,25 +3,25 @@ title: クロスドッキング用の自動リリース出荷
 description: この機能は、クロスドッキング戦略をサポートしており、需要数量を供給する製造オーダーが完了したと報告されたときに需要オーダーを倉庫に自動的にリリースできます。 このようにして、需要オーダーの履行に必要な数量が、生産出荷の場所から出庫の場所に直接移動されます。
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 01/08/2020
+ms.date: 04/07/2020
 ms.assetid: 9e62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: omulvad
+ms.author: perlynne
 dynamics365pdf: true
-ms.openlocfilehash: 90a59613c3df57bdaadd9ddbe401245df54bddb0
-ms.sourcegitcommit: 7d5d14ac84333ba166265755f410f7e16035a64e
+ms.openlocfilehash: fd5dbeb4b522c0dc7faf7d40501a736d956ed06b
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2020
-ms.locfileid: "2948114"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3320162"
 ---
 # <a name="auto-release-shipment-for-cross-dock"></a>クロスドッキング用の自動リリース出荷
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 27 日| 近日発表|
 
 
 
@@ -52,4 +52,6 @@ ms.locfileid: "2948114"
 
 ## <a name="see-also"></a>関連項目
 
+<!--docs start-->
 [クロスドッキング用の自動リリース出荷](https://docs.microsoft.com/dynamics365/supply-chain/warehousing/auto-release-shipment-for-cross-docking) (ドキュメント)
+<!--docs end-->

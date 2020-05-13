@@ -3,18 +3,18 @@ title: Dynamics 365 Sales 2019 年リリース ウェーブ 2 の概要
 description: Dynamics 365 Sales 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 11/08/2019
+ms.date: 04/03/2020
 ms.assetid: 7ff1f7cb-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: ronik
 dynamics365pdf: true
-ms.openlocfilehash: 67c69cc97c76c6bc515d2089f6ae1f5d920d689d
-ms.sourcegitcommit: 96a8b76935ff81eeb407aeb5dcf4d402a33b56da
+ms.openlocfilehash: 0deca25f1851d3886d3c1f7f519eb9354b9b4637
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2952350"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3320184"
 ---
 # <a name="overview-of-dynamics-365-sales-2019-release-wave-2"></a>Dynamics 365 Sales 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -35,5 +35,4 @@ Dynamics 365 Sales は、エンタープライズ レベルのカスタマー �
 - **エコシステムの実現**: Dynamics 365 Sales では、販売担当者は、Microsoft のエコシステムの力を活用して販売活動の効果を高めることができます。
 
 [概要ビデオを見る](https://aka.ms/ROGS19RW2ROV)
-
 <!--overview end-->

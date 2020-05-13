@@ -2,26 +2,26 @@
 title: 低帯域幅状況での呼び出しエクスペリエンスの向上
 description: 低帯域幅状況での呼び出しエクスペリエンスの向上
 author: relnotes
-ms.reviewer: v-brycho
-ms.date: 08/02/2019
+ms.reviewer: krbjoran
+ms.date: 03/24/2020
 ms.assetid: 7064278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: jaarmeni
+ms.author: hegate
 dynamics365pdf: true
-ms.openlocfilehash: 4419cb56611b901f9da1baad62b333b6c73c8cfb
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 95e54fed8d233d7252839bec25d488b2c4202072
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661924"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178551"
 ---
 # <a name="improved-call-experience-for-low-bandwidth-situations"></a>低帯域幅状況での呼び出しエクスペリエンスの向上
-[!include[mixed-reality/dynamics365-remote-assist banner](../includes/mixed-reality/dynamics365-remote-assist.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|-| 2020 年 2 月|
+|エンド ユーザー、自動的|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 27 日|
 
 
 
@@ -41,3 +41,7 @@ ms.locfileid: "2661924"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[低帯域幅のシナリオでの Remote Assist の使用](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity) (ドキュメント)

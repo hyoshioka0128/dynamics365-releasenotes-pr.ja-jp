@@ -3,18 +3,18 @@ title: 代理キー
 description: 代理キー
 author: relnotes
 ms.reviewer: jswymer
-ms.date: 10/01/2019
+ms.date: 03/25/2020
 ms.assetid: 8c0e6a2f-306c-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: kepontop
 dynamics365pdf: true
-ms.openlocfilehash: 0a2c2b078f31198a68dddd8cc9103acfbad7dce9
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: 5288a6bc166a891cb9ad751f5352e9fbe083082b
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2666918"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178980"
 ---
 # <a name="surrogate-keys"></a>代理キー
 
@@ -41,3 +41,7 @@ ms.locfileid: "2666918"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[テーブル キー](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-table-keys) (ドキュメント)

@@ -3,30 +3,30 @@ title: ユーザー ナビゲーション履歴
 description: ユーザー ナビゲーション履歴
 author: relnotes
 ms.reviewer: kabala
-ms.date: 01/09/2020
+ms.date: 02/05/2020
 ms.assetid: 0662278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: mahesh
+ms.author: srikot
 dynamics365pdf: true
-ms.openlocfilehash: 209562d3ecff854943d8991446aa4c85526c5287
-ms.sourcegitcommit: 7d5d14ac84333ba166265755f410f7e16035a64e
+ms.openlocfilehash: d822ec8e4e9c1ddeb87522661380387ef566a983
+ms.sourcegitcommit: 539959f0153f0218e260146bc73a90ac391dfaa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2020
-ms.locfileid: "2948431"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "3058213"
 ---
 # <a name="user-navigation-history"></a>ユーザー ナビゲーション履歴
-[!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 31 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-ユーザー ナビゲーション履歴は、顧客が閲覧したことのあるページや顧客が利用したことのあるセルフ ヘルプについての詳細を知ることにより、エージェントが顧客に対してより効率的で関連性の高いパーソナライズされたサポートを提供するのに役立ちます。 
+ユーザー ナビゲーション履歴は、顧客が閲覧したことのあるページや顧客が利用したことのあるセルフ ヘルプについての詳細を知ることにより、エージェントが顧客に対してより効率的で関連性の高いパーソナライズされたサポートを提供するのに役立ちます。
 <!-- bv end -->
 
 
@@ -47,4 +47,4 @@ ms.locfileid: "2948431"
 
 ## <a name="see-also"></a>関連項目
 
-[ポータル ナビゲーションを有効にする](https://docs.microsoft.com/dynamics365/omnichannel/administrator/portal-navigation) (ドキュメント)
+[会話の概要で顧客のアクションのセルフサービス設定を有効にする](https://docs.microsoft.com/dynamics365/omnichannel/administrator/enable-self-service-settings) (ドキュメント)

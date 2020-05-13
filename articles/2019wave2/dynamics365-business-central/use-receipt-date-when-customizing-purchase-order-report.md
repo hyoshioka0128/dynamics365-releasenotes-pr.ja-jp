@@ -3,18 +3,18 @@ title: 発注書レポートのカスタマイズ時に入荷日を使用する
 description: 発注書レポートのレイアウトに予定入荷日、要求された入荷日、約束された入荷日を追加できるようになりました。
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 11/05/2019
+ms.date: 01/24/2020
 ms.assetid: 22ee85f8-aef0-e911-a812-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 6b73919cc72efd68d9f8beb76cb7986bf9416ab7
-ms.sourcegitcommit: 0338b540f146e0599e268ed4749ba515c8b4a431
+ms.openlocfilehash: f51550fba9625709acb8c21ad619c1f076db3591
+ms.sourcegitcommit: 539959f0153f0218e260146bc73a90ac391dfaa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/11/2019
-ms.locfileid: "2781528"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "3058895"
 ---
 # <a name="use-receipt-date-when-customizing-the-purchase-order-report"></a>発注書レポートのカスタマイズ時に入荷日を使用する
 
@@ -46,3 +46,7 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[カスタム レポート レイアウトの作成と変更](https://docs.microsoft.com/dynamics365/business-central/ui-how-create-custom-report-layout) (ドキュメント)

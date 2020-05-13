@@ -2,19 +2,19 @@
 title: 転記時に明細行の説明を G/L エントリに繰り越す
 description: 伝票明細行タイプ別に伝票明細行から総勘定元帳エントリに説明をコピーすることができます。
 author: relnotes
-ms.reviewer: sgroespe
-ms.date: 10/01/2019
+ms.reviewer: bholtorf
+ms.date: 03/23/2020
 ms.assetid: 54915d1e-4f75-e911-a960-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 101b1d46634572ef379cdb3b8a0d4f0aac52c319
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: 336ba9b4d72249a28c47ab45d0f502866391d670
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667160"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3179046"
 ---
 # <a name="carry-line-descriptions-to-gl-entries-when-posting"></a>転記時に明細行の説明を G/L エントリに繰り越す
 
@@ -51,3 +51,5 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 ## <a name="see-also"></a>関連項目
 [機能の探索](https://aka.ms/ROGBC19RW2ROV2) (ビデオ)
+
+[販売の転記](https://docs.microsoft.com/dynamics365/business-central/ui-post-sales) (ドキュメント)

@@ -3,18 +3,18 @@ title: ロックフリー番号シリーズ
 description: ロックフリー番号シリーズ
 author: relnotes
 ms.reviewer: jswymer
-ms.date: 10/01/2019
+ms.date: 03/25/2020
 ms.assetid: 5a52dc07-316c-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: kepontop
 dynamics365pdf: true
-ms.openlocfilehash: a6851ac1e7bb2eb343ee07d8309e6f269be6ab94
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: f4c694077c55e14ee52668eb4f17119c0b350c7e
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667336"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3179035"
 ---
 # <a name="lock-free-number-series"></a>ロックフリー番号シリーズ
 
@@ -43,3 +43,7 @@ ms.locfileid: "2667336"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[番号順序](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-number-sequences) (ドキュメント)

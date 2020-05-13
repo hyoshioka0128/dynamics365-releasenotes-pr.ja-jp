@@ -3,25 +3,25 @@ title: 会計統合フレームワークに基づくスウェーデン向けの�
 description: スウェーデンでは、キャッシュ レジスターに関する現地の規制に従い、すべての小売販売を、統合型の会計デバイス (制御ユニット) を備えたキャッシュ レジスターに登録する必要があります。 スウェーデン向けの制御ユニット統合サンプルでは、スウェーデンの市場で利用できる一般的な会計デバイス モデルの 1 つがサポートされています。 このサンプルは Retail SDK の一部であり、会計統合フレームワークを拡張するものです。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 12/11/2019
+ms.date: 01/14/2020
 ms.assetid: 6e903f43-01e6-e911-a812-000d3a4f15f1
 ms.topic: article
 ms.service: business-applications
 ms.author: epopov
 dynamics365pdf: true
-ms.openlocfilehash: 38857cfb75e8d7a5f98dfc965a79132fd2ccdb08
-ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
+ms.openlocfilehash: a23b69f122ed577699975a6be3abb470a4bff63e
+ms.sourcegitcommit: db53421debc891ea407773d0e9b39feb7a01fef3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/20/2019
-ms.locfileid: "2909975"
+ms.lasthandoff: 03/09/2020
+ms.locfileid: "3110789"
 ---
 # <a name="control-unit-integration-sample-for-sweden-based-on-the-fiscal-integration-framework"></a>会計統合フレームワークに基づくスウェーデン向けの制御ユニット統合サンプル 
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 3 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -39,3 +39,14 @@ Retail 会計統合フレームワークを使用することで、多国籍の�
 <!--feature detail end -->
 
 
+
+
+
+
+
+
+
+
+## <a name="see-also"></a>関連項目
+
+[スウェーデン向けの制御ユニット統合サンプル](https://docs.microsoft.com/dynamics365/retail/localizations/emea-swe-fi-sample) (ドキュメント)

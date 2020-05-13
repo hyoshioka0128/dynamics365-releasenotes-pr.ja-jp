@@ -2,26 +2,26 @@
 title: ウェーブ ステップ コード
 description: この機能では、AWAX 機能と標準の WHS 機能が統合されます。 ウェーブ ステップ コードを使用すると、ユーザーは、特定のウェーブ メソッド インスタンスを対応するテンプレートにリンクするために使用されるコードを設定できます。
 author: relnotes
-ms.reviewer: josaw
-ms.date: 11/19/2019
+ms.reviewer: kamaybac
+ms.date: 04/07/2020
 ms.assetid: 8862278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: henrikan
 dynamics365pdf: true
-ms.openlocfilehash: 51c6e94d3bc72a1d658825fdfd1b8607430a85a7
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: 5e7911503eb7c448e2b62e6a4bf614d14189ff40
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2889576"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3320778"
 ---
 # <a name="wave-step-code"></a>ウェーブ ステップ コード
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 1 月| 近日発表|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 27 日| 近日発表|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -39,8 +39,6 @@ ms.locfileid: "2889576"
  
 ウェーブ ステップ コードを利用し、ウェーブ ステップ フリー テキストの使用をやめるのはオプションです。 取り込みは法人ごとに行われます。 法人ごとの取り込みの一環として、特定の法人内の既存のすべてのウェーブ ステップ コードが新しい構造にアップグレードされます。
 <!--feature detail end -->
-
-
 
 
 

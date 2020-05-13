@@ -3,18 +3,18 @@ title: アニメーションをオン/オフにする
 description: アニメーションのオン/オフを切り替える
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 11/09/2019
+ms.date: 03/18/2020
 ms.assetid: 192a565f-cff6-e911-a813-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
 ms.author: makamat
 dynamics365pdf: true
-ms.openlocfilehash: 4fb58562b7f83ebc2c76334645c25662d1b6b6b6
-ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
+ms.openlocfilehash: d8818167a7c603363f56b839fd741b31fd6f4d67
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2892385"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178584"
 ---
 # <a name="turn-animations-on-or-off"></a>アニメーションをオン/オフにする
 
@@ -45,3 +45,7 @@ ms.locfileid: "2892385"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[Dynamics 365 Guides HoloLens アプリでアニメーションをオフにする](https://docs.microsoft.com/dynamics365/mixed-reality/guides/hololens-app-orientation#turn-off-animations) (ドキュメント)

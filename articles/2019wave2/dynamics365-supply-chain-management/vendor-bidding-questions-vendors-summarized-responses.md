@@ -3,25 +3,25 @@ title: 仕入先の入札 - 仕入先からの質問および要約された回�
 description: 仕入先の入札 - 仕入先からの質問および要約された回答
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 11/18/2019
+ms.date: 03/20/2020
 ms.assetid: 3262278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mkirknel
 dynamics365pdf: true
-ms.openlocfilehash: 7513ef0c30c39d02b85bb05af76d587637653051
-ms.sourcegitcommit: b43983ac01cdcd0d15e07e7fd0d0b57b7324d802
+ms.openlocfilehash: eecbb6a26bec4fbc6e7783fe6250c2ff52011bf6
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/20/2019
-ms.locfileid: "2920408"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178793"
 ---
 # <a name="vendor-biddingquestions-from-vendors-and-summarized-responses"></a>仕入先の入札 - 仕入先からの質問および要約された回答
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-| 近日発表|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 3 月 12 日|
 
 
 

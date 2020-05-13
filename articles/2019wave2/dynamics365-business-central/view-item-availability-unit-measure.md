@@ -3,18 +3,18 @@ title: 測定単位別に品目の在庫状態を表示する
 description: 品目の測定単位別に品目の在庫状態を表示できるようになりました。
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 12/16/2019
+ms.date: 01/24/2020
 ms.assetid: 1572b4b9-e1ef-e911-a812-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 911f2e89f3aa545be13fd57fd2fad3798b1b41eb
-ms.sourcegitcommit: ba5b15c33dc3669937bf5219b1b38995cffb661b
+ms.openlocfilehash: 41d130821337bfd690d9fc0919535916c0898571
+ms.sourcegitcommit: 539959f0153f0218e260146bc73a90ac391dfaa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2020
-ms.locfileid: "2947593"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "3058730"
 ---
 # <a name="view-item-availability-by-unit-of-measure"></a>測定単位別に品目の在庫状態を表示する
 
@@ -36,7 +36,7 @@ ms.locfileid: "2947593"
 品目リストおよびドキュメントの明細行から、測定単位別に品目の在庫状態を表示できるようになりました。 
 
 
-![測定単位別に利用可能性を表示する](media/view-item-availability-uom.png "測定単位別に利用可能性を表示する")
+![測定単位別に利用可能性を表示する](media/view-item-availability-uom.png "測定単位別に在庫状態を表示する")
 <!--feature detail end -->
 
 
@@ -51,3 +51,7 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 ## <a name="thank-you-for-your-idea"></a>アイデアをありがとうございます
 [このアイデア](https://experience.dynamics.com/ideas/idea/?ideaid=181725f4-edf4-e811-a140-0003ff689718)をお送りいただき、ありがとうございました。 アイデア、コメント、投票を参考に、製品のロードマップに追加するものを決定しています。
+
+## <a name="see-also"></a>関連項目
+
+[品目の在庫状態を表示する](https://docs.microsoft.com/dynamics365/business-central/inventory-how-availability-overview) (ドキュメント)

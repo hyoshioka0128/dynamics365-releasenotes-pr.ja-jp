@@ -1,27 +1,27 @@
 ---
-title: ユーザーの生産性 - 新しいグリッド コントロール - フェーズ 2
+title: ユーザーの生産性 - 新しいグリッド コントロール - フェーズ 1
 description: ''
 author: relnotes
 ms.reviewer: sericks
-ms.date: 01/02/2020
+ms.date: 03/30/2020
 ms.assetid: e662278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
-ms.openlocfilehash: 7f1181a000e1c4d98854a1189be77de425da899f
-ms.sourcegitcommit: 9ed7d336a9c9e173a6b5bf0cb3571bed1f4e6849
+ms.openlocfilehash: 8afe70ac4f49fd2f2b7d461e5dfe8b1976e6a34d
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "2991741"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3319932"
 ---
-# <a name="user-productivity--new-grid-control--phase-2"></a>ユーザーの生産性 - 新しいグリッド コントロール - フェーズ 2
+# <a name="user-productivity--new-grid-control--phase-1"></a>ユーザーの生産性 - 新しいグリッド コントロール - フェーズ 1
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 3 日| -|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 3 日| -|
 
 
 
@@ -60,4 +60,6 @@ ms.locfileid: "2991741"
 
 ## <a name="see-also"></a>関連項目
 
-[Platform update 31 の新機能または変更点](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/get-started/whats-new-platform-update-31) (ドキュメント)
+<!--docs start-->
+[Platform update 31 の新機能](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/get-started/whats-new-platform-update-31) (ドキュメント)
+<!--docs end-->

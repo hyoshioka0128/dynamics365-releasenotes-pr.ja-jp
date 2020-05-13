@@ -3,25 +3,25 @@ title: チャネルごとの Azure Active Directory 企業と顧客間テナン�
 description: チャネルごとの Azure Active Directory 企業と顧客間テナント
 author: relnotes
 ms.reviewer: josaw
-ms.date: 11/25/2019
+ms.date: 02/14/2020
 ms.assetid: a4013e72-aff6-e911-a813-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
 ms.author: brshoo
 dynamics365pdf: true
-ms.openlocfilehash: c3ca473aef47b71a506de0f88081b2c1a6b06445
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: fb948e6d81ade63d5cc2c0da0bb0b56713fdc159
+ms.sourcegitcommit: bfe05af05f11f2c318a77bb3138c3df0796c7187
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2890447"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "3088858"
 ---
 # <a name="azure-active-directory-business-to-customer-tenant-per-channel"></a>チャネルごとの Azure Active Directory 企業と顧客間テナント
-[!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2020 年 2 月| 2020 年 2 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -35,6 +35,7 @@ ms.locfileid: "2890447"
 <!--feature detail start -->
 顧客は、エンド ユーザーからは別々のビジネスのように見え、感じられるサイトやチャネルを単一の法人の下で使用することを選択できます。 マイクロソフトは、個別の Azure AD B2C テナントをチャネルにマップする機能をサポートするようになったため、エンド ユーザーはチャネルおよびサイトごとに完全に異なるログイン資格情報を持ちます。 エンド ユーザーは、チャネル固有のサイトに明確に移動し、参照し、そこでトランザクションを実行します。 コマースの顧客は、自身の環境でこの機能を有効にする必要があります。システム管理者は、Web Storefront Administration ツールでチャネルベースの B2C テナントを構成できます。 顧客は環境あたり 1 つの Azure AD B2C テナントに制限されなくなり、サイトレベルのログインおよび ID エクスペリエンスをより細かく制御できるようになります。
 <!--feature detail end -->
+
 
 
 

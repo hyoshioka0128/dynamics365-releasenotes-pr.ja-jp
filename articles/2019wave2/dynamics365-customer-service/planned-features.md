@@ -3,17 +3,17 @@ title: Dynamics 365 Customer Service の新機能と予定されている機能 
 description: Dynamics 365 Customer Service に対して計画されている機能の概要。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 01/10/2020
+ms.date: 03/25/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: jeffcom
 dynamics365pdf: true
-ms.openlocfilehash: f39aabb0384b5f56cf404012213c32842ee85869
-ms.sourcegitcommit: 7d5d14ac84333ba166265755f410f7e16035a64e
+ms.openlocfilehash: cbc9e513e0cb57d18377c2ac0b19055cd15e7352
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2020
-ms.locfileid: "2948453"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178903"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-customer-service"></a>Dynamics 365 Customer Service の新機能と予定されている機能
 
@@ -31,36 +31,36 @@ Dynamics 365 Customer Service の目的は、ワールド クラスのカスタ�
 
  | 機能    | 有効対象    |  パブリック プレビュー | 早期アクセス* | 一般提供 |
  | ---------- | ---------- | :----------: |:-----------:|:----------: |
- | [ナレッジ マネージメントのインライン画像の機能強化](knowledge-management-inline-image-enhancement.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |-|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
+ | [ナレッジ マネージメントのインライン画像の機能強化](knowledge-management-inline-image-enhancement.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |-|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
  | [ナレッジ マネージメントの検索とレンダリングの機能強化](knowledge-management-enhancements.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
  | [タイムラインの使いやすさの機能強化](timeline-usability-enhancements.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
- | [サービス スケジュール移行ツール](service-scheduling-migration-tool.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 6 日 | 
+ | [サービス スケジュール移行ツール](service-scheduling-migration-tool.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 1 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 6 日 | 
  | [ナレッジ記事のテンプレート](knowledge-article-templates.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 7 日 | 
 
 
-## <a name="omnichannel-for-customer-service"></a>顧客サービス用のオムニチャネル
+## <a name="omnichannel-for-customer-service"></a>Customer Service 用オムニチャネル
 
-顧客サービス用のオムニチャネルでは、Dynamics 365 Customer Service の機能を拡張する機能のスイートが提供されます。組織は追加されたチャネル (チャットや SMS など) を通じて顧客とすばやくやり取りし、エンゲージメントを促進することができます。
+Customer Service 用オムニチャネルでは、Dynamics 365 Customer Service の機能を拡張する機能のスイートが提供されます。組織はデジタル メッセージング チャネルにより、顧客とすばやくやり取りし、エンゲージメントを促進することができます。
 
  | 機能    | 有効対象    |  パブリック プレビュー | 早期アクセス* | 一般提供 |
  | ---------- | ---------- | :----------: |:-----------:|:----------: |
- | [エンティティ レコードの統合ルーティング](unified-routing-queues.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 31 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 25 日 | 
- | [顧客が Microsoft Bot Framework ボットをチャネルと統合できるようにする](enable-customers-integrate-bot-framework-bots-channels.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 1 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 1 日 | 
- | [SMS チャネル](sms-channel.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 1 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 1 日 | 
- | [Power Virtual Agents の統合](integration-dynamics-365-virtual-agent-customer-service.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 2 日 | 
- | [Facebook メッセージング](facebook-messaging.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 20 日 | 
- | [プロアクティブなチャット](proactive-chat.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 20 日 | 
- | [サード パーティ チャネルの分析](analytics-3rd-party-channels.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|2020 年 1 月 | 
- | [ボット支援エージェントのガイダンス](bot-assisted-agent-guidance.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|2020 年 1 月 | 
- | [検索エクスペリエンスの強化](enhanced-search-experience.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|2020 年 1 月 | 
- | [マクロ](macros.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|2020 年 1 月 | 
- | [通知のカスタマイズ](notification-customization.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|2020 年 1 月 | 
- | [スキルベースのルーティング](skill-based-routing.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|2020 年 1 月 | 
- | [感情分析の強化](sentiment-analysis-enhancement.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|-|2020 年 1 月 | 
- | [Dynamics 365 チャネル統合フレームワーク バージョン 2](channel-integration-framework-v2.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|2020 年 1 月 | 
- | [顧客とエージェントの対話ガイドのスクリプト](guide-customer-interactions-agent-scripts.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|2020 年 1 月 | 
- | [複数プロバイダーのサポート](multiple-provider-support.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|2020 年 1 月 | 
- | [ユーザー ナビゲーション履歴](user-navigation-history.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|2020 年 1 月 | 
+ | [エンティティ レコードの統合ルーティング](unified-routing-queues.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 31 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 25 日 | 
+ | [顧客が Microsoft Bot Framework ボットをチャネルと統合できるようにする](enable-customers-integrate-bot-framework-bots-channels.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 1 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 1 日 | 
+ | [SMS チャネル](sms-channel.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 1 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 1 日 | 
+ | [Power Virtual Agents の統合](integration-dynamics-365-virtual-agent-customer-service.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 2 日 | 
+ | [Facebook メッセージング](facebook-messaging.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 20 日 | 
+ | [プロアクティブなチャット](proactive-chat.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 20 日 | 
+ | [感情分析の強化](sentiment-analysis-enhancement.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 24 日 | 
+ | [Dynamics 365 チャネル統合フレームワーク バージョン 2](channel-integration-framework-v2.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 24 日 | 
+ | [顧客とエージェントの対話ガイドのスクリプト](guide-customer-interactions-agent-scripts.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 24 日 | 
+ | [複数プロバイダーのサポート](multiple-provider-support.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 24 日 | 
+ | [サード パーティ チャネルの分析](analytics-3rd-party-channels.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 31 日 | 
+ | [ボット支援エージェントのガイダンス](bot-assisted-agent-guidance.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 31 日 | 
+ | [検索エクスペリエンスの強化](enhanced-search-experience.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 31 日 | 
+ | [マクロ](macros.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 31 日 | 
+ | [通知のカスタマイズ](notification-customization.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 31 日 | 
+ | [スキルベースのルーティング](skill-based-routing.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 31 日 | 
+ | [ユーザー ナビゲーション履歴](user-navigation-history.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 31 日 | 
 
 \* エンド ユーザーに影響するすべての必須の変更など、一部の機能は 2019 年 8 月 2 日に早期アクセスの一部としてオプトインできるようになります。 [早期アクセス](https://aka.ms/EarlyAccessFAQ)の詳細を確認してください。
 

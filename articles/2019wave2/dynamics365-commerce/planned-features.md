@@ -3,17 +3,17 @@ title: Dynamics 365 Commerce の新機能と予定されている機能 (2019 �
 description: Dynamics 365 Commerce で計画されている機能の概要。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 12/04/2019
+ms.date: 04/28/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: msalam
 dynamics365pdf: true
-ms.openlocfilehash: ece916791e3fce4145bbdaa540f9e253768d44d8
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: a60f901805d8a76026f2e1609c54faac758a293d
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2890280"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3320448"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-commerce"></a>Dynamics 365 Commerce の新機能と予定されている機能
 
@@ -25,17 +25,19 @@ ms.locfileid: "2890280"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
-| [レコメンデーション](recommendations.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日| | 
-| [拡張性](extensibility.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|2020 年 2 月 | 
-| [販売促進とマーケティング](merchandizing-storytelling.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|2020 年 2 月 | 
-| [プロビジョニングと環境管理](provisioning-environment-management.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|2020 年 2 月 | 
-| [評価とレビュー](ratings-reviews.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|2020 年 2 月 | 
-| [検索エンジン最適化](seo.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|2020 年 2 月 | 
-| [ストア スターター キット](store-starter-kit.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|2020 年 2 月 | 
-| [UX プラットフォーム](ux-platform.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|2020 年 2 月 | 
- | [チャネルごとの Azure Active Directory 企業と顧客間テナント](azure-active-directory-business-customer-tenant-per-channel.md) | 管理者、作成者、またはアナリスト、自動的 | 2020 年 2 月|2020 年 2 月 | 
+| [プロビジョニングと環境管理](provisioning-environment-management.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日 | 
+| [評価とレビュー](ratings-reviews.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日 | 
+| [検索エンジン最適化](seo.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日 | 
+| [ストア スターター キット](store-starter-kit.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日 | 
+| [UX プラットフォーム](ux-platform.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日 | 
+| [チャネルごとの Azure Active Directory 企業と顧客間テナント](azure-active-directory-business-customer-tenant-per-channel.md) | 管理者、作成者、またはアナリスト、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日 | 
+| [レコメンデーション](recommendations.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日 | 
+| [拡張性](extensibility.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 2 日|近日発表 | 
+| [販売促進とマーケティング](merchandizing-storytelling.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|近日発表 | 
+| [Commerce API - 非同期パターンのフレームワークとランタイムのサポート](commerce-apis--framework-run-time-support-async-patterns.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 3 月 31 日|近日発表 | 
+| [Service Fabric 配置での Commerce 支払パッケージのサポート](commerce-payment-packaging-support-service-fabric-deployments.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 3 月 31 日|近日発表 | 
 
-**有効対象**列の値の説明
+**有効対象**列の値の説明:
 
 - **エンド ユーザー、自動的**: これらの機能には、エンド ユーザーに対するユーザー エクスペリエンスへの変更が含まれており、自動的に有効になります。
 
@@ -43,7 +45,4 @@ ms.locfileid: "2890280"
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 
-
-地域、データ センター (リージョン)、データ ストレージ、レプリケーションの詳細については、[データの場所のページ](https://www.microsoft.com/trust-center/privacy/data-location)で**すべて展開**をクリックして、この機能に対する Microsoft Cloud Service を確認してください。 
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。  地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。

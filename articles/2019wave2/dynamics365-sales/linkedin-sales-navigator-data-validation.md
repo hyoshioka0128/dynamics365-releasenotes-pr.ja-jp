@@ -3,25 +3,25 @@ title: LinkedIn Sales Navigator のデータ検証
 description: LinkedIn Sales Navigator 統合は、引き続き 2 つの製品 Microsoft Dynamics 365 Sales と LinkedIn Sales Navigator の価値を合わせて提供します。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 11/18/2019
+ms.date: 03/20/2020
 ms.assetid: fec074bf-7f7d-e911-a960-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: goravi
 dynamics365pdf: true
-ms.openlocfilehash: 7b52d42461fb596b73661d9fc5780c0384c6c80e
-ms.sourcegitcommit: b42a148c376fc4d3297326179cf301404448f570
+ms.openlocfilehash: cf1f06117b55edc939978ee711208563feb884e6
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2888750"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178870"
 ---
 # <a name="linkedin-sales-navigator-data-validation"></a>LinkedIn Sales Navigator のデータ検証
 
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 15 日|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 15 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -40,11 +40,14 @@ CRM 同期が有効になっている Microsoft Relationship Sales ユーザー�
 
 
 > [!NOTE]
-> - この機能は、統一インターフェイスでのみ使用できます。 
-> - この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
+> この機能は、統一インターフェイスでのみ使用できます。 この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
 
 
 
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[既定の LinkedIn Sales Navigator コントロールのインストール、有効化、無効化](https://docs.microsoft.com/dynamics365/linkedin/install-sales-navigator) (ドキュメント)

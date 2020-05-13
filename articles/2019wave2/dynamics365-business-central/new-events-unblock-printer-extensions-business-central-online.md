@@ -1,27 +1,27 @@
 ---
-title: Business Central オンラインでプリンター拡張機能のブロックを解除する新しいイベント
-description: 更新プログラム 15.3 では、2 つの新しいイベントが追加され、開発者が Business Central オンラインの直接印刷シナリオ (SetupPrinters と OnDocumentPrintReady) のブロックを解除できるようになります。
+title: Business Central online でプリンター拡張機能のブロックを解除する新しいイベント
+description: 更新プログラム 15.3 では、2 つの新しいイベントが追加され、開発者が Business Central online の直接印刷シナリオ (SetupPrinters と OnDocumentPrintReady) のブロックを解除できるようになります。
 author: relnotes
 ms.reviewer: jswymer
-ms.date: 01/06/2020
+ms.date: 03/02/2020
 ms.assetid: 021aa213-651b-ea11-a811-000d3a8f075c
 ms.topic: article
 ms.service: business-applications
 ms.author: kepontop
 dynamics365pdf: true
-ms.openlocfilehash: f1def5cf4ffc6061857890c7949f5a0b1da22a35
-ms.sourcegitcommit: ba5b15c33dc3669937bf5219b1b38995cffb661b
+ms.openlocfilehash: 47958926fd2e54aedb89edf2885f0b7e7cb8270a
+ms.sourcegitcommit: db53421debc891ea407773d0e9b39feb7a01fef3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2020
-ms.locfileid: "2947659"
+ms.lasthandoff: 03/09/2020
+ms.locfileid: "3110943"
 ---
-# <a name="new-events-to-unblock-printer-extensions-in-business-central-online"></a>Business Central オンラインでプリンター拡張機能のブロックを解除する新しいイベント
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+# <a name="new-events-to-unblock-printer-extensions-in-business-central-online"></a>Business Central online でプリンター拡張機能のブロックを解除する新しいイベント
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2020 年 1 月| 2020 年 2 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 26 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 3 月 2 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -46,3 +46,7 @@ ms.locfileid: "2947659"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[Business Central でのプリンター拡張機能の開発](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-reports-printing) (ドキュメント)

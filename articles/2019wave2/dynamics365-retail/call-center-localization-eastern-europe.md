@@ -3,25 +3,25 @@ title: 東ヨーロッパ向けコール センターのローカライズ
 description: 東ヨーロッパ向けコール センターのローカライズ
 author: relnotes
 ms.reviewer: josaw
-ms.date: 12/11/2019
+ms.date: 01/14/2020
 ms.assetid: 9e63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: epopov
 dynamics365pdf: true
-ms.openlocfilehash: f1fb40cbf73d25edbf365047ebcbccffe7c70dda
-ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
+ms.openlocfilehash: b54c74f89981ac9f5e1d419f4e06f49cae155f52
+ms.sourcegitcommit: db53421debc891ea407773d0e9b39feb7a01fef3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/20/2019
-ms.locfileid: "2909953"
+ms.lasthandoff: 03/09/2020
+ms.locfileid: "3110811"
 ---
 # <a name="call-center-localization-for-eastern-europe"></a>東ヨーロッパ向けコール センターのローカライズ
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 3 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

@@ -3,25 +3,25 @@ title: 販売担当者が推奨アクションをどのように使用してい�
 description: ''
 author: relnotes
 ms.reviewer: udag
-ms.date: 01/07/2020
+ms.date: 03/26/2020
 ms.assetid: c0c7ba08-f3d4-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
-ms.author: mney
+ms.author: nataln
 dynamics365pdf: true
-ms.openlocfilehash: d5e2e817330ed7a1b104a3e255416e306a03cce0
-ms.sourcegitcommit: ba5b15c33dc3669937bf5219b1b38995cffb661b
+ms.openlocfilehash: 7b40bb4dc0702fa69a09d90b18bf36c0a9e84e2d
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2020
-ms.locfileid: "2947582"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3319645"
 ---
 # <a name="understand-how-sellers-are-using-suggested-actions"></a>販売担当者が推奨アクションをどのように使用しているかを理解する
-[!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2020 年 1 月| -|
+|管理者、作成者、またはアナリスト、自動的|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 18 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -35,10 +35,11 @@ ms.locfileid: "2947582"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-- **推奨アクションの有用性を理解する**: インサイト カードの有用性を理解するには、各推奨の使用方法を理解する必要があります。 各推奨アクションの基準には以下が含まれます。
-   - 推奨アクションが表示された頻度と販売担当者数
-   - 販売担当者が推奨アクションと対話した頻度と対話の内容
-   - 専用ボタンを介して肯定的または否定的なフィードバックを行った販売担当者数
+**推奨アクションの有用性を理解する**: 分析情報カードの有用性を理解するには、各推奨の使用方法を理解する必要があります。 各推奨アクションの基準には以下が含まれます。
+
+- 推奨アクションが表示された頻度と販売担当者数
+- 販売担当者が推奨アクションと対話した頻度と対話の内容
+- 専用ボタンを介して肯定的または否定的なフィードバックを行った販売担当者数
    
 この情報に簡単にアクセスできるようにするために、正常性情報はスタジオ内の分析情報カードの管理タブの一部としても表示されます。
 <!--feature detail end -->
@@ -51,3 +52,9 @@ ms.locfileid: "2947582"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[カードの使用状況の指標を表示する](https://docs.microsoft.com/dynamics365/ai/sales/edit-insight-cards#view-card-usage-metrics) (ドキュメント)
+<!--docs end-->

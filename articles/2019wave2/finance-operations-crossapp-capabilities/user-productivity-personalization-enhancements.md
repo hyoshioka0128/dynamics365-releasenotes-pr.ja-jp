@@ -3,25 +3,25 @@ title: ユーザーの生産性 - 個人用設定の機能強化
 description: ユーザーの生産性 - 個人用設定の機能強化
 author: relnotes
 ms.reviewer: sericks
-ms.date: 01/07/2020
+ms.date: 03/18/2020
 ms.assetid: ea62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
-ms.openlocfilehash: 8efff75fcca637b23a21a7f7142e2d92620445db
-ms.sourcegitcommit: ecf709e1d8de3b52e1156bceb99cb7e3819f9db3
+ms.openlocfilehash: d0c7bc6cdf118d2289009d17eff789c0ada82d6b
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2020
-ms.locfileid: "2950826"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178485"
 ---
 # <a name="user-productivity--personalization-enhancements"></a>ユーザーの生産性 - 個人用設定の機能強化
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 1 日|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 1 日|
 
 
 
@@ -48,3 +48,7 @@ ms.locfileid: "2950826"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[ユーザー エクスペリエンスのパーソナライズ](https://docs.microsoft.com/dynamics365/fin-ops-core/fin-ops/get-started/personalize-user-experience) (ドキュメント)

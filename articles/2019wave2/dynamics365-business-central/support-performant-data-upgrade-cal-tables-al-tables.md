@@ -3,18 +3,18 @@ title: C/AL テーブルから AL テーブルへのパフォーマンス デー
 description: C/AL を AL コード カスタマイズに変換すると、AL アプリケーションの AppId を含むようにデータ テーブルの名前が変更され、変換されたソリューションでデータを使用できることが保証されます。
 author: relnotes
 ms.reviewer: jswymer
-ms.date: 10/04/2019
+ms.date: 04/08/2020
 ms.assetid: ced261a0-2177-e911-a960-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: pborring
 dynamics365pdf: true
-ms.openlocfilehash: 06b35c5ef78c827822e5e2f0b0e8c836f8582d75
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: af34a2488334934bf88ec185dbe2c94ef7c11a09
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2667017"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3320481"
 ---
 # <a name="support-for-performant-data-upgrade-from-cal-tables-to-al-tables"></a>C/AL テーブルから AL テーブルへのパフォーマンス データのアップグレードのサポート
 
@@ -46,3 +46,9 @@ PowerShell のコマンドレット Sync-NAVApp を使用することで、パ�
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[Business Central 2019 リリース ウェーブ 2 へのアップグレード](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/upgrade/upgrade-overview-v15) (ドキュメント)
+<!--docs end-->

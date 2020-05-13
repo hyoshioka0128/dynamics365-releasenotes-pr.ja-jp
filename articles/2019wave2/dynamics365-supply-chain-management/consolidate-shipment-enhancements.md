@@ -2,31 +2,31 @@
 title: 出荷の連結の機能強化
 description: この機能では、バッチで、または元伝票ごとに手動で倉庫にリリースするときに、出荷の連結のクエリ ベースの設定が可能です。
 author: relnotes
-ms.reviewer: josaw
-ms.date: 11/15/2019
+ms.reviewer: kamaybac
+ms.date: 03/19/2020
 ms.assetid: a462278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: pjacobse
 dynamics365pdf: true
-ms.openlocfilehash: 5c0c7f78306a42245ca73f40e398116bf98cbcbb
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: 60848f845a69d0a08356ad8ef688c7366fb1b64f
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2889697"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178837"
 ---
 # <a name="consolidate-shipment-enhancements"></a>出荷の連結の機能強化
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 5 月 9 日| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 5 月 9 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 31 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-このシステムでは、顧客ごと、倉庫ごと、配送ごと、および顧客または品目で定義されているすべてのタイプの特性ごとに、出荷の連結に対応する柔軟な設定が可能です。 これにより、最終的に倉庫の効率化と顧客サービスの向上が可能になります。
+このシステムでは、顧客ごと、倉庫ごと、配送ごと、顧客または品目で定義されているすべてのタイプの特性ごとに、出荷の連結に対応する柔軟な設定が可能です。 これにより、最終的に倉庫の効率化と顧客サービスの向上が可能になります。
 <!-- bv end -->
 
 
@@ -47,4 +47,4 @@ ms.locfileid: "2889697"
 
 ## <a name="see-also"></a>関連項目
 
-[倉庫管理の概要](https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/warehousing/warehouse-management-overview) (docs)
+[倉庫管理の概要](https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/warehousing/warehouse-management-overview) (ドキュメント)

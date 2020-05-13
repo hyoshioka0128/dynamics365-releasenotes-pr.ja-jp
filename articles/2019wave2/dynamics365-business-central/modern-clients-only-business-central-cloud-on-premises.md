@@ -2,19 +2,19 @@
 title: Business Central 専用の最新クライアント
 description: Business Central 専用の最新クライアント
 author: kotelko
-ms.reviewer: sgroespe
-ms.date: 10/01/2019
+ms.reviewer: jswymer
+ms.date: 03/23/2020
 ms.assetid: ad6c8ef8-e96b-e911-a95f-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: blazkote
 dynamics365pdf: true
-ms.openlocfilehash: 11e9308090e377e239cfa942a3da6556d997b3e1
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: ec3a10805295806c37a25a028b7e27a7da6accfb
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2666962"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3179013"
 ---
 # <a name="modern-clients-only-for-business-central"></a>Business Central 専用の最新クライアント
 
@@ -44,3 +44,7 @@ Business Central は、ユーザーがブラウザー、Windows 10 デスクト�
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[モバイル デバイスで Business Central を使用する](https://docs.microsoft.com/dynamics365/business-central/install-mobile-app) (ドキュメント)

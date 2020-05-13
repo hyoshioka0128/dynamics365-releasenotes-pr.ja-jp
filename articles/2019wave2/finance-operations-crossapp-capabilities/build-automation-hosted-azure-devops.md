@@ -2,26 +2,26 @@
 title: Azure DevOps でホストされるビルド自動化
 description: お客様とパートナーは、Azure DevOps によってホストされたビルド エージェントを使用して、Finance and Operations のカスタム コードのビルドを自動化できます。
 author: relnotes
-ms.reviewer: sericks
-ms.date: 09/03/2019
+ms.reviewer: rhaertle
+ms.date: 03/18/2020
 ms.assetid: 3c9ec5ba-b0ca-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
-ms.author: robadawy
+ms.author: jorisde
 dynamics365pdf: true
-ms.openlocfilehash: a9a9ba01d8f44e0792a3d99a08b4288422d65eec
-ms.sourcegitcommit: b5be4afdeec589f0490a82495e8206a2b3aee287
+ms.openlocfilehash: 22a8b550b43266242013ae4d42df886e04c1cd3a
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2668128"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178760"
 ---
 # <a name="build-automation-hosted-in-azure-devops"></a>Azure DevOps でホストされるビルド自動化
-[!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2020 年 1 月| 2020 年 1 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 28 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -44,3 +44,7 @@ Finance and Operations のアプリケーション モデルとプラットフ�
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[開発とカスタマイズに関するインサイダー向けのヒント](https://community.dynamics.com/365/financeandoperations/b/newdynamicsax) (ブログ)
