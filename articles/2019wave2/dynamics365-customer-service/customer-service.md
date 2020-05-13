@@ -3,27 +3,25 @@ title: Customer Service
 description: Dynamics 365 Customer Service の目的は、ワールド クラスのカスタマー エクスペリエンスを提供することで、企業が競合他社との差別化を図れるようにすることです。
 author: relnotes
 ms.reviewer: shubhadaj
-ms.date: 10/11/2019
+ms.date: 03/12/2020
 ms.assetid: b2096b69-725d-e911-a973-000d3a1c79c5
 ms.topic: structure
 ms.service: business-applications
 ms.author: prvenka
 dynamics365pdf: true
-ms.openlocfilehash: f62032665165b8a84d4b08d4e681db0bcbdd8422
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 0b3e2395a43bdae91c4e7d7bdad4c0a8fccc5e9a
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2662188"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178947"
 ---
-# <a name="customer-service"></a><span data-ttu-id="ef397-103">Customer Service</span><span class="sxs-lookup"><span data-stu-id="ef397-103">Customer Service</span></span>
+# <a name="customer-service"></a><span data-ttu-id="0d7b6-103">Customer Service</span><span class="sxs-lookup"><span data-stu-id="0d7b6-103">Customer Service</span></span>
 
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
 
 <!--structure start-->
-<span data-ttu-id="ef397-104">今日のお客様は、解決の容易さと速さを重んじており、いつでもどんなデバイスでも、自分が好むエンゲージメントのチャネルでサービスを受けるのを望んでいます。</span><span class="sxs-lookup"><span data-stu-id="ef397-104">Customers today value the ease and speed of resolution and they want to receive service on their preferred channel of engagement, at any time, and on any device.</span></span> <span data-ttu-id="ef397-105">これらの機能を可能にするために、インテリジェントなオムニチャネルのカスタマー エクスペリエンスと強力なエージェント エクスペリエンスを構築しています。</span><span class="sxs-lookup"><span data-stu-id="ef397-105">We are enabling these capabilities by building an intelligent omnichannel customer experience and an empowered agent experience.</span></span>
-
-<span data-ttu-id="ef397-106">製品の真のオムニチャネル エクスペリエンスではコンテキストが維持され、お客様がセルフサービス、ピアツーピア サービス、アシスト サービスの各チャネルをシームレスに切り替えるときに、連続したエクスペリエンスが提供されます。</span><span class="sxs-lookup"><span data-stu-id="ef397-106">A true omnichannel experience in the product will preserve context and provide a continuous experience as customers seamlessly switch across self-service, peer-to-peer service, and assisted-service channels.</span></span> <span data-ttu-id="ef397-107">強力なエージェント エクスペリエンスは、チャネルと業種 (LOB) アプリケーションの間で統一されたアプリケーション エクスペリエンスを提供し、エンゲージメントに対してコンテキスト対応であり、問題をより迅速に解決するための生産性ツールが付属しています。</span><span class="sxs-lookup"><span data-stu-id="ef397-107">An empowered agent experience will provide an application experience that is unified across channels and line-of-business (LOB) applications, is contextual to the engagement, and comes with productivity tools to resolve issues faster.</span></span>
+<span data-ttu-id="0d7b6-104">Dynamics 365 Customer Service は、サポート案件のルーティングと管理を行うための包括的で効率的なエージェント向けソリューションです。</span><span class="sxs-lookup"><span data-stu-id="0d7b6-104">Dynamics 365 Customer Service is a comprehensive and efficient case routing and management solution for agents.</span></span> <span data-ttu-id="0d7b6-105">エージェントは統一インターフェイスを使用して顧客の問題を迅速に解決できます。統一インターフェイスにより、顧客プロファイル、サービス レベル アグリーメント、サポート案件タイムラインを完全に把握し、ビジネス プロセス フローやナレッジ記事のレコメンデーションなどの生産性ツールにアクセスできます。</span><span class="sxs-lookup"><span data-stu-id="0d7b6-105">Agents can rapidly resolve customer issues with a unified interface that provides complete visibility into customer profiles, service level agreements, case timelines and access to productivity tools such as business process flows and knowledge article recommendations.</span></span> <span data-ttu-id="0d7b6-106">コミュニティ ポータルにより、顧客は自力で、またはコミュニティの関与を通じて問題を解決できます。</span><span class="sxs-lookup"><span data-stu-id="0d7b6-106">The community portal empowers customers to resolve issues on their own or through community engagement.</span></span> <span data-ttu-id="0d7b6-107">これらの機能はすべて、一貫した簡単な方法で顧客の問題解決を効率化するのに役立つように設計されています。</span><span class="sxs-lookup"><span data-stu-id="0d7b6-107">All these capabilities are designed to help streamline customer issues resolution in a consistent and effortless manner.</span></span>
 <!--structure end-->
 
 

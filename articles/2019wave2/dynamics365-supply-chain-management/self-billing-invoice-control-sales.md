@@ -1,43 +1,10 @@
 ---
-title: 販売の自己請求請求書管理
-description: 販売の自己請求請求書管理
-author: relnotes
-ms.reviewer: josaw
-ms.date: 10/25/2019
-ms.assetid: 4462278d-615e-e911-a96c-000d3a1c7bbb
-ms.topic: article
-ms.service: business-applications
-ms.author: lcash
-dynamics365pdf: true
-ms.openlocfilehash: 9b9bdbe50cfa6ae9339eb5a947fa6722e0ac0eed
-ms.sourcegitcommit: cefe454c62a0cd90d468ae3b12f5b74678345401
+redirect_url: planned-features
+ms.openlocfilehash: 9a71b62b57235c15ca6008740d4578bdcde84a6d
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "2778578"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178815"
 ---
-# <a name="self-billing-invoice-control-for-sales"></a><span data-ttu-id="596f1-103">販売の自己請求請求書管理</span><span class="sxs-lookup"><span data-stu-id="596f1-103">Self-billing invoice control for sales</span></span>
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
-
-| <span data-ttu-id="596f1-104">有効対象</span><span class="sxs-lookup"><span data-stu-id="596f1-104">Enabled for</span></span>    |  <span data-ttu-id="596f1-105">パブリック プレビュー</span><span class="sxs-lookup"><span data-stu-id="596f1-105">Public preview</span></span> | <span data-ttu-id="596f1-106">一般提供</span><span class="sxs-lookup"><span data-stu-id="596f1-106">General availability</span></span> | 
-| ---------- | :----------: |:----------: |
-|<span data-ttu-id="596f1-107">エンド ユーザー、管理者/作成者による有効化、またはアナリスト</span><span class="sxs-lookup"><span data-stu-id="596f1-107">End users by admins, makers, or analysts</span></span>|<span data-ttu-id="596f1-108">2020 年 1 月</span><span class="sxs-lookup"><span data-stu-id="596f1-108">Jan 2020</span></span>| <span data-ttu-id="596f1-109">2020 年 3 月</span><span class="sxs-lookup"><span data-stu-id="596f1-109">Mar 2020</span></span>|
-
-
-
-
-
-
-## <a name="feature-details"></a><span data-ttu-id="596f1-110">機能の詳細</span><span class="sxs-lookup"><span data-stu-id="596f1-110">Feature details</span></span>
-<!--feature detail start -->
-<span data-ttu-id="596f1-111">ビジネス ドキュメントのプロセス オーバーヘッドを削減するための取引相手とのコラボレーションは、信頼できる貿易関係において在庫の動きが激しい業界では一般的です。</span><span class="sxs-lookup"><span data-stu-id="596f1-111">Collaboration with trade partners to reduce the process overhead in business documents is common in some industry verticals that have a high movement of inventory in reliable trade relationships.</span></span> <span data-ttu-id="596f1-112">取引相手は、製品受け取りのような定義された取引条件に基づいて商品の支払いを受け取るプロセスを設定することができます。</span><span class="sxs-lookup"><span data-stu-id="596f1-112">Trade partners can set up processes where they receive payment for goods based on defined trade terms like the receipt of product.</span></span> <span data-ttu-id="596f1-113">これにより、顧客が製品の受領時に支払うことに同意した場合、顧客に請求書を送る必要がなくなります。</span><span class="sxs-lookup"><span data-stu-id="596f1-113">This avoids having to send an invoice to the customer because the customer has agreed to pay on receipt of product.</span></span> <span data-ttu-id="596f1-114">取引先は、すべてのビジネス ドキュメントを処理するためのオーバーヘッドを持つのではなく、プロセスを監査して例外を処理するための調整プロセスを持ちます。</span><span class="sxs-lookup"><span data-stu-id="596f1-114">The trade partners will have a reconciliation process to audit processes and deal with exceptions, rather than have the overhead of processing every business document.</span></span> <span data-ttu-id="596f1-115">これらの機能により、販売および売掛金勘定組織は、自己請求プロセスを使用して支払いの受け取りと調整を可能にすることができます。</span><span class="sxs-lookup"><span data-stu-id="596f1-115">With these features, the sales and accounts receivable organizations can enable receipts and reconciliation of payments by using the self-billing process.</span></span>
-<!--feature detail end -->
-
-
-
-
-
-
-
-
-
+<span data-ttu-id="0978e-101">リダイレクト ファイルのみ - コンテンツは含まれていません</span><span class="sxs-lookup"><span data-stu-id="0978e-101">Redirect file only - no content included</span></span>
