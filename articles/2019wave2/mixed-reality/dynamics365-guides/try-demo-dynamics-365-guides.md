@@ -3,18 +3,18 @@ title: Dynamics 365 Guides のデモを試す
 description: ''
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 10/09/2019
+ms.date: 03/19/2020
 ms.assetid: 0d14d4e0-6068-e911-a95f-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: algodin
 dynamics365pdf: true
-ms.openlocfilehash: 2bfb789512c742edce83b7a234ab61e12dca771e
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 1d6b8ea9a19daa03ac51aa42d0eb16cae26b2df2
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661242"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178540"
 ---
 # <a name="try-a-demo-of-dynamics-365-guides"></a>Dynamics 365 Guides のデモを試す
 
@@ -34,7 +34,7 @@ ms.locfileid: "2661242"
 
 この 5 分間のデモは、作成者、オペレーター、プロセス エンジニア、または業務における意思決定者など、あらゆるタイプの Dynamics 365 Guides ユーザーに役立ちます。 デモを利用すると、Dynamics 365 Guides の機能概要をすばやく理解できます。
 
-![デモを試すボタン](media/try-demo.png "デモを試すボタン")
+![デモを試すボタン](media/try-demo.png "[デモを試す] ボタン")
 
 - ハンドフリー インターフェイスを使用して、手がふさがっているときでもボタンを有効にします。 ガイドで先に進むには**次へ**ボタンを見つめ、前に戻るには**戻る**ボタンを見つめます。
 
@@ -59,3 +59,7 @@ ms.locfileid: "2661242"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[Dynamics 365 Guides で始める](https://docs.microsoft.com/dynamics365/mixed-reality/guides/get-started) (ドキュメント)

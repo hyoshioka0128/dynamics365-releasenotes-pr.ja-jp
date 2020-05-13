@@ -2,26 +2,26 @@
 title: 配布の計画の最適化
 description: 計画の最適化により、迅速なマスター計画が促進され、大量のデータが個別のサービスとしてサポートされます。
 author: relnotes
-ms.reviewer: josaw
-ms.date: 12/02/2019
+ms.reviewer: kamaybac
+ms.date: 04/14/2020
 ms.assetid: 9ba08c76-37d6-e911-a812-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
 ms.author: crytt
 dynamics365pdf: true
-ms.openlocfilehash: 78c8bed462b75a70dfd10adcb6fa087f29515048
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: aaf9d990a410a1f0f9fe9aa4a3de11f9d3b99bc9
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2889796"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3320063"
 ---
 # <a name="planning-optimization-for-distribution"></a>配布の計画の最適化
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 29 日| 2020 年 2 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 29 日| 近日発表|
 
 
 
@@ -61,7 +61,6 @@ ms.locfileid: "2889796"
 - 補充が速くなるため、必要な安全在庫が少なくなります。
 
 ### <a name="availability"></a>利用可能性
-
 計画最適化のプレビューを開始する方法の詳細については、「[概要](https://aka.ms/poGetStarted)」を参照してください。
 
 ### <a name="feature-highlights"></a>主な機能
@@ -95,7 +94,6 @@ ms.locfileid: "2889796"
 - カナダ
 
 
-地域、データ センター (リージョン)、データ ストレージ、レプリケーションの詳細については、[データの場所のページ](https://www.microsoft.com/trust-center/privacy/data-location)で**すべて展開**をクリックして、この機能に対する Microsoft Cloud Service を確認してください。 
 
 
 
@@ -103,4 +101,6 @@ ms.locfileid: "2889796"
 
 ## <a name="see-also"></a>関連項目
 
-[計画の最適化](https://aka.ms/podocs) (ドキュメント)
+<!--docs start-->
+[計画最適化の概要](https://aka.ms/podocs) (ドキュメント)
+<!--docs end-->

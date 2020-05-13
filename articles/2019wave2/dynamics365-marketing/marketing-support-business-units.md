@@ -2,26 +2,26 @@
 title: 部署のマーケティング サポート
 description: 部署のマーケティング サポート
 author: jain-shailesh
-ms.reviewer: kamaybac
-ms.date: 11/19/2019
+ms.reviewer: alfergus
+ms.date: 03/18/2020
 ms.assetid: bc61278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: 81f7ba097dc651cf25b2785a47ce002eab412d98
-ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
+ms.openlocfilehash: 98625b9a8222a75da4a25c157dd27e235b38b38f
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2891780"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178617"
 ---
 # <a name="marketing-support-for-business-units"></a>部署のマーケティング サポート
 
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|-|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 
@@ -41,6 +41,7 @@ ms.locfileid: "2891780"
 
 
 
-
 ## <a name="see-also"></a>関連項目
 [機能の探索](https://youtu.be/c8YOVbo4hhw?t=14) (ビデオ)
+
+[マーケティング レコードへのアクセスを制御する部署を使用する](https://docs.microsoft.com/dynamics365/marketing/business-units) (ドキュメント)

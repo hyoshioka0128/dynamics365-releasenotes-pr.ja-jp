@@ -1,22 +1,22 @@
 ---
 title: 買掛金と [外部ドキュメント番号] フィールドの調整
-description: 仕入先詳細試算表、現在までの残高、未処理のエントリのレポートの [外部ドキュメント番号] フィールドを使用して買掛金を調整します
+description: '**仕入先詳細試算表**、**現在までの残高**、**未処理のエントリ**の各レポートの [外部ドキュメント番号] フィールドを使用して買掛金を調整します'
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 12/04/2019
+ms.date: 01/24/2020
 ms.assetid: 522d05d7-05c4-e911-a969-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 235856d5c59130b91998273b6240ad04d92b8e9d
-ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
+ms.openlocfilehash: 938cc5c9478cdb0eda692e2fcc74b28e4f44ad04
+ms.sourcegitcommit: 539959f0153f0218e260146bc73a90ac391dfaa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2892000"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "3058345"
 ---
-# <a name="reconcile-payables-with-the-external-document-number-field"></a>買掛金と [外部ドキュメント番号] フィールドの調整
+# <a name="reconcile-payables-with-the-external-document-no-field"></a>買掛金と [外部ドキュメント番号] フィールドの調整
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
@@ -26,14 +26,14 @@ ms.locfileid: "2892000"
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-買掛金レポートの**外部ドキュメント番号**または**仕入先請求書番号**フィールドを使用して、中小企業の買掛金勘定の分析と調整を大幅に簡素化します。
+買掛金レポートの**外部ドキュメント番号**または**仕入先請求書番号**フィールドを使用すると、中小企業の買掛金勘定の分析と調整が大幅に簡素化されます。
 <!-- bv end -->
 
 
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-仕入先詳細試算表、現在までの残高、未処理のエントリのレポートの**外部ドキュメント番号**フィールドを使用して買掛金を調整できるようになりました。
+**仕入先詳細試算表**、**現在までの残高**、**未処理のエントリ**の各レポートの**外部ドキュメント番号**フィールドを使用して買掛金を調整できるようになりました。
 <!--feature detail end -->
 
 

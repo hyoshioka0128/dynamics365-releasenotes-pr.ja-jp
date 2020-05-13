@@ -3,25 +3,25 @@ title: 店舗および宛先に基づく外税の顧客控除を計算する
 description: この機能を使用すると、小売業者は店舗ベースの税を使用しながら、顧客の控除が適用されるかどうかも確認できます。 これは外税価格のシナリオのみを対象としたものです。この機能での税込み価格のサポートは、現在計画中です。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 12/04/2019
+ms.date: 03/06/2020
 ms.assetid: 14fe4af2-19e2-e911-a814-000d3a4f1244
 ms.topic: article
 ms.service: business-applications
 ms.author: rubendel
 dynamics365pdf: true
-ms.openlocfilehash: cfa220565734c7d30833ffa5b3eeab4c7b07207d
-ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
+ms.openlocfilehash: e3f564aadc585186ba57e4c49476efbba9045912
+ms.sourcegitcommit: 8756c08fc492e62cc366fa85ee3e510af3d16f70
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/20/2019
-ms.locfileid: "2910096"
+ms.lasthandoff: 03/18/2020
+ms.locfileid: "3139570"
 ---
 # <a name="calculate-customer-exemptions-for-store--and-destination-based-exclusive-taxes"></a>店舗および宛先に基づく外税の顧客控除を計算する
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 10 月| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|2019 年 10 月| 2020 年 1 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

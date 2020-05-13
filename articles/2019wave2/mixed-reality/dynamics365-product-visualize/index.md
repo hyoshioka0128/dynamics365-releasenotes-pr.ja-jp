@@ -3,18 +3,18 @@ title: Dynamics 365 Product Visualize 2019 年リリース ウェーブ 2 の概
 description: Dynamics 365 Product Visualize 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 11/08/2019
+ms.date: 04/03/2020
 ms.assetid: c1a3fad1-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: michtan
 dynamics365pdf: true
-ms.openlocfilehash: 2caf47fce9d4cd23980364c93855d192e4aa2816
-ms.sourcegitcommit: 8bff9a720eb621d3935b9430ac8d892003b96fdd
+ms.openlocfilehash: c04501a6bb070307bcab546efea3887b98bbfde5
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2955128"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3319777"
 ---
 # <a name="overview-of-dynamics-365-product-visualize-2019-release-wave-2"></a>Dynamics 365 Product Visualize 2019 年リリース ウェーブ 2 の概要
 [!include[mixed-reality/dynamics365-product-visualize banner](../includes/mixed-reality/dynamics365-product-visualize.md)]
@@ -25,5 +25,4 @@ ms.locfileid: "2955128"
 Dynamics 365 Sales との密接な統合により、営業担当者は案件管理と商品の視覚化の間に継続的なワークフローを作成できます。 空間コンテキストでのメモの作成および Microsoft Teams との統合のための追加ツールにより、会話の完全なコンテキストを把握し、組織全体の同僚と共有できます。
 
 2019 年リリース ウェーブ 2 では、お客様のフィードバックを組み込んでアプリをより使いやすくすることに集中します。 使いやすさの更新には、3D モデル レイヤーのユーザー インターフェイスの改善と、アプリの包括性とアクセス性の向上を目的とした改善が含まれます (ただし、これらだけではありません)。 また、新しい地域や言語用にアプリをローカライズすることにも焦点を当てます。
-
 <!--overview end-->

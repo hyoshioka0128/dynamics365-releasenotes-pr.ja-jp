@@ -3,18 +3,18 @@ title: Dynamics 365 Retail 2019 年リリース ウェーブ 2 の概要
 description: Dynamics 365 Retail 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: josaw
-ms.date: 11/08/2019
+ms.date: 04/03/2020
 ms.assetid: 47a3fad1-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: jeffbl
 dynamics365pdf: true
-ms.openlocfilehash: 85dec36a397bbde832ef83196c640d8cc14b2216
-ms.sourcegitcommit: 96a8b76935ff81eeb407aeb5dcf4d402a33b56da
+ms.openlocfilehash: 22cbc3c47daa77e2fb74e024c1db0b082f8cd943
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2952273"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3320272"
 ---
 # <a name="overview-of-dynamics-365-retail-2019-release-wave-2"></a>Dynamics 365 Retail 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
@@ -39,5 +39,4 @@ ms.locfileid: "2952273"
 - **オムニチャネル機能**: 複数のチャネルでエクスペリエンスを向上させるための、注文取り込み、注文処理、商品化、支払いなど。
 
 - **規制およびコンプライアンス**: サポートされているすべての国でサービスを提供するための規制およびコンプライアンス関連の機能強化。
-
 <!--overview end-->

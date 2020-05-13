@@ -3,25 +3,25 @@ title: 評価とレビュー
 description: ''
 author: relnotes
 ms.reviewer: josaw
-ms.date: 11/15/2019
+ms.date: 02/11/2020
 ms.assetid: b063278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: brendans
+ms.author: brshoo
 dynamics365pdf: true
-ms.openlocfilehash: 44976209611e4baefe24040386c1870a64ac1bed
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: c3f3a28d3fd9574345b111f8d11610996e1b396b
+ms.sourcegitcommit: bfe05af05f11f2c318a77bb3138c3df0796c7187
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2890258"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "3088770"
 ---
 # <a name="ratings-and-reviews"></a>評価とレビュー
-[!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日| 2020 年 2 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,7 +47,7 @@ ms.locfileid: "2890258"
 
 ![評価とレビュー](media/ratings_and_reviewes_1.png "評価とレビュー")
 
-![ユーザー確認](media/ratings_and_reviewes_2.png "ユーザー確認")
+![ユーザー レビュー](media/ratings_and_reviewes_2.png "ユーザー レビュー")
 <!--feature detail end -->
 
 

@@ -3,18 +3,18 @@ title: Dynamics 365 Fraud Protection 2019 年リリース ウェーブ 2 の概�
 description: Dynamics 365 Fraud Protection 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: v-davido
-ms.date: 11/08/2019
+ms.date: 04/03/2020
 ms.assetid: 72a3fad1-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
-ms.author: v-jegrif
+ms.author: craigos
 dynamics365pdf: true
-ms.openlocfilehash: dc9683a571e341bfccfa1dee91258fc7f4468abb
-ms.sourcegitcommit: 96a8b76935ff81eeb407aeb5dcf4d402a33b56da
+ms.openlocfilehash: 6ff411440400d39b370f4afed995b5373ff96d7b
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2952412"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3319878"
 ---
 # <a name="overview-of-dynamics-365-fraud-protection-2019-release-wave-2"></a>Dynamics 365 Fraud Protection 2019 年リリース ウェーブ 2 の概要
 [!include[artificial-intelligence/dynamics365-fraud-protection banner](../includes/artificial-intelligence/dynamics365-fraud-protection.md)]
@@ -34,10 +34,10 @@ Microsoft には、eコマース ビジネスを詐欺から保護してきた�
 
 Dynamics 365 Fraud Protection を使用すると、次のような革新的で高度な機能を使用して、ビジネスを詐欺から守ることができます。
 
-- 人工知能と詐欺防止ネットワークからの分析情報
-- ルール エンジンと仮想不正アナリスト
-- Graph エクスプローラーと KPI スコアカード
-- 取引受入ブースター
+- 人工知能と詐欺防止ネットワークからの分析情報。
+- ルール エンジンと仮想不正アナリスト。
+- Graph エクスプローラーと KPI スコアカード。
+- 取引受入ブースター。
 
 これらは、3 つのユーザー エクスペリエンスに分類された包括的な機能セットの一部であり、これによって本格的な運用への過程が加速します。
 
@@ -63,5 +63,4 @@ Dynamics 365 Fraud Protection を使用すると、次のような革新的で�
 | カスタマー (リスク) サポート ツールを使用して、リスク関連の拒否のために顧客のエスカレーションを評価して対処する。                                                                  |          | X        | X       |
 | 取引受入ブースターを使用して銀行の承認を向上させる。                                                                                                |          |          | X       |
 | Dynamics 365 Fraud Protection を記録のソリューションにする。                                                                                                              |          |          | X       |
-
 <!--overview end-->

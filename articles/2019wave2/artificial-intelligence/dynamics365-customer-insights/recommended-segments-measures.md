@@ -3,18 +3,18 @@ title: 推奨されるセグメントとメジャー
 description: 特定のビジネス データ、目標、アクションに基づいて、セグメントおよびメジャーに関する状況に応じたレコメンデーションを提供します。
 author: relnotes
 ms.reviewer: mhart
-ms.date: 11/01/2019
+ms.date: 03/18/2020
 ms.assetid: 3264278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: 0ac6a4aa837e23b6ab2dc5b8c3043ec28da706f3
-ms.sourcegitcommit: dcbeed56af9eb48c17dc368f15a265a04cd4d760
+ms.openlocfilehash: 542248e0d71924a3e160a0be752c42fdcf0ce5d0
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/11/2019
-ms.locfileid: "2780645"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178320"
 ---
 # <a name="recommended-segments-and-measures"></a>推奨されるセグメントとメジャー
 
@@ -45,3 +45,7 @@ ms.locfileid: "2780645"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[セグメントと顧客グループの作成 - 推奨セグメント](https://docs.microsoft.com/dynamics365/ai/customer-insights/pm-segments#recommended-segments) (ドキュメント)

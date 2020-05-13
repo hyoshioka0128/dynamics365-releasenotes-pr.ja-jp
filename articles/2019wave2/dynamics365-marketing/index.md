@@ -3,18 +3,18 @@ title: Dynamics 365 Marketing 2019 年リリース ウェーブ 2 の概要
 description: Dynamics 365 Marketing 2019 年リリース ウェーブ 2 の概要
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 11/08/2019
+ms.date: 04/23/2020
 ms.assetid: 78f1f7cb-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: e925c521332d26a604fd77f63548efa5c7b409a2
-ms.sourcegitcommit: 96a8b76935ff81eeb407aeb5dcf4d402a33b56da
+ms.openlocfilehash: e419a7cf009c69e08ede4f8fcf7ebded9bf8208a
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2952300"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3320316"
 ---
 # <a name="overview-of-dynamics-365-marketing-2019-release-wave-2"></a>Dynamics 365 Marketing 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
@@ -31,5 +31,4 @@ Dynamics 365 Marketing は、より多くの見込顧客を取引関係に変換
 - **基本機能への投資**を継続して、キャンペーンの実行と電子メール マーケティングのためのパフォーマンス、スケーラビリティ、システム管理、拡張性、スループットを向上させます。 プロビジョニングが改善されたことで、管理者とパワー ユーザーの作業が楽になります。
 
 [概要ビデオを見る](https://aka.ms/ROGM19RW2ROV)
-
 <!--overview end-->

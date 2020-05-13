@@ -3,18 +3,18 @@ title: Power Platform で Customer Insights を拡張する
 description: 組織が Power Platform コネクタを使用して Customer Insights のエクスペリエンスを調整および拡張できるようにします。 
 author: relnotes
 ms.reviewer: mhart
-ms.date: 10/15/2019
+ms.date: 03/18/2020
 ms.assetid: 3e64278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: 7d6e3460c262926a22d52138333c22f640394782
-ms.sourcegitcommit: 5d6e90743e29603bfc5d06566a6966de05931982
+ms.openlocfilehash: 517fa6abf267b2fd0286eb0869cc84dc833a70f1
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "2668731"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178298"
 ---
 # <a name="extending-customer-insights-with-power-platform"></a>Power Platform で Customer Insights を拡張する
 
@@ -26,8 +26,7 @@ ms.locfileid: "2668731"
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-Power BI、Power Automate、Power Apps 用の標準テンプレートとコネクタを使用してすばやく開始できます。
-
+Power BI、Power Automate、および Power Apps 用の標準テンプレートとコネクタを使用してすばやく作業を開始できます。
 <!-- bv end -->
 
 
@@ -53,3 +52,5 @@ Power Platform で Customer Insights を拡張:
 ## <a name="see-also"></a>関連項目
 
 [Dynamics 365 Customer Insights – 2019 年 9 月版リリース ノート ](https://cloudblogs.microsoft.com/dynamics365/it/2019/09/04/dynamics-365-customer-insights-september-2019-release-notes/) (ブログ)
+
+[Power BI コネクタを構成する](https://docs.microsoft.com/dynamics365/ai/customer-insights/pm-connectors) (ドキュメント)

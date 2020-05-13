@@ -2,26 +2,26 @@
 title: 倉庫プロセスの品質管理
 description: 倉庫プロセスの品質管理
 author: relnotes
-ms.reviewer: josaw
-ms.date: 11/25/2019
+ms.reviewer: kamaybac
+ms.date: 04/17/2020
 ms.assetid: b262278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: henrikan
 dynamics365pdf: true
-ms.openlocfilehash: 3e4b464dd82579e7eec568792e04ae98e393088e
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: ffb460982edccb6a805f9a7f208d3f4de899584d
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2889840"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3319960"
 ---
 # <a name="quality-management-for-warehouse-processes"></a>倉庫プロセスの品質管理
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 1 月| 近日発表|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 3 月 3 日| 近日発表|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -44,3 +44,9 @@ ms.locfileid: "2889840"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[倉庫プロセスの品質管理](https://docs.microsoft.com/dynamics365/supply-chain/inventory/quality-management-for-warehouses-processes) (ドキュメント)
+<!--docs end-->

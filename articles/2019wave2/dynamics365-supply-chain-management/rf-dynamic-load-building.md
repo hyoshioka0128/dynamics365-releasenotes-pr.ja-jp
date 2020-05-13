@@ -1,43 +1,10 @@
 ---
-title: RF 動的積荷構築
-description: この機能を使用すると、モバイル ウェアハウス RF スキャナーを使用して積荷を作成できます。
-author: relnotes
-ms.reviewer: kamaybac
-ms.date: 12/13/2019
-ms.assetid: 6c596ea0-1acb-e911-a96a-000d3a4f36ce
-ms.topic: article
-ms.service: business-applications
-ms.author: mirzaab
-dynamics365pdf: true
-ms.openlocfilehash: b5fd15efed215ace7a23a8924d8c0bab64981d50
-ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
+redirect_url: planned-features
+ms.openlocfilehash: 9a71b62b57235c15ca6008740d4578bdcde84a6d
+ms.sourcegitcommit: db53421debc891ea407773d0e9b39feb7a01fef3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/20/2019
-ms.locfileid: "2909744"
+ms.lasthandoff: 03/09/2020
+ms.locfileid: "3110525"
 ---
-# <a name="rf-dynamic-load-building"></a>RF 動的積荷構築
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
-
-| 有効対象    |  パブリック プレビュー | 一般提供 | 
-| ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 2 月| 近日発表|
-
-
-
-
-
-
-## <a name="feature-details"></a>機能の詳細
-<!--feature detail start -->
-この機能を使用すると、モバイル ウェアハウス RF スキャナーを使用して積荷を作成できます。 ユーザーは、WMA アプリを実行している RF スキャナーを使用して、ステージングされた品目から積荷を作成できます。 
-<!--feature detail end -->
-
-
-
-
-
-
-
-
-
+リダイレクト ファイルのみ - コンテンツは含まれていません

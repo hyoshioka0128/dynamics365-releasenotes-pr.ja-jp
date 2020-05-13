@@ -3,18 +3,18 @@ title: プラットフォーム
 description: ''
 author: relnotes
 ms.reviewer: ''
-ms.date: 12/14/2019
+ms.date: 04/03/2020
 ms.assetid: bc096b69-725d-e911-a973-000d3a1c79c5
 ms.topic: structure
 ms.service: business-applications
 ms.author: robadawy
 dynamics365pdf: true
-ms.openlocfilehash: ea41a8d34dc3888694951341b5e756e96b8054dd
-ms.sourcegitcommit: ecf709e1d8de3b52e1156bceb99cb7e3819f9db3
+ms.openlocfilehash: 059763073f32339d37b75ba5ca58d4b485312750
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2020
-ms.locfileid: "2950859"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3320668"
 ---
 # <a name="platform"></a>プラットフォーム
 
@@ -34,7 +34,7 @@ ms.locfileid: "2950859"
 開発者ツールは、スタンドアロンのインストール可能コンポーネント (プレビュー) として提供される予定です。 ビルド自動化は、Azure DevOps のクラウド ホスト エージェントを利用し、カスタマイズ パッケージを継続的に配信するためにビルド VM が必要なくなります。
 
 ## <a name="geo-expansion"></a>提供地域の拡大
-Finance and Operations アプリは、実行可能なビジネス チャンスがある特定の場所で、Microsoft Azure が利用可能になってから 6 か月以内に、利用できるように拡張されます。 Finance and Operations アプリ用のデータ常駐型クラウドにより、すべての顧客データ、コード、メタデータ、および診断が指定された地域内に確実に残るようになります。
+Finance and Operations アプリは、実行可能なビジネス チャンスがある特定の場所で、Microsoft Azure が利用可能になってから 6 か月以内に、利用できるように拡張されます。 Finance and Operations アプリ用のデータ常駐型クラウドにより、すべての顧客データ、コード、メタデータ、および診断が、指定された地域内に確実に残るようになります。
 <!--structure end-->
 
 

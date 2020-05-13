@@ -3,25 +3,25 @@ title: フローのトリガーと監視 - フェーズ 1
 description: フローのトリガーと監視 - フェーズ 1
 author: relnotes
 ms.reviewer: sericks
-ms.date: 12/17/2019
+ms.date: 02/24/2020
 ms.assetid: 0263278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: cgarty
 dynamics365pdf: true
-ms.openlocfilehash: 4b70f1bdb748300158539e9714f0ab32c5502c29
-ms.sourcegitcommit: ecf709e1d8de3b52e1156bceb99cb7e3819f9db3
+ms.openlocfilehash: dff5d927967edc014a22ad61dd5ca1ec9075ccf5
+ms.sourcegitcommit: db53421debc891ea407773d0e9b39feb7a01fef3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2020
-ms.locfileid: "2950903"
+ms.lasthandoff: 03/09/2020
+ms.locfileid: "3110492"
 ---
 # <a name="trigger-and-monitor-a-flow---phase-1"></a>フローのトリガーと監視 - フェーズ 1
-[!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 1 月| -|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 27 日| -|
 
 
 
@@ -43,3 +43,7 @@ ms.locfileid: "2950903"
 
 ## <a name="thank-you-for-your-idea"></a>アイデアをありがとうございます
 [このアイデア](https://experience.dynamics.com/ideas/idea/?ideaid=f5515021-64ba-e711-80c0-00155d7cd0b4)をお送りいただき、ありがとうございました。 アイデア、コメント、投票を参考に、製品のロードマップに追加するものを決定しています。
+
+## <a name="see-also"></a>関連項目
+
+[Microsoft Power Automate のビジネス イベント](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/business-events/business-events-flow) (ドキュメント)

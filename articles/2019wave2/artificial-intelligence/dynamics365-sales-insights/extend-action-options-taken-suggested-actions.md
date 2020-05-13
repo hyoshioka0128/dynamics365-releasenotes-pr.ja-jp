@@ -3,25 +3,25 @@ title: 推奨アクションから実行するアクション オプションを
 description: ''
 author: relnotes
 ms.reviewer: udag
-ms.date: 01/07/2020
+ms.date: 01/31/2020
 ms.assetid: eac57080-f3d4-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
-ms.author: mney
+ms.author: nataln
 dynamics365pdf: true
-ms.openlocfilehash: 857dd54ee4a9bb2041ce2ea3c4504aada67ee041
-ms.sourcegitcommit: ba5b15c33dc3669937bf5219b1b38995cffb661b
+ms.openlocfilehash: e2bd192b3c5a23872f5c505697374eac86cdc3a4
+ms.sourcegitcommit: 539959f0153f0218e260146bc73a90ac391dfaa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2020
-ms.locfileid: "2947505"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "3059148"
 ---
 # <a name="extend-action-options-taken-from-the-suggested-actions"></a>推奨アクションから実行するアクション オプションを拡張する
-[!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2020 年 1 月| -|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 18 日| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -49,3 +49,7 @@ ms.locfileid: "2947505"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[カードにアクションを追加する](https://docs.microsoft.com/dynamics365/ai/sales/create-insight-cards-flow#add-actions-to-cards) (ドキュメント)

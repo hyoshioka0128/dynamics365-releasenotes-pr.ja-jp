@@ -2,26 +2,26 @@
 title: 柔軟な倉庫レベルの分析コード引当
 description: この機能強化により、在庫引当ポリシーが柔軟になり、バッチ管理される製品を販売し WMS 対応オペレーションとしてロジスティクスを実行する企業は、製品に関連付けられた在庫引当階層で禁じられている ("batch-below" と呼ばれるタイプになっている) 場合でも、顧客からの特定のバッチの要求を販売注文に登録できます。
 author: relnotes
-ms.reviewer: josaw
-ms.date: 10/28/2019
+ms.reviewer: kamaybac
+ms.date: 04/07/2020
 ms.assetid: a3cd03d8-93cd-e911-a968-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
-ms.author: omulvad
+ms.author: perlynne
 dynamics365pdf: true
-ms.openlocfilehash: a4ff4d56bbbc23a73cb3e0c420f4e6b2fbe8c5fd
-ms.sourcegitcommit: cefe454c62a0cd90d468ae3b12f5b74678345401
+ms.openlocfilehash: c92beee735b8a875e5e613edaf1861628ab1ce48
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "2778567"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3320151"
 ---
 # <a name="flexible-warehouse-level-dimension-reservation"></a>柔軟な倉庫レベルの分析コード引当
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 1 月| 近日発表|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 27 日| 近日発表|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -52,3 +52,9 @@ ms.locfileid: "2778567"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[柔軟な倉庫レベル分析コードの引当ポリシー](https://docs.microsoft.com/dynamics365/supply-chain/warehousing/flexible-warehouse-level-dimension-reservation) (ドキュメント)
+<!--docs end-->

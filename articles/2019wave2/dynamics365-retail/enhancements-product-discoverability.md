@@ -3,25 +3,25 @@ title: 製品の見つけやすさの改善
 description: 製品の見つけやすさの改善
 author: relnotes
 ms.reviewer: josaw
-ms.date: 11/15/2019
+ms.date: 04/24/2020
 ms.assetid: 8463278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: asharchw
 dynamics365pdf: true
-ms.openlocfilehash: aefb97686ef13e51e93ba4ffc2ef73383bfc5196
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: 4bc1321d0d1795e06243ce2aaa531de3aeda4e14
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2890134"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3320294"
 ---
 # <a name="enhancements-for-product-discoverability"></a>製品の見つけやすさの改善
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日| -|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -59,4 +59,6 @@ Microsoft が市場に提供しているソリューションで使用可能な�
 
 ## <a name="see-also"></a>関連項目
 
+<!--docs start-->
 [クラウドを利用した検索の概要](https://docs.microsoft.com/dynamics365/commerce/cloud-powered-search-overview) (ドキュメント)
+<!--docs end-->

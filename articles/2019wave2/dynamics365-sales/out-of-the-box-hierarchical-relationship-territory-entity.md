@@ -3,18 +3,18 @@ title: 担当地域エンティティですぐに使える階層関係
 description: すぐに使用可能な階層関係を使用して、担当地域の階層構造を表示および探索します。
 author: relnotes
 ms.reviewer: udag
-ms.date: 11/15/2019
+ms.date: 03/21/2020
 ms.assetid: 840e9f34-497e-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: f15656be4e90e29b66cc6918c3539496c3ac3b6d
-ms.sourcegitcommit: b42a148c376fc4d3297326179cf301404448f570
+ms.openlocfilehash: 94bb1d85367645245a92ca6266c5077af20034c3
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2888772"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178859"
 ---
 # <a name="out-of-the-box-hierarchical-relationship-on-the-territory-entity"></a>担当地域エンティティですぐに使える階層関係
 
@@ -38,9 +38,13 @@ ms.locfileid: "2888772"
 
 
 > [!NOTE]
-> - この機能は、統一インターフェイスでのみ使用できます。 
-> - この機能は、Dynamics 365 Sales Enterprise のみを対象としています。
+> この機能は、統一インターフェイスでのみ使用できます。 この機能は、Dynamics 365 Sales Enterprise のみを対象としています。
 
 
 
 
+
+
+
+## <a name="see-also"></a>関連項目
+[テンプレートの選択](https://docs.microsoft.com/dynamics365/sales-enterprise/select-template-forecast) (ドキュメント)

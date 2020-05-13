@@ -3,25 +3,25 @@ title: CW 統合の強化 10.0.1
 description: CW 統合の強化 10.0.1
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 12/10/2019
+ms.date: 04/07/2020
 ms.assetid: 7262278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: perlynne
 dynamics365pdf: true
-ms.openlocfilehash: 1ec7e856a07096f8a732f82650f5c1843bf0f5e4
-ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
+ms.openlocfilehash: 9bcc6b05461e3fe97ee374822811f5955771cf7c
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/20/2019
-ms.locfileid: "2909898"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3320118"
 ---
 # <a name="further-catch-weight-integration-1001"></a>CW 統合の強化 10.0.1
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 2 月| 近日発表|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 近日発表|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -52,4 +52,6 @@ ms.locfileid: "2909898"
 ## <a name="see-also"></a>関連項目
 [機能の探索](https://www.microsoft.com/videoplayer/embed/RE4jzx8) (ビデオ)
 
+<!--docs start-->
 [倉庫管理での CW 製品処理](https://docs.microsoft.com/dynamics365/supply-chain/warehousing/catch-weight-processing) (ドキュメント)
+<!--docs end-->

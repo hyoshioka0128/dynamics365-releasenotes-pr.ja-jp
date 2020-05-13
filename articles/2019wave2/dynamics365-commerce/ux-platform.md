@@ -3,25 +3,25 @@ title: UX プラットフォーム
 description: ''
 author: relnotes
 ms.reviewer: josaw
-ms.date: 11/15/2019
+ms.date: 02/11/2020
 ms.assetid: a263278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: brendans
+ms.author: brshoo
 dynamics365pdf: true
-ms.openlocfilehash: 6cb35fb0b36ca5349510201e2bde4145ec585d41
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: 8dd27f4a8d82eab385ee2830262ae65b7e3353c6
+ms.sourcegitcommit: bfe05af05f11f2c318a77bb3138c3df0796c7187
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2890214"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "3088715"
 ---
 # <a name="ux-platform"></a>UX プラットフォーム
-[!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日| 2020 年 2 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

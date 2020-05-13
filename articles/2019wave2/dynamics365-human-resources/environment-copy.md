@@ -3,18 +3,18 @@ title: より幅広い環境管理
 description: より幅広い環境管理
 author: kherr75
 ms.reviewer: anbichse
-ms.date: 12/02/2019
+ms.date: 04/15/2020
 ms.assetid: 4e63278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: kherr
 dynamics365pdf: true
-ms.openlocfilehash: 75cbb94aa9c8eb14bf3a931aecba7948be32937d
-ms.sourcegitcommit: 259173373fe401be988294ec51edc2c0af2bd0bc
+ms.openlocfilehash: e37c36180b7398d448ad33a437c1e082799c5a1e
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "2905707"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3320349"
 ---
 # <a name="broader-environment-management"></a>より幅広い環境管理
 
@@ -30,7 +30,7 @@ ms.locfileid: "2905707"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-適切なソリューション環境計画は、お客様の環境を正常に機能させ、その柔軟性を高めるうえで不可欠なものです。 また、環境の速度と品質を高めることにもつながります。 この機能を使用すると、Core HR データを、運用インスタンスからサンドボックスやテスト インスタンスへと移動することができます。
+適切なソリューション環境計画は、お客様の環境を正常に機能させ、その柔軟性を高めるうえで不可欠なものです。 また、環境の速度と品質を高めることにもつながります。 この機能を使用すると、実稼働インスタンスからサンドボックスやテスト インスタンスに Human Resources データを移動することができます。
 <!--feature detail end -->
 
 
@@ -41,3 +41,9 @@ ms.locfileid: "2905707"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[インスタンスのコピー](https://docs.microsoft.com/dynamics365/human-resources/hr-admin-setup-copy-instance) (ドキュメント)
+<!--docs end-->

@@ -3,18 +3,18 @@ title: ノードベースのアニメーションのサポート
 description: ノードベースのアニメーションを使用して 3D モデルをインポートし、作業指示で使用します。
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 11/05/2019
+ms.date: 04/24/2020
 ms.assetid: 21307268-d0f6-e911-a813-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
 ms.author: makamat
 dynamics365pdf: true
-ms.openlocfilehash: 69109d6875f00da9b3e82bfcb2dd499dbeeeb8fc
-ms.sourcegitcommit: dcbeed56af9eb48c17dc368f15a265a04cd4d760
+ms.openlocfilehash: be0d92b8891c85f7748b440ebd734b30a1c386e9
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/11/2019
-ms.locfileid: "2781110"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3319766"
 ---
 # <a name="support-for-node-based-animations"></a>ノードベースのアニメーションのサポート
 
@@ -41,3 +41,9 @@ ms.locfileid: "2781110"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[Dynamics 365 Guides のアニメーションをオフにする](https://docs.microsoft.com/dynamics365/mixed-reality/guides/hololens-app-orientation#turn-off-animations) (ドキュメント)
+<!--docs end-->

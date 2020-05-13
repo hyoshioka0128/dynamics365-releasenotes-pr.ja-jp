@@ -2,19 +2,19 @@
 title: Microsoft Teams 会議に参加する
 description: ''
 author: relnotes
-ms.reviewer: v-brycho
-ms.date: 10/17/2019
+ms.reviewer: krbjoran
+ms.date: 03/24/2020
 ms.assetid: 0190d5e7-34f0-e911-a812-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
-ms.author: johardne
+ms.author: a545fbb9facb4c51a6fa26b79a2ecaf4johardne
 dynamics365pdf: true
-ms.openlocfilehash: 70aa3d7cb734828fe33313aadb689f641c76e0c0
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 30f2bcb2a5d4c243a74d6e0e06f66763cb1d8a78
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2662530"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3179134"
 ---
 # <a name="join-microsoft-teams-meetings"></a>Microsoft Teams 会議に参加する
 
@@ -48,3 +48,7 @@ Dynamics 365 Remote Assist から会議に参加する方法の詳細につい�
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[HoloLens で Dynamics 365 Remote Assist 会議に参加する](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/join-meeting-hololens) (ドキュメント)

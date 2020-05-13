@@ -3,25 +3,25 @@ title: モバイル デバイスでのエクスペリエンスの向上 - フェ
 description: モバイル デバイスでのエクスペリエンスの向上 - フェーズ 1
 author: relnotes
 ms.reviewer: sericks
-ms.date: 12/02/2019
+ms.date: 02/24/2020
 ms.assetid: ec62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: cgarty
 dynamics365pdf: true
-ms.openlocfilehash: 991afe1f35fcdc74a3c6b324db106b61f0ed34d7
-ms.sourcegitcommit: b18d8ef2595c1298c94fe6a6fd1fceaa16bd9561
+ms.openlocfilehash: 99c50993d9ccf069dfee2bf21acf96be49b934f0
+ms.sourcegitcommit: db53421debc891ea407773d0e9b39feb7a01fef3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "2893987"
+ms.lasthandoff: 03/09/2020
+ms.locfileid: "3110382"
 ---
 # <a name="improved-experience-on-mobile-devices--phase-1"></a>モバイル デバイスでのエクスペリエンスの向上 - フェーズ 1
-[!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 2 日| 2020 年 2 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 12 月 2 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

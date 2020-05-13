@@ -3,30 +3,30 @@ title: 顧客とエージェントの対話ガイドのスクリプト
 description: 顧客とエージェントの対話ガイドのスクリプト
 author: relnotes
 ms.reviewer: kabala
-ms.date: 01/09/2020
+ms.date: 02/04/2020
 ms.assetid: 0462278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: askuma
 dynamics365pdf: true
-ms.openlocfilehash: 60b99e7240eaf126b73a2b752b51450b8dd75010
-ms.sourcegitcommit: 7d5d14ac84333ba166265755f410f7e16035a64e
+ms.openlocfilehash: 3e90f3eb23b108d904f45fd9a2b1c6e7889ff8ef
+ms.sourcegitcommit: 539959f0153f0218e260146bc73a90ac391dfaa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2020
-ms.locfileid: "2948464"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "3059137"
 ---
 # <a name="guide-customer-interactions-with-agent-scripts"></a>顧客とエージェントの対話ガイドのスクリプト
-[!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 24 日|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 24 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-エージェント スクリプトは、企業がエージェントをすばやく一貫性のある方法でトレーニングし、エージェントが同様の種類のサポートの問題に対して一貫性のある方法ですべての顧客をサポートできるようにします。 
+エージェント スクリプトは、企業がエージェントをすばやく一貫性のある方法でトレーニングし、エージェントが同様の種類のサポートの問題に対して一貫性のある方法ですべての顧客をサポートできるようにします。
 <!-- bv end -->
 
 

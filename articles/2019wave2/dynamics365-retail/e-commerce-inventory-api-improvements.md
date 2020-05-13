@@ -3,25 +3,25 @@ title: eコマース在庫 API の改善
 description: この機能で導入される新しい API を使用して、小売業者は在庫の利用可能性を見積もることができます。 これらの API によって提供される情報を eコマース アプリケーションで使用し、商品を出荷または店頭での集荷に使用できるかどうかを顧客に知らせることができます。 この目的のために以前提供されていた既存の API はパフォーマンスが良くなく、計算ロジックも最適ではありませんでした。
 author: hhainesms
 ms.reviewer: rhaertle
-ms.date: 11/15/2019
+ms.date: 03/09/2020
 ms.assetid: c5ff120b-f182-e911-a98e-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: hhaines
 dynamics365pdf: true
-ms.openlocfilehash: d07b1fa54be8c54cecc1f273880db8e378f9493c
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: afb55f45b5419f3bed25664bc2810d8a79da5848
+ms.sourcegitcommit: 8756c08fc492e62cc366fa85ee3e510af3d16f70
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2890159"
+ms.lasthandoff: 03/18/2020
+ms.locfileid: "3139591"
 ---
 # <a name="e-commerce-inventory-api-improvements"></a>eコマース在庫 API の改善
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 21 日| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 21 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -49,4 +49,4 @@ ms.locfileid: "2890159"
 
 ## <a name="see-also"></a>関連項目
 
-[Retail POS API](https://docs.microsoft.com/dynamics365/retail/dev-itpro/pos-apis) (ドキュメント)
+[小売チャネルの引当可能在庫数量の計算](https://docs.microsoft.com/dynamics365/commerce/calculated-inventory-retail-channels) (ドキュメント)

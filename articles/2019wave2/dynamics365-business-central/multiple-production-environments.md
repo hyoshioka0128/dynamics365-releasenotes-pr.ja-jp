@@ -3,18 +3,18 @@ title: 複数の運用環境
 description: テナントごとに、管理者は複数の運用環境を作成することができます。 さらに、テナント環境は、異なる国/地域のバージョンを基にすることができます。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 11/15/2019
+ms.date: 02/17/2020
 ms.assetid: 4cc3f35f-b56d-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: jaredha
 dynamics365pdf: true
-ms.openlocfilehash: 12c6c2ed0e01f109788c93bf3f63e95079fa88dc
-ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
+ms.openlocfilehash: 4ac89d71021136fc5940d8cf7e467f365b4c2567
+ms.sourcegitcommit: bfe05af05f11f2c318a77bb3138c3df0796c7187
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2892055"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "3088880"
 ---
 # <a name="multiple-production-environments"></a>複数の運用環境
 
@@ -34,6 +34,8 @@ ms.locfileid: "2892055"
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 テナントごとに、管理者は複数の運用環境を作成できます。 これには、環境を Business Central の国または地域ごとに異なるバージョンにするオプションも含まれます。
+
+このリリースでは、管理者が特定の顧客用に作成できる環境 (Azure Active Directory テナント) の数は、環境タイプごとに 3 つに制限されます (3 つの運用環境と 3 つのサンドボックス)。   
 <!--feature detail end -->
 
 

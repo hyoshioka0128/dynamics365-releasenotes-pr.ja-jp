@@ -3,25 +3,25 @@ title: クライアンテリング - 販売担当者が信頼できるアドバ�
 description: クライアンテリング - 販売担当者が信頼できるアドバイザーになり、顧客と長期的な関係を築けるようにする
 author: relnotes
 ms.reviewer: josaw
-ms.date: 11/15/2019
+ms.date: 03/09/2020
 ms.assetid: 4219cbd5-546c-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: shajain
 dynamics365pdf: true
-ms.openlocfilehash: fe5622b159add1ed98e6c9625d68c87aff6bdc24
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: 43e11c0065a3caed3a40230c11c32bbdb9ada111
+ms.sourcegitcommit: 8756c08fc492e62cc366fa85ee3e510af3d16f70
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2890192"
+ms.lasthandoff: 03/18/2020
+ms.locfileid: "3139587"
 ---
 # <a name="clienteling--empower-sales-associates-to-become-trusted-advisors-and-establish-long-term-relationships-with-customers"></a>クライアンテリング - 販売担当者が信頼できるアドバイザーになり、顧客と長期的な関係を築けるようにする
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 21 日| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 21 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

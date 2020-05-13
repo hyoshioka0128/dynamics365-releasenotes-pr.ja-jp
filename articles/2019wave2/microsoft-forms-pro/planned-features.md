@@ -3,17 +3,17 @@ title: Microsoft Forms Pro の新機能と予定されている機能 (2019 年�
 description: Microsoft Forms Pro で計画されている機能の概要。
 author: relnotes
 ms.reviewer: shjais
-ms.date: 12/04/2019
+ms.date: 04/28/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: raysmith
 dynamics365pdf: true
-ms.openlocfilehash: b710c4fb50f76e2097ab7c344825aed2087f3a79
-ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
+ms.openlocfilehash: 071e55bf0d68565ca09d4d41abfcf83087a6476a
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2891604"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3319843"
 ---
 # <a name="whats-new-and-planned-for-microsoft-forms-pro"></a>Microsoft Forms Pro の新機能と予定されている機能
 
@@ -41,5 +41,4 @@ ms.locfileid: "2891604"
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。

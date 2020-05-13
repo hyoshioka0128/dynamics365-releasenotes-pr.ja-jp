@@ -3,18 +3,18 @@ title: Dynamics 365 Human Resources 2019 年リリース ウェーブ 2 の概�
 description: Dynamics 365 Human Resources 2019 年リリース ウェーブ 2 の概要
 author: brpotter
 ms.reviewer: anbichse
-ms.date: 12/05/2019
+ms.date: 04/03/2020
 ms.assetid: 9edc9f7c-ab0c-ea11-a811-000d3a4f1cdd
 ms.topic: overview
 ms.service: business-applications
 ms.author: brpotter
 dynamics365pdf: true
-ms.openlocfilehash: 6d2c7d1588fff38bf906524f275078fc706ca696
-ms.sourcegitcommit: 259173373fe401be988294ec51edc2c0af2bd0bc
+ms.openlocfilehash: f12ca5c86d8349827418ef4301fb4aa8f60182e4
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "2905718"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3320338"
 ---
 # <a name="overview-of-dynamics-365-human-resources-2019-release-wave-2"></a>Dynamics 365 Human Resources 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-human-resources banner](../includes/dynamics365-human-resources.md)]

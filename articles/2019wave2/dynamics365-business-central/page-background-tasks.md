@@ -3,18 +3,18 @@ title: ページ バックグラウンド タスク
 description: ページ バックグラウンド タスク - AL 開発者は、ページ内に子セッションを作成して、必要な読み取り専用の計算を実行できます。 計算が完了すると、親セッションに通知されます。
 author: relnotes
 ms.reviewer: jswymer
-ms.date: 10/01/2019
+ms.date: 03/25/2020
 ms.assetid: b0644392-306c-e911-a964-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: kepontop
 dynamics365pdf: true
-ms.openlocfilehash: 3c8f68cfde1029d504b5f0e4510a979c2cc5a2ac
-ms.sourcegitcommit: 4605a04f6f017d024aded928fa875b9328e2c904
+ms.openlocfilehash: a5f0fa44d17b1b88c11cad369e51bb507fdebf77
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "2666885"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178991"
 ---
 # <a name="page-background-tasks"></a>ページ バックグラウンド タスク
 
@@ -43,3 +43,7 @@ ms.locfileid: "2666885"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[ページ バックグラウンド タスク](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-page-background-tasks) (ドキュメント)

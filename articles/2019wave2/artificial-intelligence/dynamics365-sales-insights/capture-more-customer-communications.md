@@ -3,25 +3,25 @@ title: 顧客とのコミュニケーションをより多く取り込む
 description: 顧客とのコミュニケーションを頻繁に記録することで、Dynamics 365 のデータ品質が向上し、その結果として分析情報が強化されます。 自動取り込みにより、販売担当者は、共有対象をきめ細かく制御しながら、顧客とのコミュニケーションをより多く取り込み、Dynamics 365 を労力なしで更新できます。
 author: relnotes
 ms.reviewer: udag
-ms.date: 11/20/2019
+ms.date: 02/05/2020
 ms.assetid: d463278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: nataln
+ms.author: goravi
 dynamics365pdf: true
-ms.openlocfilehash: b86cfae1834931874b275041fae164c71119ce63
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: 2275cc1a42486f644987cddae2245dfeb79480f6
+ms.sourcegitcommit: 539959f0153f0218e260146bc73a90ac391dfaa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2889763"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "3058752"
 ---
 # <a name="capture-more-customer-communications"></a>顧客とのコミュニケーションをより多く取り込む
-[!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2020 年 2 月| -|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -51,3 +51,5 @@ ms.locfileid: "2889763"
 
 ## <a name="see-also"></a>関連項目
 [機能の探索](https://aka.ms/ROGSI19RW2ROV3) (ビデオ)
+
+[プレミアム自動取り込み](https://docs.microsoft.com/dynamics365/ai/sales/premium-auto-capture) (ドキュメント)

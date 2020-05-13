@@ -3,18 +3,18 @@ title: Dynamics 365 Remote Assist 2019 年リリース ウェーブ 2 の概要
 description: Dynamics 365 Remote Assist 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 11/08/2019
+ms.date: 04/03/2020
 ms.assetid: c3a3fad1-755d-e911-a977-000d3a4e307a
 ms.topic: overview
 ms.service: business-applications
-ms.author: namarwah
+ms.author: hegate
 dynamics365pdf: true
-ms.openlocfilehash: 4ac46f4652ccb5d993bc943d55aa0e5b6a030d67
-ms.sourcegitcommit: 96a8b76935ff81eeb407aeb5dcf4d402a33b56da
+ms.openlocfilehash: a2e6733a9e930eab19855f415ca5362aaa9ef1e9
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2952366"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3319744"
 ---
 # <a name="overview-of-dynamics-365-remote-assist-2019-release-wave-2"></a>Dynamics 365 Remote Assist 2019 年リリース ウェーブ 2 の概要
 [!include[mixed-reality/dynamics365-remote-assist banner](../includes/mixed-reality/dynamics365-remote-assist.md)]
@@ -31,5 +31,4 @@ Dynamics 365 Remote Assist は、初めての問題を早期に解決できる�
 - モバイル デバイス向け Dynamics 365 Remote Assist。
 
 [概要ビデオを見る](https://aka.ms/ROGRA19RW2ROV)
-
 <!--overview end-->

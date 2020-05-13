@@ -3,17 +3,17 @@ title: Dynamics 365 Customer Insights の新機能と予定されている機能
 description: Dynamics 365 Customer Insights で計画されている機能の概要。
 author: relnotes
 ms.reviewer: jimholtz
-ms.date: 12/13/2019
+ms.date: 03/25/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: fweigel
 dynamics365pdf: true
-ms.openlocfilehash: edcc8dc4de8646c8281a7dac4692befb6d7bdb0a
-ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
+ms.openlocfilehash: 99ce91aeb90cc6fecf96e67c9ab197585d3b3b82
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/20/2019
-ms.locfileid: "2910206"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178364"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-customer-insights"></a>Dynamics 365 Customer Insights の新機能と予定されている機能
 
@@ -26,19 +26,19 @@ ms.locfileid: "2910206"
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
 | [Power Platform で Customer Insights を拡張する](extending-customer-insights-power-platform.md) | 管理者、作成者、またはアナリスト、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日| | 
-| [Dynamics 365 アプリへの Customer Insights の注入](infusing-customer-insights-into-dynamics-365-customer-engagement.md) | エンド ユーザー、管理者/作成者による有効化、またはアナリスト| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|- | 
+| [Dynamics 365 アプリへの Customer Insights の注入](infusing-customer-insights-into-dynamics-365-customer-engagement.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|- | 
 | [顧客モデルで取引先企業と取引先担当者をリンクする機能](ability-link-accounts-contacts-customer-model.md) | 管理者、作成者、またはアナリスト、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日|- | 
-| [顧客区分を作成するための AI 主導のエクスペリエンス](ai-driven-experience-create-customer-segments.md) | 管理者、作成者、またはアナリスト、自動的| 2020 年 3 月| | 
-| [顧客パターンを予測するためのガイド付きエクスペリエンス](guided-experience-predict-customer-patterns.md) | 管理者、作成者、またはアナリスト、自動的| 2020 年 3 月| | 
+| [顧客区分を作成するための AI 主導のエクスペリエンス](ai-driven-experience-create-customer-segments.md) | 管理者、作成者、またはアナリスト、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 3 月 11 日| | 
+| [顧客パターンを予測するためのガイド付きエクスペリエンス](guided-experience-predict-customer-patterns.md) | 管理者、作成者、またはアナリスト、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 3 月 11 日| | 
 | [Microsoft AppSource で利用できる Customer Insights のコンサルティング サービス](customer-insights-consulting-services-appsource.md) | 管理者、作成者、またはアナリスト、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 | [セグメント ビルダーおよび測定ウィザードの機能強化](segment-builder-measures-wizard-enhancements.md) | 管理者、作成者、またはアナリスト、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日 | 
 | [データの統一の向上](data-unification-improvements.md) | 管理者、作成者、またはアナリスト、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日 | 
 | [Azure Machine Learning で Customer Insights を拡張する](extend-customer-insights-azure-ml.md) | 管理者、作成者、またはアナリスト、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日 | 
 | [柔軟な展開オプション](flexible-deployment-options.md) | 管理者、作成者、またはアナリスト、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日 | 
 | [推奨されるセグメントとメジャー](recommended-segments-measures.md) | 管理者、作成者、またはアナリスト、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 31 日 | 
-| [KPI とダッシュボードを作成するガイド付きエクスペリエンス](guided-experience-helps-users-create-kpis-dashboards.md) | 管理者、作成者、またはアナリスト、自動的| -|2020 年 3 月 | 
+| [KPI とダッシュボードを作成するガイド付きエクスペリエンス](guided-experience-helps-users-create-kpis-dashboards.md) | 管理者、作成者、またはアナリスト、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 3 月 11 日 | 
 
-**有効対象**列の値の説明
+**有効対象**列の値の説明:
 
 - **エンド ユーザー、自動的**: これらの機能には、エンド ユーザーに対するユーザー エクスペリエンスへの変更が含まれており、自動的に有効になります。
 

@@ -3,18 +3,18 @@ title: さまざまなドキュメント タイプで VAT 条項を使用する
 description: ドキュメント タイプごとに VAT 条項を定義できるようになりました。
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 12/16/2019
+ms.date: 01/24/2020
 ms.assetid: 84dd24e0-3def-e911-a812-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 9e5dc8b8cd99bcd860fc92c35d106534ce329090
-ms.sourcegitcommit: ba5b15c33dc3669937bf5219b1b38995cffb661b
+ms.openlocfilehash: 6944d05aa716d6bbbdf331a410b93125fcef78c8
+ms.sourcegitcommit: 539959f0153f0218e260146bc73a90ac391dfaa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2020
-ms.locfileid: "2947516"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "3058301"
 ---
 # <a name="use-vat-clauses-on-different-document-types"></a>さまざまなドキュメント タイプで VAT 条項を使用する
 
@@ -49,3 +49,7 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[付加価値税を設定する](https://docs.microsoft.com/dynamics365/business-central/finance-setup-vat) (ドキュメント)

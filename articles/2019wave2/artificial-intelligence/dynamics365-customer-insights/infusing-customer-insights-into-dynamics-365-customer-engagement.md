@@ -3,25 +3,25 @@ title: Dynamics 365 アプリへの Customer Insights の注入
 description: 顧客カードの機能強化により、ユーザーは Customer Insights からの分析情報をより簡単に利用できるようになります。
 author: relnotes
 ms.reviewer: mhart
-ms.date: 10/15/2019
+ms.date: 03/18/2020
 ms.assetid: 3a64278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: ef25f5d5e4ba99b83e56828a722eb8f42a1d995d
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: 6e9775000f146589e60f63ef15a7e951cb580558
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661099"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178199"
 ---
 # <a name="infusing-customer-insights-into-dynamics-365-apps"></a>Dynamics 365 アプリへの Customer Insights の注入
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日| -|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,4 +47,6 @@ ms.locfileid: "2661099"
 
 ## <a name="see-also"></a>関連項目
 
-[Dynamics 365 Customer Insights – 2019 年 6月版リリース ノート ](https://cloudblogs.microsoft.com/dynamics365/it/2019/06/05/dynamics-365-customer-insights-june-2019-release-notes/) (ブログ)
+[Dynamics 365 Customer Insights – 2019 年 6 月版リリース ノート ](https://cloudblogs.microsoft.com/dynamics365/it/2019/06/05/dynamics-365-customer-insights-june-2019-release-notes/) (ブログ)
+
+[カスタマー カード アドインをインストールする](https://docs.microsoft.com/dynamics365/ai/customer-insights/pm-customer-card-addin) (ドキュメント)

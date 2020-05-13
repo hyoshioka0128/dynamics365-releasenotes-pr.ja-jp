@@ -3,25 +3,25 @@ title: いっそうパーソナライズされたガイド付きアシスタン�
 description: アシスタントは営業の各フェーズでアクション可能な分析情報により販売担当者を支援します。 今後、アシスタントは特定のニーズに基づいて、異なるロールの販売担当者をガイドします。 2019 年リリース ウェーブ 2 では、アシスタントを Microsoft Teams アプリケーションと Sales Insights アプリケーションで使用できるようにすることに焦点を当てています。
 author: relnotes
 ms.reviewer: udag
-ms.date: 11/25/2019
+ms.date: 04/14/2020
 ms.assetid: c263278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: ermanor
 dynamics365pdf: true
-ms.openlocfilehash: 92f089be03fa8d77313eabe83eef1073a135778c
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: bc832827accdc552ad719083e0e18a9a9be2a1d7
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2889737"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3319678"
 ---
 # <a name="more-personalized-and-guided-assistance"></a>いっそうパーソナライズされたガイド付きアシスタンス
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日| -|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -42,6 +42,8 @@ ms.locfileid: "2889737"
 - **マネージャー用 Sales Insights でのアシスタント**: アシスタントでは、マネージャーがすぐに注意または行動を必要とする問題を認識するのを助けるため、各販売担当者に関連する分析情報が表示されます。 Dynamics 365 の営業結果およびプロセスと、Office 365 のアクティビティおよびセールス コールを結び付けることにより、アシスタントはすぐに使えるコーチング分析情報をマネージャーと販売担当者にアプリ内で直接表示できます。
 <!--feature detail end -->
 
+![Sales Insights アシスタント](media/asssitant.png "Sales Insights アシスタント")
+<!-- Picture 1 -->
 
 
 
@@ -54,3 +56,6 @@ ms.locfileid: "2889737"
 ## <a name="see-also"></a>関連項目
 [機能の探索](https://aka.ms/ROGSI19RW2ROV1) (ビデオ)
 
+<!--docs start-->
+[Sales Insights アシスタントを使用して顧客とのコミュニケーションをガイドする](https://docs.microsoft.com/dynamics365/ai/sales/assistant) (ドキュメント)
+<!--docs end-->

@@ -3,25 +3,25 @@ title: クロスドッキング
 description: クロスドッキングを使用すると、作業者は、既に出庫指示に対してマークされている在庫の入庫プット アウェイと出庫ピッキングをスキップすることができます。
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 01/08/2020
+ms.date: 04/07/2020
 ms.assetid: 9862278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
-ms.openlocfilehash: f3b9fec835907ab1cd2ee386822f0fa369635f2e
-ms.sourcegitcommit: 7d5d14ac84333ba166265755f410f7e16035a64e
+ms.openlocfilehash: a8c600f0658cd325ee919daf0c8784f3bd2b59b3
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2020
-ms.locfileid: "2948013"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3319997"
 ---
 # <a name="cross-docking"></a>クロスドッキング
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 8 月 2 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 3 月 31 日|
 
 
 
@@ -49,3 +49,6 @@ ms.locfileid: "2948013"
 ## <a name="see-also"></a>関連項目
 [機能の探索](https://www.microsoft.com/videoplayer/embed/RE4f7LF) (ビデオ)
 
+<!--docs start-->
+[倉庫管理の概要](https://docs.microsoft.com/dynamics365/supply-chain/warehousing/warehouse-management-overview) (ドキュメント)
+<!--docs end-->

@@ -3,18 +3,18 @@ title: 最も一般的な販売ワークフローの改善または簡素化
 description: 営業担当者が簡単に Dynamics 365 Sales アプリを使用できるよう、最も一般的な営業ワークフローを改善または簡素化します。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 11/15/2019
+ms.date: 03/20/2020
 ms.assetid: e061278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: naitikds
 dynamics365pdf: true
-ms.openlocfilehash: adc1234100f10b3b4768439d0417c9bd6ae30cfc
-ms.sourcegitcommit: b42a148c376fc4d3297326179cf301404448f570
+ms.openlocfilehash: 3c9b4e9e9ee00de7a270d24543c48523e3ca9dd0
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2888695"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178507"
 ---
 # <a name="improve-or-simplify-most-common-sales-workflows"></a>最も一般的な販売ワークフローの改善または簡素化
 
@@ -47,3 +47,10 @@ ms.locfileid: "2888695"
 > この機能は、統一インターフェイスでのみ使用できます。
 
 
+
+
+
+
+
+## <a name="see-also"></a>関連項目
+[プロパティを使用して製品を説明する](https://docs.microsoft.com/dynamics365/sales-enterprise/use-properties-describe-product) (ドキュメント)

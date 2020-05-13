@@ -2,26 +2,26 @@
 title: 出庫の並べ替え
 description: パレット作成では、梱包ステーションの後で梱包済みコンテナーを正しいパレットに並べて、梱包階層を作成することができます。
 author: relnotes
-ms.reviewer: josaw
-ms.date: 10/04/2019
+ms.reviewer: kamaybac
+ms.date: 01/27/2020
 ms.assetid: 8662278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 dynamics365pdf: true
-ms.openlocfilehash: e730d2ef412264dffd5287f19c3f7ac35b1a49f3
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: 848bca645a09ff05bc6dc7f1d8b51c1440b964bf
+ms.sourcegitcommit: 539959f0153f0218e260146bc73a90ac391dfaa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2660599"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "3058994"
 ---
 # <a name="outbound-sorting"></a>出庫の並べ替え
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 6 月 3 日| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 6 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 17 日|
 
 
 
@@ -43,3 +43,7 @@ ms.locfileid: "2660599"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[倉庫管理の概要](https://docs.microsoft.com/dynamics365/supply-chain/warehousing/warehouse-management-overview) (ドキュメント)

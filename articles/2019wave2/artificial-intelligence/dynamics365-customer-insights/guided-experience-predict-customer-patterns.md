@@ -1,27 +1,27 @@
 ---
 title: 顧客パターンを予測するためのガイド付きエクスペリエンス
-description: コーディングの経験を必要とせずに、顧客のパターンと属性を予測する機能を提供します。
+description: ''
 author: relnotes
 ms.reviewer: mhart
-ms.date: 11/01/2019
+ms.date: 03/18/2020
 ms.assetid: 2251a77b-5872-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: b131d7a7d1cae892e3a0317bfbdc34545eff13d2
-ms.sourcegitcommit: dcbeed56af9eb48c17dc368f15a265a04cd4d760
+ms.openlocfilehash: 4b7091fbb0cb43dfe0f24ebe3de0a46331ed6a98
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/11/2019
-ms.locfileid: "2780623"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178232"
 ---
 # <a name="guided-experience-to-predict-customer-patterns"></a>顧客パターンを予測するためのガイド付きエクスペリエンス
-[!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2020 年 3 月| -|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 3 月 11 日| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -48,3 +48,7 @@ ms.locfileid: "2780623"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[値の予測を使用してデータを完成させる](https://docs.microsoft.com/dynamics365/ai/customer-insights/predictions) (ドキュメント)

@@ -2,26 +2,26 @@
 title: ピッキング作業作成ステップからの需要補充作業の分割
 description: この機能により、ユーザーは補充作業トランザクションを作業作成の残りの部分から分離することができます。
 author: relnotes
-ms.reviewer: josaw
-ms.date: 11/19/2019
+ms.reviewer: kamaybac
+ms.date: 03/19/2020
 ms.assetid: 7a62278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: pjacobse
 dynamics365pdf: true
-ms.openlocfilehash: 4e2d99ef7131409652ef9c8084cb350af87892af
-ms.sourcegitcommit: b3c4fcc7b7ea3803a7643417cc415abb10be1182
+ms.openlocfilehash: d5091ab8169a37cf682680bf62c28e32ba213f23
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "2889598"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178804"
 ---
 # <a name="split-demand-replenishment-work-from-create-pick-work-step"></a>ピッキング作業作成ステップからの需要補充作業の分割
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 1 日| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 27 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,4 +47,4 @@ ms.locfileid: "2889598"
 
 ## <a name="see-also"></a>関連項目
 
-[倉庫管理の概要](https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/warehousing/warehouse-management-overview) (docs)
+[倉庫管理の概要](https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/warehousing/warehouse-management-overview) (ドキュメント)

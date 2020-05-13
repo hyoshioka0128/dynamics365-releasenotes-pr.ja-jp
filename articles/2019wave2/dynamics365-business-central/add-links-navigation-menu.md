@@ -3,18 +3,18 @@ title: ナビゲーション メニューにリンクを追加する
 description: 任意のページまたはレポートへのリンクを追加することにより、ナビゲーション メニューをパーソナライズします。
 author: mikebcMSFT
 ms.reviewer: sgroespe
-ms.date: 01/06/2020
+ms.date: 02/03/2020
 ms.assetid: e83a8d44-e56b-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 711061e480615bb41f0f1f2e8b40c57b7256415f
-ms.sourcegitcommit: ba5b15c33dc3669937bf5219b1b38995cffb661b
+ms.openlocfilehash: df18a02cae6048d06126a3fb2adc0e9270bfc4bf
+ms.sourcegitcommit: 539959f0153f0218e260146bc73a90ac391dfaa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2020
-ms.locfileid: "2947626"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "3059114"
 ---
 # <a name="add-links-to-your-navigation-menu"></a>ナビゲーション メニューにリンクを追加する
 
@@ -37,7 +37,9 @@ Business Central 2019 リリース ウェーブ 2 には、お気に入りのコ
 
 新しいブックマーク アイコンを使用して、ロール センターのナビゲーション メニューに任意のページまたはレポートへのリンクを追加できます。 ブックマーク アイコンは、ページの右上隅のほか**操作アシスト** ウィンドウにも表示され、複数のリンクを効率的にブックマークできます。 **操作アシスト**ウィンドウで見つかるページまたはレポートであればすべてブックマークできます。 ブックマークした後は、ナビゲーション メニューをカスタマイズしてブックマークを並べ替えたり、類似のブックマークをグループ化したりできます。
 
-ページのブックマークは、Update 15.0 から利用可能です。レポートのブックマークは Update 15.4 から利用可能です
+ページのブックマークは、Update 15.0 から利用可能です。
+
+レポートのブックマークは、すべての新しい環境では Update 15.3 から、また、15.2 からのアップグレードを選択した環境で利用可能です。  
 
 他の UI の個人用設定と同様に、ブックマークはサインインしているデバイスやブラウザーに関係なく、そのユーザーと連動します。
 

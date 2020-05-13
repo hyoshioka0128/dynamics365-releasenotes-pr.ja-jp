@@ -2,19 +2,19 @@
 title: 拡張性のデザイン
 description: 拡張性のデザイン
 author: relnotes
-ms.reviewer: edupont
-ms.date: 11/15/2019
+ms.reviewer: solsen
+ms.date: 02/19/2020
 ms.assetid: 65c8ca19-be6c-e911-a98c-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: henrikwh
 dynamics365pdf: true
-ms.openlocfilehash: 804a80f6280f91af8ed046575e269ed3098ff35f
-ms.sourcegitcommit: 8576a2025aaee545bbfc7d3c91de5bec2054639c
+ms.openlocfilehash: fd18d407de7accc5f90a2a7ea907e77b62daf912
+ms.sourcegitcommit: bfe05af05f11f2c318a77bb3138c3df0796c7187
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "2891923"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "3089111"
 ---
 # <a name="design-for-extensibility"></a>拡張性のデザイン
 
@@ -68,8 +68,8 @@ AL での Microsoft アプリケーションのソース コードの最初の�
 |[Object Selection](https://github.com/microsoft/ALAppExtensions/tree/master/Modules/System/Object%20Selection)|インストールされた拡張機能からのオブジェクトを含め、すべてのアプリケーション オブジェクトをページで検索します。|
 |[Password Dialog](https://github.com/microsoft/ALAppExtensions/tree/master/Modules/System/Password%20Dialog)|ユーザーがパスワードを入力するためのダイアログを導入します。|
 |[Record Link Management](https://github.com/microsoft/ALAppExtensions/tree/master/Modules/System/Record%20Link%20Management)|ユーザーは、ほぼすべてのレコードに対するメモやリンクをシステムに追加できます。 現在のモジュールは、レコードを処理するための API を開発者に提供します。たとえば、あるレコードから別のレコードへのリンクの転送/コピー、プラットフォームで期待される BLOB 形式へのテキスト入力の変換、孤立リンクのクリーンアップなどの処理です。|
-|[Recurrence Schedule](https://github.com/microsoft/ALAppExtensions/tree/master/Modules/System/Satisfaction%20Survey)|イベントの繰り返しをスケジュールする方法を提供します。 日、週、月、または年単位の繰り返しを設定できます。 このモジュールで、次にスケジュールが発生する日時も特定できます。|
-|[Satisfaction Survey](https://github.com/microsoft/ALAppExtensions/tree/master/Modules/System/Server%20Settings)|ユーザーに満足度調査を提示する方法を提供します。|
+|[Recurrence Schedule](https://github.com/microsoft/ALAppExtensions/tree/master/Modules/System/Recurrence%20Schedule)|イベントの繰り返しをスケジュールする方法を提供します。 日、週、月、または年単位の繰り返しを設定できます。 このモジュールで、次にスケジュールが発生する日時も特定できます。|
+|[Satisfaction Survey](https://github.com/microsoft/ALAppExtensions/tree/master/Modules/System/Satisfaction%20Survey)|ユーザーに満足度調査を提示する方法を提供します。|
 |[Server Settings](https://github.com/microsoft/ALAppExtensions/tree/master/Modules/System/Server%20Settings)|サーバー構成ファイルから設定を取得するメソッドを公開します。 たとえば、拡張機能では、Excel アドインがインストールされているかどうか、またはオンライン サービスをサーバーにインストールできるかどうかが確認されます。|
 |[System Initialization](https://github.com/microsoft/ALAppExtensions/tree/master/Modules/System/System%20Initialization)|アプリケーションを初期化するための機能が含まれます。|
 |[Tenant License State](https://github.com/microsoft/ALAppExtensions/tree/master/Modules/System/Tenant%20License%20State)|ライセンスの開始日と終了日を含め、試用、有料、中止など、テナント ライセンスの現在の状態を取得します。|
@@ -95,4 +95,4 @@ AL での Microsoft アプリケーションのソース コードの最初の�
 
 [Dynamics 365 のブログ](https://cloudblogs.microsoft.com/dynamics365/it/2019/08/09/introducing-the-dynamics-365-business-central-system-application/) (ブログ)
 
-[AL での開発](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-dev-overview) (ドキュメント)
+[システム アプリケーションの概要](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-system-application-overview) (ドキュメント)

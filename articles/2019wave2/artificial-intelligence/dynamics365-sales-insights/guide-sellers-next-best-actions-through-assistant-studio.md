@@ -3,25 +3,25 @@ title: Assistant Studio での次善のアクションによる販売担当者�
 description: 販売担当者は、リレーションシップ アシスタントを使用して次善のアクションを見つけることができます。 Assistant Studio を使用することで、組織はビジネス ニーズに合わせてこれらのアクションを調整できます。 この機能は、2019 年リリース ウェーブ 2 で一般提供されます。
 author: relnotes
 ms.reviewer: udag
-ms.date: 11/15/2019
+ms.date: 04/14/2020
 ms.assetid: c463278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: joegan
+ms.author: nataln
 dynamics365pdf: true
-ms.openlocfilehash: dc0cbe82f990e28f6541910a86709d6ec8fc48d1
-ms.sourcegitcommit: fb1e16c7028e20a554c45ecc0cc114b724c87fcd
+ms.openlocfilehash: 825e591b60087b2c238ff6986ad8e452af976efc
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "2809771"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3319887"
 ---
 # <a name="guide-sellers-with-next-best-actions-through-the-assistant-studio"></a>Assistant Studio での次善のアクションによる販売担当者のガイド
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 4 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 10 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -51,3 +51,7 @@ ms.locfileid: "2809771"
 
 ## <a name="see-also"></a>関連項目
 [機能の探索](https://aka.ms/ROGSI19RW2ROV2) (ビデオ)
+
+<!--docs start-->
+[分析情報カード リファレンス](https://docs.microsoft.com/dynamics365/ai/sales/action-cards-reference) (ドキュメント)
+<!--docs end-->

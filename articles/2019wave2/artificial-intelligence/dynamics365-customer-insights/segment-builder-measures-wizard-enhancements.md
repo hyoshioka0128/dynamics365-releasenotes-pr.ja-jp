@@ -3,18 +3,18 @@ title: セグメント ビルダーおよび測定ウィザードの機能強化
 description: セグメントおよびメジャーの作成を向上させるための高度な機能。
 author: relnotes
 ms.reviewer: mhart
-ms.date: 10/15/2019
+ms.date: 03/18/2020
 ms.assetid: 3464278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: cb227cf76ea7e7c3ebc794c79684e833f2b439e0
-ms.sourcegitcommit: b0fef00d4f04f2507056a10ecce699767c669119
+ms.openlocfilehash: bc51a66617b1577856822e10cd328742d496c2ff
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2661088"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178309"
 ---
 # <a name="segment-builder-and-measures-wizard-enhancements"></a>セグメント ビルダーおよび測定ウィザードの機能強化
 
@@ -49,3 +49,5 @@ ms.locfileid: "2661088"
 ## <a name="see-also"></a>関連項目
 
 [Dynamics 365 Customer Insights – 2019 年 10 月リリース ノート](https://cloudblogs.microsoft.com/dynamics365/it/2019/10/02/dynamics-365-customer-insights-october-2019-release-notes/) (ブログ)
+
+[セグメントと顧客グループの作成](https://docs.microsoft.com/dynamics365/ai/customer-insights/pm-segments) (ドキュメント)

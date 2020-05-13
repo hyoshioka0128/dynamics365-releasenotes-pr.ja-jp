@@ -3,18 +3,18 @@ title: Dynamics 365 Supply Chain Management 2019 年リリース ウェーブ 2 
 description: Dynamics 365 Supply Chain Management 2019 年リリース ウェーブ 2 の概要
 author: relnotes
 ms.reviewer: josaw
-ms.date: 11/08/2019
+ms.date: 04/28/2020
 ms.assetid: 32921b4a-cdf5-e911-a813-000d3a4f1cdd
 ms.topic: overview
 ms.service: business-applications
 ms.author: mswami
 dynamics365pdf: true
-ms.openlocfilehash: 517e720651c903f142cc57c679358eb5da6a6f40
-ms.sourcegitcommit: 96a8b76935ff81eeb407aeb5dcf4d402a33b56da
+ms.openlocfilehash: 59d9c7f901c14153373afc1e9aef961c470f2bef
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2952339"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3319986"
 ---
 # <a name="overview-of-dynamics-365-supply-chain-management-2019-release-wave-2"></a>Dynamics 365 Supply Chain Management 2019 年リリース ウェーブ 2 の概要
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
@@ -42,5 +42,4 @@ ms.locfileid: "2952339"
 最大の優先事項は、サービスの運用から得られる継続的なフィードバックを活用して、目に見えるパフォーマンスの向上を推進し、製造に関わる主なビジネス プロセスを最適化することです。 計画最適化のパブリック プレビューは、2019 年 10 月に公開予定です。 
 
 Microsoft では、現在の製造機能の強化と発展を継続的に進めており、現代の製造業者と連動するインテリジェントな運用をサポートします。 インテリジェントな Microsoft Azure IoT サービスと統合し、製造業のお客様がデジタル フィードバック ループを完結させるのを支援します。 これにより、製造現場からのリアルタイムに近い情報をビジネス データと統合して、ビジネス イベントやアクションにつながる分析情報を生成します。 買収により、お客様が運用資産の総所有コストを追跡し、それらの資産の継続的な保守を管理できるようにする、エンタープライズ資産管理機能を導入します。
-
 <!--overview end-->

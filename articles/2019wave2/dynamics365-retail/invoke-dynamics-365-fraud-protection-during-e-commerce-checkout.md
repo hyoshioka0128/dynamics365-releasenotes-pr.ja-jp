@@ -3,30 +3,30 @@ title: eコマース チェックアウト時に Dynamics 365 Fraud Protection �
 description: 初めて Dynamics 365 Fraud Protection とそのまま統合できるようになったことで、eコマース チェックアウト フローに詐欺防止ロジックをそのまま統合できるようになりました。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 10/02/2019
+ms.date: 03/20/2020
 ms.assetid: 5539f1c8-16e2-e911-a814-000d3a4f1244
 ms.topic: article
 ms.service: business-applications
 ms.author: rubendel
 dynamics365pdf: true
-ms.openlocfilehash: 4882a8ad292620a09d4cd75544248b3412f9e698
-ms.sourcegitcommit: 6fd581a9afe3da3ded441e8254d1f30737187afc
+ms.openlocfilehash: cbb7aec8dd4e15ecbcec1c79cc5047c5a73a1cec
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "2659817"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3320734"
 ---
 # <a name="invoke-dynamics-365-fraud-protection-during-e-commerce-checkout"></a>eコマース チェックアウト時に Dynamics 365 Fraud Protection を呼び出す
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者による有効化、またはアナリスト|2019 年 11 月| 2020 年 1 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2019 年 11 月 25 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 31 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-この機能は、Dynamics 365 Commerce を使用したすぐに使用できる詐欺防止オプションを小売店に提供します。 そのまま使用できる Commerce 製品を使用する場合でも、SDK を通じてサード パーティのストアフロントと統合する場合でも、認証のために送信される前にクレジット カード トランザクションの詐欺についてチェックするオプションが用意されています。
+この機能は、Dynamics 365 Commerce を使用したすぐに使用できる詐欺防止オプションを小売業者に提供します。 そのまま使用できる Commerce 製品を使用する場合でも、SDK を通じてサード パーティのストアフロントと統合する場合でも、認証のために送信される前にクレジット カード トランザクションの不正についてチェックするオプションが用意されています。
 <!-- bv end -->
 
 
@@ -44,3 +44,9 @@ ms.locfileid: "2659817"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[Dynamics 365 Fraud Protection の Dynamics 365 Commerce との統合](https://docs.microsoft.com/dynamics365/commerce/dev-itpro/dfp) (ドキュメント)
+<!--docs end-->

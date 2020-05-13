@@ -3,18 +3,18 @@ title: 3D モデルの STL および PLY ファイル形式のサポート
 description: Dynamics 365 Guides では、STL および PLY ファイル形式がサポートされるようになりました。
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 11/05/2019
+ms.date: 03/18/2020
 ms.assetid: 1f5de0d9-cff6-e911-a813-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
 ms.author: makamat
 dynamics365pdf: true
-ms.openlocfilehash: 470eb10ef9e1a1c5943ec0c1049454ee6014d226
-ms.sourcegitcommit: dcbeed56af9eb48c17dc368f15a265a04cd4d760
+ms.openlocfilehash: 0e0c44e97741f0ee5eeb059205214e4277ad2a14
+ms.sourcegitcommit: 32be8c144e80ce07a534527d80aba9db93795efe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/11/2019
-ms.locfileid: "2781108"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3178530"
 ---
 # <a name="support-for-stl-and-ply-file-formats-for-3d-models"></a>3D モデルの STL および PLY ファイル形式のサポート
 
@@ -41,3 +41,7 @@ glTF、GLB、および FBX ファイル形式に加えて、Dynamics 365 Guides 
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+[3D モデルを変換して、Dynamics 365 Guides でホログラムとして使用する](https://docs.microsoft.com/dynamics365/mixed-reality/guides/import-tool) (ドキュメント)

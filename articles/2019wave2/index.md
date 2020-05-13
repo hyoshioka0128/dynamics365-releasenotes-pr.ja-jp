@@ -3,22 +3,22 @@ title: Dynamics 365 の 2019 年リリース ウェーブ 2 の概要
 description: 2019 年リリース ウェーブ 2 の予定では、2019 年 10 月から 2020 年 3 月の間にリリースされる予定の Dynamics 365 の機能が説明されています。
 author: DesaiDarshan
 ms.reviewer: renwe
-ms.date: 12/6/2019
+ms.date: 04/30/2020
 ms.assetid: ''
 ms.topic: overview
 ms.service: business-applications
 ms.author: ramanasr
 dynamics365pdf: true
-ms.openlocfilehash: 7c339bd2a8bbb15b9a12a79a22d0865a7eedce0e
-ms.sourcegitcommit: 50510b41ebc81897993a45f689651d9eda6c4247
+ms.openlocfilehash: aaaa4cc782fe34a55f7d4bce6ea34141f3e19489
+ms.sourcegitcommit: ffd2a9b81763d82b9121a2bb5a738441bafd62c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/20/2019
-ms.locfileid: "2909634"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "3319898"
 ---
-# <a name="dynamics-365-2019-release-wave-2-plan"></a>Dynamics 365: 2019 年リリース ウェーブ 2 の予定 
+# <a name="dynamics-365-2019-release-wave-2-plan"></a>Dynamics 365: 2019 年リリース ウェーブ 2 の計画 
 
-**[2019 年 リリース ウェーブ 2 PDF のダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2094533)** (2019 年 12 月 9 日最終更新)
+**[2019 年リリース ウェーブ 2 の PDF のダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2094533)** (最終更新 2020 年 5 月 5 日)
 
 2019 年リリース ウェーブ 2 の Dynamics 365 リリース計画 (旧称リリース ノート) では、2019 年 10 月から 2020 年 3 月中にリリースされるすべての新機能について説明します。 このリリース計画は、[オンライン](https://aka.ms/Dynamics365ReleasePlan)で参照することも、[PDF ファイル](https://go.microsoft.com/fwlink/p/?linkid=2094533)のドキュメントとしてダウンロードすることもできます。 PDF ファイルには、Power Apps、Power Automate、Power Virtual Agents、Common Data Model、およびデータ統合に関する情報も含まれています。
 
