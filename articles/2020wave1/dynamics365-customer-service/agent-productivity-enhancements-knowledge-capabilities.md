@@ -3,25 +3,25 @@ title: ナレッジ機能に対するエージェントの生産性強化
 description: ナレッジ機能に対するエージェントの生産性強化
 author: relnotes
 ms.reviewer: laalexan
-ms.date: 02/14/2020
+ms.date: 04/06/2020
 ms.assetid: b54697cf-3adb-e911-a812-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
 ms.author: xiaoyad
 dynamics365pdf: true
-ms.openlocfilehash: eb7a2894894215c3c0af14d25851058210c8aed0
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 204e58fc7dc0816e7dc22c5ff1ea1f94ebad8ccc
+ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3233284"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "3256137"
 ---
 # <a name="agent-productivity-enhancements-to-knowledge-capabilities"></a>ナレッジ機能に対するエージェントの生産性強化
-[!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -52,8 +52,6 @@ ms.locfileid: "3233284"
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [サポート情報検索コントロール](https://docs.microsoft.com/dynamics365/customer-service/search-knowledge-articles-csh#knowledge-base-search-control) (ドキュメント)
 <!--docs end-->
-

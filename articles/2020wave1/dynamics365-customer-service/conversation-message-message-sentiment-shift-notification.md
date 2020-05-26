@@ -3,25 +3,25 @@ title: 会話メッセージとメッセージの感情変化の通知
 description: 会話メッセージとメッセージの感情変化の通知
 author: relnotes
 ms.reviewer: kabala
-ms.date: 02/28/2020
+ms.date: 04/14/2020
 ms.assetid: 1662278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: rajeshna
+ms.author: srikot
 dynamics365pdf: true
-ms.openlocfilehash: 3e2b49ecb11d2f374a848c2ade69641049ba714a
-ms.sourcegitcommit: 2928661abcc468748ffc7c33516ebc8e3cd5d653
+ms.openlocfilehash: 86d0a21b148a648ef77f40612b08d77ed26e3df8
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "3099203"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3272612"
 ---
 # <a name="conversation-message-and-message-sentiment-shift-notification"></a>会話メッセージとメッセージの感情変化の通知
-[!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 3 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -50,3 +50,9 @@ ms.locfileid: "3099203"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[リアルタイムの顧客感情を分析する](https://docs.microsoft.com/dynamics365/omnichannel/administrator/enable-sentiment-analysis) (ドキュメント)
+<!--docs end-->

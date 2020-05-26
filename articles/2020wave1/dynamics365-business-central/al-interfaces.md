@@ -3,25 +3,25 @@ title: AL インターフェイス
 description: AL でインターフェイスを定義および実装して、コードがインターフェイスに準拠する任意のタイプと対話できるようにします。
 author: relnotes
 ms.reviewer: solsen
-ms.date: 04/02/2020
+ms.date: 04/15/2020
 ms.assetid: 2fc48a30-db1c-ea11-a811-000d3a8f0f1e
 ms.topic: article
 ms.service: business-applications
 ms.author: pborring
 dynamics365pdf: true
-ms.openlocfilehash: 1c2c301da721c4927d8b67232b838b5ecca7c54d
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: c0015d453d4007947e4f4904510a0d25737162fb
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3233014"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3272534"
 ---
 # <a name="al-interfaces"></a>AL インターフェイス
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| 2020 年 4 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 2 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -59,8 +59,6 @@ ms.locfileid: "3233014"
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
-[AL Development Environment](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-reference-overview) (ドキュメント)
+[AL でのインターフェイス](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-interfaces-in-al) (ドキュメント)
 <!--docs end-->
-

@@ -1,27 +1,27 @@
 ---
-title: サード パーティを介したリモート アシスタンス機能
-description: パートナーがサード パーティのリモート アシスタンス ソリューションを Customer Service 用オムニチャネルに統合できるようにするフレームワーク。
+title: サード パーティを介したリモート デスクトップ機能
+description: パートナーがサード パーティのリモート デスクトップ ソリューションを Customer Service 用オムニチャネルに統合できるようにするフレームワーク。
 author: relnotes
 ms.reviewer: kabala
-ms.date: 02/06/2020
+ms.date: 04/15/2020
 ms.assetid: d19b5b65-8b36-ea11-a813-000d3a563be2
 ms.topic: article
 ms.service: business-applications
 ms.author: srikot
 dynamics365pdf: true
-ms.openlocfilehash: 7bc6bf3d26a2cda7189ff5b4cb8a28d1046d9864
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 74500e33472116b88773089ff208fc6ac00b20f3
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232178"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3273843"
 ---
-# <a name="remote-assistance-capabilities-through-third-party"></a>サード パーティを介したリモート アシスタンス機能
-[!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
+# <a name="remote-desktop-capabilities-through-third-party"></a>サード パーティを介したリモート デスクトップ機能
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 31 日|-| 2020 年 4 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 31 日|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,8 +47,6 @@ ms.locfileid: "3232178"
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
-[Customer Service 用オムニチャネルのガイド](https://docs.microsoft.com/dynamics365/omnichannel/omnichannel-customer-service-guide) (ドキュメント)
+[ライブ チャットでの共同参照と画面共有](https://docs.microsoft.com/dynamics365/omnichannel/agent/agent-oc/call-options-visual-engagement#co-browse-and-screen-share-in-live-chat) (ドキュメント)
 <!--docs end-->
-

@@ -3,25 +3,25 @@ title: 資産の利用可能性に基づいた製造リソース スケジュー
 description: この機能は、製造リソースの統合能力計画を提供します。
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 02/28/2020
+ms.date: 04/10/2020
 ms.assetid: 6412678c-89cb-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: dabourq
 dynamics365pdf: true
-ms.openlocfilehash: 411265f2b751d5ba943bb063edb1367f702d886e
-ms.sourcegitcommit: 2928661abcc468748ffc7c33516ebc8e3cd5d653
+ms.openlocfilehash: 106b3bb8cdfc9bac7209c9f83eda6b0cf94c7a2f
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "3098654"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3272545"
 ---
 # <a name="manufacturing-resource-scheduling-based-on-asset-availability"></a>資産の利用可能性に基づいた製造リソース スケジュール
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 7 月| -|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 8 月| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

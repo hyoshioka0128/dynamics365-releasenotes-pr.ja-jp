@@ -1,27 +1,27 @@
 ---
 title: Dynamics 365 Sales や Microsoft SharePoint に標準化された PDF ドキュメントを保存する
-description: ''
+description: 標準化された PDF ドキュメントを、Notes の添付ファイルとして Dynamics 365 Sales に保存するか、または Microsoft SharePoint に保存します。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 02/03/2020
+ms.date: 04/22/2020
 ms.assetid: 53991d2d-22db-e911-a812-000d3a4f13c0
 ms.topic: article
 ms.service: business-applications
 ms.author: bharavar
 dynamics365pdf: true
-ms.openlocfilehash: 8d86ece803692e1ec43f042206a57438a4031c7d
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 97a1a84f90419193f835739c87dc4a5b64e14320
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232354"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3293249"
 ---
 # <a name="save-standardized-pdf-documents-to-dynamics-365-sales-or-microsoft-sharepoint"></a>Dynamics 365 Sales や Microsoft SharePoint に標準化された PDF ドキュメントを保存する
-[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -41,17 +41,13 @@ Dynamics 365 Sales では、過去数か月の作業で、販売担当者が見�
 
 ![PDF を Dynamics 365 Sales または Microsoft SharePoint に保存するダイアログ ボックス](media/save-sharepoint-1.png "PDF を Dynamics 365 Sales または Microsoft SharePoint に保存するダイアログ ボックス")
 <!-- Picture 1 -->
-
 ![メモに追加された PDF ドキュメント](media/save-sharepoint-2.png "メモに追加された PDF ドキュメント")
 <!-- Picture 2 -->
-
 ![SharePoint サイトに追加された PDF ドキュメント](media/save-sharepoint-3.png "SharePoint サイトに追加された PDF ドキュメント")
 <!-- Picture 3 -->
 
 > [!NOTE]
-> この機能は、統一インターフェイスでのみ使用できます。 
->
-> この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
+> この機能は、統一インターフェイスでのみ使用できます。 この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
 
 
 
@@ -61,8 +57,6 @@ Dynamics 365 Sales では、過去数か月の作業で、販売担当者が見�
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [営業レコードから PDF ドキュメントを作成する](https://docs.microsoft.com/dynamics365/sales-enterprise/create-quote-pdf) (ドキュメント)
 <!--docs end-->
-

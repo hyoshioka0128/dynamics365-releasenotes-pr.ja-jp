@@ -3,25 +3,25 @@ title: 統一インターフェイスでのサイト エンティティのサポ
 description: 統一インターフェイスでのサイト エンティティのサポート
 author: relnotes
 ms.reviewer: nenellim
-ms.date: 02/10/2020
+ms.date: 04/15/2020
 ms.assetid: a049a29b-d71b-ea11-a811-000d3a8f075c
 ms.topic: article
 ms.service: business-applications
 ms.author: jessiewa
 dynamics365pdf: true
-ms.openlocfilehash: 09c98d13aaf6ce1253a3fc315ecb7cb1f37d9362
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 4212507dfa2f910adb360d465636eba02b61b264
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232134"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3293513"
 ---
 # <a name="support-for-site-entity-in-the-unified-interface"></a>統一インターフェイスでのサイト エンティティのサポート
-[!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,8 +47,6 @@ ms.locfileid: "3232134"
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [サイトについて](https://docs.microsoft.com/dynamics365/customer-service/customer-service-hub-user-guide-basics#understand-site) (ドキュメント)
 <!--docs end-->
-

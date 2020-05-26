@@ -3,18 +3,18 @@ title: ページをよりすばやく開く
 description: ページをよりすばやく開きます。
 author: mikebcMSFT
 ms.reviewer: jswymer
-ms.date: 04/01/2020
+ms.date: 04/21/2020
 ms.assetid: c9b05388-851a-ea11-a811-000d3a8f022a
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: e16698993c0f1d5fd75686e478c3dfddef495628
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 30bd1557bc1af08f11458ad4f9d2cd21819e1c92
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232222"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3293766"
 ---
 # <a name="pages-open-faster"></a>ページをよりすばやく開く
 
@@ -37,15 +37,15 @@ ms.locfileid: "3232222"
 
 技術的には、レンダリングされたページは、最初に開かれたときにキャッシュされるようになりました。 これを行うために、ビジネス データや機密情報がユーザーのデバイスに永続化されることはありません。 次にページが開いたときに、サービスから最新のデータがフェッチされている間、キャッシュからすぐにレンダリングされます。
 
-- Update 16.0 では、ユーザーのセッションの間、ページがキャッシュされます。 ユーザーは、ログインしたままの状態でのみ、パフォーマンス向上のメリットを得られます。
-- Update 16.1 では、セッション間でページをキャッシュすることで機能を改善します。 ユーザーは、ブラウザーを閉じたりログアウトした後に再度ログインした場合にも、読み込み時間が改善されるというメリットがあります。
+- Update 16.0 では、ユーザーのセッションの間、ページがキャッシュされます。 ユーザーは、サインインしたままの状態でのみ、パフォーマンス向上のメリットを得られます。
+- Update 16.2 では、セッション間でページをキャッシュすることで機能を改善します。 ユーザーは、別のブラウザー タブで Business Central を開いた場合や、ブラウザーを閉じたりサインアウトした後に再度サインインした場合にも、読み込み時間が改善されるというメリットがあります。
 
 サービスからのデータの取得でビジーな間、Business Central には、データがまだ読み込まれていないことを示す独特な脈動 UI 要素が表示されます。
 
 ![UI には、独特の脈動視覚化要素が表示されます](media/ghosted-ui.png "UI には、独特の脈動視覚化要素が表示されます")
 
 ### <a name="try-it-now"></a>試してみましょう
-[こちらで](https://businesscentral.dynamics.com/?page=9301)オンライン環境にログインすることで、さまざまな売上請求書を開くときなど、ページを開く時間の向上を体験してください。  
+[オンライン環境にサインイン](https://businesscentral.dynamics.com/?page=9301)して、さまざまな売上請求書を開くときなど、ページを開く時間の改善を体験してください。
 <!--feature detail end -->
 
 
@@ -61,8 +61,6 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [開発者向けのパフォーマンス記事](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/performance/performance-developer) (ドキュメント)
 <!--docs end-->
-

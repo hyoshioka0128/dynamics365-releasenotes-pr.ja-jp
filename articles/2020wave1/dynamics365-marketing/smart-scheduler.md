@@ -1,27 +1,27 @@
 ---
 title: 自動スケジューラ
-description: ''
+description: 最適にスケジュールされた時刻にメールを送信して、顧客エンゲージメントを最大限に高めます
 author: relnotes
 ms.reviewer: alfergus
-ms.date: 03/16/2020
+ms.date: 04/07/2020
 ms.assetid: b61235db-6f48-ea11-a812-000d3a579c39
 ms.topic: article
 ms.service: business-applications
 ms.author: gagatera
 dynamics365pdf: true
-ms.openlocfilehash: 0e022e07fc498f831570b9e696d417c7583c21bb
-ms.sourcegitcommit: f7b958b02d7cb7543a3f81414e7b3e62a5b8539d
+ms.openlocfilehash: 57f4833b1f781d95e8b73180a591ba20c8b6a0ba
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "3157634"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3272875"
 ---
 # <a name="automated-scheduler"></a>自動スケジューラ
-[!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,3 +47,9 @@ ms.locfileid: "3157634"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[自動スケジュールを使用した電子メール エンゲージメントの向上](https://docs.microsoft.com/dynamics365/marketing/automated-scheduler) (ドキュメント)
+<!--docs end-->

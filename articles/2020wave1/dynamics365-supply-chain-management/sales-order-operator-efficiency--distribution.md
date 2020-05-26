@@ -1,27 +1,27 @@
 ---
 title: 受注オペレーターの効率-流通
-description: 受注オペレーターの効率 - 流通
+description: 受注オペレーターの効率-流通
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 02/28/2020
+ms.date: 04/20/2020
 ms.assetid: ffc09e99-7acb-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: dabourq
 dynamics365pdf: true
-ms.openlocfilehash: 09f2b522ecac719687902011f1b926f89ad91e4d
-ms.sourcegitcommit: 2928661abcc468748ffc7c33516ebc8e3cd5d653
+ms.openlocfilehash: dcbe8caa6efbb3402ce61b8e747a05f6f3368b2a
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "3098588"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3293172"
 ---
-# <a name="sales-order-operator-efficiency--distribution"></a>受注オペレーターの効率 - 流通
+# <a name="sales-order-operator-efficiency---distribution"></a>受注オペレーターの効率-流通
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 7 月| 近日発表|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 8 月| -|
 
 
 

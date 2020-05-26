@@ -1,27 +1,27 @@
 ---
 title: 一括 URL リダイレクトのサポート
-description: ''
+description: 小売業者は、簡単な方法でサイトの Web リダイレクトを一括で制御できるようになりました。 単純な CSV 形式を利用して必要なリダイレクトのタイプを指定することで、URL リダイレクトを制御できます。 これにより、ドメイン所有者は古い URL にランディングしたユーザーを前のサイトの SEO ランキングを維持しながら目的の Web エクスペリエンスにランディングさせて、目的のエクスペリエンスをエンド ユーザーに提供することができます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 02/14/2020
+ms.date: 04/07/2020
 ms.assetid: d254d58e-631d-ea11-a812-000d3a8f010c
 ms.topic: article
 ms.service: business-applications
 ms.author: brshoo
 dynamics365pdf: true
-ms.openlocfilehash: bd8e1fbf9eee07a34ab358c180fb34afc1434fce
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: fe564094173dc32b4030774d95e261c9a48bda57
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079777"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3272633"
 ---
 # <a name="support-for-bulk-url-redirects"></a>一括 URL リダイレクトのサポート
-[!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 3 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -45,4 +45,8 @@ Dynamics 365 Commerce でサイトを構築している小売業者は、その�
 
 
 
+## <a name="see-also"></a>関連項目
 
+<!--docs start-->
+[URL リダイレクトの一括アップロード](https://docs.microsoft.com/dynamics365/commerce/upload-bulk-redirects) (ドキュメント)
+<!--docs end-->

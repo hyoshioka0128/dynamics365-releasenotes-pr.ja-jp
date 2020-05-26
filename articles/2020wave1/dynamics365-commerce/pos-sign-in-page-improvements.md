@@ -3,25 +3,25 @@ title: POS サインイン ページの改善
 description: POS サインイン ページの改善
 author: relnotes
 ms.reviewer: josaw
-ms.date: 02/20/2020
+ms.date: 04/21/2020
 ms.assetid: 9a1a4803-5b0c-ea11-a811-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
 ms.author: boycez
 dynamics365pdf: true
-ms.openlocfilehash: 151683a9e84c5b1cab90d1e8547a9bc28803207a
-ms.sourcegitcommit: 2928661abcc468748ffc7c33516ebc8e3cd5d653
+ms.openlocfilehash: d27c53fd71052104cd3139930ab2c31c87fa1e52
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "3098962"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3293590"
 ---
 # <a name="pos-sign-in-page-improvements"></a>POS サインイン ページの改善
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 4 月| 2020 年 7 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 13 日| 2020 年 7 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

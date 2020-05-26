@@ -1,27 +1,31 @@
 ---
 title: ユーザーの生産性 - 保存されているビュー - フェーズ 2
-description: ''
+description: 保存されているビュー機能を使用すると、ユーザーはフォームごとに複数の個人用設定の名前付きセットを作成できます。 これにより、ユーザーはフォームの複数の最適化されたビューを作成、保存、共有し、各ビューを特定のユーザー グループや特定のビジネス タスクの実行に合わせて最適化できます。 保存されているビューを使用すると、組織全体での個人用設定およびビューの展開と管理もはるかに簡単になります。
 author: relnotes
 ms.reviewer: sericks
-ms.date: 03/02/2020
+ms.date: 04/07/2020
 ms.assetid: abfdf192-d91d-ea11-a811-000d3a8f0f1e
 ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
-ms.openlocfilehash: 5e6835108621b9604e8c806e0f5fa841ba9b1042
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 07f59b2c539fc9562cea58bb184d42f735832d36
+ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3231826"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "3256016"
 ---
 # <a name="user-productivity--saved-views--phase-2"></a>ユーザーの生産性 - 保存されているビュー - フェーズ 2
-[!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 4 月| -|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 3 日| -|
+
+
+
+
 
 
 ## <a name="feature-details"></a>機能の詳細
@@ -30,7 +34,7 @@ ms.locfileid: "3231826"
 
 この機能の継続的な進化は、この機能が一般公開されるまで、毎月の更新の一部として引き続き導入されます。
 
-**10.0.10/Platform update 34**
+**10.0.10**
 - ビューのタスク レコーダーのサポートを追加。 記録は公開されたビューまたは標準ビューで行う必要があります。 
 
 **10.0.9/Platform update 33**
@@ -54,9 +58,14 @@ ms.locfileid: "3231826"
 
 
 
+
+
+
+
+
+
 ## <a name="see-also"></a>関連項目
 
 <!--docs start-->
 [保存されているビュー](https://docs.microsoft.com/dynamics365/fin-ops-core/fin-ops/get-started/saved-views) (ドキュメント)
 <!--docs end-->
-

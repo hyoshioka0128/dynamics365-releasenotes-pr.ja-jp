@@ -3,25 +3,25 @@ title: 現在のデータベースのロックを確認する機能
 description: 管理者が環境内の現在のデータベースのロックを確認できます。
 author: relnotes
 ms.reviewer: jswymer
-ms.date: 03/25/2020
+ms.date: 04/15/2020
 ms.assetid: 2b28feef-ac58-ea11-a811-000d3a579c39
 ms.topic: article
 ms.service: business-applications
 ms.author: kepontop
 dynamics365pdf: true
-ms.openlocfilehash: 160aa20571f76f53f1a1b78210126a881b343944
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 6210a737a7663d9ed2cbd10dc516faa685454325
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3233058"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3273667"
 ---
 # <a name="ability-to-see-current-database-locks"></a>現在のデータベースのロックを確認する機能
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2020 年 4 月| 2020 年 4 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -49,8 +49,6 @@ ms.locfileid: "3233058"
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
-[SQL Database のロックの監視](https://review.docs.microsoft.com/dynamics365/business-central/dev-itpro/administration/monitor-database-locks) (ドキュメント)
+[SQL Database のロックの監視](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/administration/monitor-database-locks) (ドキュメント)
 <!--docs end-->
-

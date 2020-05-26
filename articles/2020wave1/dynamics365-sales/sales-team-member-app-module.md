@@ -3,25 +3,25 @@ title: 営業チーム メンバー アプリ モジュール
 description: 営業チーム メンバーは、Team Member ライセンスを持つユーザーが利用できる、新しいアプリ モジュールです。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 02/03/2020
+ms.date: 04/07/2020
 ms.assetid: 848fe5cd-152e-ea11-a810-000d3a8f004f
 ms.topic: article
 ms.service: business-applications
 ms.author: naitikds
 dynamics365pdf: true
-ms.openlocfilehash: 7bcfd3db89dd8dd1ebd88c33b1ad3fdf0e2b328f
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 89f3dfc2f3eb267b1058aa04ec513c7d6321210f
+ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232365"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "3254831"
 ---
 # <a name="sales-team-member-app-module"></a>営業チーム メンバー アプリ モジュール
-[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -44,9 +44,7 @@ Team Member ライセンスは、限定された一連のユース ケースの�
 
 
 > [!NOTE]
-> この機能は、統一インターフェイスでのみ使用できます。 
->
-> この機能は、Dynamics 365 Team Member ライセンスで利用できます。
+> この機能は、統一インターフェイスでのみ使用できます。 この機能は、Dynamics 365 Team Member ライセンスで利用できます。
 
 
 
@@ -56,8 +54,6 @@ Team Member ライセンスは、限定された一連のユース ケースの�
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [Team Member ライセンスを持つユーザー向けの営業チーム メンバー アプリ](https://docs.microsoft.com/dynamics365/sales-enterprise/sales-team-member) (ドキュメント)
 <!--docs end-->
-

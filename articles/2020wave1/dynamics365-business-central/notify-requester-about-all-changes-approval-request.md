@@ -3,25 +3,25 @@ title: 承認要求の変更を要求者にすべて通知する
 description: 承認を要求している人に、要求の最新状態を伝えます。
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 02/07/2020
+ms.date: 04/06/2020
 ms.assetid: 4c26aff5-49ca-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: f818c11fd205200e39a38daee972d07672c5f74c
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 27ffe25d22f44e26281fda658d536b71a8396c0b
+ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232750"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "3255928"
 ---
 # <a name="notify-requester-about-all-changes-for-an-approval-request"></a>承認要求の変更を要求者にすべて通知する
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| 2020 年 4 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -51,8 +51,6 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [ワークフローを作成するには](https://docs.microsoft.com/dynamics365/business-central/across-how-to-create-workflows#to-create-a-workflow) (ドキュメント)
 <!--docs end-->
-

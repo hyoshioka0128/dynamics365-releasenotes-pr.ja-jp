@@ -2,19 +2,19 @@
 title: 損失防止
 description: 損失防止
 author: relnotes
-ms.reviewer: v-davido
-ms.date: 03/09/2020
+ms.reviewer: josaw
+ms.date: 04/15/2020
 ms.assetid: c39bc917-d8d0-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: veganesa
 dynamics365pdf: true
-ms.openlocfilehash: 3df300ef3e41f4bb032b936aa2c40dbf6d178c0e
-ms.sourcegitcommit: 99f8fe366e70064e41204f9ee5c16fe397396d16
+ms.openlocfilehash: 6bb0f54691723e6cc16ddbb625a37da7e73e763b
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "3114844"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3272842"
 ---
 # <a name="loss-prevention"></a>損失防止
 [!include[artificial-intelligence/dynamics365-fraud-protection banner](../includes/artificial-intelligence/dynamics365-fraud-protection.md)]
@@ -41,3 +41,9 @@ ms.locfileid: "3114844"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[損失防止の概要](https://docs.microsoft.com/dynamics365/fraud-protection/loss-prevention-overview) (ドキュメント)
+<!--docs end-->

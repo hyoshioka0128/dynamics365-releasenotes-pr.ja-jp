@@ -3,25 +3,25 @@ title: 資産管理で作業指示書を視覚的にスケジューリングす�
 description: この機能により、ユーザーは資産管理で作業指示書を視覚的にスケジュールできます。
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 12/16/2019
+ms.date: 04/20/2020
 ms.assetid: 9bf7e12a-cf1d-ea11-a811-000d3a8f022a
 ms.topic: article
 ms.service: business-applications
-ms.author: arijitba
+ms.author: dabourq
 dynamics365pdf: true
-ms.openlocfilehash: c027488b0830a2391309abb64d226e90a6068b35
-ms.sourcegitcommit: 9ede92eba84a02579fc8fc63e6a9673b034ce30c
+ms.openlocfilehash: ae0d795414d813067ef6c786c4af069485ccd6eb
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "2976527"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3293138"
 ---
 # <a name="visual-scheduling-for-work-orders-in-asset-management"></a>資産管理で作業指示書を視覚的にスケジューリングする
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 3 日|
 
 
 
@@ -41,3 +41,9 @@ ms.locfileid: "2976527"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[ガントチャートを使用したスケジュールされた作業指示による作業](https://docs.microsoft.com/dynamics365/supply-chain/asset-management/work-order-scheduling/schedule-work-orders#gantt) (ドキュメント)
+<!--docs end-->

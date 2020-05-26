@@ -3,25 +3,28 @@ title: cXML による発注書の配信
 description: cXML による発注書の配信
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 12/16/2019
+ms.date: 04/07/2020
 ms.assetid: a5e38966-f51d-ea11-a811-000d3a8f022a
 ms.topic: article
 ms.service: business-applications
 ms.author: lcash
 dynamics365pdf: true
-ms.openlocfilehash: 06a4a0082f8a92514ed9e61b2f5cebc33de5815d
-ms.sourcegitcommit: 9ede92eba84a02579fc8fc63e6a9673b034ce30c
+ms.openlocfilehash: 3d0ddc223667fdb4c83b6a76e8fe3ecadc7b8ad3
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "2976531"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3272259"
 ---
 # <a name="purchase-order-delivery-via-cxml"></a>cXML による発注書の配信
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 3 日|
+
+
+
 
 
 

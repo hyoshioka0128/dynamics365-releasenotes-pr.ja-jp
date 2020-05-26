@@ -3,18 +3,18 @@ title: Automotive Accelerator
 description: Automotive Accelerator
 author: relnotes
 ms.reviewer: deonhe
-ms.date: 12/31/2019
+ms.date: 04/22/2020
 ms.assetid: b58a6c5f-d51a-ea11-a811-000d3a8f0752
 ms.topic: article
 ms.service: business-applications
 ms.author: snagy
 dynamics365pdf: true
-ms.openlocfilehash: 3bbe02e2d983e54e51b223ccb39fcefb4976e58f
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 1a6745ecc52209edcc5ff7ebf3c724166f907415
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232288"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3293425"
 ---
 # <a name="automotive-accelerator"></a>Automotive Accelerator
 [!include[industry-accelerators/automotive banner](../includes/industry-accelerators/automotive.md)]
@@ -46,8 +46,6 @@ Automotive Accelerator の初期リリースは、一般にディーラーと OE
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [Automotive Accelerator](https://docs.microsoft.com/common-data-model/automotive-accelerator) (ドキュメント)
 <!--docs end-->
-

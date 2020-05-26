@@ -3,18 +3,18 @@ title: 仕入先請求書のバッチ転記
 description: 自動化された転記タスクを仕入先請求書ワークフローに追加して、バッチを使用して請求書を転記できるようになりました。
 author: relnotes
 ms.reviewer: roschlom
-ms.date: 03/16/2020
+ms.date: 04/09/2020
 ms.assetid: dc43cc48-ab4d-ea11-a812-000d3a579c39
 ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: 976dba453ffa2f53eed405684f6c7d99b6c51b89
-ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
+ms.openlocfilehash: 1f4fac3e0b59ebb6a65e8f578faa40c93bf45b30
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "3151827"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3274074"
 ---
 # <a name="vendor-invoice-batch-posting"></a>仕入先請求書のバッチ転記
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]

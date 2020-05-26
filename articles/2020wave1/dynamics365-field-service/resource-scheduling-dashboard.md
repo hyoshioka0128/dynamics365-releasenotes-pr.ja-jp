@@ -3,18 +3,18 @@ title: リソース スケジュール ダッシュボード
 description: リソース スケジュール分析情報ダッシュボード
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 02/10/2020
+ms.date: 04/20/2020
 ms.assetid: e34c84f9-b7ca-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: feiqiu
 dynamics365pdf: true
-ms.openlocfilehash: 01b4358961fdd1551e6d4cde356050cae4c531ba
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 079bc38b0345478f4cf3992f5d4eea815513d928
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3233135"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3293469"
 ---
 # <a name="resource-scheduling-dashboard"></a>リソース スケジュール ダッシュボード
 [!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
@@ -49,8 +49,6 @@ ms.locfileid: "3233135"
 
 
 ## <a name="see-also"></a>関連項目
-
 <!--docs start-->
 [リソース スケジュールと最適化の分析ダッシュボード](https://docs.microsoft.com/dynamics365/field-service/scheduling-analytics-reports) (ドキュメント)
 <!--docs end-->
-

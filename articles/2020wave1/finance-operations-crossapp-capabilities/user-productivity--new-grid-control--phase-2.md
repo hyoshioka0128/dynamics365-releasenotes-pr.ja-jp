@@ -1,27 +1,27 @@
 ---
 title: ユーザーの生産性 - 新しいグリッド コントロール - フェーズ 2
-description: ''
+description: 新しく改善されたグリッド コントロールは、10.0.9 / Platform update 33 でパブリック プレビューに移行しました。 この機能の継続的な進化は、この機能が一般公開されるまで、毎月の更新の一部として引き続き導入されます。
 author: relnotes
 ms.reviewer: sericks
-ms.date: 01/10/2020
+ms.date: 04/10/2020
 ms.assetid: ebd342bc-d91d-ea11-a811-000d3a8f0f1e
 ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
-ms.openlocfilehash: 555b2c1b1f1987666ff5f9c431de0a101577b4eb
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: bfaa1c4132dcbd81a03a79d2add5d5d9830f0a50
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3231837"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3273018"
 ---
 # <a name="user-productivity--new-grid-control--phase-2"></a>ユーザーの生産性 - 新しいグリッド コントロール - フェーズ 2
-[!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 4 月| -|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 3 日| -|
 
 
 
@@ -30,8 +30,6 @@ ms.locfileid: "3231837"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-2019 年 10 月の 10.0.5/Platform update 29 で、新しく改善されたグリッド コントロールのプライベート プレビューが利用可能になりました。 この機能は、10.0.9/Platform update 33 の 2020 年リリース ウェーブ 1 でパブリック プレビューに移行します。 この機能の継続的な進化は、この機能が一般公開されるまで、毎月の更新の一部として引き続き導入されます。
-
 新しいグリッドには多くの利点があります。 
 
 - **パフォーマンス**: 新しいグリッドでは、レンダリング速度が向上し、スクロール エクスペリエンスが速くなっています。
@@ -47,19 +45,30 @@ ms.locfileid: "3231837"
 - **高速データ入力**: この機能を使用すると、ユーザーはサーバーに先行してグリッドにデータを入力できます。 したがって、ユーザーが別の行に移動する前にサーバーがグリッド内の 1 行を検証するのを待つ必要性が最小限に抑えられます。 この機能は、10.0.7/Platform update 31 の新しいグリッド コントロール機能の一部として初めて利用可能になり、以降のプラットフォーム バージョンで進化を続けます。
 
 新しいグリッドを有効にする方法については、この記事の**関連項目**セクションのリンク先を参照してください。
+
+## <a name="version-updates"></a>バージョンの更新
+**10.0.11**
+- 他の Dynamics 365 製品に合わせてグリッドのスタイル設定を更新。 これには特に、マーキング列とさまざまな行の状態の更新が含まれます。  
+- バグ修正。
+
+**10.0.10**
+- バグ修正。
+
+**10.0.9**
+- 新しいグリッドのパブリック プレビュー開始。
 <!--feature detail end -->
+
+
+
+
+
+
+
 
 
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
-[Platform update 31 の新機能または変更点](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/get-started/whats-new-platform-update-31) (ドキュメント)
+[グリッド機能](https://docs.microsoft.com/dynamics365/fin-ops-core/fin-ops/get-started/grid-capabilities) (ドキュメント)
 <!--docs end-->
-
-
-
-
-
-

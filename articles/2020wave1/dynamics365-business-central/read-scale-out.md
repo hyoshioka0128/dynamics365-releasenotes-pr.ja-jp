@@ -3,25 +3,25 @@ title: 読み取りスケールアウト
 description: Business Central Server では、Azure SQL Database や SQL Server (使用可能な場合) で読み取り専用のレプリカを使用できます。
 author: relnotes
 ms.reviewer: jswymer
-ms.date: 03/25/2020
+ms.date: 04/15/2020
 ms.assetid: eda564e4-e71b-ea11-a811-000d3a8f0f1e
 ms.topic: article
 ms.service: business-applications
 ms.author: kepontop
 dynamics365pdf: true
-ms.openlocfilehash: 94ec29cf1ada33e70906b7d1604802f1f761c29d
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 9d53467c70e28a642a6c381f29e7a426357837b8
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232717"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3273711"
 ---
 # <a name="read-scale-out"></a>読み取りスケールアウト
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2020 年 4 月| 2020 年 4 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -49,8 +49,6 @@ Business Central のアーティファクト (レポート、API ページ、ク
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [パフォーマンス向上のための読み取りスケールアウトの使用](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/administration/database-read-scale-out-overview) (ドキュメント)
 <!--docs end-->
-

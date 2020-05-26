@@ -3,25 +3,25 @@ title: Field Service Mobile に対する Intune のサポート
 description: Microsoft Intune で Field Service Mobile アプリを管理します。
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 02/24/2020
+ms.date: 04/06/2020
 ms.assetid: ca0bd932-96ef-e911-a812-000d3a4f1ebb
 ms.topic: article
 ms.service: business-applications
 ms.author: jobaker
 dynamics365pdf: true
-ms.openlocfilehash: de9e3fa60e9dfc1169affab8a57c298c54f711f0
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 3e4db01eb6b046de3d176ad5d218aa5a07e0cead
+ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232079"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "3256500"
 ---
 # <a name="intune-support-for-field-service-mobile"></a>Field Service Mobile に対する Intune のサポート
-[!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|-| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -56,8 +56,6 @@ Intune に対応した Field Service Mobile アプリで IT 管理者は次の�
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [Microsoft Intune を使用して Field Service Mobile を管理する](https://docs.microsoft.com/dynamics365/field-service/field-service-mobile-intune) (ドキュメント)
 <!--docs end-->
-

@@ -3,25 +3,25 @@ title: 休暇のルールを作成して会社と規制のポリシーを満た�
 description: 休暇プランに関連するポリシーの柔軟性が高くなり、HR は特定の地域および会社の要件を満たすように休暇を構成できます。 これらのポリシーに加えて、FTE など、従業員が休暇を取得する追加の方法が提供されることで、HR は従業員に休暇給付を提供する際により細かく制御できます。
 author: relnotes
 ms.reviewer: anbichse
-ms.date: 02/19/2020
+ms.date: 04/07/2020
 ms.assetid: 4971cf76-87ca-e911-a996-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: JCart
 dynamics365pdf: true
-ms.openlocfilehash: 6cc66d3a8b39128329c67dd45b710e4bdc030434
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 1fcb6ff388fad1450c428e97ae2e8be81691fb40
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232508"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3293304"
 ---
 # <a name="create-leave-rules-to-meet-company-and-regulatory-policies"></a>休暇のルールを作成して会社と規制のポリシーを満たす
-[!include[dynamics365-human-resources banner](../includes/dynamics365-human-resources.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 6 日|
 
 
 
@@ -54,14 +54,10 @@ ms.locfileid: "3232508"
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--blog start-->
-[組織全体の休暇エクスペリエンスの向上](https://cloudblogs.microsoft.com/dynamics365/bdm/2020/02/06/improve-the-leave-and-absence-experience-across-the-organization/) (ブログ)
+[Dynamics 365 のブログ](https://cloudblogs.microsoft.com/dynamics365/bdm/2020/02/06/improve-the-leave-and-absence-experience-across-the-organization/) (ブログ)
 <!--blog end-->
 
-
-
 <!--docs start-->
-[Dynamics 365 Human Resources の休暇の概要](https://docs.microsoft.com/dynamics365/human-resources/hr-leave-and-absence-overview) (ドキュメント)
+[Dynamics 365 Human Resources の休暇の概要](https://docs.microsoft.com/en-us/dynamics365/human-resources/hr-leave-and-absence-types) (ドキュメント)
 <!--docs end-->
-

@@ -1,27 +1,27 @@
 ---
 title: スパム チェッカー
-description: ''
+description: 送信する前に電子メールのスパム リスクを評価します
 author: relnotes
 ms.reviewer: alfergus
-ms.date: 02/19/2020
+ms.date: 04/13/2020
 ms.assetid: 5139080d-6548-ea11-a812-000d3a579c39
 ms.topic: article
 ms.service: business-applications
 ms.author: gagatera
 dynamics365pdf: true
-ms.openlocfilehash: 196fa7ae02b9776b93a872564449352c04cc9c42
-ms.sourcegitcommit: 14f80cb313c8fb6b4ade7e43b4c56d2aea742570
+ms.openlocfilehash: bb520b4f46fb61d071be2132f128090d6e04329a
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "3099774"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3272864"
 ---
 # <a name="spam-checker"></a>スパム チェッカー
-[!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -41,11 +41,19 @@ ms.locfileid: "3099774"
 - **レコメンデーションを取得する**: スパム スコアを改善し、電子メールが受信者の受信トレイに届く可能性を高めるために必要な変更を確認します。
 <!--feature detail end -->
 
-
-![危険度 - 中と表示されたスパム スコア](media/spamscore.png "危険度 - 中と表示されたスパム スコア") 
-
-
+![危険度 - 中と表示されたスパム スコア](media/spamscore.png "危険度 - 中と表示されたスパム スコア")
+<!-- Picture 1 -->
 
 
 
 
+
+
+
+
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[電子メール コンテンツのスパム リスクを確認する](https://docs.microsoft.com/dynamics365/marketing/spam-checker) (ドキュメント)
+<!--docs end-->

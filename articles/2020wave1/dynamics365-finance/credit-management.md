@@ -3,25 +3,25 @@ title: 与信管理
 description: 与信管理では、会計と財務の専門家が与信限度額の個別管理、プロセスの自動化、またはその両方を行えるコントロールが追加されます。
 author: relnotes
 ms.reviewer: roschlom
-ms.date: 03/06/2020
+ms.date: 04/06/2020
 ms.assetid: f2373834-f41e-ea11-a810-000d3a8f0f1e
 ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: 939d546ffed40d386b79d6cad160d04a2bd343dd
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 6c4034cd86826859711a930c30e29eacb15d61b4
+ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3233124"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "3256423"
 ---
 # <a name="credit-management"></a>与信管理
-[!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 3 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -54,8 +54,6 @@ ms.locfileid: "3233124"
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [売掛金勘定の貸方転記および取立](https://docs.microsoft.com/dynamics365/finance/accounts-receivable/collections-credit-accounts-receivable) (ドキュメント)
 <!--docs end-->
-

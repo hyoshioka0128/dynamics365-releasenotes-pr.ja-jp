@@ -8,12 +8,12 @@ ms.topic: summary
 ms.service: business-applications
 ms.author: raysmith
 dynamics365pdf: true
-ms.openlocfilehash: 4a1a3f739b5db15a5bb48fef48b3ac9e5a35c1a1
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 1e63494805ab44c448fbade305139cbd48faf4f6
+ms.sourcegitcommit: 623416a4292b93b8492c072bb9d7ba10177e1f22
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080118"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3278170"
 ---
 # <a name="whats-new-and-planned-for-microsoft-forms-pro"></a>Microsoft Forms Pro の新機能と予定されている機能
 
@@ -41,5 +41,4 @@ ms.locfileid: "3080118"
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。  地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。

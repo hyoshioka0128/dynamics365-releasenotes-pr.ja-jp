@@ -1,32 +1,32 @@
 ---
 title: 会計登録者の会計責任に関する日次明細
-description: ''
+description: 会計登録者の会計責任明細レポートを使用して、調整目的で使用する会計登録者の資金に関する試算表レポートを生成します。
 author: relnotes
 ms.reviewer: roschlom
-ms.date: 02/13/2020
+ms.date: 04/06/2020
 ms.assetid: 33cde637-7fcb-e911-a968-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: 714b2278194df6f3fd1d08364ea57dddddfd5eb1
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 8637f891ec3ae1a00b59a88ced769cd2081d0b72
+ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3080349"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "3256412"
 ---
 # <a name="daily-statement-of-treasurers-accountability"></a>会計登録者の会計責任に関する日次明細
-[!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 3 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-会計登録者の会計責任明細レポートを使用して、調整目的で使用する会計登録者の資金に関する試算表レポートを生成します。 
+会計登録者の会計責任明細レポートを使用して、調整目的で使用する会計登録者の資金に関する試算表レポートを生成します。
 <!-- bv end -->
 
 

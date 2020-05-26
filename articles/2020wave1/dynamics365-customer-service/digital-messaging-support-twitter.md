@@ -3,25 +3,25 @@ title: Twitter 向けデジタル メッセージング サポート
 description: Twitter を通じて顧客に働きかけ、時間のあるときに会話できる利便性を提供します。
 author: relnotes
 ms.reviewer: nenellim
-ms.date: 01/15/2020
+ms.date: 04/09/2020
 ms.assetid: 59f9eccd-f21d-ea11-a811-000d3a8f075c
 ms.topic: article
 ms.service: business-applications
-ms.author: rajeshna
+ms.author: srikot
 dynamics365pdf: true
-ms.openlocfilehash: e290b10990134c81cb8070b9c88f3c8172906edf
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 6243b896fa78f1f28db9014367d19d9b53f7df60
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986788"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3273337"
 ---
 # <a name="digital-messaging-support-for-twitter"></a>Twitter 向けデジタル メッセージング サポート
-[!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -49,3 +49,9 @@ Twitter などのソーシャル メッセージング プラットフォーム�
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[Twitter ダイレクト メッセージ チャンネルを構成する](https://docs.microsoft.com/dynamics365/omnichannel/administrator/configure-twitter-channel) (ドキュメント)
+<!--docs end-->
