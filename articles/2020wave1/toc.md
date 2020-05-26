@@ -13,7 +13,6 @@
 <!--end-->
 ####  [概要](dynamics365-marketing/index.md)
 ####  [新機能と予定されている機能](dynamics365-marketing/planned-features.md)
-####  [状況依存のメール メッセージ](dynamics365-marketing/contextual-email-messages.md)
 ####  [動的なメール メッセージをテスト送信する機能](dynamics365-marketing/ability-test-send-dynamic-email-messages.md)
 ####  [自動スケジューラ](dynamics365-marketing/smart-scheduler.md)
 ####  [コンプライアンスが簡単に](dynamics365-marketing/compliance-made-easier.md)
@@ -23,9 +22,8 @@
 ####  [さらに分析するためにマーケティング結果を Excel にエクスポートする](dynamics365-marketing/export-data-excel-further-analysis.md)
 ####  [メール コンテンツ デザイナーの改善](dynamics365-marketing/improved-email-content-designer.md)
 ####  [顧客体験エクスペリエンスの改善](dynamics365-marketing/improved-customer-journey-experience.md)
-####  [電子メールとフォームのインプレース編集](dynamics365-marketing/in-place-editing-email-forms.md)
+####  [新しいフォームの取得とクライアント側サポート](dynamics365-marketing/new-form-capture-client-side-support.md)
 ####  [イベント管理エクスペリエンスの改善](dynamics365-marketing/improved-event-management-experience.md)
-####  [マーケティング キャンペーンで Customer Insights のセグメントを発見して使用する](dynamics365-marketing/discover-use-segments-customer-insights-marketing-campaigns.md)
 
 <!--start-->
 ## Sales
@@ -43,7 +41,7 @@
 #####  [高精度パイプライン管理で予測を理解する](dynamics365-sales/understand-forecasts-precision-pipeline-management.md)
 ####  ライセンス
 #####  [概要](dynamics365-sales/licensing.md)
-#####  [ライセンスの適用 - 新しい Team Member ライセンスを持つユーザー](dynamics365-sales/license-enforcement-users-new-team-member-licenses.md)
+#####  [ライセンスの適用 – 新しい Team Member ライセンスを持つユーザー](dynamics365-sales/license-enforcement-users-new-team-member-licenses.md)
 ####  簡素化されたエクスペリエンス
 #####  [概要](dynamics365-sales/simplified-experiences.md)
 #####  [状況依存のメール通信](dynamics365-sales/contextual-email-communication.md)
@@ -76,7 +74,6 @@
 #####  [概要](artificial-intelligence/dynamics365-sales-insights/relationship-analytics-auto-capture.md)
 #####  [自分の活動レベルを成功した営業案件と比較する - リレーションシップ分析](artificial-intelligence/dynamics365-sales-insights/compare-activity-levels-successful-opportunities--relationship-analytics.md)
 #####  [世界中で利用可能になった "つながりを探す"](artificial-intelligence/dynamics365-sales-insights/who-knows-whom-now-worldwide.md)
-#####  [自動アクティビティと推奨される連絡先の改善](artificial-intelligence/dynamics365-sales-insights/ai-infused-auto-capture-generally--auto-capture.md)
 ####  営業の加速
 #####  [概要](artificial-intelligence/dynamics365-sales-insights/sales-acceleration.md)
 #####  [複数のチャネルで顧客とつながる](artificial-intelligence/dynamics365-sales-insights/connect-customers-across-multiple-channels.md)
@@ -88,9 +85,9 @@
 <!--end-->
 ####  [概要](mixed-reality/dynamics365-product-visualize/index.md)
 ####  [新機能と予定されている機能](mixed-reality/dynamics365-product-visualize/planned-features.md)
-####  [3D モデルに PDF ファイルを添付する](mixed-reality/dynamics365-product-visualize/attach-pdf-file-3d-model.md)
-####  [3D モデルにビデオを添付する](mixed-reality/dynamics365-product-visualize/attach-video-3d-model.md)
 ####  [オフライン モード](mixed-reality/dynamics365-product-visualize/offline-mode.md)
+####  [3D モデルにビデオを添付する](mixed-reality/dynamics365-product-visualize/attach-video-3d-model.md)
+####  [3D モデルに PDF ファイルを添付する](mixed-reality/dynamics365-product-visualize/attach-pdf-file-3d-model.md)
 
 <!--start-->
 ## サービス
@@ -103,27 +100,27 @@
 
 ####  Customer Service
 #####  [概要](dynamics365-customer-service/customer-service.md)
+#####  [レコードの自動的な作成と更新](dynamics365-customer-service/automatically-create-update-records.md)
 #####  [Connected Customer Service (IoT + Customer Service)](dynamics365-customer-service/connected-customer-service-iot-customer-service.md)
+#####  [統一インターフェイスでのルックアップ フィルタリングの強化](dynamics365-customer-service/lookup-filtering-enhancements-unified-interface.md)
 #####  [ナレッジ機能に対するエージェントの生産性強化](dynamics365-customer-service/agent-productivity-enhancements-knowledge-capabilities.md)
 #####  [構成可能なサポート案件の解決ページ](dynamics365-customer-service/configurable-case-resolution-page.md)
 #####  [Team Member ライセンスを持つユーザーが利用できる Customer Service アプリ](dynamics365-customer-service/customer-service-app-users-team-member-license.md)
 #####  [顧客サービス ハブ アプリを既定で利用できるようになった](dynamics365-customer-service/customer-service-hub-app-now-default.md)
-#####  [サポート案件ルーティング規則の強化](dynamics365-customer-service/enhancements-case-routing-rules.md)
 #####  [サービス レベル アグリーメントの強化](dynamics365-customer-service/enhancements-service-level-agreements.md)
 #####  [キュー ページの強化](dynamics365-customer-service/enhancements-queue-page.md)
 #####  [エージェント向けの使い慣れた最新のメール エクスペリエンス](dynamics365-customer-service/familiar-modern-email-experience-agents.md)
-#####  [ライセンスの適用 - 新しい Team Member ライセンスを持つユーザー](dynamics365-customer-service/license-enforcement-users-new-team-member-licenses.md)
+#####  [ライセンスの適用 – 新しい Team Member ライセンスを持つユーザー](dynamics365-customer-service/license-enforcement-users-new-team-member-licenses.md)
 #####  [サービス スケジュール設定の新しい作業時間カレンダー](dynamics365-customer-service/new-work-hour-calendar-service-scheduling.md)
 #####  [タイム ラインの充実したテキスト メモとキーワード検索](dynamics365-customer-service/rich-text-notes-keyword-search-timeline.md)
 #####  [統一インターフェイスでのサイト エンティティのサポート](dynamics365-customer-service/support-site-entity-unified-interface.md)
-#####  [レコードの自動的な作成と更新](dynamics365-customer-service/automatically-create-update-records.md)
+#####  [サポート案件ルーティング規則の統一インターフェイスの有効化](dynamics365-customer-service/enhancements-case-routing-rules.md)
 ####  Customer Service 用オムニチャネル
 #####  [概要](dynamics365-customer-service/omnichannel-customer-service.md)
 #####  [Microsoft Teams 向けデジタル メッセージング サポート](dynamics365-customer-service/digital-messaging-support-teams.md)
 #####  [Twilio 経由の WhatsApp 向けデジタル メッセージング サポート](dynamics365-customer-service/digital-messaging-support-whatsapp-through-twilio.md)
 #####  [エージェント マクロの強化](dynamics365-customer-service/agent-macro-enhancements.md)
 #####  [エージェントのクイック返信の分類](dynamics365-customer-service/agent-quick-reply-categorization.md)
-#####  [会話メッセージとメッセージの感情変化の通知](dynamics365-customer-service/conversation-message-message-sentiment-shift-notification.md)
 #####  [受信した会話のデスクトップ通知](dynamics365-customer-service/desktop-notifications-incoming-conversations.md)
 #####  [LINE 向けデジタル メッセージング サポート](dynamics365-customer-service/digital-messaging-support-line.md)
 #####  [Twilio 経由の SMS 向けデジタル メッセージング サポート](dynamics365-customer-service/digital-messaging-support-sms-through-twilio.md)
@@ -133,17 +130,18 @@
 #####  [オムニチャネルのスーパーバイザー エクスペリエンスの機能強化](dynamics365-customer-service/omnichannel-supervisor-experience-enhancements.md)
 #####  [ルーティングと作業配分の機能強化](dynamics365-customer-service/routing-work-distribution-enhancements.md)
 #####  [サードパーティ プロバイダーによる共同参照機能](dynamics365-customer-service/co-browse-capabilities-through-third-party-providers.md)
-#####  [サード パーティを介したリモート アシスタンス機能](dynamics365-customer-service/remote-assistance-capabilities-through-third-party.md)
+#####  [サード パーティを介したリモート デスクトップ機能](dynamics365-customer-service/remote-assistance-capabilities-through-third-party.md)
+#####  [会話メッセージとメッセージの感情変化の通知](dynamics365-customer-service/conversation-message-message-sentiment-shift-notification.md)
 <!--start-->
 ###  Dynamics 365 Customer Service Insights  
 <!--end-->
 ####  [概要](artificial-intelligence/dynamics365-customer-service-insights/index.md)
 ####  [新機能と予定されている機能](artificial-intelligence/dynamics365-customer-service-insights/planned-features.md)
 ####  [カスタム分析とレポート作成のためのデータ アクセス](artificial-intelligence/dynamics365-customer-service-insights/data-access-custom-analysis-reporting.md)
-####  [Power Virtual Agents の自動化候補としてトピックを強調表示する](artificial-intelligence/dynamics365-customer-service-insights/highlighting-topics-as-automation-candidates-power-virtual-agents.md)
 ####  [顧客サービス ハブで堅牢な顧客サービス インサイトを有効化する](artificial-intelligence/dynamics365-customer-service-insights/enable-robust-customer-service-insights-customer-service-hub.md)
 ####  [不要な語句を除外してトピックの生成を改善する](artificial-intelligence/dynamics365-customer-service-insights/improve-topic-generation-excluding-unnecessary-phrases.md)
 ####  [関連情報を強調表示する焦点を絞った分析情報](artificial-intelligence/dynamics365-customer-service-insights/focused-insights-highlight-relevant-information.md)
+####  [Power Virtual Agents の自動化候補としてトピックを強調表示する](artificial-intelligence/dynamics365-customer-service-insights/highlighting-topics-as-automation-candidates-power-virtual-agents.md)
 
 <!--start-->
 ###  Dynamics 365 Field Service  
@@ -173,6 +171,7 @@
 #####  [Field Service の検査](dynamics365-field-service/field-service-inspections.md)
 #####  [統合された技術者の時間追跡](dynamics365-field-service/integrated-technician-time-tracking.md)
 #####  [技術者の時間キャプチャの精度](dynamics365-field-service/technician-time-capture-precision.md)
+#####  [Microsoft Power Apps プラットホームに構築された Field Service Mobile](dynamics365-field-service/field-service-mobile-built-power-apps-platform.md)
 <!--start-->
 ###  Dynamics 365 Remote Assist  
 <!--end-->
@@ -181,6 +180,7 @@
 ####  [空間マークアップを介して資産の状態をキャプチャする](mixed-reality/dynamics365-remote-assist/capture-asset-condition-through-spatial-markup.md)
 ####  [通話記録を介してセッション履歴をキャプチャする](mixed-reality/dynamics365-remote-assist/capture-session-history-through-call-recordings.md)
 ####  [技術者とエキスパートがファイルを共有してコラボレーションを改善する](mixed-reality/dynamics365-remote-assist/share-files-between-technicians-experts-improve-collaboration.md)
+####  [低帯域幅シナリオでのエクスペリエンスの強化](mixed-reality/dynamics365-remote-assist/enhanced-experience-low-bandwidth-scenarios.md)
 
 <!--start-->
 ## Finance and Operations
@@ -193,7 +193,6 @@
 
 ####  コア財務
 #####  [概要](dynamics365-finance/core-financials.md)
-#####  [回収タスクの自動作成](dynamics365-finance/automatic-collection-task-creation.md)
 #####  [伝票トランザクション リスト ページに仕入先 ID、顧客 ID、仕入先名、顧客名を追加する](dynamics365-finance/add-vendor-id-customer-id-vendor-name-customer-name-voucher-transactions-list-page.md)
 #####  [申告年による税の詳細レポート 1099 のフィルター処理の許可](dynamics365-finance/allow-filtering-tax-1099-detail-report-reporting-year.md)
 #####  [パフォーマンスを高める予算計画クエリの最適化](dynamics365-finance/budget-planning-query-optimization-performance.md)
@@ -201,13 +200,15 @@
 #####  [仕訳レポート別転記済トランザクションのデータ範囲](dynamics365-finance/date-range-posted-transactions-journals-report.md)
 #####  [請求書の合計と登録済みの請求書の合計が等しくない場合、ワークフローへの送信を禁止する](dynamics365-finance/prohibit-submission-workflow-when-invoice-total-registered-invoice-total-are-not-equal.md)
 #####  [仕入先請求書明細行に請求金額をコピーする場合のパフォーマンスを向上させる](dynamics365-finance/improve-performance-when-copying-charges-vendor-invoice-lines.md)
-#####  [元帳の会計カレンダーを変更するときに「期間残高の再計算」が必要](dynamics365-finance/require-recalculate-ledger-periods-when-changing-fiscal-calendar-ledger.md)
 #####  [仕入先請求書のバッチ転記](dynamics365-finance/add-automated-task-vendor-invoice-workflow-posting-vendor-invoice-using-batch-job.md)
-#####  [通貨換算を使用する場合の財務レポートの利益剰余金計算の機能強化](dynamics365-finance/retained-earnings-calculation-enhancements-financial-reporting-when-using-currency-translation.md)
 #####  [詳細な元帳決済: 決済と決済取消を別個に処理する](dynamics365-finance/advanced-ledger-settlement-settlement-reverse-settlement-processed-separately.md)
-#####  [取引詳細レポートを含む試算表](dynamics365-finance/trial-balance-transactional-detail-report.md)
 #####  [自動仕入先支払提案](dynamics365-finance/automatic-vendor-payment-proposal.md)
-#####  [顧客へのタッチレス メール アラーム](dynamics365-finance/touchless-email-reminders-customer.md)
+#####  [普通配当の合計に対する 1099-DIV レポート オプション](dynamics365-finance/1099-div-reporting-option-total-ordinary-dividends.md)
+#####  [確定した発注書の前払を請求書に適用する](dynamics365-finance/apply-prepayments-finalized-purchase-orders-invoices.md)
+#####  [仕入先の前払請求額がゼロより大きいことを確認する](dynamics365-finance/ensure-vendor-prepayment-invoice-amounts-are-greater-than-zero.md)
+#####  [通貨換算を使用する場合の財務レポートの利益剰余金計算の機能強化](dynamics365-finance/retained-earnings-calculation-enhancements-financial-reporting-when-using-currency-translation.md)
+#####  [取引詳細レポートを含む試算表](dynamics365-finance/trial-balance-transactional-detail-report.md)
+#####  [2020 年の 1099-NEC および 1099-MISC フォームに変更を適用する](dynamics365-finance/apply-changes-1099-nec-1099-misc-forms-2020.md)
 ####  Finance Insights
 #####  [概要](dynamics365-finance/finance-insights.md)
 #####  [顧客支払予測](dynamics365-finance/customer-payment-predictions.md)
@@ -217,6 +218,7 @@
 #####  [会計登録者ワークスペース](dynamics365-finance/treasurer-workspace.md)
 ####  グローバリゼーション
 #####  [概要](dynamics365-finance/globalization.md)
+#####  [拡張されたフィンランド語ローカライズ – Finvoice 3.0](dynamics365-finance/extended-finnish-localization--finvoice-3.0.md)
 #####  [電子申告の高度な数式エディター](dynamics365-finance/electronic-reporting-advanced-formula-editor.md)
 #####  [拡張されたローカライズ (フランス): 国際支払および送金用 ISO 20022 フォーマット](dynamics365-finance/extended-french-localization-iso20022-format-international-payment-treasury-transfer.md)
 #####  [拡張されたイタリア語ローカライズ: 詳細なメモの管理](dynamics365-finance/extended-italian-localization-advanced-notes-management.md)
@@ -230,7 +232,7 @@
 #####  [拡張されたローカライズ (スイス): QR 請求書の実装](dynamics365-finance/extended-swiss-localization-qr-bill-implementation.md)
 #####  [請求先/元 ID の会計データの使用](dynamics365-finance/use-fiscal-data-invoice-account.md)
 #####  [拡張されたイタリア語ローカライズ: 一般会計のシミュレーション](dynamics365-finance/extended-italian-localization-general-ledger-simulations.md)
-#####  [拡張されたイタリア語ローカライズ: 覚書 - 定期輸出業者への請求書発行](dynamics365-finance/extended-italian-localization-intent-letters--invoicing-usual-exporters.md)
+#####  [拡張されたイタリア語ローカライズ: 覚書 – 定期輸出業者への請求書発行](dynamics365-finance/extended-italian-localization-intent-letters--invoicing-usual-exporters.md)
 #####  [拡張されたイタリア語ローカライズ: 独自認証](dynamics365-finance/extended-italian-localization-unique-certification.md)
 #####  [拡張されたイタリア語ローカライズ: 支払時での手数料決済](dynamics365-finance/extended-italian-localization-commission-settlement-payments.md)
 #####  [拡張されたローカライズ (イタリア): 銀行および送金タイプ別に構成可能な転記プロファイル](dynamics365-finance/extended-italian-localization-configurable-posting-profiles-banks-remittance-types.md)
@@ -243,11 +245,12 @@
 #####  [会計登録者の会計責任に関する日次明細](dynamics365-finance/daily-statement-treasurers-accountability.md)
 #####  [詳細な元帳エントリを使用してトランザクションを転記するときに銀行残高を更新する](dynamics365-finance/update-bank-balances-when-posting-transactions-using-advanced-ledger-entry.md)
 #####  [利息配賦および没収で転記時に銀行残高を更新できるようにする](dynamics365-finance/allow-interest-distribution-escheatment-use-feature--lets-update-bank-balances-when-posting-advanced-ledger-entries.md)
-#####  [交付金に関する A-133 通達レポート (SEFA)](dynamics365-finance/a-133-circular-report-grants-sefa.md)
 #####  [予算計画を置き換えるオプションの削除](dynamics365-finance/remove-option-replace-budget-plan.md)
 #####  [購買契約書に関連付けられた PO 請求書に明細を追加する](dynamics365-finance/add-lines-po-invoices-associated-purchase-agreement.md)
-#####  [つなぎ勘定トランザクションと小切手フォームに対する仕入先の詳細](dynamics365-finance/vendor-details-bridged-transactions-check-forms.md)
+#####  [交付金に関する A-133 通達レポート (SEFA)](dynamics365-finance/a-133-circular-report-grants-sefa.md)
 #####  [カナダの統一消費税](dynamics365-finance/canadian-harmonized-sales-tax.md)
+#####  [Schedule of Expenditures of Federal Awards の照会](dynamics365-finance/schedule-expenditures-federal-awards-inquiry.md)
+#####  [つなぎ勘定トランザクションと小切手フォームに対する仕入先の詳細](dynamics365-finance/vendor-details-bridged-transactions-check-forms.md)
 <!--start-->
 ###  Dynamics 365 Supply Chain Management  
 <!--end-->
@@ -258,13 +261,13 @@
 #####  [概要](dynamics365-supply-chain-management/asset-management.md)
 #####  [資産の利用可能性に基づいた製造リソース スケジュール](dynamics365-supply-chain-management/am-resource-scheduling-based-asset-availability.md)
 #####  [プロジェクト タイプに関連する新しいプロジェクト モジュール変更との統合](dynamics365-supply-chain-management/am-uptake-new-project-module-changes-related-project-type.md)
+#####  [資産管理のビジネス イベントの取り込み](dynamics365-supply-chain-management/business-events-uptake-asset-management.md)
+#####  [Dynamics 365 Field Service と資産管理の統合](dynamics365-supply-chain-management/field-service-integration-asset-management.md)
 #####  [資産管理ライフサイクルと固定資産の統合](dynamics365-supply-chain-management/fixed-assets-integration-asset-management-lifecycle.md)
 #####  [資産管理で作業指示書を視覚的にスケジューリングする](dynamics365-supply-chain-management/visual-scheduling-work-orders-asset-management.md)
-#####  [IoT インテリジェンスからの IoT と資産管理メンテナンス要求の統合](dynamics365-supply-chain-management/am-iot-integration-asset-management-maintenance-requests-iot-intelligence.md)
 ####  原価計算
 #####  [概要](dynamics365-supply-chain-management/costing.md)
 #####  [品目価格の比較の格納](dynamics365-supply-chain-management/compare-item-price-storage.md)
-#####  [複数の在庫資産の表現 (プレビュー)](dynamics365-supply-chain-management/multiple-inventory-asset-representations-preview.md)
 ####  在庫
 #####  [概要](dynamics365-supply-chain-management/inventory.md)
 #####  [手持在庫サービス](dynamics365-supply-chain-management/inventory-on-hand-service.md)
@@ -277,37 +280,42 @@
 #####  [ジョブ カード デバイスの機能向上](dynamics365-supply-chain-management/improved-job-card-device.md)
 #####  [製造領域向けの新しいデータ エンティティ](dynamics365-supply-chain-management/new-data-entities-manufacturing-area.md)
 #####  [ジョブ カード デバイスからのバッチ番号での完了レポート](dynamics365-supply-chain-management/report-as-finished-batch-numbers-job-card-device.md)
-#####  [製造インテリジェンス](dynamics365-supply-chain-management/manufacturing-intelligence.md)
+#####  [サニタイズのためにジョブ カードのタッチスクリーンをロックできるようにする](dynamics365-supply-chain-management/allow-locking-job-card-touchscreen-sanitization.md)
+#####  [ジョブ カード デバイスから終了したことを報告するときにシリアル番号を入力できるようにする](dynamics365-supply-chain-management/allow-serial-numbers-be-entered-while-reporting-as-finished-job-card-device.md)
 ####  計画
 #####  [概要](dynamics365-supply-chain-management/planning.md)
 #####  [前処理フィルターが有効になっている場合に、手持在庫のある品目がマスター プランに含まれる](dynamics365-supply-chain-management/master-planning-include-items-on-hand-when-pre-processing-filters-are-enabled.md)
 ####  ポータル
 #####  [概要](dynamics365-supply-chain-management/portals.md)
-#####  [顧客セルフサービス エクスペリエンス](dynamics365-supply-chain-management/customer-self-service-experiences.md)
+#####  [Dynamics 365 Supply Chain Management のカスタマー ポータル](dynamics365-supply-chain-management/customer-self-service-experiences.md)
+####  公的機関
+#####  [概要](dynamics365-supply-chain-management/public-sector.md)
+#####  [[製品受領書の転記] ページに [注文済数量] フィールドを追加する](dynamics365-supply-chain-management/add-quantity-ordered-field-posting-product-receipt-page.md)
 ####  取引とソース
 #####  [概要](dynamics365-supply-chain-management/trade-source.md)
-#####  [エンタープライズ規模 – システム パフォーマンスの購入](dynamics365-supply-chain-management/enterprise-scale-purchase-system-performance.md)
-#####  [エンタープライズ規模 – システム パフォーマンスの販売](dynamics365-supply-chain-management/enterprise-scale-sales-system-performance.md)
-#####  [リード タイムと稼働日に基づいて発注書の配送日を計算する (公的機関)](dynamics365-supply-chain-management/calculate-po-delivery-date-based-lead-times-working-days-public-sector.md)
+#####  [受注オペレーターの効率 - 流通](dynamics365-supply-chain-management/sales-order-operator-efficiency--distribution.md)
 #####  [原産国の機能強化](dynamics365-supply-chain-management/country-origin-enhancements.md)
 #####  [外部カタログの機能強化](dynamics365-supply-chain-management/external-catalog-enhancements.md)
 #####  [危険物製品情報の管理](dynamics365-supply-chain-management/hazardous-materials-product-information-management.md)
 #####  [危険物出荷ドキュメント](dynamics365-supply-chain-management/hazardous-materials-shipping-documentation.md)
 #####  [その他の請求の拡張](dynamics365-supply-chain-management/miscellaneous-charges-enhancements.md)
 #####  [cXML による発注書の配信](dynamics365-supply-chain-management/purchase-order-delivery-via-cxml.md)
-#####  [拡張注文保留による販売プロセス管理](dynamics365-supply-chain-management/sales-process-control-via-enhanced-order-holds.md)
+#####  [リード タイムと稼働日に基づいて発注書の配送日を計算する (公的機関)](dynamics365-supply-chain-management/calculate-po-delivery-date-based-lead-times-working-days-public-sector.md)
 #####  [複数の購買作業項目の委任](dynamics365-supply-chain-management/delegation-multiple-purchasing-work-items.md)
-#####  [受注オペレーターの効率 - 流通](dynamics365-supply-chain-management/sales-order-operator-efficiency--distribution.md)
+#####  [拡張注文保留による販売プロセス管理](dynamics365-supply-chain-management/sales-process-control-via-enhanced-order-holds.md)
 ####  倉庫管理と輸送
 #####  [概要](dynamics365-supply-chain-management/warehouse-management-transportation.md)
 #####  [倉庫管理での CW 製品処理](dynamics365-supply-chain-management/catch-weight-product-processing-warehouse-management.md)
 #####  [インバウンドおよびアウトバウンドのロジスティクスの改善](dynamics365-supply-chain-management/inbound-outbound-logistics-improvements.md)
 #####  [倉庫管理で既存の CW タグを使用するための機能強化](dynamics365-supply-chain-management/enhancement-use-existing-catch-weight-tags-warehouse-management.md)
 #####  [倉庫管理のためのラベル印刷の機能強化](dynamics365-supply-chain-management/label-printing-enhancements-warehouse-management.md)
-#####  [Warehouse Mobile App の一括展開](dynamics365-supply-chain-management/mass-deployment-warehouse-mobile-app.md)
-#####  [倉庫保管モバイル アプリのライセンス プレート受取の機能強化](dynamics365-supply-chain-management/license-plate-receiving-enhancements-warehousing-mobile-app.md)
+#####  [倉庫アプリの一括展開](dynamics365-supply-chain-management/mass-deployment-warehouse-mobile-app.md)
+#####  [入庫積荷管理の機能強化](dynamics365-supply-chain-management/warehouse-management-inbound-load-management-enhancement.md)
+#####  [倉庫アプリでのライセンス プレート受取の機能強化](dynamics365-supply-chain-management/license-plate-receiving-enhancements-warehousing-mobile-app.md)
 #####  [バッチ番号予約フォームの行の引当の機能強化](dynamics365-supply-chain-management/line-reservation-enhancements-batch-number-reservation-form.md)
-#####  [倉庫管理 – 入庫積荷管理の機能強化](dynamics365-supply-chain-management/warehouse-management-inbound-load-management-enhancement.md)
+#####  [積荷品目の入庫中に倉庫アプリで製品バリアントと追跡用分析コードをキャプチャする](dynamics365-supply-chain-management/capture-product-variants-tracking-dimensions-warehousing-app-during-load-item-receiving.md)
+#####  [倉庫アプリでのライセンス プレート受取の機能強化 (続き)](dynamics365-supply-chain-management/license-plate-receiving-enhancements-warehousing-mobile-app-continued.md)
+#####  [倉庫管理の手持在庫エントリのクリーンアップ ジョブの最大実行時間](dynamics365-supply-chain-management/maximum-execution-time-warehouse-management-on-hand-entries-cleanup-job.md)
 <!--start-->
 ###  Finance and Operations クロス アプリ機能  
 <!--end-->
@@ -316,6 +324,7 @@
 
 ####  クラウド操作
 #####  [概要](finance-operations-crossapp-capabilities/cloud-operations.md)
+#####  [Lifecycle Services (LCS) での問題検索の改善](finance-operations-crossapp-capabilities/lifecyle-services-issue-search-improvements.md)
 #####  [セルフサービス環境へのパッケージの適用をサポートする API](finance-operations-crossapp-capabilities/apis-support-applying-packages-self-service-environments.md)
 #####  [二重書き込み機能の Lifecycle Services のサポート](finance-operations-crossapp-capabilities/lifecycle-services-support-dual-write-capabilities.md)
 #####  [データベース エクスポート用の RESTful API](finance-operations-crossapp-capabilities/restful-apis-database-export.md)
@@ -323,17 +332,17 @@
 ####  クロス アプリ機能
 #####  [概要](finance-operations-crossapp-capabilities/cross-app-features.md)
 #####  [サード パーティのアプリを埋め込む - フェーズ 2](finance-operations-crossapp-capabilities/embed-third-party-apps--phase-2.md)
-#####  [組み込みグラフ コントロールがサポートする拡張グラフ タイプを拡張して、線と領域の範囲を含むようになる](finance-operations-crossapp-capabilities/expanded-chart-types-supported-embedded-chart-control-now-include-line-area-ranges.md)
 #####  [Finance and Operations のライセンス](finance-operations-crossapp-capabilities/finance-operations-licensing.md)
 #####  [グリッドの小計でグループ化](finance-operations-crossapp-capabilities/grouping-subtotals-grids.md)
 #####  [ユーザーの生産性 - 新しいグリッド コントロール - フェーズ 2](finance-operations-crossapp-capabilities/user-productivity--new-grid-control--phase-2.md)
 #####  [ユーザーの生産性 - 保存されているビュー - フェーズ 2](finance-operations-crossapp-capabilities/user-productivity--saved-views--phase-2.md)
 #####  [BarTender ラベリング システム統合を使用して、Finance and Operations アプリをバックエンド システムに接続する](finance-operations-crossapp-capabilities/connect-finance-operations-apps-back-end-systems-using-bartender-labeling-system-integration.md)
 #####  [ビジネスの重要なドキュメントに最新のデザインを取り入れてブランドにスポットライトを当てる](finance-operations-crossapp-capabilities/spotlight-brand-using-modern-designs-business-critical-documents.md)
-#####  [フィルタリングと個人用設定の使いやすさを改善](finance-operations-crossapp-capabilities/usability-improvements-filtering-personalization.md)
+#####  [個人用設定とフィルタリングの使いやすさを改善](finance-operations-crossapp-capabilities/usability-improvements-filtering-personalization.md)
 #####  [RSAT の新しいタスク レコーダー機能](finance-operations-crossapp-capabilities/new-task-recorder-capabilities-rsat.md)
 #####  [推奨フィールド](finance-operations-crossapp-capabilities/recommended-fields.md)
 #####  [メッセージ バーにアクションを埋め込む](finance-operations-crossapp-capabilities/embed-actions-message-bar.md)
+#####  [組み込みグラフ コントロールがサポートする拡張グラフ タイプを拡張して、線と領域の範囲を含むようになる](finance-operations-crossapp-capabilities/expanded-chart-types-supported-embedded-chart-control-now-include-line-area-ranges.md)
 ####  データとプロセスの統合
 #####  [概要](finance-operations-crossapp-capabilities/data-process-integration.md)
 #####  [インスタント フローの作成とトリガー](finance-operations-crossapp-capabilities/trigger-monitor--phase-2.md)
@@ -347,6 +356,7 @@
 <!--end-->
 ####  [概要](dynamics365-project-operations/index.md)
 ####  [新機能と予定されている機能](dynamics365-project-operations/planned-features.md)
+####  [公的機関 - 資金調達ソースによるプロジェクト仮発行請求書の選択パラメーター](dynamics365-project-operations/public-sector--project-invoice-proposal-selection-parameter-funding-source.md)
 ####  [Dynamics 365 Project Operations のリソース ベースのプロジェクトのプロジェクト会計機能の強化](dynamics365-project-operations/enhanced-project-accounting-capabilities-resource-based-project-dynamics-365-project-operations.md)
 ####  [プロジェクト管理機能](dynamics365-project-operations/project-management-capabilities.md)
 ####  [プロジェクト営業の機能拡張](dynamics365-project-operations/project-sales-enhancements.md)
@@ -365,6 +375,8 @@
 ####  [新機能と予定されている機能](mixed-reality/dynamics365-guides/planned-features.md)
 ####  [オペレーターと共有する準備が整っていないガイドへのアクセスを制限する](mixed-reality/dynamics365-guides/restrict-access-guides-that-aren’t-ready-use-through-publishing-process.md)
 ####  [Common Data Service エンティティを通じて Dynamics 365 Guides のコンテンツにアクセスする](mixed-reality/dynamics365-guides/access-dynamics-365-guides-content-through-common-data-service-entities.md)
+####  [Dynamics 365 Supply Chain Management の資産管理モジュールの統合](mixed-reality/dynamics365-guides/integrate-asset-management-module-dynamics-365-supply-chain-management.md)
+####  [PC アプリでガイド名を変更する](mixed-reality/dynamics365-guides/rename-guides-pc-app.md)
 ####  [オペレーターは HoloLens で以前に開いたガイドをオフライン時に使用できる](mixed-reality/dynamics365-guides/operators-use-previously-opened-guides-hololens-when-offline.md)
 ####  [空間トリガーを使用してガイド内を前後に移動する](mixed-reality/dynamics365-guides/use-spatial-triggers-go-forward-or-backward-guide.md)
 
@@ -384,10 +396,16 @@
 ####  [福利厚生のオンライン登録](dynamics365-human-resources/online-benefit-enrollment.md)
 ####  [承認されたライフ イベント処理](dynamics365-human-resources/qualified-life-event-processing.md)
 ####  [特定の条件を満たす従業員の休暇を停止する](dynamics365-human-resources/suspend-leave-employees-meeting-certain-criteria.md)
-####  [データベース監査 (ログ)](dynamics365-human-resources/database-auditing-logging.md)
 ####  [休暇残高調整に理由コードとコメントを追加する](dynamics365-human-resources/add-reason-code-comment-leave-balance-adjustments.md)
+####  [DMF エンティティのサポート](dynamics365-human-resources/dmf-entity-support.md)
 ####  [従業員に休暇の売買を許可する](dynamics365-human-resources/allow-employees-buy-sell-leave.md)
+####  [データベース監査 (ログ)](dynamics365-human-resources/database-auditing-logging.md)
+####  [リアルタイムのライフ イベント](dynamics365-human-resources/real-time-life-events.md)
+####  [福利厚生通知の強化](dynamics365-human-resources/enhanced-benefits-notifications.md)
+####  [休暇カレンダー ビューに追加の分析情報を提供する](dynamics365-human-resources/provide-additional-insight-leave-calendar-views.md)
 ####  [Common Data Service 内の Human Resources データへの継続的な追加](dynamics365-human-resources/access-maintain-hr-data-common-data-service.md)
+####  [Microsoft Teams での従業員の休暇と欠勤のエクスペリエンス](dynamics365-human-resources/employee-leave-absence-experience-teams.md)
+####  [福利厚生管理ワークスペース](dynamics365-human-resources/benefits-management-workspace.md)
 
 <!--start-->
 ## Commerce
@@ -405,6 +423,7 @@
 #####  [Azure AD での POS サインインのサポート](dynamics365-commerce/aad-support-pos-logon.md)
 #####  [POS の荷渡方法の変更操作](dynamics365-commerce/change-mode-delivery-operation-pos.md)
 #####  [店舗での小売トランザクションの財務調整](dynamics365-commerce/financial-reconciliation-retail-transactions-store.md)
+#####  [Commerce SDK が Visual Studio 2017 に更新](dynamics365-commerce/commerce-sdk-updated-vs-2017.md)
 #####  [POS サインイン ページの改善](dynamics365-commerce/pos-sign-in-page-improvements.md)
 #####  [コマース データのサイズ変更の向上](dynamics365-commerce/commerce-data-sizing-improvements.md)
 #####  [データの同期とストレージの効率と信頼性](dynamics365-commerce/efficiency-reliability-data-synchronization-storage.md)
@@ -412,8 +431,6 @@
 #####  [シームレスで信頼性の高い接続損失管理](dynamics365-commerce/seamless-reliable-connectivity-loss-management.md)
 ####  グローバリゼーション
 #####  [概要](dynamics365-commerce/globalization.md)
-#####  [会計統合フレームワークに基づく、フランス向け小売トランザクションのデジタル署名](dynamics365-commerce/digital-signing-retail-transactions-france-based-fiscal-integration-framework.md)
-#####  [会計統合フレームワークに基づく、ノルウェー向け小売トランザクションのデジタル署名](dynamics365-commerce/digital-signing-retail-transactions-norway-based-fiscal-integration-framework.md)
 #####  [ドイツ向け会計サービスの統合](dynamics365-commerce/fiscal-service-integration-germany.md)
 ####  業界の卓越性
 #####  [概要](dynamics365-commerce/industry-excellence.md)
@@ -431,16 +448,17 @@
 #####  [保証の設定と販売](dynamics365-commerce/warranty-set-up-sell.md)
 #####  [小売チャネル間での支払管理の一貫性](dynamics365-commerce/consistency-payments-management-across-retail-channels.md)
 #####  [コード不要のサイト スタイル設定](dynamics365-commerce/no-code-site-styling.md)
+#####  [定義の拡張機能でのデータ アクション拡張機能のサポート](dynamics365-commerce/support-data-action-extension-definition-extension.md)
 #####  [テーマの拡張機能のサポート](dynamics365-commerce/support-theme-extensions.md)
 ####  統合型コマース
 #####  [概要](dynamics365-commerce/unified-commerce.md)
 #####  [返品の優先支払方法を設定する](dynamics365-commerce/set-preferred-payment-methods-returns.md)
 #####  [一括 URL リダイレクトのサポート](dynamics365-commerce/support-bulk-url-redirects.md)
 #####  [POS 周辺機器の店内正常性チェック](dynamics365-commerce/in-store-health-check-pos-peripherals.md)
+#####  [顧客の注文に対して配送または集荷の倉庫を選択するための柔軟なオプションを提供する](dynamics365-commerce/provide-flexible-options-choosing-shipping-or-pickup-warehouse-customer-orders.md)
 #####  [店員が POS でプロモーションを確認できるようにすることで、利用できる割引を使用したアップセルとクロスセル](dynamics365-commerce/up-sell-cross-sell-using-discounts-enabling-store-associates-view-promotions-point-sale-pos..md)
 #####  [在庫バッファを定義および利用して、eコマースで在庫レベルの表示を促進する](dynamics365-commerce/define-utilize-inventory-buffers-drive-inventory-level-displays-e-commerce.md)
-#####  [POS で部分的に履行された顧客の注文の編集](dynamics365-commerce/editing-partially-fulfilled-customer-orders-pos.md)
-#####  [POS 支払いフローの改善](dynamics365-commerce/pos-payments-flows-improvements.md)
+#####  [POS で部分的に履行された顧客の注文を編集する](dynamics365-commerce/editing-partially-fulfilled-customer-orders-pos.md)
 <!--start-->
 ###  Dynamics 365 Fraud Protection  
 <!--end-->
@@ -457,7 +475,17 @@
 ###  Dynamics 365 Connected Store  
 <!--end-->
 ####  [概要](artificial-intelligence/dynamics365-connected-store/index.md)
+####  [新機能と予定されている機能](artificial-intelligence/dynamics365-connected-store/planned-features.md)
 
+####  Edge の調達と店舗内での準備
+#####  [概要](artificial-intelligence/dynamics365-connected-store/edge-procurement-in-store-readiness.md)
+#####  [Azure Stack Edge ゲートウェイを使用して Connected Store を簡単に調達およびデプロイする](artificial-intelligence/dynamics365-connected-store/procure-deploy-connected-store-easily-using-azure-stack-edge-gateway.md)
+#####  [Edge Portal モバイル アプリを使用してセットアップと構成を簡単にする](artificial-intelligence/dynamics365-connected-store/use-edge-portal-mobile-app-effortless-setup-configuration.md)
+####  店舗分析
+#####  [概要](artificial-intelligence/dynamics365-connected-store/store-analytics.md)
+#####  [ディスプレイ効果](artificial-intelligence/dynamics365-connected-store/display-effectiveness.md)
+#####  [待ち行列の解消](artificial-intelligence/dynamics365-connected-store/queue-abandonment.md)
+#####  [店舗の客足](artificial-intelligence/dynamics365-connected-store/store-traffic.md)
 <!--start-->
 ## SMB
 
@@ -471,22 +499,24 @@
 #####  [概要](dynamics365-business-central/application-enhancements.md)
 #####  [以前は日付仮想テーブルに基づいていた ListPlus ページの拡張](dynamics365-business-central/extend-listplus-pages-previously-based-date-virtual-table.md)
 #####  [価格計算の拡張](dynamics365-business-central/extend-price-calculation.md)
-#####  [複数の言語](dynamics365-business-central/multiple-languages.md)
 #####  [スイス向けの QR 請求書管理](dynamics365-business-central/qr-bill-management-switzerland.md)
 #####  [定期的な販売と購買注文明細行の自動挿入](dynamics365-business-central/auto-insert-recurring-sales-purchase-lines.md)
-#####  [口座調整の改善](dynamics365-business-central/bank-reconciliation-improvements.md)
 #####  [顧客および仕入先向けドキュメント レイアウトの強化](dynamics365-business-central/enhanced-customer-vendor-document-layout.md)
 #####  [Service Management で口座引落の回収を管理する](dynamics365-business-central/manage-direct-debit-collections-service-management.md)
+#####  [複数の言語](dynamics365-business-central/multiple-languages.md)
 #####  [承認要求の変更を要求者にすべて通知する](dynamics365-business-central/notify-requester-about-all-changes-approval-request.md)
 #####  [添付ファイルへの印刷](dynamics365-business-central/print-attachment.md)
+#####  [アクセス許可管理の生産性の向上](dynamics365-business-central/productivity-improvements-permissions-management.md)
 #####  [注文量よりも多くの商品を受け取る](dynamics365-business-central/receive-more-items-than-ordered.md)
 #####  [能力の登録 (秒単位)](dynamics365-business-central/register-capacity-seconds.md)
 #####  [注文をキャンセルする場合、請求書に対して数量を元に戻す](dynamics365-business-central/revert-qty.-invoice-when-canceling-order.md)
 #####  [Essentials エクスペリエンスに含まれる高度な計画パラメーター](dynamics365-business-central/advanced-planning-parameters-included-essentials-experience.md)
 #####  [購買ドキュメントでリソースを使用する](dynamics365-business-central/use-resources-purchase-documents.md)
+#####  [口座調整の改善](dynamics365-business-central/bank-reconciliation-improvements.md)
 ####  アプリケーション ライフサイクル管理
 #####  [概要](dynamics365-business-central/application-lifecycle-management.md)
 #####  [管理センターで直ちに環境の更新を開始する](dynamics365-business-central/start-immediate-environment-updates-administration-center.md)
+#####  [サンドボックス環境ピッカー](dynamics365-business-central/sandbox-environment-picker.md)
 #####  [Business Central 管理センターでの AppSource アプリの更新プログラムのインストール](dynamics365-business-central/installing-appsource-apps-updates-business-central-administration-center.md)
 ####  利用可能な国と地域
 #####  [概要](dynamics365-business-central/country-regional-availability.md)
@@ -545,6 +575,9 @@
 #####  [パートナー向けの Application Insights テレメトリに追加された Web サービス要求とレポートのパフォーマンス](dynamics365-business-central/telemetry-azure-application-insights-partners.md)
 #####  [読み取りスケールアウト](dynamics365-business-central/read-scale-out.md)
 #####  [レポートおよび Web サービス呼び出しに対するリソースの制限](dynamics365-business-central/resource-limits-reports-web-service-calls.md)
+#####  [パートナー向け Application Insights の企業ライフサイクル テレメトリ](dynamics365-business-central/company-lifecycle-telemetry-application-insights-partners.md)
+#####  [パートナー向け Application Insights のエラー テレメトリの更新](dynamics365-business-central/update-error-telemetry-application-insights-partners.md)
+#####  [パートナー向け Application Insights の拡張機能ライフサイクル テレメトリ](dynamics365-business-central/extension-lifecycle-telemetry-application-insights-partners.md)
 <!--start-->
 
 ## 顧客データ プラットフォーム
@@ -560,20 +593,21 @@
 <!--end-->
 ####  [概要](artificial-intelligence/dynamics365-customer-insights/index.md)
 ####  [新機能と予定されている機能](artificial-intelligence/dynamics365-customer-insights/planned-features.md)
-####  [追加の予測的分析情報](artificial-intelligence/dynamics365-customer-insights/additional-predictive-insights.md)
 ####  [新しい Power Automate コネクタと Microsoft Teams アドインによる拡張性の強化](artificial-intelligence/dynamics365-customer-insights/extensibility-enhancements-new-power-automate-connectors-teams-add-in.md)
+####  [ブランドと関心で顧客プロファイルを充実させる](artificial-intelligence/dynamics365-customer-insights/enrich-customer-profiles-brands-interests.md)
 ####  [増分およびほぼリアルタイムのデータ取り込みをサポート](artificial-intelligence/dynamics365-customer-insights/support-incremental-near-real-time-data-ingestion.md)
+####  [追加の予測的分析情報](artificial-intelligence/dynamics365-customer-insights/additional-predictive-insights.md)
 ####  [データ プロファイル機能](artificial-intelligence/dynamics365-customer-insights/data-profiling-capabilities.md)
+####  [システム管理の機能強化](artificial-intelligence/dynamics365-customer-insights/system-administration-enhancements.md)
 ####  [データの統一の向上](artificial-intelligence/dynamics365-customer-insights/data-unification-improvements.md)
 ####  [セグメントとメジャーの機能強化](artificial-intelligence/dynamics365-customer-insights/enhancements-segments-measures.md)
-####  [システム管理の機能強化](artificial-intelligence/dynamics365-customer-insights/system-administration-enhancements.md)
 ####  [Microsoft Dynamics 365 Online Government で利用できる Customer Insights](artificial-intelligence/dynamics365-customer-insights/customer-insights-dynamics-365-online-government.md)
 
 <!--start-->
 ###  Dynamics 365 Product Insights  
 <!--end-->
 ####  [概要](artificial-intelligence/dynamics365-product-insights/index.md)
-####  [新機能と予定されている機能](artificial-intelligence/dynamics365-product-insights/planned-features.md)
+
 
 <!--start-->
 ## Microsoft Forms Pro  
@@ -595,11 +629,17 @@
 ## 業界アクセラレータ
 
 <!--start-->
-###  非営利団体  
+###  自動車産業  
 <!--end-->
-####  [概要](industry-accelerators/nonprofit/index.md)
-####  [新機能と予定されている機能](industry-accelerators/nonprofit/planned-features.md)
-####  [Nonprofit Accelerator](industry-accelerators/nonprofit/nonprofit-accelerator.md)
+####  [概要](industry-accelerators/automotive/index.md)
+####  [新機能と予定されている機能](industry-accelerators/automotive/planned-features.md)
+####  [Automotive Accelerator](industry-accelerators/automotive/automotive-accelerator.md)
+
+<!--start-->
+###  教育  
+<!--end-->
+####  [概要](industry-accelerators/education/index.md)
+####  [新機能と予定されている機能](industry-accelerators/education/planned-features.md)
 
 <!--start-->
 ###  金融業サービス  
@@ -616,11 +656,30 @@
 ####  [Healthcare Accelerator](industry-accelerators/health/healthcare-accelerator.md)
 
 <!--start-->
-###  自動車産業  
+###  製造  
 <!--end-->
-####  [概要](industry-accelerators/automotive/index.md)
-####  [新機能と予定されている機能](industry-accelerators/automotive/planned-features.md)
-####  [Automotive Accelerator](industry-accelerators/automotive/automotive-accelerator.md)
+####  [概要](industry-accelerators/manufacturing/index.md)
+####  [新機能と予定されている機能](industry-accelerators/manufacturing/planned-features.md)
+
+
+<!--start-->
+###  メディアと通信  
+<!--end-->
+####  [概要](industry-accelerators/media-communications/index.md)
+####  [新機能と予定されている機能](industry-accelerators/media-communications/planned-features.md)
+
+<!--start-->
+###  非営利団体  
+<!--end-->
+####  [概要](industry-accelerators/nonprofit/index.md)
+####  [新機能と予定されている機能](industry-accelerators/nonprofit/planned-features.md)
+####  [Nonprofit Accelerator](industry-accelerators/nonprofit/nonprofit-accelerator.md)
+
+
+
+
+
+
 
 <!--start-->
 

@@ -3,22 +3,22 @@ title: Dynamics 365 の 2020 年リリース ウェーブ 1 の概要
 description: 2020 年リリース ウェーブ 1 の計画とは、2020 年 4 月から 2020 年 9 月の間にリリースが予定されている Dynamics 365 の機能を表します。
 author: ramanasridhar
 ms.reviewer: renwe
-ms.date: 04/03/2020
+ms.date: 05/12/2020
 ms.assetid: ''
 ms.topic: overview
 ms.service: business-applications
 ms.author: ramanasr
 dynamics365pdf: true
-ms.openlocfilehash: 90c61de5e4dd2ce06d5832b2594f6eb87d5c5792
-ms.sourcegitcommit: 89cd9ffbc0fe4b4a65684b5ae150523629379375
+ms.openlocfilehash: 9ea1baaf11fd6253623b34cb6ba736ad0ae57724
+ms.sourcegitcommit: 5be887cf54231a61d97eed234f40a4632d012167
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "3225295"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "3368839"
 ---
 # <a name="dynamics-365-2020-release-wave-1-plan"></a>Dynamics 365: 2020 年リリース ウェーブ 1 の計画
 
-**[2020 年リリース ウェーブ 1 の PDF のダウンロード](https://go.microsoft.com/fwlink/?linkid=2116924)** (2020 年 3 月 23 日最終更新)
+**[2020 年リリース ウェーブ 1 の PDF のダウンロード](https://go.microsoft.com/fwlink/?linkid=2116924)** (2020 年 4 月 14 日最終更新)
 
 2020 年リリース ウェーブ 1 の Dynamics 365 リリース計画 (旧称リリース ノート) では、**2020 年 4 月**から **2020 年 9 月**にかけてリリースされるすべての新機能について説明します。 このリリース計画は、[オンライン](https://aka.ms/Dynamics365ReleasePlan)で参照することも、[PDF ファイル](https://go.microsoft.com/fwlink/?linkid=2116924)のドキュメントとしてダウンロードすることもできます。 PDF ファイルには、Power Apps、Power Automate、Power Virtual Agents、Power Platform ガバナンスおよび管理と、Common Data Model およびデータ統合に関する情報も含まれています。
 

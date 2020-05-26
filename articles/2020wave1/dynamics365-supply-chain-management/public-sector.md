@@ -1,22 +1,22 @@
 ---
-title: IoT インテリジェンス
+title: 公的機関
 description: ''
 author: relnotes
 ms.reviewer: ''
-ms.date: 04/29/2020
-ms.assetid: 81d53734-57cb-e911-a96f-000d3a4f33c1
+ms.date: 04/03/2020
+ms.assetid: a781300c-43c8-e911-a968-000d3a4f3883
 ms.topic: structure
 ms.service: business-applications
-ms.author: arijitba
+ms.author: mswami
 dynamics365pdf: true
-ms.openlocfilehash: a5f2a0cea2468f001ac5998e98f1fdeb358ec747
+ms.openlocfilehash: 1f63b8c7c87295427a13528c07bd595e9a63af4e
 ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350658"
+ms.locfileid: "3350917"
 ---
-# <a name="iot-intelligence"></a>IoT インテリジェンス
+# <a name="public-sector"></a>公的機関
 
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
