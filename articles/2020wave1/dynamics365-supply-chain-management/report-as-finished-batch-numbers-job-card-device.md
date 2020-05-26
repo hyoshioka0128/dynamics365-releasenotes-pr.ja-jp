@@ -1,44 +1,45 @@
 ---
 title: ジョブ カード デバイスからのバッチ番号での完了レポート
-description: ''
+description: この機能を使用すると、ジョブ カード デバイスでバッチ管理製品のレポートを実行できます。
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 04/02/2020
+ms.date: 04/17/2020
 ms.assetid: 468e6e1a-d174-ea11-a811-000d3a579c39
 ms.topic: article
 ms.service: business-applications
 ms.author: johanho
 dynamics365pdf: true
-ms.openlocfilehash: f527e4ee92183e1b9fe4bc441cbe595472b86e9b
-ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
+ms.openlocfilehash: 9c7c604ec450381f843f47a6aa0f2c5754c27092
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "3219707"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3293133"
 ---
-# <a name="report-as-finished-on-batch-numbers-from-the-job-card-device"></a><span data-ttu-id="46ac1-102">ジョブ カード デバイスからのバッチ番号での完了レポート</span><span class="sxs-lookup"><span data-stu-id="46ac1-102">Report as finished on batch numbers from the job card device</span></span>
+# <a name="report-as-finished-on-batch-numbers-from-the-job-card-device"></a><span data-ttu-id="bb53c-103">ジョブ カード デバイスからのバッチ番号での完了レポート</span><span class="sxs-lookup"><span data-stu-id="bb53c-103">Report as finished on batch numbers from the job card device</span></span>
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
-| <span data-ttu-id="46ac1-103">有効対象</span><span class="sxs-lookup"><span data-stu-id="46ac1-103">Enabled for</span></span>    |  <span data-ttu-id="46ac1-104">パブリック プレビュー</span><span class="sxs-lookup"><span data-stu-id="46ac1-104">Public preview</span></span> | <span data-ttu-id="46ac1-105">一般提供</span><span class="sxs-lookup"><span data-stu-id="46ac1-105">General availability</span></span> | 
+| <span data-ttu-id="bb53c-104">有効対象</span><span class="sxs-lookup"><span data-stu-id="bb53c-104">Enabled for</span></span>    |  <span data-ttu-id="bb53c-105">パブリック プレビュー</span><span class="sxs-lookup"><span data-stu-id="bb53c-105">Public preview</span></span> | <span data-ttu-id="bb53c-106">一般提供</span><span class="sxs-lookup"><span data-stu-id="bb53c-106">General availability</span></span> | 
 | ---------- | :----------: |:----------: |
-|<span data-ttu-id="46ac1-106">エンド ユーザー、管理者/作成者/アナリストによる有効化</span><span class="sxs-lookup"><span data-stu-id="46ac1-106">End users by admins, makers, or analysts</span></span>|<span data-ttu-id="46ac1-107">2020 年 4 月</span><span class="sxs-lookup"><span data-stu-id="46ac1-107">Apr 2020</span></span>| <span data-ttu-id="46ac1-108">2020 年 6 月</span><span class="sxs-lookup"><span data-stu-id="46ac1-108">Jun 2020</span></span>|
+|<span data-ttu-id="bb53c-107">エンド ユーザー、管理者/作成者/アナリストによる有効化</span><span class="sxs-lookup"><span data-stu-id="bb53c-107">End users by admins, makers, or analysts</span></span>|<span data-ttu-id="bb53c-108">![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。")</span><span class="sxs-lookup"><span data-stu-id="bb53c-108">![This feature is released.](/dynamics365-release-plan/media/green-checkmark.png "This feature is released.")</span></span> <span data-ttu-id="bb53c-109">2020 年 4 月 16 日</span><span class="sxs-lookup"><span data-stu-id="bb53c-109">Apr 16, 2020</span></span>| <span data-ttu-id="bb53c-110">2020 年 5 月</span><span class="sxs-lookup"><span data-stu-id="bb53c-110">May 2020</span></span>|
 
 
 
 
 
 
-## <a name="feature-details"></a><span data-ttu-id="46ac1-109">機能の詳細</span><span class="sxs-lookup"><span data-stu-id="46ac1-109">Feature details</span></span>
+## <a name="feature-details"></a><span data-ttu-id="bb53c-111">機能の詳細</span><span class="sxs-lookup"><span data-stu-id="bb53c-111">Feature details</span></span>
 <!--feature detail start -->
-<span data-ttu-id="46ac1-110">この機能を使用すると、ジョブ カード デバイスでバッチ管理製品のレポートを実行できます。</span><span class="sxs-lookup"><span data-stu-id="46ac1-110">This feature enables the job card device report batch-tracked products.</span></span> <span data-ttu-id="46ac1-111">この新機能により、完了レポート プロセス中に次のようなシナリオが可能になります。</span><span class="sxs-lookup"><span data-stu-id="46ac1-111">The new functionality enables the following scenarios during the report-as-finished process:</span></span>
+<span data-ttu-id="bb53c-112">この機能を使用すると、ジョブ カード デバイスでバッチ管理製品のレポートを実行できます。</span><span class="sxs-lookup"><span data-stu-id="bb53c-112">This feature enables the job card device report batch-tracked products.</span></span> <span data-ttu-id="bb53c-113">この新機能により、完了レポート プロセス中に次のようなシナリオが可能になります。</span><span class="sxs-lookup"><span data-stu-id="bb53c-113">The new functionality enables the following scenarios during the report-as-finished process:</span></span>
 
-- <span data-ttu-id="46ac1-112">ユーザーは手動でバッチ番号を割り当てることができます。</span><span class="sxs-lookup"><span data-stu-id="46ac1-112">Users can manually assign the batch number.</span></span>
-- <span data-ttu-id="46ac1-113">ユーザーは、製造オーダーの作成時にシステムによって自動的に生成されたバッチ番号を選択またはスキャンできます。</span><span class="sxs-lookup"><span data-stu-id="46ac1-113">Users can select or scan a batch number that was automatically generated by the system when the production order was created.</span></span>
-- <span data-ttu-id="46ac1-114">ユーザーは、バッチまたは製造オーダーに割り当てられたバッチ番号を報告できます。</span><span class="sxs-lookup"><span data-stu-id="46ac1-114">The user can report a batch number that was assigned to the batch or production order.</span></span>
+- <span data-ttu-id="bb53c-114">ユーザーは手動でバッチ番号を割り当てることができます。</span><span class="sxs-lookup"><span data-stu-id="bb53c-114">Users can manually assign the batch number.</span></span>
+- <span data-ttu-id="bb53c-115">ユーザーは、製造オーダーの作成時にシステムによって自動的に生成されたバッチ番号を選択またはスキャンできます。</span><span class="sxs-lookup"><span data-stu-id="bb53c-115">Users can select or scan a batch number that was automatically generated by the system when the production order was created.</span></span>
+- <span data-ttu-id="bb53c-116">ユーザーは、バッチまたは製造オーダーに割り当てられたバッチ番号を報告できます。</span><span class="sxs-lookup"><span data-stu-id="bb53c-116">The user can report a batch number that was assigned to the batch or production order.</span></span>
 
-<span data-ttu-id="46ac1-115">これらのシナリオは、各製品に関連付けられているシリアル番号グループに基づいて構成されます。</span><span class="sxs-lookup"><span data-stu-id="46ac1-115">These scenarios are configured based on the serial number group that is associated with each product.</span></span> 
+<span data-ttu-id="bb53c-117">これらのシナリオは、各製品に関連付けられているシリアル番号グループに基づいて構成されます。</span><span class="sxs-lookup"><span data-stu-id="bb53c-117">These scenarios are configured based on the serial number group that is associated with each product.</span></span> 
 
 <!--feature detail end -->
+
 
 
 

@@ -3,36 +3,36 @@ title: Automotive Accelerator
 description: Automotive Accelerator
 author: relnotes
 ms.reviewer: deonhe
-ms.date: 12/31/2019
+ms.date: 04/22/2020
 ms.assetid: b58a6c5f-d51a-ea11-a811-000d3a8f0752
 ms.topic: article
 ms.service: business-applications
 ms.author: snagy
 dynamics365pdf: true
-ms.openlocfilehash: 3bbe02e2d983e54e51b223ccb39fcefb4976e58f
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 1a6745ecc52209edcc5ff7ebf3c724166f907415
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232288"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3293425"
 ---
-# <a name="automotive-accelerator"></a><span data-ttu-id="fd753-103">Automotive Accelerator</span><span class="sxs-lookup"><span data-stu-id="fd753-103">Automotive Accelerator</span></span>
+# <a name="automotive-accelerator"></a><span data-ttu-id="c8447-103">Automotive Accelerator</span><span class="sxs-lookup"><span data-stu-id="c8447-103">Automotive Accelerator</span></span>
 [!include[industry-accelerators/automotive banner](../includes/industry-accelerators/automotive.md)]
 
-| <span data-ttu-id="fd753-104">有効対象</span><span class="sxs-lookup"><span data-stu-id="fd753-104">Enabled for</span></span>    |  <span data-ttu-id="fd753-105">パブリック プレビュー</span><span class="sxs-lookup"><span data-stu-id="fd753-105">Public preview</span></span> | <span data-ttu-id="fd753-106">一般提供</span><span class="sxs-lookup"><span data-stu-id="fd753-106">General availability</span></span> | 
+| <span data-ttu-id="c8447-104">有効対象</span><span class="sxs-lookup"><span data-stu-id="c8447-104">Enabled for</span></span>    |  <span data-ttu-id="c8447-105">パブリック プレビュー</span><span class="sxs-lookup"><span data-stu-id="c8447-105">Public preview</span></span> | <span data-ttu-id="c8447-106">一般提供</span><span class="sxs-lookup"><span data-stu-id="c8447-106">General availability</span></span> | 
 | ---------- | :----------: |:----------: |
-|<span data-ttu-id="fd753-107">エンド ユーザー、管理者/作成者/アナリストによる有効化</span><span class="sxs-lookup"><span data-stu-id="fd753-107">End users by admins, makers, or analysts</span></span>|-| <span data-ttu-id="fd753-108">2020 年 5 月</span><span class="sxs-lookup"><span data-stu-id="fd753-108">May 2020</span></span>|
+|<span data-ttu-id="c8447-107">エンド ユーザー、管理者/作成者/アナリストによる有効化</span><span class="sxs-lookup"><span data-stu-id="c8447-107">End users by admins, makers, or analysts</span></span>|-| <span data-ttu-id="c8447-108">2020 年 5 月</span><span class="sxs-lookup"><span data-stu-id="c8447-108">May 2020</span></span>|
 
 
 
 
 
 
-## <a name="feature-details"></a><span data-ttu-id="fd753-109">機能の詳細</span><span class="sxs-lookup"><span data-stu-id="fd753-109">Feature details</span></span>
+## <a name="feature-details"></a><span data-ttu-id="c8447-109">機能の詳細</span><span class="sxs-lookup"><span data-stu-id="c8447-109">Feature details</span></span>
 <!--feature detail start -->
-<span data-ttu-id="fd753-110">Automotive Accelerator の初期リリースは、一般にディーラーと OEM に関連するカスタマー エクスペリエンスとビジネス プロセスの最適化に重点を置いています。</span><span class="sxs-lookup"><span data-stu-id="fd753-110">The initial release of the Automotive Accelerator has focused on optimizing the customer experience and business processes commonly related to dealerships and OEMs.</span></span> <span data-ttu-id="fd753-111">このリリースでは、資産管理、テレマティクス、キャンペーン、Connected Field Service をサポートするデバイス エンティティへの更新、および予測メンテナンスのユース ケースとの統合をサポートする、すぐに使えるエンティティ マッピングを含めました。</span><span class="sxs-lookup"><span data-stu-id="fd753-111">With this release, we have included out-of-the-box entity mappings to support integration with asset management, telematics, campaigns, update to the Device entity to support Connected Field Service, and predictive maintenance use cases.</span></span>
+<span data-ttu-id="c8447-110">Automotive Accelerator の初期リリースは、一般にディーラーと OEM に関連するカスタマー エクスペリエンスとビジネス プロセスの最適化に重点を置いています。</span><span class="sxs-lookup"><span data-stu-id="c8447-110">The initial release of the Automotive Accelerator has focused on optimizing the customer experience and business processes commonly related to dealerships and OEMs.</span></span> <span data-ttu-id="c8447-111">このリリースでは、資産管理、テレマティクス、キャンペーン、Connected Field Service をサポートするデバイス エンティティへの更新、および予測メンテナンスのユース ケースとの統合をサポートする、すぐに使えるエンティティ マッピングを含めました。</span><span class="sxs-lookup"><span data-stu-id="c8447-111">With this release, we have included out-of-the-box entity mappings to support integration with asset management, telematics, campaigns, update to the Device entity to support Connected Field Service, and predictive maintenance use cases.</span></span>
 
-<span data-ttu-id="fd753-112">このリリースは、デジタル マーケティングに対応したエンドツーエンドのシナリオと、カスタマー 360 インサイトでパーソナライズされたエクスペリエンスに加えて、販売前と販売後の主要な活動を自動化する顧客体験テンプレートを対象としています。</span><span class="sxs-lookup"><span data-stu-id="fd753-112">This release targets end-to-end scenarios covering digital marketing, and personalized experiences with customer 360 insights, as well as a customer journey template to automate key pre and post sales activities.</span></span>
+<span data-ttu-id="c8447-112">このリリースは、デジタル マーケティングに対応したエンドツーエンドのシナリオと、カスタマー 360 インサイトでパーソナライズされたエクスペリエンスに加えて、販売前と販売後の主要な活動を自動化する顧客体験テンプレートを対象としています。</span><span class="sxs-lookup"><span data-stu-id="c8447-112">This release targets end-to-end scenarios covering digital marketing, and personalized experiences with customer 360 insights, as well as a customer journey template to automate key pre and post sales activities.</span></span>
 <!--feature detail end -->
 
 
@@ -44,10 +44,8 @@ ms.locfileid: "3232288"
 
 
 
-## <a name="see-also"></a><span data-ttu-id="fd753-113">関連項目</span><span class="sxs-lookup"><span data-stu-id="fd753-113">See also</span></span>
-
+## <a name="see-also"></a><span data-ttu-id="c8447-113">関連項目</span><span class="sxs-lookup"><span data-stu-id="c8447-113">See also</span></span>
 
 <!--docs start-->
-<span data-ttu-id="fd753-114">[Automotive Accelerator](https://docs.microsoft.com/common-data-model/automotive-accelerator) (ドキュメント)</span><span class="sxs-lookup"><span data-stu-id="fd753-114">[Automotive Accelerator](https://docs.microsoft.com/common-data-model/automotive-accelerator) (docs)</span></span>
+<span data-ttu-id="c8447-114">[Automotive Accelerator](https://docs.microsoft.com/common-data-model/automotive-accelerator) (ドキュメント)</span><span class="sxs-lookup"><span data-stu-id="c8447-114">[Automotive Accelerator](https://docs.microsoft.com/common-data-model/automotive-accelerator) (docs)</span></span>
 <!--docs end-->
-
