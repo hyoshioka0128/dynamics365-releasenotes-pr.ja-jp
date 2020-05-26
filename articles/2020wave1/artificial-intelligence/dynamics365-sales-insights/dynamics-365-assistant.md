@@ -3,36 +3,36 @@ title: Dynamics 365 アシスタント
 description: ''
 author: relnotes
 ms.reviewer: shubhadaj
-ms.date: 03/12/2020
+ms.date: 04/28/2020
 ms.assetid: d04b25da-e8c9-e911-a96a-000d3a4f36ce
 ms.topic: structure
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: 4caafd5efacf05585cc62b56d88dbce21c3c4d0f
-ms.sourcegitcommit: f7b958b02d7cb7543a3f81414e7b3e62a5b8539d
+ms.openlocfilehash: f5931d59f86343024f17e718a7927e640c6bbe9f
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "3158316"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3349756"
 ---
-# <a name="dynamics-365-assistant"></a><span data-ttu-id="0aa2d-102">Dynamics 365 アシスタント</span><span class="sxs-lookup"><span data-stu-id="0aa2d-102">Dynamics 365 Assistant</span></span>
+# <a name="dynamics-365-assistant"></a><span data-ttu-id="8b8f0-102">Dynamics 365 アシスタント</span><span class="sxs-lookup"><span data-stu-id="8b8f0-102">Dynamics 365 Assistant</span></span>
 
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
 
 <!--structure start-->
-<span data-ttu-id="0aa2d-103">競争の激しい今日のビジネス環境において、販売担当者は、対面によって顧客エンゲージメントを促進し、より多くの営業案件を成功に導くために、かなりの時間を移動に費やしています。</span><span class="sxs-lookup"><span data-stu-id="0aa2d-103">In today’s competitive environment, sellers spend significant time on the road, fostering personal customer engagements to convert more opportunities into wins.</span></span> 
+<span data-ttu-id="8b8f0-103">競争の激しい今日のビジネス環境において、販売担当者は、対面によって顧客エンゲージメントを促進し、より多くの営業案件を成功に導くために、かなりの時間を移動に費やしています。</span><span class="sxs-lookup"><span data-stu-id="8b8f0-103">In today’s competitive environment, sellers spend significant time on the road, fostering personal customer engagements to convert more opportunities into wins.</span></span> 
 
-<span data-ttu-id="0aa2d-104">しかし、多くの場合、販売担当者は日々の業務を生産的に管理することに苦労しています。</span><span class="sxs-lookup"><span data-stu-id="0aa2d-104">But sellers often struggle to manage their day productively.</span></span> <span data-ttu-id="0aa2d-105">複数のシステムから情報を収集して各営業案件の全体像を把握し、目標とする結果を導くための最善の行動を取るために、貴重な時間を費やしています。</span><span class="sxs-lookup"><span data-stu-id="0aa2d-105">They spend valuable time collecting information across multiple systems to paint a complete picture for each opportunity, to take the next best course of action that will lead to a successful outcome.</span></span> <span data-ttu-id="0aa2d-106">また、営業チームの全員が同じ情報を共有できるように、CRM の更新にも多くの時間を費やしています。</span><span class="sxs-lookup"><span data-stu-id="0aa2d-106">Then they spend more time updating CRM, so everyone on the sales team is on the same page.</span></span> <span data-ttu-id="0aa2d-107">その結果、顧客との有意義な関係を構築するという、最も重要な仕事に集中する時間がきわめて少なくなっています。</span><span class="sxs-lookup"><span data-stu-id="0aa2d-107">Ultimately, this leaves little time to focus on what matters most—building meaningful relationships with customers.</span></span> 
+<span data-ttu-id="8b8f0-104">しかし、多くの場合、販売担当者は日々の業務を生産的に管理することに苦労しています。</span><span class="sxs-lookup"><span data-stu-id="8b8f0-104">But sellers often struggle to manage their day productively.</span></span> <span data-ttu-id="8b8f0-105">複数のシステムから情報を収集して各営業案件の全体像を把握し、目標とする結果を導くための最善の行動を取るために、貴重な時間を費やしています。</span><span class="sxs-lookup"><span data-stu-id="8b8f0-105">They spend valuable time collecting information across multiple systems to paint a complete picture for each opportunity, to take the next best course of action that will lead to a successful outcome.</span></span> <span data-ttu-id="8b8f0-106">また、営業チームの全員が同じ情報を共有できるように、CRM の更新にも多くの時間を費やしています。</span><span class="sxs-lookup"><span data-stu-id="8b8f0-106">Then they spend more time updating CRM, so everyone on the sales team is on the same page.</span></span> <span data-ttu-id="8b8f0-107">その結果、顧客との有意義な関係を構築するという、最も重要な仕事に集中する時間がきわめて少なくなっています。</span><span class="sxs-lookup"><span data-stu-id="8b8f0-107">Ultimately, this leaves little time to focus on what matters most—building meaningful relationships with customers.</span></span> 
 
-<span data-ttu-id="0aa2d-108">時間が限られている中で、情報が商談成立のための戦略的差別化要因となっている場合、個人や状況に応じた販売ガイダンスが使用できれば、販売担当者はより大きな成果を達成することができます。</span><span class="sxs-lookup"><span data-stu-id="0aa2d-108">When time is limited and information stands to offer strategic differentiation for closing deals, having personal and contextual sales guidance can empower sellers to achieve more.</span></span> <span data-ttu-id="0aa2d-109">Dynamics 365 アシスタントは、関連性の高い実用的なインサイトを提供し、日常的なタスクを自動化することで、販売担当者に競争上の優位性をもたらします。</span><span class="sxs-lookup"><span data-stu-id="0aa2d-109">Dynamics 365 Assistant offers the seller a competitive advantage by surfacing relevant and actionable insights and by automating mundane tasks.</span></span> <span data-ttu-id="0aa2d-110">これにより、販売担当者は時間を節約し、結果として、販売組織全体の生産性を高めることができます。</span><span class="sxs-lookup"><span data-stu-id="0aa2d-110">This gives time back to sellers and, in turn, increases productivity across the entire sales organization.</span></span>
+<span data-ttu-id="8b8f0-108">時間が限られている中で、情報が商談成立のための戦略的差別化要因となっている場合、個人や状況に応じた販売ガイダンスが使用できれば、販売担当者はより大きな成果を達成することができます。</span><span class="sxs-lookup"><span data-stu-id="8b8f0-108">When time is limited and information stands to offer strategic differentiation for closing deals, having personal and contextual sales guidance can empower sellers to achieve more.</span></span> <span data-ttu-id="8b8f0-109">Dynamics 365 アシスタントは、関連性の高い実用的なインサイトを提供し、日常的なタスクを自動化することで、販売担当者に競争上の優位性をもたらします。</span><span class="sxs-lookup"><span data-stu-id="8b8f0-109">Dynamics 365 Assistant offers the seller a competitive advantage by surfacing relevant and actionable insights and by automating mundane tasks.</span></span> <span data-ttu-id="8b8f0-110">これにより、販売担当者は時間を節約し、結果として、販売組織全体の生産性を高めることができます。</span><span class="sxs-lookup"><span data-stu-id="8b8f0-110">This gives time back to sellers and, in turn, increases productivity across the entire sales organization.</span></span>
 
-<span data-ttu-id="0aa2d-111">2020 年リリース ウェーブ 1 では、Dynamics 365 アシスタントがより多くのモバイル端末で利用できるようになり、新しいデータ ソースからより多くの推奨事項やインサイトを取得できるようになります。これにより、あらゆる販売担当者が、外出先から適切な情報を適切なタイミングとコンテキストで取得できるようになります。</span><span class="sxs-lookup"><span data-stu-id="0aa2d-111">In the 2020 release wave 1, we focus on delivering Dynamics 365 Assistant across more mobile surfaces, providing more recommendations and insights from across new data sources, so every field seller on the road receives the right information, at the right time, and in the right context.</span></span>
+<span data-ttu-id="8b8f0-111">2020 年リリース ウェーブ 1 では、Dynamics 365 アシスタントがより多くのモバイル端末で利用できるようになり、新しいデータ ソースからより多くの推奨事項やインサイトを取得できるようになります。これにより、あらゆる販売担当者が、外出先から適切な情報を適切なタイミングとコンテキストで取得できるようになります。</span><span class="sxs-lookup"><span data-stu-id="8b8f0-111">In the 2020 release wave 1, we focus on delivering Dynamics 365 Assistant across more mobile surfaces, providing more recommendations and insights from across new data sources, so every field seller on the road receives the right information, at the right time, and in the right context.</span></span>
 
-<span data-ttu-id="0aa2d-112">コンテキストに合ったインサイトとタスクの自動化は、あらゆる販売担当者にメリットをもたらします。</span><span class="sxs-lookup"><span data-stu-id="0aa2d-112">Offering contextual insights and task automation helps every seller:</span></span>
+<span data-ttu-id="8b8f0-112">コンテキストに合ったインサイトとタスクの自動化は、あらゆる販売担当者にメリットをもたらします。</span><span class="sxs-lookup"><span data-stu-id="8b8f0-112">Offering contextual insights and task automation helps every seller:</span></span>
 
-- <span data-ttu-id="0aa2d-113">**現場の販売担当者**は、外出先から好みのデバイスを使用してアシスタントを利用できるので、外出時における業務の生産性が高まり、情報の見落としも回避できます。</span><span class="sxs-lookup"><span data-stu-id="0aa2d-113">**Field sellers** can receive assistant on-the-go, empowering them to get things done while in motion, in the surface of their choice, to ensure nothing gets overlooked.</span></span> 
-- <span data-ttu-id="0aa2d-114">**社内の販売担当者**は、営業活動の状況に基づいたタイムリーなガイダンスを活用することで、あらゆる顧客に対し、適切なタイミングと方法で連絡を取ることができます。</span><span class="sxs-lookup"><span data-stu-id="0aa2d-114">**Insider sellers** can benefit from just-in-time guidance based on sales cadences, to ensure every customer is contacted at the right time and in the right way.</span></span>
+- <span data-ttu-id="8b8f0-113">**現場の販売担当者**は、外出先から好みのデバイスを使用してアシスタントを利用できるので、外出時における業務の生産性が高まり、情報の見落としも回避できます。</span><span class="sxs-lookup"><span data-stu-id="8b8f0-113">**Field sellers** can receive assistance on the go, empowering them to get things done while in motion, in the surface of their choice, to ensure nothing gets overlooked.</span></span> 
+- <span data-ttu-id="8b8f0-114">**社内の販売担当者**は、営業活動の状況に基づいたタイムリーなガイダンスを活用することで、あらゆる顧客に対し、適切なタイミングと方法で連絡を取ることができます。</span><span class="sxs-lookup"><span data-stu-id="8b8f0-114">**Insider sellers** can benefit from just-in-time guidance based on sales cadences, to ensure every customer is contacted at the right time and in the right way.</span></span>
 <!--structure end-->
 
 

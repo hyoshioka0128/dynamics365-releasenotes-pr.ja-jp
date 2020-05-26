@@ -3,20 +3,20 @@ title: クラウド操作
 description: ''
 author: relnotes
 ms.reviewer: ''
-ms.date: 03/12/2020
+ms.date: 04/29/2020
 ms.assetid: c183c035-76c8-e911-a968-000d3a4f3883
 ms.topic: structure
 ms.service: business-applications
 ms.author: meeram
 dynamics365pdf: true
-ms.openlocfilehash: 496a3a914a412376a4ff840b7c692b67db052b73
-ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
+ms.openlocfilehash: 8c3c4f0871402db96905422f61502ba33294a62d
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "3219704"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3350152"
 ---
-# <a name="cloud-operations"></a><span data-ttu-id="d337e-102">クラウド操作</span><span class="sxs-lookup"><span data-stu-id="d337e-102">Cloud Operations</span></span>
+# <a name="cloud-operations"></a><span data-ttu-id="83807-102">クラウド操作</span><span class="sxs-lookup"><span data-stu-id="83807-102">Cloud operations</span></span>
 
 [!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
 
