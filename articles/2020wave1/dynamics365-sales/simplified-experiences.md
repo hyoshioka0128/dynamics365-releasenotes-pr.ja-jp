@@ -3,18 +3,18 @@ title: 簡素化されたエクスペリエンス
 description: Dynamics 365 Sales を向上させるための取り組みとして、Microsoft では不要なストレスを取り除き、機能をより使いやすいものにする機能強化を継続的に導入しています。
 author: relnotes
 ms.reviewer: shubhadaj
-ms.date: 03/12/2020
+ms.date: 04/29/2020
 ms.assetid: 280c9d1c-78cb-e911-a96a-000d3a4f36ce
 ms.topic: structure
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: 673091d4044dee2d4b4805f982b127d8486d4ca7
-ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
+ms.openlocfilehash: 63feeee0092a5a91b75a9d0bb5ac23a3ba0a896a
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "3152084"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3349701"
 ---
 # <a name="simplified-experiences"></a>簡素化されたエクスペリエンス
 

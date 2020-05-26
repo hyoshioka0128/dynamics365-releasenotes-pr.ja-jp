@@ -3,25 +3,25 @@ title: 次世代スケジュール ボード エクスペリエンス
 description: スケジュール ボードのエクスペリエンスを刷新して、パフォーマンスと使いやすさを改善しました。
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 02/28/2020
+ms.date: 04/22/2020
 ms.assetid: 916e88cf-0d1e-ea11-a811-000d3a8f022a
 ms.topic: article
 ms.service: business-applications
 ms.author: sampatn
 dynamics365pdf: true
-ms.openlocfilehash: 05ed28d0710b9913a29494cb4ec7f19cd2d64eaf
-ms.sourcegitcommit: 2928661abcc468748ffc7c33516ebc8e3cd5d653
+ms.openlocfilehash: cb3d19edb1671216928c8283c620646ea1e0e431
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "3098117"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3293920"
 ---
 # <a name="next-generation-schedule-board-experience"></a>次世代スケジュール ボード エクスペリエンス
-[!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 4 月|-| -|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|-| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -44,12 +44,16 @@ ms.locfileid: "3098117"
 <!-- Picture 1 -->
 
 > [!NOTE]
-> この機能は、統一インターフェイスでのみ使用できます。 
->
-> 新しいスケジュール ボード エクスペリエンスのための新しいソリューションがインストールされます
+> この機能は、統一インターフェイスでのみ使用できます。 新しいスケジュール ボード エクスペリエンスのための新しいソリューションがインストールされます。
 
 
 
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[Dynamics 365 Field Service で新しい、改良されたスケジュール ボードをプレビューする](https://docs.microsoft.com/dynamics365/field-service/preview-schedule-board) (ドキュメント)
+<!--docs end-->

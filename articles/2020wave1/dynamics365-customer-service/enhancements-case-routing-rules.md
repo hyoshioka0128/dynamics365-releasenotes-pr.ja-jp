@@ -1,27 +1,27 @@
 ---
-title: サポート案件ルーティング規則の強化
-description: サポート案件ルーティング規則の強化
+title: サポート案件ルーティング規則の統一インターフェイスの有効化
+description: サポート案件ルーティング規則の統一インターフェイスの有効化
 author: relnotes
 ms.reviewer: nenellim
-ms.date: 02/05/2020
+ms.date: 04/29/2020
 ms.assetid: ed384389-251e-ea11-a812-000d3a8f010c
 ms.topic: article
 ms.service: business-applications
 ms.author: eichimur
 dynamics365pdf: true
-ms.openlocfilehash: a911734401fc1fd2be9a4cbc4dcdffa9a6200728
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: ee46ab5c78f611145216aa5a9b311956a88ff845
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3233201"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3350526"
 ---
-# <a name="enhancements-in-case-routing-rules"></a>サポート案件ルーティング規則の強化
-[!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
+# <a name="unified-interface-enablement-of-case-routing-rules"></a>サポート案件ルーティング規則の統一インターフェイスの有効化
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
+|管理者、作成者、またはアナリスト、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,8 +47,6 @@ ms.locfileid: "3233201"
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
-[ルーティング規則セット](https://docs.microsoft.com/dynamics365/customer-service/create-rules-automatically-route-cases#create-a-routing-rule-set-customer-service-hub) (ドキュメント)
+[ルーティング規則セットを作成する (顧客サービス ハブ)](https://docs.microsoft.com/dynamics365/customer-service/create-rules-automatically-route-cases#create-a-routing-rule-set-customer-service-hub) (ドキュメント)
 <!--docs end-->
-

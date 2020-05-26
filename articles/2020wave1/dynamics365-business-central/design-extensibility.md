@@ -1,36 +1,36 @@
 ---
 title: 拡張性のデザイン
-description: ''
+description: Microsoft では、システム アプリケーションとアプリケーション基盤を形成するシステム ロジックをモジュールに抽出することによって、コア アプリケーションの機能をさらに絞り込み、拡張の可能性を広げ、ローカライズをより簡単にするための取り組みを継続しています。 これらのモジュールでは、*1 機能 = 1 モジュール*の原則に従って、簡潔さに焦点を当てています。 各モジュールでは、複雑さがカプセル化され、実装の詳細がクリーンで文書化されて安定した API に置き換えられています。 これらによって開発サイクルがスピードアップし、セキュリティとパフォーマンスの観点から機能の監視と最適化が容易になります。 モジュールの数は構成によって異なり、各モジュールを個別に拡張することができます。 これは、Microsoft とパートナー コミュニティの両方にとって開発パラダイムの大きな変化であるため、2020 年リリース ウェーブ 1 よりはるかに早く各モジュールのソース コードを利用可能にしています。
 author: relnotes
 ms.reviewer: bholtorf
-ms.date: 03/19/2020
+ms.date: 04/20/2020
 ms.assetid: bc92b8ed-4847-ea11-a812-000d3a579c33
 ms.topic: article
 ms.service: business-applications
 ms.author: andreipa
 dynamics365pdf: true
-ms.openlocfilehash: 8dc39a46f487ad9c07b839d20b53194045d618ea
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: ae7340b45d1827d998dc94b091ab5add4c05e0d5
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232937"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3293975"
 ---
 # <a name="design-for-extensibility"></a>拡張性のデザイン
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 7 日| 2020 年 4 月|
-
-
-
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 7 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 ## <a name="business-value"></a>ビジネス バリュー
-マイクロソフトでは、システム アプリケーションとアプリケーション基盤を形成するシステム ロジックをモジュールに抽出することによって、コア アプリケーションの機能をさらに絞り込み、拡張の可能性を広げ、ローカライズをより簡単にするための取り組みを継続しています。 これらのモジュールでは、*1 機能 = 1 モジュール*の原則に従って、簡潔さに焦点を当てています。 各モジュールでは、複雑さがカプセル化され、実装の詳細がクリーンで文書化されて安定した API に置き換えられています。 これらによって開発サイクルがスピードアップし、セキュリティとパフォーマンスの観点から機能の監視と最適化が容易になります。 モジュールの数は構成によって異なり、各モジュールを個別に拡張することができます。 これは、マイクロソフトとパートナー コミュニティの両方にとって開発パラダイムの大きな変化であるため、2020 年リリース ウェーブ 1 よりはるかに早く各モジュールのソース コードを利用可能にしています。
+Microsoft では、システム アプリケーションとアプリケーション基盤を形成するシステム ロジックをモジュールに抽出することによって、コア アプリケーションの機能をさらに絞り込み、拡張の可能性を広げ、ローカライズをより簡単にするための取り組みを継続しています。 これらのモジュールでは、*1 機能 = 1 モジュール*の原則に従って、簡潔さに焦点を当てています。 各モジュールでは、複雑さがカプセル化され、実装の詳細がクリーンで文書化されて安定した API に置き換えられています。 これらによって開発サイクルがスピードアップし、セキュリティとパフォーマンスの観点から機能の監視と最適化が容易になります。 モジュールの数は構成によって異なり、各モジュールを個別に拡張することができます。 これは、Microsoft とパートナー コミュニティの両方にとって開発パラダイムの大きな変化であるため、2020 年リリース ウェーブ 1 よりはるかに早く各モジュールのソース コードを利用可能にしています。
+
+
 
 ## <a name="feature-details"></a>機能の詳細
-モジュールが完成したら、ソース コードを GitHub 上の [ALAppExtensions リポジトリ](https://github.com/Microsoft/ALAppExtensions)に公開します。 それを調べ、直接フィードバックを提供し、貢献することをお勧めします。 現在、次のモジュールを使用できます。
+<!--feature detail start -->
+モジュールが完成したら、ソース コードを GitHub 上の [ALAppExtensions repo](https://github.com/Microsoft/ALAppExtensions) に公開します。 それを調べ、直接フィードバックを提供し、貢献することをお勧めします。 現在、次のモジュールを使用できます。
 
 |名前|責任|
 |---|---|
@@ -57,8 +57,6 @@ ms.locfileid: "3232937"
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [システム アプリケーションの概要](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-system-application-overview) (ドキュメント)
 <!--docs end-->
-

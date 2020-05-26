@@ -1,27 +1,27 @@
 ---
 title: 分析情報の強化によるメリット
-description: ''
+description: 新しいレイアウトでは、カードのコンテンツがより適切に整理され、高度なアクションをカード内から直接実行するオプションがサポートされるため、販売担当者の生産性が向上します。 カードにドリルダウンしてより多くの情報を取得し、販売担当者が常に最善の行動方針を選択するために必要なすべての情報を入手できるようにします。
 author: relnotes
 ms.reviewer: udag
-ms.date: 03/03/2020
+ms.date: 04/24/2020
 ms.assetid: 47667a41-caca-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: ermanor
 dynamics365pdf: true
-ms.openlocfilehash: 36fed8f0e1b450333226f4ea7a2eece0019c8bd9
-ms.sourcegitcommit: 99f8fe366e70064e41204f9ee5c16fe397396d16
+ms.openlocfilehash: 61a7b729e8e08c12ed39596c6e6666565407d141
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "3115141"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3294547"
 ---
 # <a name="benefit-from-enhanced-insights"></a>分析情報の強化によるメリット
-[!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 6 日| 2020 年 4 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 6 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

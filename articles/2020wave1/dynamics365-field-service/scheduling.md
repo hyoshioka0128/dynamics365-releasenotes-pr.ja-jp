@@ -3,18 +3,18 @@ title: スケジューリング
 description: ''
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 09/12/2019
+ms.date: 04/29/2020
 ms.assetid: 13030a33-abd5-e911-a96a-000d3a4f36ce
 ms.topic: structure
 ms.service: business-applications
 ms.author: kyley
 dynamics365pdf: true
-ms.openlocfilehash: 4d090cf42abd462c97a9acb3a353423074900f62
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 8ffa21c756ed06869698be2136c0a2d02f394bef
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079590"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3350416"
 ---
 # <a name="scheduling"></a>スケジューリング
 

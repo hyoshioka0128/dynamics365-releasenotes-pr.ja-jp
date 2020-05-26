@@ -3,18 +3,18 @@ title: Dynamics 365 Commerce 2020 年リリース ウェーブ 1 の概要
 description: Dynamics 365 Commerce 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: josaw
-ms.date: 03/12/2020
+ms.date: 05/01/2020
 ms.assetid: 6e019de0-eb41-ea11-a812-000d3a563be2
 ms.topic: overview
 ms.service: business-applications
 ms.author: balajiba
 dynamics365pdf: true
-ms.openlocfilehash: 193b30244954c78b85fbb8dee59e77112acb5a37
-ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
+ms.openlocfilehash: bb2598df1c4894597ee081a2faba623e22ae165d
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "3151875"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3349514"
 ---
 # <a name="overview-of-dynamics-365-commerce-2020-release-wave-1"></a>Dynamics 365 Commerce 2020 年リリース ウェーブ 1 の概要
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
@@ -55,4 +55,6 @@ Dynamics 365 エコシステムが提供するスムーズな情報フローと�
 - **オムニチャネル**: Alipay や WeChat Pay などの最新の支払い方法のサポートと、チャネル間で一貫性がある改善された支払いフローにより、消費者の精算エクスペリエンスがはるかにスムーズになります。 また、返品ポリシーと改善された返品シナリオを有効にすることで、小売業者は競合他社よりも際立つサービス レベルを消費者に提供できます。
 
 - **基礎**: 店舗内の POS デバイスのシームレスで信頼性の高い接続損失管理、およびデータの同期と格納に関する効率と信頼性の向上により、小売業者は店舗内コンポーネントがスムーズに動作していることを確信し、店舗運営の生産性と効率性を高めることができます。 Azure Active Directory ベースのサインインのサポートとサインイン ページの向上により、小売業者にワールドクラスの認証システムが提供され、システムをセキュリティで保護できます。
+
+[リリースの概要のビデオをご覧ください](https://aka.ms/Overview/2020RW1/Commerce)
 <!--overview end-->

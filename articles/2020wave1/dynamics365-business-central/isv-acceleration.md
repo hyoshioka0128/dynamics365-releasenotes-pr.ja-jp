@@ -3,18 +3,18 @@ title: パートナーのアクセラレーション
 description: ''
 author: relnotes
 ms.reviewer: edupont04
-ms.date: 03/12/2020
+ms.date: 04/28/2020
 ms.assetid: 31e5bf6f-27cb-e911-a996-000d3a4f3343
 ms.topic: structure
 ms.service: business-applications
 ms.author: jannikb
 dynamics365pdf: true
-ms.openlocfilehash: ad591786cfa128469b78e9f820bd2d791bb33f79
-ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
+ms.openlocfilehash: 4fd5815a2aea896ae23ee24ecef41e54064ed285
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "3152051"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3349921"
 ---
 # <a name="partner-acceleration"></a>パートナーのアクセラレーション
 

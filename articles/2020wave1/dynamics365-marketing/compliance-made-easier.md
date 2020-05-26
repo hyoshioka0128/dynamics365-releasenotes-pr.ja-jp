@@ -1,27 +1,27 @@
 ---
 title: コンプライアンスが簡単に
-description: ''
+description: ページ、フォーム、電子メールのアクセシビリティの向上と GDPR 関連の機能の向上が Dynamics 365 Marketing で一般提供されました。
 author: relnotes
 ms.reviewer: alfergus
-ms.date: 02/19/2020
+ms.date: 04/17/2020
 ms.assetid: 6d74d613-1ace-e911-a996-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: eosipova
 dynamics365pdf: true
-ms.openlocfilehash: 4462d86139f2486c5e1bd4ce001a9dbd882e7d5c
-ms.sourcegitcommit: db53421debc891ea407773d0e9b39feb7a01fef3
+ms.openlocfilehash: fcb982903770eaf04c687d6f0b6fd350e7f862a8
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/09/2020
-ms.locfileid: "3110756"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3294327"
 ---
 # <a name="compliance-made-easier"></a>コンプライアンスが簡単に
-[!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -38,12 +38,19 @@ GDPR とアクセシビリティ ガイドラインへのコンプライアン�
 - **アクセシビリティ チェッカー**: Marketing コンテンツ デザイナーを使用して作成された電子メール、フォーム、ページのアクセシビリティを確認し、推奨される修正についてのガイダンスを得ることができます。
 <!--feature detail end -->
 
-
-![電子メール アクセシビリティ チェッカー](media/email-editor-accessibility-checker.png "電子メール アクセシビリティ チェッカー") 
-
-
+![色のコントラストの問題を特定するアクセシビリティ チェッカー](media/email-editor-accessibility-checker.png "色のコントラストの問題を特定するアクセシビリティ チェッカー")
+<!-- Picture 1 -->
 
 
 
 
 
+
+
+
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[データ保護と GDPR](https://docs.microsoft.com/dynamics365/marketing/gdpr) (ドキュメント)
+<!--docs end-->

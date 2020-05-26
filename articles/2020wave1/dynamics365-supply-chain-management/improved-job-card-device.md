@@ -1,27 +1,27 @@
 ---
 title: ジョブ カード デバイスの機能向上
-description: 現在はジョブ カード ターミナルでしか利用できない機能を追加することで、ジョブ カード デバイスを強化しています。 これは、製造現場の作業員に、生産ジョブを管理する際のより直感的でタッチ操作しやすいエクスペリエンスを提供します。
+description: 現在はジョブ カード ターミナルでのみ利用可能な機能を追加することで、ジョブ カード デバイスを強化しています。 これは、製造現場の作業員に、生産ジョブを管理する際のより直感的でタッチ操作しやすいエクスペリエンスを提供します。
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 03/18/2020
+ms.date: 04/17/2020
 ms.assetid: eb239434-82e3-e911-a812-000d3a4f13c0
 ms.topic: article
 ms.service: business-applications
 ms.author: johanho
 dynamics365pdf: true
-ms.openlocfilehash: dcfb6093e1eac3b0807586af63dbfd663a6d74f4
-ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
+ms.openlocfilehash: 55ed1039f94f595dee4e5a3134d2ec17e3fdce23
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "3152271"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3294789"
 ---
 # <a name="improved-job-card-device"></a>ジョブ カード デバイスの機能向上
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 3 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -33,7 +33,7 @@ ms.locfileid: "3152271"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-これまでジョブ カード ターミナルでしか利用できなかった機能を追加することで、ジョブ カード デバイスを強化しています。 これは、製造現場の作業員に、生産ジョブの管理に向けて、より直感的でタッチ操作しやすいエクスペリエンスを提供します。 機能強化は次のとおりです。
+これまでジョブ カード ターミナルでのみ利用可能であった機能を追加することで、ジョブ カード デバイスを強化しています。 これは、製造現場の作業員に、生産ジョブの管理に向けて、より直感的でタッチ操作しやすいエクスペリエンスを提供します。 機能強化は次のとおりです。
 
 - **進捗状況のレポート** ダイアログ ボックスのユーザー インターフェイスが強化され、より直感的でタッチ操作しやすい、ワークフロー駆動型のエクスペリエンスが提供されます。
 - モバイル デバイスを使用して完了を報告するときに、ライセンス プレートのラベルを印刷する機能。

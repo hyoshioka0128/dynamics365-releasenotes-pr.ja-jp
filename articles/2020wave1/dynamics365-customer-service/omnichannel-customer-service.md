@@ -1,20 +1,20 @@
 ---
 title: Customer Service 用オムニチャネル
-description: Customer Service 用オムニチャネルでは、Dynamics 365 Customer Service の機能を拡張する機能のスイートが提供されます。組織はデジタル メッセージ チャネルにより、顧客とすばやくやり取りし、エンゲージメントを促進することができます。
+description: Customer Service 用オムニチャネルでは、Dynamics 365 Customer Service の機能を拡張する機能のスイートが提供されます。組織はデジタル メッセージング チャネルにより、顧客とすばやくやり取りし、エンゲージメントを促進することができます。
 author: relnotes
 ms.reviewer: shubhadaj
-ms.date: 03/12/2020
+ms.date: 04/29/2020
 ms.assetid: 1d08066d-6a33-ea11-a810-000d3a8f010c
 ms.topic: structure
 ms.service: business-applications
 ms.author: srreddy
 dynamics365pdf: true
-ms.openlocfilehash: 06b7c9fee6328850580227e8fcac1adddd93cb56
-ms.sourcegitcommit: f7b958b02d7cb7543a3f81414e7b3e62a5b8539d
+ms.openlocfilehash: b90ee22885415d3a50bcb2ee41d76abaaf3969b8
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "3157711"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3349289"
 ---
 # <a name="omnichannel-for-customer-service"></a>Customer Service 用オムニチャネル
 

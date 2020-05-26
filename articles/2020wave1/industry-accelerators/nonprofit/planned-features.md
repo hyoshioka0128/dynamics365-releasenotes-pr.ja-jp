@@ -3,17 +3,17 @@ title: 非営利団体向けの新機能と予定されている機能 (2020 年
 description: 非営利団体向けに計画されている機能の概要。
 author: relnotes
 ms.reviewer: ''
-ms.date: 01/15/2020
+ms.date: 05/05/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: lorrainb
 dynamics365pdf: true
-ms.openlocfilehash: 835f7cb0aee704aa4559c50e0efab53991266a4d
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: f2c423920ecad2f3841d94f3d4df9e0b7ba9bd65
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986708"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3350273"
 ---
 # <a name="whats-new-and-planned-for-nonprofit"></a>非営利団体向けの新機能と予定されている機能
 
@@ -25,7 +25,7 @@ ms.locfileid: "2986708"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
- | [Nonprofit Accelerator](nonprofit-accelerator.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化 | -|2020 年 5 月 | 
+| [Nonprofit Accelerator](nonprofit-accelerator.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化| -|2020 年 5 月 | 
 
 **有効対象** 列の値の説明:
 
@@ -35,7 +35,4 @@ ms.locfileid: "2986708"
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 
-
-地域、データ センター (リージョン)、データ ストレージ、レプリケーションの詳細については、[データの場所のページ](https://www.microsoft.com/trust-center/privacy/data-location)で**すべて展開**をクリックして、この機能に対する Microsoft Cloud Service を確認してください。 
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。

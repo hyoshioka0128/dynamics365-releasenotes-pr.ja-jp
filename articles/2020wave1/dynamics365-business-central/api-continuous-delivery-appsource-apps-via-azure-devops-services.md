@@ -3,25 +3,25 @@ title: Azure DevOps サービスを介して Business Central アプリを継続
 description: Business Central アプリを構築するパートナーが、Business Central Online の顧客にアプリを継続的に配信できるようにします。 パートナーは新しい API と Azure DevOps サービスを使用して、アプリを管理し、リリースのステップを調整します。
 author: relnotes
 ms.reviewer: jswymer
-ms.date: 03/23/2020
+ms.date: 05/01/2020
 ms.assetid: 3d625248-2ccb-e911-a968-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: dmitrych
 dynamics365pdf: true
-ms.openlocfilehash: 7645ad9614378e598cf26a9e9a7f8eec4ee3c390
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: a8072ab57c8be827adf79a4d9d92d583fbc5e012
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3233036"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3350097"
 ---
 # <a name="api-for-continuous-delivery-of-the-business-central-apps-via-azure-devops-services"></a>Azure DevOps サービスを介して Business Central アプリを継続的に配信するための API
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2020 年 4 月| 2020 年 7 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日| 2020 年 7 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -37,17 +37,17 @@ Business Central のパートナーは、Azure DevOps を使用して、ビル�
 
 Azure DevOps サービスでは継続的インテグレーションのプラクティスに従ってコードを管理するための豊富な機能が開発者に既に提供されています。
 
-- コードは Visual Studio Code で作成されます
-- その後、コードはソース管理リポジトリに格納され、レビュー、分岐、マージされます
+- コードは Visual Studio Code で作成されます。
+- その後、コードはソース管理リポジトリに格納され、レビュー、分岐、マージされます。
 - 最後に、コードは、Business Central Docker コンテナーを対象としたビルド パイプラインを使用してビルドおよびテストされます。
 
 次のステップは、Business Central Online サービスの顧客へのアプリの継続的配信をパートナーが実装できるようにすることです。  ソリューションは、新しい固定アプリ管理エンドポイント API です。
 
-固定アプリ管理エンドポイント (または FAME) API は REST ベースの API です。 これは、認定 ISV であることと、アプリがマイクロソフトによって登録されていることを必要とします。 登録したら、グローバル エンドポイント (https://apps.businesscentral.dynamics.com) を使用して FAME API にアクセスします。
+固定アプリ管理エンドポイント (または FAME) API は REST ベースの API です。 これは、認定 ISV であることと、アプリが Microsoft によって登録されていることを必要とします。 登録したら、グローバル エンドポイント (https://apps.businesscentral.dynamics.com) を使用して FAME API にアクセスします。
 
 API は次の操作に使用できます。
 
-- メジャー、マイナー、および修正プログラムのアプリ更新プログラムを、顧客が Business Central 管理センターからインストールできるようにします。 更新プログラムを FAME アプリ リポジトリにアップロードすることにより、更新を利用できるようにします。 新しいアプリのバージョンは、Business Central 管理の [アプリの管理] ページで利用できるようになります。
+- メジャー、マイナー、および修正プログラムのアプリ更新プログラムを、顧客が Business Central 管理センターからインストールできるようにします。 更新プログラムを FAME アプリ リポジトリにアップロードすることにより、更新を利用できるようにします。 新しいアプリのバージョンは、Business Central 管理センターの [アプリの管理] ページで利用できるようになります。
 - アプリがインストールされている顧客の環境の一覧を取得します。
 - 顧客の環境に合わせてアプリの修正プログラムの自動展開をスケジュールします。
 
@@ -64,6 +64,7 @@ Business Central 2020 年リリース ウェーブ 1 では、FAME API への直
 
 
 
+
 ## <a name="tell-us-what-you-think"></a>フィードバック
 Dynamics 365 Business Central の機能向上のためのアイデア、提案、フィードバックをお寄せください。 フォーラム (https://aka.ms/bcideas) をご利用ください。
 
@@ -72,8 +73,6 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
-[Azure DevOps サービスを介して Business Central アプリを継続的に配信するための API](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/administration/fame/fame-api) (ドキュメント)
+[アプリ管理 API](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/administration/appmanagement/app-management-api) (ドキュメント)
 <!--docs end-->
-

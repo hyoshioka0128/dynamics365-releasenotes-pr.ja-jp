@@ -3,18 +3,18 @@ title: 営業の加速
 description: 営業の加速の目的は、インサイド販売担当者がよりスマートに販売できるように支援することです。 強力なパイプラインを構築し、コンテキストを提供して、営業リズム全体で自動化された推奨を提示することは、販売プロセスの変革に役立ちます。
 author: relnotes
 ms.reviewer: shubhadaj
-ms.date: 03/12/2020
+ms.date: 04/29/2020
 ms.assetid: 82da53f2-77cb-e911-a96a-000d3a4f36ce
 ms.topic: structure
 ms.service: business-applications
 ms.author: efgilboa
 dynamics365pdf: true
-ms.openlocfilehash: d46ccdaab3a472a9574c75fb0de2db5018a30504
-ms.sourcegitcommit: f7b958b02d7cb7543a3f81414e7b3e62a5b8539d
+ms.openlocfilehash: 5f114996321f56ca34721ff8053141357bc72c10
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "3158426"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3349296"
 ---
 # <a name="sales-acceleration"></a>営業の加速
 

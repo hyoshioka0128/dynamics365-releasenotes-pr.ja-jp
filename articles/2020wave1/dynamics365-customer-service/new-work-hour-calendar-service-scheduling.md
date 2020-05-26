@@ -3,25 +3,25 @@ title: サービス スケジュール設定の新しい作業時間カレンダ
 description: サービス スケジュール設定の新しい作業時間カレンダー
 author: relnotes
 ms.reviewer: laalexan
-ms.date: 02/25/2020
+ms.date: 04/27/2020
 ms.assetid: e7a9955e-231e-ea11-a812-000d3a8f010c
 ms.topic: article
 ms.service: business-applications
 ms.author: eichimur
 dynamics365pdf: true
-ms.openlocfilehash: 658f17c1ff8904a2e5e348e87462e0186b69fbbd
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: ad9eb47771d9264391ba63788f97dc6e602b044b
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3233146"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3349393"
 ---
 # <a name="new-work-hour-calendar-in-service-scheduling"></a>サービス スケジュール設定の新しい作業時間カレンダー
-[!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,8 +47,6 @@ ms.locfileid: "3233146"
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [顧客サービスのスケジュールを作成し、作業時間を定義する](https://docs.microsoft.com/dynamics365/customer-service/create-customer-service-schedule-define-work-hours) (ドキュメント)
 <!--docs end-->
-

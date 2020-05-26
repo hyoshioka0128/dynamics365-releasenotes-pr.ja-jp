@@ -3,25 +3,25 @@ title: 強化されたリソースの作業時間カレンダー
 description: 作業カレンダー管理のユーザー エクスペリエンスの向上
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 02/13/2020
+ms.date: 04/20/2020
 ms.assetid: d51c9ef4-0b1e-ea11-a811-000d3a8f022a
 ms.topic: article
 ms.service: business-applications
 ms.author: sampatn
 dynamics365pdf: true
-ms.openlocfilehash: 94da7c78b22779937f1a3e45f3a31eb61cd02598
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: adc8495e2a2bf74edf79db0ceea53dc330b5ba95
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232106"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3294096"
 ---
 # <a name="enhanced-work-hours-calendar-for-resources"></a>強化されたリソースの作業時間カレンダー
-[!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -48,8 +48,6 @@ ms.locfileid: "3232106"
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [作業時間の追加](https://docs.microsoft.com/dynamics365/field-service/set-up-bookable-resources#add-work-hours) (ドキュメント)
 <!--docs end-->
-

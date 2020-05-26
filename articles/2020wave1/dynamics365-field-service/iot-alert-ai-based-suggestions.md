@@ -3,30 +3,30 @@ title: IoT アラートの AI ベースの提案
 description: IoT アラートの提案により、IoT アラートの理解が容易になり、迅速に対応できます。
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 01/14/2020
+ms.date: 04/22/2020
 ms.assetid: 2262278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: girishr
 dynamics365pdf: true
-ms.openlocfilehash: 9d3ee7d093c2cdf154d06b0b8511ac1e414ef51c
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: c6a138e0a7596814d6a1418b68936df61b1b84f2
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986618"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3293931"
 ---
 # <a name="iot-alert-ai-based-suggestions"></a>IoT アラートの AI ベースの提案
-[!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 4 月|-| -|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|-| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-企業は IoT の機能を引き続き利用して、顧客への事前対応型サービスをさらに提供できます。 IoT アラートを理解して迅速に対応することで、サービスの提供が改善されます。 この機能は、企業がアラートの重要性とアクションを起こすタイミングを評価し、事前対応型サービスの提供を改善するのに役立ちます。 
+企業は IoT の機能を引き続き利用して、顧客への事前対応型サービスをさらに提供できます。 IoT アラートを理解して迅速に対応することで、サービスの提供が改善されます。 この機能は、企業がアラートの重要性とアクションを起こすタイミングを評価し、事前対応型サービスの提供を改善するのに役立ちます。
 <!-- bv end -->
 
 
@@ -45,3 +45,9 @@ IoT デバイスのアラートを受信することで、優先度やインシ�
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[IoT アラートの AI による提案](https://docs.microsoft.com/dynamics365/field-service/iot-alerts-ai-based-suggestions) (ドキュメント)
+<!--docs end-->

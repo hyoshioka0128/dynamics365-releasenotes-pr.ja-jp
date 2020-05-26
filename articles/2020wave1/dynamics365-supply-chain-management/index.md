@@ -3,18 +3,18 @@ title: Dynamics 365 Supply Chain Management 2020 年リリース ウェーブ 1 
 description: Dynamics 365 Supply Chain Management 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: josaw
-ms.date: 03/20/2020
+ms.date: 05/04/2020
 ms.assetid: 417e9a1a-4565-ea11-a811-000d3a579c39
 ms.topic: overview
 ms.service: business-applications
 ms.author: mswami
 dynamics365pdf: true
-ms.openlocfilehash: 30d5933ec49ea39f50aa7880c789f50e00cc70d2
-ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
+ms.openlocfilehash: d29df01de428834f2f28a969e67257bb35bb2d08
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "3219218"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3349976"
 ---
 # <a name="overview-of-dynamics-365-supply-chain-management-2020-release-wave-1"></a>Dynamics 365 Supply Chain Management 2020 年リリース ウェーブ 1 の概要
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]

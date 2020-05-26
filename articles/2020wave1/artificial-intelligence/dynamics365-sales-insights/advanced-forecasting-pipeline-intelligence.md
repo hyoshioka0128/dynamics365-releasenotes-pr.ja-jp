@@ -3,18 +3,18 @@ title: 高度な予測とパイプライン インテリジェンス
 description: ''
 author: relnotes
 ms.reviewer: shubhadaj
-ms.date: 03/12/2020
+ms.date: 04/28/2020
 ms.assetid: 5d42affe-88d5-e911-a968-000d3a4f3883
 ms.topic: structure
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: ea4094df2501aaef919f66019934987352fc0f9e
-ms.sourcegitcommit: f7b958b02d7cb7543a3f81414e7b3e62a5b8539d
+ms.openlocfilehash: 5b18e09f638c282de972ab9b0fa4039e9236c5ad
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "3158393"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3349789"
 ---
 # <a name="advanced-forecasting-and-pipeline-intelligence"></a>高度な予測とパイプライン インテリジェンス
 

@@ -3,25 +3,25 @@ title: 技術者の時間キャプチャの精度
 description: より正確なタイムスタンプ キャプチャを構成する機能。
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 02/17/2020
+ms.date: 04/20/2020
 ms.assetid: 0ff76893-45cb-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: jacoh
 dynamics365pdf: true
-ms.openlocfilehash: 04212d7c63b906b45b465a1ba3461427d06d6d29
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 02f845618384c246d5692c291e04754243ffedf7
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232068"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3294019"
 ---
 # <a name="technician-time-capture-precision"></a>技術者の時間キャプチャの精度
-[!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
+|管理者、作成者、またはアナリスト、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -55,8 +55,6 @@ Field Service でこの構成設定が導入されたことで、Field Service �
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [タイムスタンプの頻度の設定](https://docs.microsoft.com/dynamics365/field-service/booking-timestamps#timestamp-frequency-setting) (ドキュメント)
 <!--docs end-->
-

@@ -3,18 +3,18 @@ title: 医療機関向け 2020 年リリース ウェーブ 1 の概要
 description: 医療機関向け 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: ''
-ms.date: 12/12/2019
+ms.date: 04/03/2020
 ms.assetid: c3b05d68-761c-ea11-a811-000d3a8f075c
 ms.topic: overview
 ms.service: business-applications
 ms.author: snagy
 dynamics365pdf: true
-ms.openlocfilehash: 1a2624f0a92eef72e8684c94451130be0067b207
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: f86c83fadeebee503b115e6569a513c3abf3040b
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2984467"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3350328"
 ---
 # <a name="overview-of-health-2020-release-wave-1"></a>医療機関向け 2020 年リリース ウェーブ 1 の概要
 [!include[industry-accelerators/health banner](../includes/industry-accelerators/health.md)]

@@ -3,17 +3,17 @@ title: Dynamics 365 Customer Service Insights の新機能と予定されてい�
 description: Dynamics 365 Customer Service Insights で計画されている機能の概要。
 author: relnotes
 ms.reviewer: shellyha
-ms.date: 03/02/2020
+ms.date: 05/05/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: jeffcom
 dynamics365pdf: true
-ms.openlocfilehash: a639392cefba0abcc2550cbd2ae0a84240ce2cf2
-ms.sourcegitcommit: 2928661abcc468748ffc7c33516ebc8e3cd5d653
+ms.openlocfilehash: ba993902a3f86bf17908554b6f68e98442f4f9c8
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "3098434"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3349866"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-customer-service-insights"></a>Dynamics 365 Customer Service Insights の新機能と予定されている機能
 
@@ -25,11 +25,11 @@ ms.locfileid: "3098434"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
-| [カスタム分析とレポート作成のためのデータ アクセス](data-access-custom-analysis-reporting.md) | 管理者、作成者、またはアナリスト、自動的| 2020 年 4 月|- | 
-| [Power Virtual Agents の自動化候補としてトピックを強調表示する](highlighting-topics-as-automation-candidates-power-virtual-agents.md) | 管理者、作成者、またはアナリスト、自動的| 2020 年 4 月| | 
+| [カスタム分析とレポート作成のためのデータ アクセス](data-access-custom-analysis-reporting.md) | 管理者、作成者、またはアナリスト、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|- | 
 | [顧客サービス ハブで堅牢な顧客サービス インサイトを有効化する](enable-robust-customer-service-insights-customer-service-hub.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化| 2020 年 5 月| | 
 | [不要な語句を除外してトピックの生成を改善する](improve-topic-generation-excluding-unnecessary-phrases.md) | 管理者、作成者、またはアナリスト、自動的| 2020 年 6 月| | 
-| [関連情報を強調表示する焦点を絞った分析情報](focused-insights-highlight-relevant-information.md) | 管理者、作成者、またはアナリスト、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
+| [関連情報を強調表示する焦点を絞った分析情報](focused-insights-highlight-relevant-information.md) | 管理者、作成者、またはアナリスト、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 30 日 | 
+| [Power Virtual Agents の自動化候補としてトピックを強調表示する](highlighting-topics-as-automation-candidates-power-virtual-agents.md) | 管理者、作成者、またはアナリスト、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 30 日 | 
 
 **有効対象**列の値の説明:
 
@@ -39,5 +39,4 @@ ms.locfileid: "3098434"
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。  地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。

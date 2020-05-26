@@ -3,18 +3,18 @@ title: グローバリゼーション
 description: このリリースでは、イタリアのアドイン EXIL のコア ローカライズへの統合、フランスの国際支払い用の ISO 20022 形式の出荷 (Idea Portal で強く要望)、PDF 変換とダイレクト印刷機能を備えた構成可能なビジネス ドキュメントの拡張 (パブリック プレビューで) が行われます。
 author: relnotes
 ms.reviewer: ''
-ms.date: 03/12/2020
+ms.date: 04/29/2020
 ms.assetid: 039708de-42c8-e911-a968-000d3a4f3883
 ms.topic: structure
 ms.service: business-applications
 ms.author: sshvedov
 dynamics365pdf: true
-ms.openlocfilehash: d56b2252c44b0d798a9c455be80f0e0c4cf9e115
-ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
+ms.openlocfilehash: 9cccc2ddf02b1d4f17853c45b49650fa77cbb43a
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "3152227"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3350064"
 ---
 # <a name="globalization"></a>グローバリゼーション
 

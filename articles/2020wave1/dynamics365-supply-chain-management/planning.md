@@ -3,18 +3,18 @@ title: 計画
 description: ''
 author: relnotes
 ms.reviewer: ''
-ms.date: 03/12/2020
+ms.date: 04/29/2020
 ms.assetid: 19ec0ec2-57cb-e911-a96f-000d3a4f33c1
 ms.topic: structure
 ms.service: business-applications
 ms.author: crytt
 dynamics365pdf: true
-ms.openlocfilehash: 99110a57bae6fbb5edb23a1d74a8fa8b09c9bbe8
-ms.sourcegitcommit: f975eac10325d3d4b76b49d5e49778125fded87e
+ms.openlocfilehash: 8309882a0905815e5b690646237649f882ae7e16
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "3158238"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3349404"
 ---
 # <a name="planning"></a>計画
 

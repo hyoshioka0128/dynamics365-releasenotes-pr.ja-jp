@@ -3,25 +3,27 @@ title: インバウンドおよびアウトバウンドのロジスティクス�
 description: この機能は、倉庫管理システムを強化するさまざまな機能を集約します。 ほとんどは 2019 年ウェーブ 2 の間にテスト機能として徐々にリリースされました。
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 12/16/2019
+ms.date: 04/14/2020
 ms.assetid: 6214e28b-8bcb-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: pjacobse
 dynamics365pdf: true
-ms.openlocfilehash: 9af082cc872729e7963d93719a900590fb74d612
-ms.sourcegitcommit: 1e222f5d9816ce7157d63f308aea14d853628226
+ms.openlocfilehash: 00bba2b5a14af3df8b5f68d3fd099d0ec876c919
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/10/2020
-ms.locfileid: "3035852"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3294800"
 ---
 # <a name="inbound-and-outbound-logistics-improvements"></a>インバウンドおよびアウトバウンドのロジスティクスの改善
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 3 日|
+
+
 
 
 
@@ -78,7 +80,8 @@ ms.locfileid: "3035852"
 
   - ウェーブ ラベル履歴のクリーンアップがサポートされます。
 
-  これらの修正により、パレット化前のカートンのラベル付けのサポートがより効率的になります。 個々のカートンのスキャンを使用して自動的に注文受領確認を実行する大規模小売業者に出荷する会社をサポートします。
+
+これらの修正により、パレット化前のカートンのラベル付けのサポートがより効率的になります。 個々のカートンのスキャンを使用して自動的に注文受領確認を実行する大規模小売業者に出荷する会社をサポートします。
 
 - **ウェーブ ステップ コード**。 この機能を使用して、ウェーブ ステップ コードとして使用できるコードを事前に定義できます。 この機能により不正なステップ コードを入力するリスクがなくなります。 
 
@@ -98,9 +101,6 @@ ms.locfileid: "3035852"
 - **壁へのプット/ストアへのプット**。 この機能では、構成可能な基準に基づいて、パッケージ品目ステージング領域への製品の連結が要求されるシナリオを処理できます。 
 
 - **クロスドッキングのための自動リリース出荷**。 この機能により、完了した製造オーダーからの供給についてクロスドッキングが可能になります。 製造オーダーの供給元でクロスドッキング作業を作成するとき、クロスドック テンプレートを設定してクロスドッキングを有効化できます。
-
-
-
 <!--feature detail end -->
 
 

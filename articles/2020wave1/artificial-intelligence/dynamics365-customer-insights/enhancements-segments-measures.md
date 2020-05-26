@@ -1,20 +1,20 @@
 ---
 title: セグメントとメジャーの機能強化
-description: ''
+description: 追加のセグメントとメジャーの機能強化
 author: relnotes
-ms.reviewer: shellyha
-ms.date: 12/20/2019
+ms.reviewer: mhart
+ms.date: 04/29/2020
 ms.assetid: 72b6d316-4bda-e911-a812-000d3a4f15f1
 ms.topic: article
 ms.service: business-applications
 ms.author: shefym
 dynamics365pdf: true
-ms.openlocfilehash: 0f2d11112e2725ba2e7b1d8eb62ab6a4c1b4acd2
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 93f06b0c9996166e39d9b51d2ab3428519541707
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986695"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3349811"
 ---
 # <a name="enhancements-to-segments-and-measures"></a>セグメントとメジャーの機能強化
 [!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
@@ -30,13 +30,9 @@ ms.locfileid: "2986695"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-セグメントの機能強化には、次のものが含まれます。
+セグメントの機能強化には、新しいセグメント ダッシュボード、セグメントの更新、スケジュール設定、および追加の演算子が含まれます。 
 
-- セグメント メンバーシップの傾向などの、新しいセグメント分析情報。 
-- 顧客プロファイル属性に基づいて顧客データをクラスタリングしてセグメントをすばやく作成する機能。
-
-メジャーの改善には、追加の演算子、フィルター、および高度なモードに対する機能強化のサポートが含まれます。 
-
+メジャーの改善には、追加の演算子、フィルター、および追加の更新オプションが含まれます。
 <!--feature detail end -->
 
 

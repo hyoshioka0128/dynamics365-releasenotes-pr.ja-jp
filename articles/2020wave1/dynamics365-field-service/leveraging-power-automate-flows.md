@@ -3,25 +3,25 @@ title: Power Automate フローの利用
 description: Dynamics 365 Field Service への Power Automate フローの導入
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 01/13/2020
+ms.date: 04/22/2020
 ms.assetid: 4ddeba34-0e1e-ea11-a811-000d3a8f022a
 ms.topic: article
 ms.service: business-applications
 ms.author: jacoh
 dynamics365pdf: true
-ms.openlocfilehash: 35edc4898e596a85ba1533ad736f126b9c4e417d
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: a4c2a8270363946bbdf948c663d0769c11db7831
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986617"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3293909"
 ---
 # <a name="leveraging-power-automate-flows"></a>Power Automate フローの利用
-[!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 4 月|-| -|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|-| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -45,3 +45,9 @@ Power Automate と Field Service の緊密な統合により、企業はフロ�
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[その他の設定](https://docs.microsoft.com/dynamics365/field-service/configure-default-settings#other-settings) (ドキュメント)
+<!--docs end-->

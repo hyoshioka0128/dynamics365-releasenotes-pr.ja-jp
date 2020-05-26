@@ -3,25 +3,25 @@ title: POS の荷渡方法の変更操作
 description: この機能では、POS トランザクションの 1 つ以上の明細行の荷渡方法をユーザーが更新できる、新しいオプションの販売時点管理 (POS) 操作が提供されます。
 author: hhainesms
 ms.reviewer: josaw
-ms.date: 03/24/2020
+ms.date: 05/04/2020
 ms.assetid: a56ceb94-4711-ea11-a811-000d3a4f1ebb
 ms.topic: article
 ms.service: business-applications
 ms.author: hhaines
 dynamics365pdf: true
-ms.openlocfilehash: ad0ea827b8c6b3990effcf6455ecffc42084a278
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 652ec6992199cf03aab2d292794e4e31fe9d04a8
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232570"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3350438"
 ---
 # <a name="change-mode-of-delivery-operation-for-pos"></a>POS の荷渡方法の変更操作
-[!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 24 日| 2020 年 5 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 24 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,8 +47,6 @@ ms.locfileid: "3232570"
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [POS での荷渡方法の変更](https://docs.microsoft.com/dynamics365/commerce/pos-change-delivery-mode) (ドキュメント)
 <!--docs end-->
-
