@@ -3,18 +3,18 @@ title: IoT アラート測定とサービス履歴
 description: 測定とサービス履歴を表示するように強化された IoT アラート。
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 02/25/2020
+ms.date: 04/15/2020
 ms.assetid: 23e9709e-b6ca-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: girishr
 dynamics365pdf: true
-ms.openlocfilehash: ec4b3fad5529b64f24b78458837abfbe7597fdcc
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: d8e89ca8afd75a187787b7e6c507cd875b9b4b6d
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232046"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3273865"
 ---
 # <a name="iot-alert-measures-and-service-history"></a>IoT アラート測定とサービス履歴
 [!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
@@ -48,8 +48,6 @@ IoT アラートを実行するためには、追加のコンテキストがア�
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [デバイスの読み取り値のビジュアル化](https://docs.microsoft.com/dynamics365/field-service/cfs-visualizations-iot-hub) (ドキュメント)
 <!--docs end-->
-

@@ -3,25 +3,25 @@ title: レポートおよび Web サービス呼び出しに対するリソー�
 description: Business Central インストールのリソースを保護するために、レポートおよび SOAP Web サービス呼び出しの最大実行時間に制限を構成できるようになりました
 author: relnotes
 ms.reviewer: jswymer
-ms.date: 03/25/2020
+ms.date: 04/15/2020
 ms.assetid: 075dbe76-ea1b-ea11-a811-000d3a8f0f1e
 ms.topic: article
 ms.service: business-applications
 ms.author: kepontop
 dynamics365pdf: true
-ms.openlocfilehash: 3c813481f4232599ba53124be8fa890f5ce6d872
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 5e9709ea04b6bdff36f3c5cf9ffa085a313226db
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232684"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3273700"
 ---
 # <a name="resource-limits-for-reports-and-web-service-calls"></a>レポートおよび Web サービス呼び出しに対するリソースの制限
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|2020 年 4 月| 2020 年 4 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -51,8 +51,6 @@ Business Central (オンプレミス) の場合、管理者がサーバーの設
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [Business Central Server の構成](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/administration/configure-server-instance?) (ドキュメント)
 <!--docs end-->
-

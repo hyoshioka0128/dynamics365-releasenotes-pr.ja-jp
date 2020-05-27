@@ -3,18 +3,18 @@ title: Dynamics 365 Sales Insights の 2020 年リリース ウェーブ 1 の�
 description: Dynamics 365 Sales Insights の 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 03/12/2020
+ms.date: 05/04/2020
 ms.assetid: ef0b01f2-e4c9-e911-a996-000d3a4f3343
 ms.topic: overview
 ms.service: business-applications
 ms.author: ronik
 dynamics365pdf: true
-ms.openlocfilehash: 4712c6de62747cf24f021b851fb810f3eeafbd5a
-ms.sourcegitcommit: f7b958b02d7cb7543a3f81414e7b3e62a5b8539d
+ms.openlocfilehash: d68c0f2d67f95c8e3b0b38c358b286d8c6638cf5
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "3158283"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3349745"
 ---
 # <a name="overview-of-dynamics-365-sales-insights-2020-release-wave-1"></a>Dynamics 365 Sales Insights の 2020 年リリース ウェーブ 1 の概要
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
@@ -54,11 +54,13 @@ Dynamics 365 Sales Insights では、Microsoft のクラウドの力が利用さ
 
   このリリースでは、より広範な一連のシグナルをキャプチャして、特定のビジネス ニーズにモデルを適合させる柔軟性を提供します。これによりリレーションシップの正常性について、より正確に理解できるようになります。 同時に、自然言語処理(NLP) を組み込んで取引先担当者が情報を更新したことを認識し、キャプチャした活動から対応すべき項目を検出します。その一方で、最小限の作業でより多くの営業に関する情報をキャプチャし、取得データの精度と一貫性を改善することに引き続き注力しています。
   
-- **会話インテリジェンス**: 会話インテリジェンスでは、顧客の会話がすべて監視されて、貴重な分析情報を引き出すユニークな機会が提供されます。これにより販売組織がより速くよりスマートに前進するのに役立ちます。 営業マネージャーは "好成績" の販売担当者、優秀な戦略、潜在的なギャップを簡単に特定できます。そしてコーチングを施し、チーム全体にポジティブな行動を広めます。 販売担当者は、自分の行動を省みて学ぶ機会により、成長します。
+- **会話インテリジェンス**: 会話インテリジェンスでは、顧客の会話がすべて監視されて、貴重な分析情報を引き出すユニークな機会が提供されます。これにより販売組織がより速くよりスマートに前進するのに役立ちます。 営業マネージャーはトップ販売担当者とその優秀な戦略、潜在的なギャップを簡単に特定できます。そしてコーチングを施し、チーム全体にポジティブな行動を広めます。 販売担当者は、自分の行動を省みて学ぶ機会により、成長します。
 
   このリリースでは、組織に簡単にオンボードできる新しい方法が導入されます。これで全員が会話インテリジェンスを利用できます。 当社は感情検出でより深い分析を提供し、成果を上げる行動に合わせた調整に役立てます。 リアルタイムの分析情報で、販売担当者が必要なときに必要な情報を活用できるようにします。
 
-Dynamics 365 Sales Insights について、当社はいつでもお客様やパートナーのアイデアやお考えを求めています。 詳細を確認したり、フィードバックを提供するには、以下のサイトを利用してください。   
+リリースの概要の[ビデオ](https://aka.ms/Overview/2020RW1/SalesInsights)をご覧ください
+
+Dynamics 365 Sales Insights について、当社はいつでもお客様やパートナー様からのアイデアやご意見を求めています。 詳細を確認したり、フィードバックを提供するには、以下のサイトを利用してください。   
 
 - [Dynamics 365 Sales Insights の製品 Web サイト](https://dynamics.microsoft.com/ai/sales/) 
 - [Dynamics 365 Sales Insights の製品ドキュメント](https://docs.microsoft.com/dynamics365/ai/sales/help-hub)  

@@ -3,25 +3,25 @@ title: 取引詳細レポートを含む試算表
 description: 取引詳細レポートを含む試算表には、勘定科目を更新する各取引に関する詳細が表示されます。
 author: relnotes
 ms.reviewer: roschlom
-ms.date: 03/30/2020
+ms.date: 04/15/2020
 ms.assetid: 5b7513fb-b94e-ea11-a812-000d3a579c35
 ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: 577348168a334b2332179861d27b971dd5c7e277
-ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
+ms.openlocfilehash: 5515d2204d18884d6898077acc76b3df16bf0c5c
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "3218712"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3272930"
 ---
 # <a name="trial-balance-with-transactional-detail-report"></a>取引詳細レポートを含む試算表
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| 2020 年 7 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| 2020 年 8 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

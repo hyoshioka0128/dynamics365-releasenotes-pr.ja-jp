@@ -1,27 +1,27 @@
 ---
 title: 製造領域向けの新しいデータ エンティティ
-description: ''
+description: 製造領域向けの新しいデータ エンティティ
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 04/02/2020
+ms.date: 05/05/2020
 ms.assetid: 4cad3e30-9068-ea11-a811-000d3a579c38
 ms.topic: article
 ms.service: business-applications
 ms.author: johanho
 dynamics365pdf: true
-ms.openlocfilehash: 21d32900422f407bdf3d7c9694ad6150b2617009
-ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
+ms.openlocfilehash: e7fa214c103effdef21577f7273032009f60cdec
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "3219207"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3350460"
 ---
 # <a name="new-data-entities-for-the-manufacturing-area"></a>製造領域向けの新しいデータ エンティティ
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 3 月 1 日| 2020 年 5 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 3 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 1 日|
 
 
 
@@ -41,14 +41,14 @@ Supply Chain Management の製造領域向けデータ エンティティのコ�
 |    10.0.10    |    生産ジョブ    |    ユーザーが生産ジョブをエクスポートできるようにします。 これは生産計画の視覚化を構築するのに役立ちます。    |
 |    10.0.10    |    間接活動 (JmgIpcActivity)    |    ユーザーが間接活動をインポートおよびエクスポートできるようにします。   これは、新しいインスタンスのデータを準備するときに役立ちます。    |
 |    10.0.10    |    間接活動カテゴリ (JmgIpcCategory)    |    ユーザーが間接活動のカテゴリをインポートおよびエクスポートできるようにします。 これは、新しいインスタンスのデータを準備するときに役立ちます。    |
-|    10.0.11    |    フォーミュラ バージョン (pmfFormulaVersionEntity)    |    ユーザーが Excel で編集できるようにします   |
-|    10.0.11    |    完成レポート仕訳帳 (ヘッダーおよび明細行)    |    ユーザーが完了レポート仕訳帳をエクスポートおよびインポートできるようにします   |
-|    10.0.11    |    完成レポート仕訳帳 (ヘッダーおよび明細行)    |    ユーザーが完了レポート仕訳帳をエクスポートおよびインポートできるようにします   |
-|    10.0.11    |    工順カード仕訳帳 (ヘッダーおよび明細行)    |    ユーザーが工順カード仕訳帳をエクスポートおよびインポートできるようにします   |
-|    10.0.11    |    生産ピッキング リスト仕訳帳 (ヘッダーおよび明細行)    |    ユーザーが生産ピッキング リスト仕訳帳をエクスポートおよびインポートできるようにします   |
-|    10.0.11    |    プロファイル (JmgProfileTable)    |    ユーザーがプロファイルをインポートおよびエクスポートできるようにします   |
-|    10.0.11    |    支払協定 (JmgPayAgreementTable)   |    ユーザーが支払協定をインポートおよびエクスポートできるようにします   |
-|    10.0.11    |    項目順序 (PmfSequencingItemTable)   |    ユーザーが支払項目順序をインポートおよびエクスポートできるようにします   |
+|    10.0.11    |    フォーミュラ バージョン (pmfFormulaVersionEntity)    |    ユーザーが Excel で編集できるようにします。   |
+|    10.0.11    |    完成レポート仕訳帳 (ヘッダーおよび明細行)    |    ユーザーが完了レポート仕訳帳をエクスポートおよびインポートできるようにします。   |
+|    10.0.11    |    完成レポート仕訳帳 (ヘッダーおよび明細行)    |    ユーザーが完了レポート仕訳帳をエクスポートおよびインポートできるようにします。   |
+|    10.0.11    |    工順カード仕訳帳 (ヘッダーおよび明細行)    |    ユーザーが工順カード仕訳帳をエクスポートおよびインポートできるようにします。   |
+|    10.0.11    |    生産ピッキング リスト仕訳帳 (ヘッダーおよび明細行)    |    ユーザーが生産ピッキング リスト仕訳帳をエクスポートおよびインポートできるようにします。   |
+|    10.0.11    |    プロファイル (JmgProfileTable)    |    ユーザーがプロファイルをインポートおよびエクスポートできるようにします。   |
+|    10.0.11    |    支払協定 (JmgPayAgreementTable)   |    ユーザーが支払協定をインポートおよびエクスポートできるようにします。   |
+|    10.0.11    |    項目順序 (PmfSequencingItemTable)   |    ユーザーが支払項目順序をインポートおよびエクスポートできるようにします。   |
 
 <!--feature detail end -->
 

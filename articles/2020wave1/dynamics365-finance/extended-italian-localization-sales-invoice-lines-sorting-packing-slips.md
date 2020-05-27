@@ -3,25 +3,25 @@ title: '拡張されたローカライズ (イタリア): 梱包明細順での�
 description: Dynamics 365 Finance が、以前はイタリアのパートナー Cluster Reply によって提供された、拡張されたローカライズ (イタリア) (EXIL) アドインでのみ利用可能であった、イタリア語固有の機能セットが利用できるように拡張されました。
 author: relnotes
 ms.reviewer: kfend
-ms.date: 02/10/2020
+ms.date: 04/07/2020
 ms.assetid: d4204330-eedb-e911-a812-000d3a4f1168
 ms.topic: article
 ms.service: business-applications
 ms.author: mrolecki
 dynamics365pdf: true
-ms.openlocfilehash: fa3ceab4e6aebbe0a09f09adbd6a7259d1066bc6
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: c0067caefae10bbb2334c3a3eaf7746c75453927
+ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3231980"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "3255631"
 ---
 # <a name="extended-italian-localization-sales-invoice-lines-sorting-by-packing-slips"></a>拡張されたローカライズ (イタリア): 梱包明細順での売上請求明細行の並べ替え
-[!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 3 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,8 +47,6 @@ ms.locfileid: "3231980"
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [梱包明細の売上請求明細行の並べ替え](https://docs.microsoft.com/dynamics365/finance/localizations/emea-ita-exil-invoicing-packing-slips) (ドキュメント)
 <!--docs end-->
-

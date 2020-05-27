@@ -3,25 +3,25 @@ title: ライブ チャットの会話を音声/ビデオ通話に格上げす�
 description: 複雑な顧客の問題への対処と、顧客の問題の解決に費やす時間の削減を支援するために、ライブ チャットから音声/ビデオ通話への格上げを促進します。
 author: relnotes
 ms.reviewer: kabala
-ms.date: 01/14/2020
+ms.date: 04/09/2020
 ms.assetid: fe61278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
-ms.author: rajeshna
+ms.author: srikot
 dynamics365pdf: true
-ms.openlocfilehash: 6da0fbb8f37a53a637b33e2b33fa548a9d761190
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: da08e6b85da82eb03c576de2f4e61661afe277de
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986786"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3293546"
 ---
 # <a name="elevate-live-chat-conversations-to-a-voicevideo-call"></a>ライブ チャットの会話を音声/ビデオ通話に格上げする
-[!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -50,3 +50,9 @@ ms.locfileid: "2986786"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[ライブ チャットでの通話オプションと視覚的なエンゲージメント](https://docs.microsoft.com/dynamics365/omnichannel/agent/agent-oc/call-options-visual-engagement) (ドキュメント)
+<!--docs end-->

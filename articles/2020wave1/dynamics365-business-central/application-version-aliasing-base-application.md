@@ -3,25 +3,25 @@ title: ベース アプリケーションのエイリアス用のアプリケー
 description: Business Central 2019 年リリース ウェーブ 2 では、ベース アプリケーションとシステム アプリケーションを導入しました。 これらに依存する拡張機能は、app.json ファイルで明示的な依存関係を指定する必要がありました。 現在は、以前のバージョンで使用できたものと同様のアプリケーション バージョン プロパティを再導入しています。
 author: relnotes
 ms.reviewer: solsen
-ms.date: 02/12/2020
+ms.date: 04/15/2020
 ms.assetid: 23c900bc-e41c-ea11-a811-000d3a8f0f1e
 ms.topic: article
 ms.service: business-applications
 ms.author: pborring
 dynamics365pdf: true
-ms.openlocfilehash: 379ba3e2e41c6d74a09e05f9e8d177d7973a9e2a
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: af51a818be02d304f4de2d37759ff02dc9005c77
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3233003"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3272496"
 ---
 # <a name="application-version-for-aliasing-base-application"></a>ベース アプリケーションのエイリアス用のアプリケーション バージョン
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| 2020 年 4 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -58,8 +58,6 @@ Microsoft のベース アプリケーションへの明示的な依存関係は
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
-[AL Development Environment](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-reference-overview) (ドキュメント)
+[Microsoft_Application.app ファイル](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-application-app-file) (ドキュメント)
 <!--docs end-->
-

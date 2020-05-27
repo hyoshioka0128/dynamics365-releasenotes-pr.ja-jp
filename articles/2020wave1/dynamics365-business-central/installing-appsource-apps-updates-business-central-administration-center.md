@@ -3,30 +3,30 @@ title: Business Central 管理センターでの AppSource アプリの更新プ
 description: Business Central 管理センターでは、[アプリの管理] ページでアプリの更新プログラムを検出してインストールできるようになりました。
 author: relnotes
 ms.reviewer: jswymer
-ms.date: 03/24/2020
+ms.date: 04/16/2020
 ms.assetid: fcd16ef0-cc6d-ea11-a811-000d3a579c39
 ms.topic: article
 ms.service: business-applications
 ms.author: dmitrych
 dynamics365pdf: true
-ms.openlocfilehash: abe13085702dc7f134c23f5f05712656c4f1678f
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: c46c99d2b5b9594aca219e2b68f81232b97c7dd3
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232156"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3293755"
 ---
 # <a name="installing-appsource-apps-updates-in-the-business-central-administration-center"></a>Business Central 管理センターでの AppSource アプリの更新プログラムのインストール
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2020 年 4 月| 2020 年 6 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日| 2020 年 6 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-ご使用の環境にインストールしたアプリが、AppSource ISV によって提供される最新の変更と修正プログラムで常に最新に保たれるようにしてください。 
+ご使用の環境にインストールしたアプリが、AppSource ISV によって提供される最新の変更と修正プログラムで常に最新に保たれるようにしてください。
 <!-- bv end -->
 
 
@@ -62,8 +62,6 @@ AppSource マーケットプレイスで使用可能なアプリの新しいバ�
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [アプリの管理](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-manage-apps) (ドキュメント)
 <!--docs end-->
-

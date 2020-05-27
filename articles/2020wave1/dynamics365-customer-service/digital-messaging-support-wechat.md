@@ -3,25 +3,25 @@ title: WeChat 向けデジタル メッセージング サポート
 description: WeChat を通じて顧客に働きかけ、時間のあるときに会話に参加できる利便性を提供します。
 author: relnotes
 ms.reviewer: laalexan
-ms.date: 01/14/2020
+ms.date: 04/09/2020
 ms.assetid: a7f35d7a-f21d-ea11-a811-000d3a8f075c
 ms.topic: article
 ms.service: business-applications
-ms.author: rajeshna
+ms.author: srikot
 dynamics365pdf: true
-ms.openlocfilehash: c0cce3c2ae4ec4afa2da9b5e653c9f7941290e22
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: e4a799ddf2257d6fab270152e46f3d05898e5fd3
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986787"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3273326"
 ---
 # <a name="digital-messaging-support-for-wechat"></a>WeChat 向けデジタル メッセージング サポート
-[!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -49,3 +49,9 @@ WeChat などのソーシャル メッセージング プラットフォーム�
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[WeChat チャネルを構成する](https://docs.microsoft.com/dynamics365/omnichannel/administrator/configure-wechat-channel) (ドキュメント)
+<!--docs end-->

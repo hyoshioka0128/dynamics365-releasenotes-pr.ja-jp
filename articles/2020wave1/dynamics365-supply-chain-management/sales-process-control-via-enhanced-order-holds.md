@@ -3,25 +3,25 @@ title: 拡張注文保留による販売プロセス管理
 description: 拡張注文保留による販売プロセス管理
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 01/07/2020
+ms.date: 05/04/2020
 ms.assetid: 1c7462d2-f51d-ea11-a811-000d3a8f022a
 ms.topic: article
 ms.service: business-applications
-ms.author: lcash
+ms.author: damadipa
 dynamics365pdf: true
-ms.openlocfilehash: 78ca62858e4fa6a48562ae30d4ca357bd67f5282
-ms.sourcegitcommit: 9ede92eba84a02579fc8fc63e6a9673b034ce30c
+ms.openlocfilehash: cc27edfdea94a988828fea4032d7643c959df214
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "2976529"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3349371"
 ---
 # <a name="sales-process-control-via-enhanced-order-holds"></a>拡張注文保留による販売プロセス管理
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 5 月| 2020 年 7 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 8 月| 近日発表|
 
 
 

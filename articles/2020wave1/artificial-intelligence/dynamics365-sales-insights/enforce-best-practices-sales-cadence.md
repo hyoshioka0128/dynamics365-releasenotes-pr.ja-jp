@@ -3,25 +3,25 @@ title: 営業シーケンスによるベスト プラクティスの適用
 description: 販売担当者は、営業シーケンスに基づくその時点のガイダンスを受け取ります。ガイダンスでは、適切な通信チャネルと必要なコンテンツを適切なタイミングで使用して、適切な活動が案内されます。
 author: relnotes
 ms.reviewer: udag
-ms.date: 03/12/2020
+ms.date: 04/06/2020
 ms.assetid: 2d6e4b89-5fcb-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: nataln
 dynamics365pdf: true
-ms.openlocfilehash: 5672dc83363b8bfa1abd04bd3b803c06be7c2a6a
-ms.sourcegitcommit: f7b958b02d7cb7543a3f81414e7b3e62a5b8539d
+ms.openlocfilehash: 8f3c43ffc8ce3350140ec6c818d56079d927ea36
+ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "3158305"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "3255268"
 ---
 # <a name="enforce-best-practices-with-sales-sequences"></a>営業シーケンスによるベスト プラクティスの適用
-[!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 4 月| -|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 6 日| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

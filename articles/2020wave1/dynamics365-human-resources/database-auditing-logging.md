@@ -3,25 +3,25 @@ title: データベース監査 (ログ)
 description: Dynamics 365 Human Resources の主要情報のデータベース監査 (ログ)
 author: relnotes
 ms.reviewer: anbichse
-ms.date: 04/01/2020
+ms.date: 04/20/2020
 ms.assetid: c63cad82-8d52-ea11-a812-000d3a579c35
 ms.topic: article
 ms.service: business-applications
 ms.author: dkrame
 dynamics365pdf: true
-ms.openlocfilehash: 71a79fd95f0363252d7268e12bb3985ee05f38f2
-ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
+ms.openlocfilehash: c290054fd463eb107b17f88398ba1d7e723c9fe8
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "3219689"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3294635"
 ---
 # <a name="database-auditing-logging"></a>データベース監査 (ログ)
 [!include[dynamics365-human-resources banner](../includes/dynamics365-human-resources.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2020 年 4 月| 2020 年 5 月|
+|管理者、作成者、またはアナリスト、自動的|2020 年 6 月| 2020 年 7 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

@@ -3,25 +3,25 @@ title: レコードの自動的な作成と更新
 description: サポート案件レコードの自動的な作成と更新
 author: relnotes
 ms.reviewer: nenellim
-ms.date: 02/05/2020
+ms.date: 04/07/2020
 ms.assetid: 239a8695-3f70-e911-a965-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: craigm
 dynamics365pdf: true
-ms.openlocfilehash: a67d5be9d23ecc611e83b73145585d9140c92b4c
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: aa937c0f0ce73212acbf034bbe91450ef62eddc1
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3233256"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3272622"
 ---
 # <a name="automatically-create-and-update-records"></a>レコードの自動的な作成と更新
-[!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| 2020 年 6 月|
+|管理者、作成者、またはアナリスト、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,8 +47,6 @@ ms.locfileid: "3233256"
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [顧客サービス ハブでレコードを自動的に作成または更新する](https://docs.microsoft.com/dynamics365/customer-service/automatically-create-update-records) (ドキュメント)
 <!--docs end-->
-

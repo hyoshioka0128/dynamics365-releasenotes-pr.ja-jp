@@ -3,25 +3,25 @@ title: 休暇カレンダー ビュー
 description: 従業員と管理者がより効率的に休暇を計画できるように、職場にいる人といない人を表示する休暇カレンダーを提供します。
 author: relnotes
 ms.reviewer: anbichse
-ms.date: 02/10/2020
+ms.date: 04/07/2020
 ms.assetid: 086db11a-a51b-ea11-a811-000d3a8f075c
 ms.topic: article
 ms.service: business-applications
 ms.author: JCart
 dynamics365pdf: true
-ms.openlocfilehash: 2e6656d24b98b49c4e8773ef09eba0289682172c
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: db9562eb9a4c6dfe42e9dd9e7e1d39803f5b9db3
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3231903"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3272479"
 ---
 # <a name="leave-calendar-views"></a>休暇カレンダー ビュー
-[!include[dynamics365-human-resources banner](../includes/dynamics365-human-resources.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 6 日|
 
 
 
@@ -52,14 +52,10 @@ ms.locfileid: "3231903"
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--blog start-->
 [組織全体の休暇エクスペリエンスの向上](https://cloudblogs.microsoft.com/dynamics365/bdm/2020/02/06/improve-the-leave-and-absence-experience-across-the-organization/) (ブログ)
 <!--blog end-->
 
-
-
 <!--docs start-->
-[Dynamics 365 Human Resources の休暇の概要](https://docs.microsoft.com/dynamics365/human-resources/hr-leave-and-absence-overview) (ドキュメント)
+[チームおよび会社のカレンダーの表示](https://docs.microsoft.com/dynamics365/human-resources/hr-employee-self-service-calendar) (ドキュメント)
 <!--docs end-->
-

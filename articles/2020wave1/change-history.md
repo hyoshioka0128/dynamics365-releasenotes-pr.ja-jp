@@ -3,17 +3,17 @@ title: 2020 年リリース ウェーブ 1 変更履歴
 description: 変更履歴
 author: relnotes
 ms.reviewer: relnotes
-ms.date: 04/02/2020
+ms.date: 05/05/2020
 ms.assetid: ''
 ms.topic: article
 ms.author: relnotes
 ms.service: business-applications
-ms.openlocfilehash: 836102262eb13fa07195b9dd8a9aef05c7d0d2fa
-ms.sourcegitcommit: 2fc00c16ec03fdd55ec501a4b800d0c9623d48c1
+ms.openlocfilehash: 498a5aebfb4b9f228099537c103582c872c8bae3
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "3224988"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3350119"
 ---
 # <a name="change-history"></a>変更履歴
 
@@ -27,7 +27,7 @@ ms.locfileid: "3224988"
 ### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
 | 機能 |  追加日 |
 |---------|---------------|
-|[マーケティング キャンペーンで Customer Insights のセグメントを発見して使用する](dynamics365-marketing/discover-use-segments-customer-insights-marketing-campaigns.md) |  2020 年 2 月 14 日| 
+|[新しいフォームの取得とクライアント側サポート](dynamics365-marketing/new-form-capture-client-side-support.md) |  2020 年 4 月 16 日| 
 |[電子メールとフォームのインプレース編集](dynamics365-marketing/in-place-editing-email-forms.md) |  2020 年 2 月 14 日| 
 |[自動スケジューラ](dynamics365-marketing/smart-scheduler.md) |  2020 年 2 月 14 日| 
 |[スパム チェッカー](dynamics365-marketing/spam-checker.md) |  2020 年 2 月 5 日| 
@@ -35,10 +35,16 @@ ms.locfileid: "3224988"
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
-|[イベント管理エクスペリエンスの改善](dynamics365-marketing/improved-event-management-experience.md) |  一般提供の日付が 2020 年 5 月に移動されました。  |2020 年 3 月 30 日|
+|[電子メールとフォームのインプレース編集](dynamics365-marketing/in-place-editing-email-forms.md) |  一般提供の日付が 2020 年 6 月に移動されました。  |2020 年 4 月 20 日|
+|[Microsoft Forms Pro を使用した調査のサポート](dynamics365-marketing/support-surveys-using-forms-pro.md) |   一般提供の日付が 2020 年 4 月に移動されました。  |2020 年 4 月 6 日|
+|[イベント管理エクスペリエンスの改善](dynamics365-marketing/improved-event-management-experience.md) |   一般提供の日付が 2020 年 5 月に移動されました。  |2020 年 3 月 30 日|
 |[セグメントの設計と管理の改善](dynamics365-marketing/improved-segment-design-management.md) | パブリック プレビュー日付を削除しました。    |2020 年 2 月 3 日|
 |[動的なメール メッセージをテスト送信する機能](dynamics365-marketing/ability-test-send-dynamic-email-messages.md) | パブリック プレビュー日付を削除しました。    |2020 年 1 月 31 日|
  
+### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
+| 機能 | 理由  |  削除日|
+|----------|----------|---------------|
+| マーケティング キャンペーンで Customer Insights のセグメントを発見して使用する | 将来のリリース ウェーブに移動されました。  |2020 年 4 月 20 日 |
 
 
 ## <a name="dynamics-365-sales"></a>Dynamics 365 Sales
@@ -62,6 +68,7 @@ ms.locfileid: "3224988"
 ### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
 | 機能 |  追加日 |
 |---------|---------------|
+|[自分の活動レベルを成功した営業案件と比較する - リレーションシップ分析](artificial-intelligence/dynamics365-sales-insights/compare-activity-levels-successful-opportunities--relationship-analytics.md) |  2020 年 4 月 2 日| 
 |[複数のチャネルで顧客とつながる](artificial-intelligence/dynamics365-sales-insights/connect-customers-across-multiple-channels.md) |  2020 年 2 月 14 日| 
 |[営業シーケンスによるベスト プラクティスの適用](artificial-intelligence/dynamics365-sales-insights/enforce-best-practices-sales-cadence.md) |  2020 年 2 月 14 日| 
 |[すべての顧客に関する完全なコンテキストを一元的に取得する](artificial-intelligence/dynamics365-sales-insights/gain-full-context-every-customer-one-place.md) |  2020 年 2 月 14 日| 
@@ -70,20 +77,20 @@ ms.locfileid: "3224988"
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
+|[世界中で利用可能になった "つながりを探す"](artificial-intelligence/dynamics365-sales-insights/who-knows-whom-now-worldwide.md) |   一般提供の日付が 2020 年 7 月に移動されました。  |2020 年 4 月 14 日|
 |[より正確なパイプライン予測で得られるメリット](artificial-intelligence/dynamics365-sales-insights/benefit-more-accurate-pipeline-predictions.md) | パブリック プレビューの日付が 2020 年 6 月に移動されました。    |2020 年 3 月 10 日|
-|[自動アクティビティと推奨される連絡先の改善](artificial-intelligence/dynamics365-sales-insights/ai-infused-auto-capture-generally--auto-capture.md) | パブリック プレビューの日付が 2020 年 2 月に更新されました。 一般提供の日付が 2020 年 4 月に移動されました。  |2020 年 3 月 3 日|
-|[自動アクティビティと推奨される連絡先の改善](artificial-intelligence/dynamics365-sales-insights/ai-infused-auto-capture-generally--auto-capture.md) |   一般提供の日付が 2020 年 8 月に移動されました。  |2020 年 1 月 29 日|
  
 ### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
 | 機能 | 理由  |  削除日|
 |----------|----------|---------------|
+| 自動アクティビティと推奨される連絡先の改善 | 次のリリース ウェーブに移動されました。 |2020 年 4 月 21 日 |
 | すぐに使える機能と統合でオンボードを簡単に | 次のリリース ウェーブに移動されました。 |2020 年 2 月 24 日 |
 | 新しい Dynamics 365 Sales モバイル アプリを使用して、外出先でサポートを受ける | 次のリリース ウェーブに移動されました。 |2020 年 2 月 4 日 |
 | 常に最新の取引先担当者の情報と、関係者の検出のメリット - 自動取り込み | 将来のリリース ウェーブに移動されました。  |2020 年 1 月 27 日 |
-| 非常にきめ細かな制御で販売担当者を支援する - 自動取り込み | この機能は、[自動アクティビティと推奨される連絡先の改善](artificial-intelligence/dynamics365-sales-insights/ai-infused-auto-capture-generally--auto-capture.md)機能と統合されました。 |2020 年 1 月 27 日 |
+| 非常にきめ細かな制御で販売担当者を支援する - 自動取り込み | この機能は、[自動アクティビティと推奨される連絡先の改善](/ai-infused-auto-capture-generally--auto-capture.md)機能と統合されました。 |2020 年 1 月 27 日 |
 | 簡単な設定と UI 構成のメリット - リレーションシップ分析 | 将来のリリース ウェーブに移動されました。  |2020 年 1 月 27 日 |
 | 分析情報の強化によるメリット | 次のリリース ウェーブに移動されました。 |2020 年 1 月 27 日 |
-| "つながりを探す" のプライバシー管理の強化 - リレーションシップ分析 | この機能は、[世界中で利用可能になった "つながりを探す"](artificial-intelligence/dynamics365-sales-insights/who-knows-whom-now-worldwide.md) 機能と統合されました。 |2020 年 1 月 27 日 |
+| "つながりを探す" のプライバシー管理の強化 - リレーションシップ分析 | この機能は、[世界中で利用可能になった "つながりを探す"](/who-knows-whom-now-worldwide.md) 機能と統合されました。 |2020 年 1 月 27 日 |
 
 
 ## <a name="microsoft-forms-pro"></a>Microsoft Forms Pro
@@ -103,6 +110,7 @@ ms.locfileid: "3224988"
 ### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
 | 機能 |  追加日 |
 |---------|---------------|
+|[統一インターフェイスでのルックアップ フィルタリングの強化](dynamics365-customer-service/lookup-filtering-enhancements-unified-interface.md) |  2020 年 3 月 31 日| 
 |[ルーティングと作業配分の機能強化](dynamics365-customer-service/routing-work-distribution-enhancements.md) |  2020 年 2 月 26 日| 
 |[オムニチャネルのスーパーバイザー エクスペリエンスの機能強化](dynamics365-customer-service/omnichannel-supervisor-experience-enhancements.md) |  2020 年 2 月 26 日| 
 |[エージェントのクイック返信の分類](dynamics365-customer-service/agent-quick-reply-categorization.md) |  2020 年 2 月 26 日| 
@@ -116,12 +124,40 @@ ms.locfileid: "3224988"
  
 
 
+## <a name="dynamics-365-field-service"></a>Dynamics 365 Field Service
+
+ 
+### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
+| 機能 |  追加日 |
+|---------|---------------|
+|[Microsoft Power Apps プラットホームに構築された Field Service Mobile](dynamics365-field-service/field-service-mobile-built-power-apps-platform.md) |  2020 年 4 月 28 日| 
+
+ 
+
+
+## <a name="dynamics-365-remote-assist"></a>Dynamics 365 Remote Assist
+
+ 
+### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
+| 機能 |  追加日 |
+|---------|---------------|
+|[低帯域幅シナリオでのエクスペリエンスの強化](mixed-reality/dynamics365-remote-assist/enhanced-experience-low-bandwidth-scenarios.md) |  2020 年 4 月 28 日| 
+
+ 
+
+
 ## <a name="dynamics-365-finance"></a>Dynamics 365 Finance
 
  
 ### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
 | 機能 |  追加日 |
 |---------|---------------|
+|[Schedule of Expenditures of Federal Awards の照会](dynamics365-finance/schedule-expenditures-federal-awards-inquiry.md) |  2020 年 4 月 15 日| 
+|[仕入先の前払請求額がゼロより大きいことを確認する](dynamics365-finance/ensure-vendor-prepayment-invoice-amounts-are-greater-than-zero.md) |  2020 年 4 月 15 日| 
+|[確定した発注書の前払を請求書に適用する](dynamics365-finance/apply-prepayments-finalized-purchase-orders-invoices.md) |  2020 年 4 月 15 日| 
+|[普通配当の合計に対する 1099-DIV レポート オプション](dynamics365-finance/1099-div-reporting-option-total-ordinary-dividends.md) |  2020 年 4 月 15 日| 
+|[自動仕入先支払提案](dynamics365-finance/automatic-vendor-payment-proposal.md) |  2020 年 3 月 31 日| 
+|[2020 年の 1099-NEC および 1099-MISC フォームに変更を適用する](dynamics365-finance/apply-changes-1099-nec-1099-misc-forms-2020.md) |  2020 年 3 月 31 日| 
 |[購買契約書に関連付けられた PO 請求書に明細を追加する](dynamics365-finance/add-lines-po-invoices-associated-purchase-agreement.md) |  2020 年 3 月 27 日| 
 |[つなぎ勘定トランザクションと小切手フォームに対する仕入先の詳細](dynamics365-finance/vendor-details-bridged-transactions-check-forms.md) |  2020 年 3 月 9 日| 
 |[伝票トランザクション リスト ページに仕入先 ID、顧客 ID、仕入先名、顧客名を追加する](dynamics365-finance/add-vendor-id-customer-id-vendor-name-customer-name-voucher-transactions-list-page.md) |  2020 年 2 月 13 日| 
@@ -140,27 +176,35 @@ ms.locfileid: "3224988"
 |[詳細な元帳エントリを使用してトランザクションを転記するときに銀行残高を更新する](dynamics365-finance/update-bank-balances-when-posting-transactions-using-advanced-ledger-entry.md) |  2020 年 1 月 29 日| 
 |[会計登録者ワークスペース](dynamics365-finance/treasurer-workspace.md) |  2020 年 1 月 27 日| 
 |[キャッシュ フロー予測の外部データ](dynamics365-finance/external-data-cash-forecasting.md) |  2020 年 1 月 27 日| 
-|[回収タスクの自動作成](dynamics365-finance/automatic-collection-task-creation.md) |  2020 年 1 月 27 日| 
 |[顧客支払予測](dynamics365-finance/customer-payment-predictions.md) |  2020 年 1 月 27 日| 
 |[銀行残高の予測](dynamics365-finance/forecast-bank-balance.md) |  2020 年 1 月 27 日| 
  
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
+|[交付金に関する A-133 通達レポート (SEFA)](dynamics365-finance/a-133-circular-report-grants-sefa.md) |   一般提供の日付が 2020 年 8 月に移動されました。  |2020 年 4 月 24 日|
+|[取引詳細レポートを含む試算表](dynamics365-finance/trial-balance-transactional-detail-report.md) |   一般提供の日付が 2020 年 8 月に移動されました。  |2020 年 4 月 15 日|
+|[つなぎ勘定トランザクションと小切手フォームに対する仕入先の詳細](dynamics365-finance/vendor-details-bridged-transactions-check-forms.md) |   一般提供の日付が 2020 年 8 月に移動されました。  |2020 年 4 月 15 日|
+|[カナダの統一消費税](dynamics365-finance/canadian-harmonized-sales-tax.md) | パブリック プレビュー日付を削除しました。 一般提供の日付が 2020 年 8 月に移動されました。  |2020 年 4 月 15 日|
+|[元帳の会計カレンダーを変更するときに「期間残高の再計算」が必要](dynamics365-finance/require-recalculate-ledger-periods-when-changing-fiscal-calendar-ledger.md) |   一般提供の日付が 2020 年 8 月に移動されました。  |2020 年 4 月 9 日|
+|[仕入先請求書明細行に請求金額をコピーする場合のパフォーマンスを向上させる](dynamics365-finance/improve-performance-when-copying-charges-vendor-invoice-lines.md) |   一般提供の日付が 2020 年 4 月に移動されました。  |2020 年 4 月 9 日|
+|[通貨換算を使用する場合の財務レポートの利益剰余金計算の機能強化](dynamics365-finance/retained-earnings-calculation-enhancements-financial-reporting-when-using-currency-translation.md) |   一般提供の日付が 2020 年 8 月に移動されました。  |2020 年 4 月 9 日|
+|[仕入先請求書のバッチ転記](dynamics365-finance/add-automated-task-vendor-invoice-workflow-posting-vendor-invoice-using-batch-job.md) |   一般提供の日付が 2020 年 4 月に移動されました。  |2020 年 4 月 9 日|
 |[会計登録者ワークスペース](dynamics365-finance/treasurer-workspace.md) | パブリック プレビューの日付が 2020 年 5 月に移動されました。    |2020 年 3 月 14 日|
 |[キャッシュ フロー予測の外部データ](dynamics365-finance/external-data-cash-forecasting.md) | パブリック プレビューの日付が 2020 年 5 月に移動されました。    |2020 年 3 月 14 日|
 |[インテリジェントな予算提案](dynamics365-finance/intelligent-budget-proposal.md) | パブリック プレビューの日付が 2020 年 5 月に移動されました。    |2020 年 3 月 14 日|
 |[銀行残高の予測](dynamics365-finance/forecast-bank-balance.md) | パブリック プレビューの日付が 2020 年 5 月に移動されました。    |2020 年 3 月 14 日|
 |[顧客支払予測](dynamics365-finance/customer-payment-predictions.md) | パブリック プレビューの日付が 2020 年 5 月に移動されました。    |2020 年 3 月 14 日|
-|[拡張されたイタリア語ローカライズ: 税限度額](dynamics365-finance/extended-italian-localization-tax-plafond.md) | パブリック プレビューの日付が 2020 年 7 月に移動されました。    |2020 年 3 月 4 日|
-|[詳細な元帳決済: 決済と決済取消を別個に処理する](dynamics365-finance/advanced-ledger-settlement-settlement-reverse-settlement-processed-separately.md) |   一般提供の日付が 2020 年 7 月に移動されました。  |2020 年 2 月 14 日|
+|[拡張されたイタリア語ローカライズ: 税限度額](dynamics365-finance/extended-italian-localization-tax-plafond.md) | パブリック プレビューの日付が 2020 年 5 月に移動されました。    |2020 年 3 月 4 日|
+|[詳細な元帳決済: 決済と決済取消を別個に処理する](dynamics365-finance/advanced-ledger-settlement-settlement-reverse-settlement-processed-separately.md) |   一般提供の日付が 2020 年 8 月に移動されました。  |2020 年 2 月 14 日|
 |[会計登録者の会計責任に関する日次明細](dynamics365-finance/daily-statement-treasurers-accountability.md) |   一般提供の日付が 2020 年 4 月に移動されました。  |2020 年 2 月 13 日|
 |[会計登録者の会計責任に関する日次明細](dynamics365-finance/daily-statement-treasurers-accountability.md) |   一般提供の日付が 2020 年 5 月に移動されました。  |2020 年 2 月 12 日|
  
 ### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
 | 機能 | 理由  |  削除日|
 |----------|----------|---------------|
-| 顧客へのタッチレス メール アラーム |  |2020 年 3 月 16 日 |
+| 顧客へのタッチレス メール アラーム | 次のリリース ウェーブに移動されました。 |2020 年 4 月 30 日 |
+| 回収タスクの自動作成 | 次のリリース ウェーブに移動されました。 |2020 年 4 月 30 日 |
 | 買掛金勘定小切手承認登録レポート | 優先順位が下げられ、配信されません。 |2020 年 3 月 9 日 |
 
 
@@ -170,9 +214,18 @@ ms.locfileid: "3224988"
 ### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
 | 機能 |  追加日 |
 |---------|---------------|
+|[ジョブ カード デバイスから終了したことを報告するときにシリアル番号を入力できるようにする](dynamics365-supply-chain-management/allow-serial-numbers-be-entered-while-reporting-as-finished-job-card-device.md) |  2020 年 5 月 4 日| 
+|[サニタイズのためにジョブ カードのタッチスクリーンをロックできるようにする](dynamics365-supply-chain-management/allow-locking-job-card-touchscreen-sanitization.md) |  2020 年 5 月 4 日| 
+|[倉庫管理の手持在庫エントリのクリーンアップ ジョブの最大実行時間](dynamics365-supply-chain-management/maximum-execution-time-warehouse-management-on-hand-entries-cleanup-job.md) |  2020 年 4 月 30 日| 
+|[積荷品目の入庫中に倉庫アプリで製品バリアントと追跡用分析コードをキャプチャする](dynamics365-supply-chain-management/capture-product-variants-tracking-dimensions-warehousing-app-during-load-item-receiving.md) |  2020 年 4 月 23 日| 
+|[資産管理のビジネス イベントの取り込み](dynamics365-supply-chain-management/business-events-uptake-asset-management.md) |  2020 年 4 月 20 日| 
+|[Dynamics 365 Field Service と資産管理の統合](dynamics365-supply-chain-management/field-service-integration-asset-management.md) |  2020 年 4 月 20 日| 
+|[倉庫アプリでのライセンス プレート受取の機能強化 (続き)](dynamics365-supply-chain-management/license-plate-receiving-enhancements-warehousing-mobile-app-continued.md) |  2020 年 4 月 20 日| 
+|[[製品受領書の転記] ページに [注文済数量] フィールドを追加する](dynamics365-supply-chain-management/add-quantity-ordered-field-posting-product-receipt-page.md) |  2020 年 4 月 15 日| 
 |[ジョブ カード デバイスからのバッチ番号での完了レポート](dynamics365-supply-chain-management/report-as-finished-batch-numbers-job-card-device.md) |  2020 年 4 月 2 日| 
 |[手持在庫レポート ストレージ](dynamics365-supply-chain-management/inventory-on-hand-report-storage.md) |  2020 年 3 月 31 日| 
-|[倉庫保管モバイル アプリのライセンス プレート受取の機能強化](dynamics365-supply-chain-management/license-plate-receiving-enhancements-warehousing-mobile-app.md) |  2020 年 3 月 30 日| 
+|[バッチ番号予約フォームの行の引当の機能強化](dynamics365-supply-chain-management/line-reservation-enhancements-batch-number-reservation-form.md) |  2020 年 3 月 30 日| 
+|[倉庫アプリでのライセンス プレート受取の機能強化](dynamics365-supply-chain-management/license-plate-receiving-enhancements-warehousing-mobile-app.md) |  2020 年 3 月 30 日| 
 |[製造領域向けの新しいデータ エンティティ](dynamics365-supply-chain-management/new-data-entities-manufacturing-area.md) |  2020 年 3 月 18 日| 
 |[前処理フィルターが有効になっている場合に、手持在庫のある品目がマスター プランに含まれる](dynamics365-supply-chain-management/master-planning-include-items-on-hand-when-pre-processing-filters-are-enabled.md) |  2020 年 3 月 17 日| 
 |[倉庫管理で既存の CW タグを使用するための機能強化](dynamics365-supply-chain-management/enhancement-use-existing-catch-weight-tags-warehouse-management.md) |  2020 年 3 月 13 日| 
@@ -180,20 +233,23 @@ ms.locfileid: "3224988"
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
+|[ジョブ カード デバイスからのバッチ番号での完了レポート](dynamics365-supply-chain-management/report-as-finished-batch-numbers-job-card-device.md) |   一般提供の日付が 2020 年 5 月に移動されました。  |2020 年 4 月 10 日|
 |[複数の購買作業項目の委任](dynamics365-supply-chain-management/delegation-multiple-purchasing-work-items.md) | パブリック プレビューの日付が 2020 年 8 月に移動されました。    |2020 年 4 月 1 日|
-|[エンタープライズ規模 – システム パフォーマンスの販売](dynamics365-supply-chain-management/enterprise-scale-sales-system-performance.md) | パブリック プレビューの日付が 2020 年 7 月に更新されました。 一般提供の日付が削除されました。  |2020 年 2 月 28 日|
-|[エンタープライズ規模 – システム パフォーマンスの購入](dynamics365-supply-chain-management/enterprise-scale-purchase-system-performance.md) | パブリック プレビューの日付が 2020 年 7 月に更新されました。 一般提供の日付が削除されました。  |2020 年 2 月 28 日|
-|[資産の利用可能性に基づいた製造リソース スケジュール](dynamics365-supply-chain-management/am-resource-scheduling-based-asset-availability.md) |   一般提供の日付が削除されました。  |2020 年 2 月 28 日|
+|[資産の利用可能性に基づいた製造リソース スケジュール](dynamics365-supply-chain-management/am-resource-scheduling-based-asset-availability.md) | パブリック プレビューの日付が 2020 年 8 月に移動されました。 一般提供の日付が削除されました。  |2020 年 2 月 28 日|
 |[プロジェクト タイプに関連する新しいプロジェクト モジュール変更との統合](dynamics365-supply-chain-management/am-uptake-new-project-module-changes-related-project-type.md) | パブリック プレビューの日付が 2020 年 9 月に移動されました。    |2020 年 2 月 28 日|
 |[プロジェクト タイプに関連する新しいプロジェクト モジュール変更との統合](dynamics365-supply-chain-management/am-uptake-new-project-module-changes-related-project-type.md) |   一般提供の日付が削除されました。  |2020 年 2 月 28 日|
-|[受注オペレーターの効率 - 流通](dynamics365-supply-chain-management/sales-order-operator-efficiency--distribution.md) | パブリック プレビューの日付が 2020 年 7 月に移動されました。 一般提供の日付が**近日発表**に変更されました。  |2020 年 2 月 28 日|
-|[IoT インテリジェンス コア分析情報](dynamics365-supply-chain-management/iot-intelligence-core-insights.md) | パブリック プレビュー日付を削除しました。    |2020 年 2 月 27 日|
+|[受注オペレーターの効率 - 流通](dynamics365-supply-chain-management/sales-order-operator-efficiency--distribution.md) | パブリック プレビューの日付が 2020 年 8 月に移動されました。 一般提供の日付が**近日発表**に変更されました。  |2020 年 2 月 28 日|
+|[IoT インテリジェンス コア分析情報](dynamics365-supply-chain-management/iot-intelligence-core-insights.md) | パブリック プレビュー日付を削除しました。 一般提供の日付が 2020 年 4 月に移動されました。  |2020 年 2 月 27 日|
 |[プロジェクト タイプに関連する新しいプロジェクト モジュール変更との統合](dynamics365-supply-chain-management/am-uptake-new-project-module-changes-related-project-type.md) | パブリック プレビューの日付が 2020 年 7 月に移動されました。 一般提供の日付が**近日発表**に変更されました。  |2020 年 2 月 27 日|
 |[資産の利用可能性に基づいた製造リソース スケジュール](dynamics365-supply-chain-management/am-resource-scheduling-based-asset-availability.md) | パブリック プレビューの日付が 2020 年 7 月に移動されました。 一般提供の日付が**近日発表**に変更されました。  |2020 年 2 月 27 日|
  
 ### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
 | 機能 | 理由  |  削除日|
 |----------|----------|---------------|
+| エンタープライズ規模 – 購入のシステム パフォーマンス | 将来のリリース ウェーブに移動されました。  |2020 年 5 月 1 日 |
+| エンタープライズ規模 – 営業のシステム パフォーマンス | 将来のリリース ウェーブに移動されました。  |2020 年 5 月 1 日 |
+| 製造インテリジェンス | 将来のリリース ウェーブに移動されました。  |2020 年 4 月 20 日 |
+| 複数の在庫資産の表現 (プレビュー) |  |2020 年 4 月 17 日 |
 | 自動倉庫プロセス用の材料取り扱い機器の統合フレームワーク (以前の MHAX) | 将来のリリース ウェーブに移動されました。  |2020 年 3 月 9 日 |
 
 
@@ -203,6 +259,7 @@ ms.locfileid: "3224988"
 ### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
 | 機能 |  追加日 |
 |---------|---------------|
+|[公的機関 - 資金調達ソースによるプロジェクト仮発行請求書の選択パラメーター](dynamics365-project-operations/public-sector--project-invoice-proposal-selection-parameter-funding-source.md) |  2020 年 4 月 15 日| 
 |[Dynamics 365 Project Operations のリソース ベースのプロジェクトのプロジェクト会計機能の強化](dynamics365-project-operations/enhanced-project-accounting-capabilities-resource-based-project-dynamics-365-project-operations.md) |  2020 年 2 月 4 日| 
 |[Dynamics 365 Project Operations の在庫ベースのプロジェクトのプロジェクト会計機能の強化](dynamics365-project-operations/enhanced-project-accounting-capabilities-inventory-based-projects-dynamics-365-project-operations.md) |  2020 年 1 月 30 日| 
 |[プロジェクト営業の機能拡張](dynamics365-project-operations/project-sales-enhancements.md) |  2020 年 1 月 30 日| 
@@ -217,6 +274,8 @@ ms.locfileid: "3224988"
 ### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
 | 機能 |  追加日 |
 |---------|---------------|
+|[Dynamics 365 Supply Chain Management の資産管理モジュールの統合](mixed-reality/dynamics365-guides/integrate-asset-management-module-dynamics-365-supply-chain-management.md) |  2020 年 4 月 9 日| 
+|[PC アプリでガイド名を変更する](mixed-reality/dynamics365-guides/rename-guides-pc-app.md) |  2020 年 4 月 9 日| 
 |[空間トリガーを使用してガイド内を前後に移動する](mixed-reality/dynamics365-guides/use-spatial-triggers-go-forward-or-backward-guide.md) |  2020 年 3 月 25 日| 
 |[オペレーターは HoloLens で以前に開いたガイドをオフライン時に使用できる](mixed-reality/dynamics365-guides/operators-use-previously-opened-guides-hololens-when-offline.md) |  2020 年 3 月 25 日| 
  
@@ -230,7 +289,6 @@ ms.locfileid: "3224988"
 | 機能 | 理由  |  削除日|
 |----------|----------|---------------|
 | 分岐フローをサポートするガイドの作成 | 次のリリース ウェーブに移動されました。 |2020 年 3 月 25 日 |
-| Guides Insights で分析機能を拡張する | 次のリリース ウェーブに移動されました。 |2020 年 3 月 25 日 |
 
 
 ## <a name="finance-and-operations-cross-app-capabilities"></a>Finance and Operations クロス アプリ機能
@@ -239,14 +297,19 @@ ms.locfileid: "3224988"
 ### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
 | 機能 |  追加日 |
 |---------|---------------|
+|[Lifecycle Services (LCS) での問題検索の改善](finance-operations-crossapp-capabilities/lifecyle-services-issue-search-improvements.md) |  2020 年 4 月 29 日| 
 |[二重書き込み機能の Lifecycle Services のサポート](finance-operations-crossapp-capabilities/lifecycle-services-support-dual-write-capabilities.md) |  2020 年 4 月 2 日| 
 |[セルフサービス環境へのパッケージの適用をサポートする API](finance-operations-crossapp-capabilities/apis-support-applying-packages-self-service-environments.md) |  2020 年 4 月 2 日| 
+|[データベース エクスポート用の RESTful API](finance-operations-crossapp-capabilities/restful-apis-database-export.md) |  2020 年 4 月 2 日| 
 |[Tier 2-5 スタンダード承認テスト (サンドボックス) 環境へのリモート デスクトップ アクセスの除去](finance-operations-crossapp-capabilities/removing-remote-desktop-access-tier-2-5-standard-acceptance-test-or-sandbox-environments.md) |  2020 年 4 月 2 日| 
 |[メッセージ バーにアクションを埋め込む](finance-operations-crossapp-capabilities/embed-actions-message-bar.md) |  2020 年 3 月 2 日| 
  
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
+|[Tier 2-5 スタンダード承認テスト (サンドボックス) 環境へのリモート デスクトップ アクセスの除去](finance-operations-crossapp-capabilities/removing-remote-desktop-access-tier-2-5-standard-acceptance-test-or-sandbox-environments.md) | パブリック プレビューの日付が 2020 年 5 月に移動されました。    |2020 年 5 月 4 日|
+|[組み込みグラフ コントロールがサポートする拡張グラフ タイプを拡張して、線と領域の範囲を含むようになる](finance-operations-crossapp-capabilities/expanded-chart-types-supported-embedded-chart-control-now-include-line-area-ranges.md) |   一般提供の日付が 2020 年 7 月に更新されました。  |2020 年 4 月 20 日|
+|[個人用設定とフィルタリングの使いやすさを改善](finance-operations-crossapp-capabilities/usability-improvements-filtering-personalization.md) | パブリック プレビューの日付が 2020 年 7 月に移動されました。    |2020 年 4 月 6 日|
 |[Azure Data Lake でエンティティ格納データが利用可能に](finance-operations-crossapp-capabilities/entity-store-data-azure-data-lake-ga.md) |   一般提供の日付が 2020 年 8 月に移動されました。  |2020 年 2 月 13 日|
  
 
@@ -257,18 +320,26 @@ ms.locfileid: "3224988"
 ### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
 | 機能 |  追加日 |
 |---------|---------------|
+|[Microsoft Teams での従業員の休暇と欠勤のエクスペリエンス](dynamics365-human-resources/employee-leave-absence-experience-teams.md) |  2020 年 5 月 4 日| 
+|[福利厚生通知の強化](dynamics365-human-resources/enhanced-benefits-notifications.md) |  2020 年 4 月 28 日| 
+|[福利厚生管理ワークスペース](dynamics365-human-resources/benefits-management-workspace.md) |  2020 年 4 月 28 日| 
+|[リアルタイムのライフ イベント](dynamics365-human-resources/real-time-life-events.md) |  2020 年 4 月 28 日| 
+|[DMF エンティティのサポート](dynamics365-human-resources/dmf-entity-support.md) |  2020 年 4 月 28 日| 
+|[休暇カレンダー ビューに追加の分析情報を提供する](dynamics365-human-resources/provide-additional-insight-leave-calendar-views.md) |  2020 年 3 月 31 日| 
 |[休暇残高調整に理由コードとコメントを追加する](dynamics365-human-resources/add-reason-code-comment-leave-balance-adjustments.md) |  2020 年 3 月 31 日| 
 |[データベース監査 (ログ)](dynamics365-human-resources/database-auditing-logging.md) |  2020 年 3 月 27 日| 
  
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
+|[データベース監査 (ログ)](dynamics365-human-resources/database-auditing-logging.md) | パブリック プレビューの日付が 2020 年 6 月に移動されました。 一般提供の日付が 2020 年 7 月に移動されました。  |2020 年 4 月 20 日|
 |[従業員に休暇の売買を許可する](dynamics365-human-resources/allow-employees-buy-sell-leave.md) | パブリック プレビューの日付が 2020 年 6 月に移動されました。 一般提供の日付が 2020 年 7 月に移動されました。  |2020 年 3 月 2 日|
-|[特定の条件を満たす従業員の休暇を停止する](dynamics365-human-resources/suspend-leave-employees-meeting-certain-criteria.md) |   一般提供の日付が 2020 年 5 月に移動されました。  |2020 年 2 月 27 日|
+|[特定の条件を満たす従業員の休暇を停止する](dynamics365-human-resources/suspend-leave-employees-meeting-certain-criteria.md) | パブリック プレビューの日付が 2020 年 4 月に移動されました。 一般提供の日付が 2020 年 5 月に移動されました。  |2020 年 2 月 27 日|
  
 ### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
 | 機能 | 理由  |  削除日|
 |----------|----------|---------------|
+| 従業員と職位のための強化された組織間セキュリティ | 次のリリース ウェーブに移動されました。 |2020 年 4 月 29 日 |
 | 従業員の病気休暇を管理する | 次のリリース ウェーブに移動されました。 |2020 年 3 月 31 日 |
 | 休暇管理者が休暇を管理できるようにする | 次のリリース ウェーブに移動されました。 |2020 年 3 月 31 日 |
 
@@ -279,11 +350,14 @@ ms.locfileid: "3224988"
 ### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
 | 機能 |  追加日 |
 |---------|---------------|
+|[顧客の注文に対して配送または集荷の倉庫を選択するための柔軟なオプションを提供する](dynamics365-commerce/provide-flexible-options-choosing-shipping-or-pickup-warehouse-customer-orders.md) |  2020 年 4 月 30 日| 
+|[定義の拡張機能でのデータ アクション拡張機能のサポート](dynamics365-commerce/support-data-action-extension-definition-extension.md) |  2020 年 4 月 30 日| 
+|[Commerce SDK が Visual Studio 2017 に更新](dynamics365-commerce/commerce-sdk-updated-vs-2017.md) |  2020 年 4 月 10 日| 
 |[テーマの拡張機能のサポート](dynamics365-commerce/support-theme-extensions.md) |  2020 年 3 月 31 日| 
 |[eコマース サイトでのミニカートのサポート](dynamics365-commerce/support-mini-cart-e-commerce-site.md) |  2020 年 3 月 17 日| 
 |[トランザクション メール用の新しいイベントとプレースホルダー](dynamics365-commerce/new-events-placeholders-transactional-emails.md) |  2020 年 3 月 17 日| 
 |[コマース製品推奨アドイン](dynamics365-commerce/commerce-product-recommendations-add-in.md) |  2020 年 2 月 27 日| 
-|[POS で部分的に履行された顧客の注文の編集](dynamics365-commerce/editing-partially-fulfilled-customer-orders-pos.md) |  2020 年 2 月 21 日| 
+|[POS で部分的に履行された顧客の注文を編集する](dynamics365-commerce/editing-partially-fulfilled-customer-orders-pos.md) |  2020 年 2 月 21 日| 
 |[POS の荷渡方法の変更操作](dynamics365-commerce/change-mode-delivery-operation-pos.md) |  2020 年 2 月 14 日| 
  
 ### <a name="release-date-changed"></a>リリース日の変更
@@ -296,7 +370,31 @@ ms.locfileid: "3224988"
 ### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
 | 機能 | 理由  |  削除日|
 |----------|----------|---------------|
+| POS 支払いフローの改善 | 将来のリリース ウェーブに移動されました。  |2020 年 5 月 4 日 |
 | 販売担当者が好みの通信手段を使用して POS から顧客と通信できるようにする | 将来のリリース ウェーブに移動されました。  |2020 年 2 月 24 日 |
+
+
+## <a name="dynamics-365-connected-store"></a>Dynamics 365 Connected Store
+
+ 
+### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
+| 機能 |  追加日 |
+|---------|---------------|
+|[Edge Portal モバイル アプリを使用してセットアップと構成を簡単にする](artificial-intelligence/dynamics365-connected-store/use-edge-portal-mobile-app-effortless-setup-configuration.md) |  2020 年 4 月 10 日| 
+|[Azure Stack Edge ゲートウェイを使用して Connected Store を簡単に調達およびデプロイする](artificial-intelligence/dynamics365-connected-store/procure-deploy-connected-store-easily-using-azure-stack-edge-gateway.md) |  2020 年 4 月 7 日| 
+|[待ち行列の解消](artificial-intelligence/dynamics365-connected-store/queue-abandonment.md) |  2020 年 4 月 3 日| 
+|[ディスプレイ効果](artificial-intelligence/dynamics365-connected-store/display-effectiveness.md) |  2020 年 4 月 3 日| 
+|[店舗の客足](artificial-intelligence/dynamics365-connected-store/store-traffic.md) |  2020 年 4 月 3 日| 
+
+ 
+### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
+| 機能 | 理由  |  削除日|
+|----------|----------|---------------|
+| チェックアウト キューの管理 | この機能は、[店舗の客足](artificial-intelligence/dynamics365-connected-store/store-traffic.md)機能と統合されました。 |2020 年 3 月 3 日 |
+| 通知 | この機能は、[店舗の客足](artificial-intelligence/dynamics365-connected-store/store-traffic.md)機能と統合されました。 |2020 年 3 月 3 日 |
+| スケジュールされたレポート | この機能は、[店舗の客足](artificial-intelligence/dynamics365-connected-store/store-traffic.md)機能と統合されました。 |2020 年 3 月 3 日 |
+| 客足 | この機能は、[店舗の客足](artificial-intelligence/dynamics365-connected-store/store-traffic.md)機能と統合されました。 |2020 年 3 月 3 日 |
+| インストールと展開のガイド | 別のリリースに移動されました。 |2020 年 3 月 3 日 |
 
 
 ## <a name="dynamics-365-fraud-protection"></a>Dynamics 365 Fraud Protection
@@ -310,24 +408,17 @@ ms.locfileid: "3224988"
  
 
 
-## <a name="dynamics-365-connected-store"></a>Dynamics 365 Connected Store
- 
-### <a name="features-removed-from-release-plan"></a>リリース計画から削除された機能
-| 機能 | 理由  |  削除日|
-|----------|----------|---------------|
-| チェックアウト キューの管理 | 将来のリリース ウェーブに移動されました |2020 年 3 月 30 日 |
-| 通知 | 将来のリリース ウェーブに移動されました  |2020 年 3 月 30 日 |
-| スケジュールされたレポート | 将来のリリース ウェーブに移動されました  |2020 年 3 月 30 日 |
-| 客足 | 将来のリリース ウェーブに移動されました  |2020 年 3 月 30 日 |
-| インストールと展開のガイド | 将来のリリース ウェーブに移動されました  |2020 年 3 月 30 日 |
-
-
 ## <a name="dynamics-365-business-central"></a>Dynamics 365 Business Central
 
  
 ### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
 | 機能 |  追加日 |
 |---------|---------------|
+|[サンドボックス環境ピッカー](dynamics365-business-central/sandbox-environment-picker.md) |  2020 年 4 月 24 日| 
+|[パートナー向け Application Insights の拡張機能ライフサイクル テレメトリ](dynamics365-business-central/extension-lifecycle-telemetry-application-insights-partners.md) |  2020 年 4 月 22 日| 
+|[パートナー向け Application Insights のエラー テレメトリの更新](dynamics365-business-central/update-error-telemetry-application-insights-partners.md) |  2020 年 4 月 22 日| 
+|[パートナー向け Application Insights の企業ライフサイクル テレメトリ](dynamics365-business-central/company-lifecycle-telemetry-application-insights-partners.md) |  2020 年 4 月 22 日| 
+|[アクセス許可管理の生産性の向上](dynamics365-business-central/productivity-improvements-permissions-management.md) |  2020 年 4 月 6 日| 
 |[価格計算の拡張](dynamics365-business-central/extend-price-calculation.md) |  2020 年 3 月 30 日| 
 |[UI カスタマイズの回復性](dynamics365-business-central/resiliency-ui-customizations.md) |  2020 年 3 月 25 日| 
 |[機能を事前に有効にする](dynamics365-business-central/enable-features-ahead-time.md) |  2020 年 3 月 25 日| 
@@ -351,11 +442,12 @@ ms.locfileid: "3224988"
 ### <a name="release-date-changed"></a>リリース日の変更
 | 機能 | 変更 |  更新日 |
 |----------|----------|---------------|
+|[新しい URL パラメーターによって Web クライアントのヘッダーを非表示にする](dynamics365-business-central/new-url-parameter-hides-web-client-header.md) | パブリック プレビューの日付が 2020 年 4 月に移動されました。 一般提供の日付が 2020 年 7 月に移動されました。  |2020 年 4 月 7 日|
 |[テーブルからテーブル拡張機能にフィールドをリファクタリングする機能](dynamics365-business-central/ability-refactor-field-table-table-extension.md) | パブリック プレビューの日付が 2020 年 4 月に移動されました。    |2020 年 3 月 2 日|
 |[読み取りスケールアウト](dynamics365-business-central/read-scale-out.md) | パブリック プレビューの日付が 2020 年 4 月に移動されました。    |2020 年 3 月 2 日|
 |[パートナー向けの Application Insights テレメトリに追加された Web サービス要求とレポートのパフォーマンス](dynamics365-business-central/telemetry-azure-application-insights-partners.md) | パブリック プレビューの日付が 2020 年 4 月に移動されました。    |2020 年 2 月 26 日|
 |[レポートおよび Web サービス呼び出しに対するリソースの制限](dynamics365-business-central/resource-limits-reports-web-service-calls.md) | パブリック プレビューの日付が 2020 年 4 月に移動されました。    |2020 年 2 月 26 日|
-|[口座調整の改善](dynamics365-business-central/bank-reconciliation-improvements.md) | パブリック プレビューの日付が 2020 年 3 月に移動されました。 一般提供の日付が 2020 年 5 月に移動されました。  |2020 年 2 月 19 日|
+|[口座調整の改善](dynamics365-business-central/bank-reconciliation-improvements.md) | パブリック プレビューの日付が 2020 年 3 月に移動されました。 一般提供の日付が 2020 年 6 月に移動されました。  |2020 年 2 月 19 日|
 |[オンボード エクスペリエンスの改善](dynamics365-business-central/improved-onboarding-experience.md) | パブリック プレビューの日付が 2020 年 4 月に移動されました。    |2020 年 2 月 18 日|
 |[Dynamics GP からすべてまたはアクティブな顧客マスター レコードを移行する](dynamics365-business-central/migrate-all-or-only-active-customer-master-records-dynamics-gp.md) | パブリック プレビューの日付が 2020 年 3 月に移動されました。    |2020 年 2 月 10 日|
 |[Dynamics GP からすべてまたはアクティブな仕入先マスター レコードを移行する](dynamics365-business-central/migrate-all-or-only-active-vendor-master-records-dynamics-gp.md) | パブリック プレビューの日付が 2020 年 3 月に移動されました。    |2020 年 2 月 10 日|
@@ -370,4 +462,26 @@ ms.locfileid: "3224988"
 |[定期的な販売と購買注文明細行の自動挿入](dynamics365-business-central/auto-insert-recurring-sales-purchase-lines.md) | パブリック プレビューの日付が 2020 年 2 月に移動されました。    |2020 年 1 月 28 日|
 |[顧客および仕入先向けドキュメント レイアウトの強化](dynamics365-business-central/enhanced-customer-vendor-document-layout.md) | パブリック プレビューの日付が 2020 年 2 月に移動されました。    |2020 年 1 月 28 日|
 |[注文をキャンセルする場合、請求書に対して数量を元に戻す](dynamics365-business-central/revert-qty.-invoice-when-canceling-order.md) | パブリック プレビューの日付が 2020 年 2 月に移動されました。    |2020 年 1 月 28 日|
+ 
+
+
+## <a name="dynamics-365-customer-insights"></a>Dynamics 365 Customer Insights
+
+ 
+### <a name="features-added-to-release-plan"></a>リリース計画に追加された機能
+| 機能 |  追加日 |
+|---------|---------------|
+|[ブランドと関心で顧客プロファイルを充実させる](artificial-intelligence/dynamics365-customer-insights/enrich-customer-profiles-brands-interests.md) |  2020 年 4 月 27 日| 
+
+ 
+
+
+## <a name="health"></a>医療
+
+ 
+ 
+### <a name="release-date-changed"></a>リリース日の変更
+| 機能 | 変更 |  更新日 |
+|----------|----------|---------------|
+|[Healthcare Accelerator](industry-accelerators/health/healthcare-accelerator.md) |   一般提供の日付が 2020 年 5 月に移動されました。  |2020 年 4 月 27 日|
  

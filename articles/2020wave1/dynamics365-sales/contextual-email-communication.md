@@ -3,25 +3,25 @@ title: 状況依存のメール通信
 description: メールは、顧客とコミュニケーションをとる事実上すべての営業担当者にとって中心的なシナリオです。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 02/10/2020
+ms.date: 04/07/2020
 ms.assetid: 9cfed9ee-e637-ea11-a813-000d3a579c35
 ms.topic: article
 ms.service: business-applications
 ms.author: naitikds
 dynamics365pdf: true
-ms.openlocfilehash: fb2a007febc9206f7eeac93da66d93adf5c66bb9
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 878287e2bcc703513bfc48d4db1e5f75b005e0db
+ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232431"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "3255378"
 ---
 # <a name="contextual-email-communication"></a>状況依存のメール通信
-[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|-| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 
@@ -42,7 +42,7 @@ ms.locfileid: "3232431"
 
 > [!NOTE]
 > この機能は、統一インターフェイスでのみ使用できます。 
->
+
 > この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
 
 
@@ -53,8 +53,6 @@ ms.locfileid: "3232431"
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [状況依存のメール通信](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/dynamics365-sales/contextual-email-communication) (ドキュメント)
 <!--docs end-->
-

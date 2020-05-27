@@ -3,25 +3,25 @@ title: 活動を簡単に管理
 description: 新しく改良されたグリッドで活動をすばやく見つけます。 メイン ページのすべての活動をシンプルかつ簡単に操作します。 ドラッグアンドドロップを使用して、活動を直感的に更新します。 視覚化されたカレンダー ビューで活動をすべて表示します。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 03/16/2020
+ms.date: 04/23/2020
 ms.assetid: 7765d5de-62cb-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: cindyliu
 dynamics365pdf: true
-ms.openlocfilehash: b6cc9a38ad3eb82050465b02439fb9f9abc36701
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 08d657fca83abce2082b52caad6a9ffd7c2c8f90
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232387"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3294668"
 ---
 # <a name="manage-activities-with-ease"></a>活動を簡単に管理
-[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -45,9 +45,7 @@ ms.locfileid: "3232387"
 <!-- Picture 1 -->
 
 > [!NOTE]
-> この機能は、統一インターフェイスでのみ使用できます。 
->
-> この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
+> この機能は、統一インターフェイスでのみ使用できます。 この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
 
 
 
@@ -57,8 +55,6 @@ ms.locfileid: "3232387"
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [活動の追跡および管理](https://docs.microsoft.com/dynamics365/sales-enterprise/manage-activities) (ドキュメント)
 <!--docs end-->
-

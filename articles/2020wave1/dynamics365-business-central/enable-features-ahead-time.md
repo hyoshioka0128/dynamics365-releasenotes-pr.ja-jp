@@ -3,18 +3,18 @@ title: 機能を事前に有効にする
 description: 機能を事前に有効にする
 author: mikebcMSFT
 ms.reviewer: jswymer
-ms.date: 04/01/2020
+ms.date: 04/07/2020
 ms.assetid: 2cd65e43-6c1a-ea11-a811-000d3a8f0f1e
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 39df9880564d4d2528acf22602f818b20cddc533
-ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
+ms.openlocfilehash: 7e18fdf7c4e8223f991e271d4351c0cd4538bfc6
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "3219698"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3293953"
 ---
 # <a name="enable-features-ahead-of-time"></a>機能を事前に有効にする
 
@@ -26,7 +26,7 @@ ms.locfileid: "3219698"
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-サービスの変更によるビジネスの混乱を最小限に抑えることは、マイクロソフトにとって最も重要です。
+サービスの変更によるビジネスの混乱を最小限に抑えることは、Microsoft にとって最も重要です。
 
 Business Central のお客様は、6 か月ごとのメジャー更新を含む毎月の更新プログラムを受け取ります。 更新プログラムには、修正、設計強化、およびユーザー エクスペリエンスを変更することもある新機能が含まれます。 管理者が変更を管理できるようにすることで、お客様は自信を持って準備を整え、独自の条件でビジネスのデジタル変革を推進できます。
 <!-- bv end -->
@@ -63,3 +63,9 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[今後の機能を事前に有効にする](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/administration/feature-management) (ドキュメント)
+<!--docs end-->

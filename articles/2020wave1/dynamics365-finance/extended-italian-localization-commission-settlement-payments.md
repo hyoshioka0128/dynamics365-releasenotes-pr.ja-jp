@@ -3,25 +3,25 @@ title: '拡張されたローカライズ (イタリア): 支払時での手数�
 description: Dynamics 365 Finance が、以前はイタリアのパートナー Cluster Reply によって提供された、拡張されたローカライズ (イタリア) (EXIL) アドインでのみ利用可能であった、イタリア語固有の機能セットが利用できるように拡張されました。
 author: relnotes
 ms.reviewer: kfend
-ms.date: 12/15/2019
+ms.date: 05/05/2020
 ms.assetid: fea43915-f1db-e911-a812-000d3a4f1168
 ms.topic: article
 ms.service: business-applications
 ms.author: mrolecki
 dynamics365pdf: true
-ms.openlocfilehash: 71cc54f4025fd95a84788e0c755b66a623d97f55
-ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
+ms.openlocfilehash: a1e48694c539756e7313f4339c02d854d08b0af4
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "3218734"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3349349"
 ---
 # <a name="extended-italian-localization-commission-settlement-on-payments"></a>拡張されたローカライズ (イタリア): 支払時での手数料決済
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 5 月| 2020 年 8 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 1 日| 2020 年 8 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -36,7 +36,6 @@ ms.locfileid: "3218734"
 多くの企業は、請求書の発行時ではなく、顧客請求書の支払時に販売代理店の手数料を決済します。 その理由は、代理店に債権回収を促すためです。
 
 この機能により、請求書の発行または支払のどちらの時点で決済を行うかを指定できるようになります。 これにより、手数料を一般会計勘定に転記するタイミングが決まります。
-
 <!--feature detail end -->
 
 

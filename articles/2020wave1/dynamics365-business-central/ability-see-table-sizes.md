@@ -3,25 +3,25 @@ title: テーブルのサイズを確認する機能
 description: 管理者は、環境内の各テーブルのレコード数とテーブルの合計サイズを確認できます。
 author: relnotes
 ms.reviewer: jswymer
-ms.date: 02/27/2020
+ms.date: 04/21/2020
 ms.assetid: 019b327a-ac58-ea11-a811-000d3a579c39
 ms.topic: article
 ms.service: business-applications
 ms.author: kepontop
 dynamics365pdf: true
-ms.openlocfilehash: 92dd8ccb5a41f5a4369d3464f405708552be6061
-ms.sourcegitcommit: 2928661abcc468748ffc7c33516ebc8e3cd5d653
+ms.openlocfilehash: 4e50f113a5c6e0881da3308fb8fa314a6f49d579
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "3099207"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3293821"
 ---
 # <a name="ability-to-see-table-sizes"></a>テーブルのサイズを確認する機能
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2020 年 4 月| 2020 年 4 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -42,7 +42,7 @@ ms.locfileid: "3099207"
 - レコードのサイズ
 - サイズ (KB)
 
-ユーザーが SUPER アクセス許可を持つすべての会社の情報が表示されます。 
+ユーザーが SUPER アクセス許可を持つすべての会社の情報が表示されます。
 <!--feature detail end -->
 
 
@@ -53,3 +53,9 @@ ms.locfileid: "3099207"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[テーブル情報の表示](https://docs.microsoft.com/dynamics365/business-central/admin-view-table-information) (ドキュメント)
+<!--docs end-->

@@ -3,25 +3,25 @@ title: 電子メール テンプレートの選択がより簡単に
 description: メール テンプレートの選択エクスペリエンスの強化により、販売担当者がメール テンプレートをより簡単に利用できるようになります。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 02/03/2020
+ms.date: 04/15/2020
 ms.assetid: 8c8c9414-62cb-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
-ms.author: emgibson
+ms.author: dandalla
 dynamics365pdf: true
-ms.openlocfilehash: 54e798cbf1951c1d34a35b81ea20ee25913110f7
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: f1ae2320391b0896b0a4df87b656260c709cf8b1
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232442"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3294734"
 ---
 # <a name="easier-selection-of-email-templates"></a>電子メール テンプレートの選択がより簡単に
-[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -46,9 +46,7 @@ Microsoft では、製品全体のエクスペリエンスを簡素化する取�
 <!-- Picture 1 -->
 
 > [!NOTE]
-> この機能は、統一インターフェイスでのみ使用できます。 
->
-> この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
+> この機能は、統一インターフェイスでのみ使用できます。 この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
 
 
 
@@ -58,8 +56,6 @@ Microsoft では、製品全体のエクスペリエンスを簡素化する取�
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [電子メール テンプレートを挿入する](https://docs.microsoft.com/dynamics365/sales-enterprise/insert-email-template) (ドキュメント)
 <!--docs end-->
-

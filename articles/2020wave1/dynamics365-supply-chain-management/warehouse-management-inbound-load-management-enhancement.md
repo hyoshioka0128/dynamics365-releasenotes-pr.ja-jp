@@ -1,38 +1,46 @@
 ---
-title: 倉庫管理 – 入庫積荷管理の機能強化
-description: ''
+title: 入庫積荷管理の機能強化
+description: 入庫積荷管理の機能強化
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 02/28/2020
+ms.date: 04/17/2020
 ms.assetid: 3ba85dcc-b159-ea11-a811-000d3a579c39
 ms.topic: article
 ms.service: business-applications
 ms.author: perlynne
 dynamics365pdf: true
-ms.openlocfilehash: 4ffa2243f5f020989b547310a55ed2330f978b12
-ms.sourcegitcommit: 2928661abcc468748ffc7c33516ebc8e3cd5d653
+ms.openlocfilehash: 525e16a902d6640d4f4517e2b2a7ad7565979435
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "3099211"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3293150"
 ---
-# <a name="warehouse-management--inbound-load-management-enhancement"></a>倉庫管理 – 入庫積荷管理の機能強化
+# <a name="inbound-load-management-enhancement"></a>入庫積荷管理の機能強化
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 4 月| 2020 年 5 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 17 日| 2020 年 5 月|
+
+
+
+
 
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-この機能は以下で構成されます。
+この機能により、発注書に対する入庫積荷の倉庫処理プロセスいくつかの機能強化が追加されます。 これらの機能強化によって、独立系ソフトウェア ベンダー (ISV) は積荷エンティティと統合するときに、より堅牢なソリューションを構築できます。
 
--  倉庫モバイル デバイスから入庫を行う際の、発注書在庫トランザクション (Inventtrans) と貨物 ID の新しい関連付け。 
-- 発注書の未積み込み数量の計算に関する機能強化。登録された数量が使用されるようになりました。
-- 入庫積荷の倉庫処理操作の更新。 この機能は、"積荷あたり複数の製品受領転記" と呼ばれます。 同じ積荷に対して複数の製品受領転記が可能になり、積荷受領プロセスの柔軟性が向上します。 これにより倉庫管理者は、積荷に対して_製品受領書の更新_ジョブを実行した後もその積荷をオープン状態のままにでき、同じ積荷に対して追加の数量登録を実行できるようになります。 その後、製品受領が元帳に対して継続的に更新されます。
+### <a name="enhancements-added-in-release-10011"></a>リリース 10.0.11 で追加された機能強化
 
-これらの機能強化により、ISV は積荷エンティティと統合するときに、より堅牢なソリューションを構築できます。
+- _積荷数量の超過入庫_。これにより、入庫積荷数量の超過入庫を許可するか禁止するかを選択できます。 超過入庫は、作業者が選択した積荷の残りの未登録数量 (超過配送率の調整後) を超える数量を入力したときに発生します。 超過入庫の許可を選択する場合でも、終了した (状態が "受入済" である) 積荷に対しては禁止を選択できます。
+
+### <a name="enhancements-added-in-release-10010"></a>リリース 10.0.10 で追加された機能強化
+
+- 倉庫モバイル デバイスから入庫を行う際の、発注書在庫トランザクション (Inventtrans) と積荷 ID の新しい関連付け。 
+- 発注書の積荷残数量の計算に対する機能強化。登録済数量が使用されるようになり、_発注書明細行の積荷残数量_の計算が、積荷の登録済数量がマークして表示されるビューに置き換えられました。 
+- _積荷あたり複数の製品受領転記_と呼ばれる機能による、入庫積荷の倉庫処理操作の更新。 同じ積荷に対して複数の製品受領転記が可能になり、積荷受領プロセスの柔軟性が向上します。 これにより倉庫管理者は、積荷に対して_製品受領書の更新_ジョブを実行した後もその積荷をオープン状態のままにでき、同じ積荷に対して追加の数量登録を実行できるようになります。 その後、製品受領が元帳に対して継続的に更新されます。
 <!--feature detail end -->
 
 
@@ -43,3 +51,9 @@ ms.locfileid: "3099211"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[発注書に対する入庫積荷の倉庫処理](https://docs.microsoft.com/dynamics365/supply-chain/warehousing/inbound-load-handling) (ドキュメント)
+<!--docs end-->

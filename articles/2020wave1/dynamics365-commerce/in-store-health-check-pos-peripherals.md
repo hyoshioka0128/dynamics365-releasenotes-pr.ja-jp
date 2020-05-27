@@ -3,25 +3,25 @@ title: POS 周辺機器の店内正常性チェック
 description: この機能は接続された周辺機器の販売時点情報管理 (POS) から実行する正常性チェックを導入します。 今後 POS のユーザーは、接続されたデバイスの現在の状態を表示したり、デバイスとの通信実行に起因するエラーを確認したりすることができます。 さらに正常性チェック機能を拡張して、POS が依存するサービスの正常性チェックをサポートしたり、追加の周辺機器やそれに関連するシナリオをテストしたりすることもできます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 03/30/2020
+ms.date: 05/04/2020
 ms.assetid: 51b64564-a4ca-e911-a968-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: rubendel
 dynamics365pdf: true
-ms.openlocfilehash: 3e6d37cf974e9a817e72216202325f92941e03be
-ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
+ms.openlocfilehash: 9914619ae631526ab8eeea3aa79deb04bc309732
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "3219460"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3349536"
 ---
 # <a name="in-store-health-check-for-pos-peripherals"></a>POS 周辺機器の店内正常性チェック
-[!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 28 日| 2020 年 5 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 28 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

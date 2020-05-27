@@ -2,26 +2,26 @@
 title: Microsoft Forms Pro を使用した調査のサポート
 description: Microsoft Forms Pro を使用した調査
 author: relnotes
-ms.reviewer: shellyha
-ms.date: 03/18/2020
+ms.reviewer: alfergus
+ms.date: 04/21/2020
 ms.assetid: 70cd36ba-ad17-ea11-a811-000d3a8f010c
 ms.topic: article
 ms.service: business-applications
-ms.author: makova
+ms.author: yukom
 dynamics365pdf: true
-ms.openlocfilehash: 17cecb4dc2f6f99d516a2cf414e74f6b429cb506
-ms.sourcegitcommit: f7b958b02d7cb7543a3f81414e7b3e62a5b8539d
+ms.openlocfilehash: d16c99db4738b2ab3947a4ebb74ca3f8a27272f7
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "3157557"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3294305"
 ---
 # <a name="support-for-surveys-using-microsoft-forms-pro"></a>Microsoft Forms Pro を使用した調査のサポート
-[!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

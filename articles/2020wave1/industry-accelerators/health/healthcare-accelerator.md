@@ -3,29 +3,25 @@ title: Healthcare Accelerator
 description: Healthcare Accelerator
 author: relnotes
 ms.reviewer: deonhe
-ms.date: 01/01/2020
+ms.date: 04/27/2020
 ms.assetid: 06c0d27f-d41a-ea11-a811-000d3a8f0752
 ms.topic: article
 ms.service: business-applications
 ms.author: snagy
 dynamics365pdf: true
-ms.openlocfilehash: ecee155570719ceef247631ac08e320a75b4778f
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 73f5cce9c20d872cbcdb8ef72865820d20580421
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3231760"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3350317"
 ---
 # <a name="healthcare-accelerator"></a>Healthcare Accelerator
 [!include[industry-accelerators/health banner](../includes/industry-accelerators/health.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| 2020 年 4 月|
-
-
-<!--from editor: Should October 2019 and April 2020 change to 2019 release wave 2 and 2020 release wave 1? -->
-
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| 2020 年 5 月|
 
 
 ## <a name="feature-details"></a>機能の詳細
@@ -46,8 +42,6 @@ Healthcare Accelerator の 2019 年 10 月のリリースでは、モデル駆�
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [Healthcare Accelerator](https://docs.microsoft.com/common-data-model/health-accelerator) (ドキュメント)
 <!--docs end-->
-

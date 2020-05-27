@@ -3,25 +3,25 @@ title: 定期的な販売と購買注文明細行の自動挿入
 description: 販売および購買ドキュメントに定期的な販売および購買注文明細行を自動的に挿入できるようになりました。
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 02/04/2020
+ms.date: 04/06/2020
 ms.assetid: ebe92848-4dda-e911-a812-000d3a4f1244
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 1ddeb7ec0569b9121114d9b00cff17aed32052dd
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 291bf771143157db7cf0bf1da75d8dc9a83d8e2c
+ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232992"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "3255169"
 ---
 # <a name="auto-insert-recurring-sales-and-purchase-lines"></a>定期的な販売と購買注文明細行の自動挿入
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| 2020 年 4 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -55,8 +55,6 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [定期的な販売および購買注文明細行の作成](https://docs.microsoft.com/dynamics365/business-central/sales-how-work-standard-lines) (ドキュメント)
 <!--docs end-->
-

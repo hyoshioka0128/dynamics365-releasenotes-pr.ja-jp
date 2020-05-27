@@ -3,17 +3,17 @@ title: Dynamics 365 Guides の新機能と予定されている機能 (2020 年�
 description: Dynamics 365 Guides で計画されている機能の概要。
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 04/02/2020
+ms.date: 05/05/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: msalam
 dynamics365pdf: true
-ms.openlocfilehash: ef47a7464e652080fdfe5918ccfe4245ef0766bf
-ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
+ms.openlocfilehash: 0f6f7b9d8354c74390ecb3e04e3e30c0bafdbf33
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "3219339"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3350196"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-guides"></a>Dynamics 365 Guides の新機能と予定されている機能
 
@@ -25,10 +25,12 @@ ms.locfileid: "3219339"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
-| [オペレーターと共有する準備が整っていないガイドへのアクセスを制限する](restrict-access-guides-that-aren’t-ready-use-through-publishing-process.md) | 管理者、作成者、またはアナリスト、自動的| -|2020 年 4 月 | 
-| [Common Data Service エンティティを通じて Dynamics 365 Guides のコンテンツにアクセスする](access-dynamics-365-guides-content-through-common-data-service-entities.md) | 管理者、作成者、またはアナリスト、自動的| -|2020 年 4 月 | 
- | [オペレーターは HoloLens で以前に開いたガイドをオフライン時に使用できる](operators-use-previously-opened-guides-hololens-when-offline.md) | エンド ユーザー、自動的 | -|2020 年 6 月 | 
- | [空間トリガーを使用してガイド内を前後に移動する](use-spatial-triggers-go-forward-or-backward-guide.md) | エンド ユーザー、自動的 | -|2020 年 7 月 | 
+| [オペレーターと共有する準備が整っていないガイドへのアクセスを制限する](restrict-access-guides-that-aren’t-ready-use-through-publishing-process.md) | 管理者、作成者、またはアナリスト、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 | 
+| [Common Data Service エンティティを通じて Dynamics 365 Guides のコンテンツにアクセスする](access-dynamics-365-guides-content-through-common-data-service-entities.md) | 管理者、作成者、またはアナリスト、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 28 日 | 
+| [Dynamics 365 Supply Chain Management の資産管理モジュールの統合](integrate-asset-management-module-dynamics-365-supply-chain-management.md) | 管理者、作成者、またはアナリスト、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 28 日 | 
+| [PC アプリでガイド名を変更する](rename-guides-pc-app.md) | 管理者、作成者、またはアナリスト、自動的| -|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 28 日 | 
+| [オペレーターは HoloLens で以前に開いたガイドをオフライン時に使用できる](operators-use-previously-opened-guides-hololens-when-offline.md) | エンド ユーザー、自動的| -|2020 年 6 月 | 
+| [空間トリガーを使用してガイド内を前後に移動する](use-spatial-triggers-go-forward-or-backward-guide.md) | エンド ユーザー、自動的| -|2020 年 7 月 | 
 
 **有効対象**列の値の説明:
 
@@ -38,5 +40,4 @@ ms.locfileid: "3219339"
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。

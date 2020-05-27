@@ -3,18 +3,18 @@ title: 非営利団体向け 2020 年リリース ウェーブ 1 の概要
 description: 非営利団体向け 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: ''
-ms.date: 12/12/2019
+ms.date: 04/03/2020
 ms.assetid: 7b42e626-671c-ea11-a811-000d3a8f075c
 ms.topic: overview
 ms.service: business-applications
 ms.author: snagy
 dynamics365pdf: true
-ms.openlocfilehash: 81c3bb75ae2977eb568c95e72e9d6729fea2a906
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 1d3d9f427f0bf23f637d26fde23859153f23b6b9
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2984291"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3350295"
 ---
 # <a name="overview-of-nonprofit-2020-release-wave-1"></a>非営利団体向け 2020 年リリース ウェーブ 1 の概要
 [!include[industry-accelerators/nonprofit banner](../includes/industry-accelerators/nonprofit.md)]

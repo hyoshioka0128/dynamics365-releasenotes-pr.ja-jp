@@ -3,25 +3,25 @@ title: 新しい URL パラメーターによって Web クライアントのヘ
 description: URL の新しいパラメーターによってクライアントのヘッダーを非表示にする
 author: mikebcMSFT
 ms.reviewer: jswymer
-ms.date: 03/26/2020
+ms.date: 04/20/2020
 ms.assetid: 2f7a3732-0b6d-ea11-a811-000d3a579c39
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: 11231daba623ec4edeca0aa16b290a0b008e2adb
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: a4d15f98009da1967d4009e7fc2e67e39cbece74
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232761"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3294261"
 ---
 # <a name="new-url-parameter-hides-web-client-header"></a>新しい URL パラメーターによって Web クライアントのヘッダーを非表示にする
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 4 月| 2020 年 6 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 17 日| 2020 年 6 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -56,8 +56,6 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [Web クライアントの URL](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-web-client-urls) (ドキュメント)
 <!--docs end-->
-

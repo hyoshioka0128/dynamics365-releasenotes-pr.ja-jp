@@ -1,32 +1,32 @@
 ---
 title: 動的なメール メッセージをテスト送信する機能
-description: ''
+description: 本番環境に移行する前にメッセージをプレビューしてテストし、メッセージの一貫性を確保します。
 author: relnotes
 ms.reviewer: alfergus
-ms.date: 02/19/2020
+ms.date: 04/21/2020
 ms.assetid: 014e97e2-18ce-e911-a996-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
-ms.author: yukom
+ms.author: prrana
 dynamics365pdf: true
-ms.openlocfilehash: c562c7b2d35c7e7aab9c630952d43f4eb7678bce
-ms.sourcegitcommit: 2928661abcc468748ffc7c33516ebc8e3cd5d653
+ms.openlocfilehash: a191acfc9b0711883ecb88d8960495866a203d75
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "3098764"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3350614"
 ---
 # <a name="ability-to-test-send-dynamic-email-messages"></a>動的なメール メッセージをテスト送信する機能
-[!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|-|-| 2020 年 4 月|
+|管理者、作成者、またはアナリスト、自動的|-|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-Dynamics 365 Marketing を使用すると、マーケティング担当者は、パーソナライズされた動的コンテンツを含む視覚的に充実したマーケティング電子メール メッセージを設計できます。 ただし、電子メール クライアントのレンダリングのばらつきを考慮し、動的コンテンツが正確であることを確認するには、慎重なテストが必要です。 改善されたテスト送信機能により、実稼働前にメッセージをプレビューしてテストできるため、メッセージの一貫性を確保できます。
+Dynamics 365 Marketing で、パーソナライズされた動的コンテンツを含む視覚的に充実した電子メール メッセージを設計できます。 しかし、電子メール クライアントのレンダリングのばらつきを考慮し、動的コンテンツが正確であることを確認するには、これらのメッセージを慎重にテストする必要があります。 改善されたテスト送信機能により、実稼働前にメッセージをプレビューしてテストできるため、メッセージの一貫性を確保できます。
 <!-- bv end -->
 
 
@@ -34,7 +34,7 @@ Dynamics 365 Marketing を使用すると、マーケティング担当者は、
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 - **アップグレードされたエラー検出**: 送信テスト メッセージ用の改善されたエラー チェック。
-- **動的コンテンツのテスト送信**: 選択したサンプル連絡先レコードに基づいて、完全にレンダリングされた動的コンテンツ (動的フィールド値、エンティティ関係、ループ、条件など) を含むテスト メッセージ。
+- **動的コンテンツのテスト送信**: 選択したサンプル連絡先レコードに基づいて、完全にレンダリングされた動的コンテンツ (動的フィールド値、エンティティ関係、ループ、条件など) を含むテスト送信メッセージ。
 
 
 <!--feature detail end -->

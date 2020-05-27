@@ -1,27 +1,27 @@
 ---
 title: eコマース サイトでのミニカートのサポート
-description: ''
+description: この機能を使用すると、カートに商品が追加されたときに通知が表示されるようになります。 また、ミニ カートにより、カート ページに移動しなくてもカート内の品目の簡単な概要を確認できます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 03/17/2020
+ms.date: 04/28/2020
 ms.assetid: 9088a04a-b83d-ea11-a812-000d3a579c33
 ms.topic: article
 ms.service: business-applications
 ms.author: anupamar
 dynamics365pdf: true
-ms.openlocfilehash: 4ce42c70cf198162619863d79a939fdf5dd4fbf6
-ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
+ms.openlocfilehash: 85a3a2d760e4f99609c65a857c5ff3794fe0cb24
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "3153883"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3350373"
 ---
 # <a name="support-for-mini-cart-on-e-commerce-site"></a>eコマース サイトでのミニカートのサポート
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2020 年 4 月| 2020 年 7 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 13 日| 2020 年 7 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

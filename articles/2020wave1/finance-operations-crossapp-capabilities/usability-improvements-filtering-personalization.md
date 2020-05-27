@@ -1,27 +1,27 @@
 ---
-title: フィルタリングと個人用設定の使いやすさを改善
+title: 個人用設定とフィルタリングの使いやすさを改善
 description: Microsoft では、顧客とユーザーがカスタマイズおよび最適化されたユーザー エクスペリエンスを作成できるように、個人用設定の強化への投資を続けています。 また、ユーザーが必要なデータを簡単に見つけられるようにフィルタリング機能も改善しています。
 author: relnotes
 ms.reviewer: sericks
-ms.date: 03/30/2020
+ms.date: 04/07/2020
 ms.assetid: 7de6ee6c-84ca-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
-ms.openlocfilehash: 2feb4d1abf48f86b4930da795fb75b52aa4da484
-ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
+ms.openlocfilehash: dafb83a65604632bbfc2e1a43513dfa969bc9227
+ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "3219141"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "3256038"
 ---
-# <a name="usability-improvements-for-filtering-and-personalization"></a>フィルタリングと個人用設定の使いやすさを改善
+# <a name="usability-improvements-for-personalization-and-filtering"></a>個人用設定とフィルタリングの使いやすさを改善
 [!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 8 月| -|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 7 月| -|
 
 
 
@@ -36,11 +36,13 @@ ms.locfileid: "3219141"
 
 こうした改善は、リリース ウェーブの過程で段階的に行われます。 具体的な改善点とそれらが利用可能になる時期については、更新情報を確認してください。
 
-バージョン 10.0.11 の Finance and Operations アプリのプラットフォーム更新プログラムには、次のものが含まれます。 
+**10.0.11**
 
-- 個人用設定によってフィールドを必須としてマークする機能。
+プロパティ ウィンドウから個人用設定を使用 (要素を右クリックして **個人用設定** を選択) してフィールドを必須として指定する機能を追加しました。
 
+**10.0.12**
 
+個人用設定ツール バーに、フィールドを必須として指定するための新しい**必須**モードを追加しました。
 <!--feature detail end -->
 
 
@@ -51,3 +53,9 @@ ms.locfileid: "3219141"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[ユーザー エクスペリエンスのパーソナライズ](https://docs.microsoft.com/dynamics365/fin-ops-core/fin-ops/get-started/personalize-user-experience) (ドキュメント)
+<!--docs end-->

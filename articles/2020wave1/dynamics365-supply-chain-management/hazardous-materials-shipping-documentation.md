@@ -3,25 +3,26 @@ title: 危険物出荷ドキュメント
 description: 危険物出荷ドキュメント
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 12/16/2019
+ms.date: 04/07/2020
 ms.assetid: 18672a16-f51d-ea11-a811-000d3a8f022a
 ms.topic: article
 ms.service: business-applications
 ms.author: lcash
 dynamics365pdf: true
-ms.openlocfilehash: 9a4b00161783d6986452d6534e70bb4c804be236
-ms.sourcegitcommit: 9ede92eba84a02579fc8fc63e6a9673b034ce30c
+ms.openlocfilehash: 916c25e4fdace3b26a6c70a20ce3bb184759c7d2
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "2976524"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3272369"
 ---
 # <a name="hazardous-materials-shipping-documentation"></a>危険物出荷ドキュメント
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 2 月| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 3 日|
+
 
 
 

@@ -3,25 +3,25 @@ title: 統合された技術者の時間追跡
 description: 統合された技術者の時間追跡
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 02/17/2020
+ms.date: 04/20/2020
 ms.assetid: 65137991-b7ca-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: jacoh
 dynamics365pdf: true
-ms.openlocfilehash: c2a7d060cb978cbb6d6100da706ff04fe7961998
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: a742b0c185656ebbdc5279718dfac6c122827505
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232111"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3294052"
 ---
 # <a name="integrated-technician-time-tracking"></a>統合された技術者の時間追跡
-[!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -58,8 +58,6 @@ Field Service では以下がサポートされます。
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [Dynamics 365 Field Service の時間エントリ](https://docs.microsoft.com/dynamics365/field-service/field-service-time-entry) (ドキュメント)
 <!--docs end-->
-

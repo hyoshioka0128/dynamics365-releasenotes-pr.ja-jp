@@ -1,32 +1,32 @@
 ---
-title: さらに分析するためにマーケティング結果を Exce にエクスポートする
-description: ''
+title: さらに分析するためにマーケティング結果を Excel にエクスポートする
+description: Dynamics 365 Marketing でマーケティング データを Excel にエクスポートできるようになり、キャンペーンを分析するための選択肢が増えます。
 author: relnotes
 ms.reviewer: alfergus
-ms.date: 03/18/2020
+ms.date: 04/21/2020
 ms.assetid: 8be06a36-6b1c-ea11-a811-000d3a8f0752
 ms.topic: article
 ms.service: business-applications
-ms.author: agmiskow
+ms.author: yukom
 dynamics365pdf: true
-ms.openlocfilehash: a3c2f6c644e45ad68003f2d3b7741bad95387488
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 9e9ccf8ab87544c7e2565255d05dd54dad18fdd8
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232464"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3349822"
 ---
-# <a name="export-marketing-results-data-to-excel-for-further-analysis"></a>さらに分析するためにマーケティング結果を Exce にエクスポートする
-[!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
+# <a name="export-marketing-results-data-to-excel-for-further-analysis"></a>さらに分析するためにマーケティング結果を Excel にエクスポートする
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 2 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-Dynamics 365 Marketing は、取引先担当者がマーケティング活動にどのように反応したかを追跡し、詳細な分析を提供します。 取引先担当者の分析を使用して、マーケティング キャンペーンの影響を把握できます。 Marketing でマーケティング データを Excel にエクスポートできるようになり、キャンペーンに対する取引先担当者の反応を判断するための選択肢が増えます。
+Dynamics 365 Marketing は、マーケティング キャンペーンとのやり取りを追跡し、詳細な分析を提供します。 取引先担当者の分析を使用して、マーケティング キャンペーンの影響を把握できます。 Marketing アプリでもマーケティング データを Excel にエクスポートできるようになり、キャンペーンを分析するための選択肢が増えます。
 <!-- bv end -->
 
 
@@ -52,8 +52,6 @@ Dynamics 365 Marketing は、取引先担当者がマーケティング活動に
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [2020 年 2 月の更新プログラム](https://docs.microsoft.com/dynamics365/marketing/whats-new-marketing#february-2020-update) (ドキュメント)
 <!--docs end-->
-

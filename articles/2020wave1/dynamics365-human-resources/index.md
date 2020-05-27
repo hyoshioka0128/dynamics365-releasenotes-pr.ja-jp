@@ -3,18 +3,18 @@ title: Dynamics 365 Human Resources 2020 年リリース ウェーブ 1 の概�
 description: Dynamics 365 Human Resources 2020 年リリース ウェーブ 1 の概要
 author: brpotter
 ms.reviewer: anbichse
-ms.date: 03/12/2020
+ms.date: 05/02/2020
 ms.assetid: 5388a40d-9431-ea11-a810-000d3a8f0752
 ms.topic: overview
 ms.service: business-applications
 ms.author: brpotter
 dynamics365pdf: true
-ms.openlocfilehash: 6c642570acc4c4c0bc52da9a9f1b1eaa5afb7717
-ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
+ms.openlocfilehash: e3885fd11d46eeb28d3d9b745f8e419aecc7e3f4
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "3152381"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3350647"
 ---
 # <a name="overview-of-dynamics-365-human-resources-2020-release-wave-1"></a>Dynamics 365 Human Resources 2020 年リリース ウェーブ 1 の概要
 [!include[dynamics365-human-resources banner](../includes/dynamics365-human-resources.md)]
@@ -33,4 +33,6 @@ Dynamics 365 Human Resources は、企業が従業員に権限を与え、従業
 - **Common Data Service 経由のデータ アクセス**: データ統合、拡張性、およびレポートを改善するためのエンティティを追加します。
  
 次のセクションでは、これらの領域でリリースしている特定の機能の詳細について説明します。
+
+[リリースの概要のビデオをご覧ください](https://aka.ms/Overview/2020RW1/HR)
 <!--overview end-->

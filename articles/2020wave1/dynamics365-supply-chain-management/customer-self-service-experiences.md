@@ -1,22 +1,22 @@
 ---
-title: 顧客セルフサービス エクスペリエンス
+title: Dynamics 365 Supply Chain Management のカスタマー ポータル
 description: 基本的な管理機能と照会機能を提供するための顧客セルフサービスの機能強化。
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 03/17/2020
+ms.date: 05/05/2020
 ms.assetid: 19ca3ae8-64cb-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: damadipa
 dynamics365pdf: true
-ms.openlocfilehash: 39a879fd5a4bfc4c472cdb19a73f0e344fc01342
-ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
+ms.openlocfilehash: 98f3519e9a60c0675e546e5b320663da1a4b5104
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "3152304"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3349998"
 ---
-# <a name="customer-self-service-experiences"></a>顧客セルフサービス エクスペリエンス
+# <a name="customer-portal-for-dynamics-365-supply-chain-management"></a>Dynamics 365 Supply Chain Management のカスタマー ポータル
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 

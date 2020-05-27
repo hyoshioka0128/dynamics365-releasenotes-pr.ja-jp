@@ -3,18 +3,18 @@ title: 金融サービス向け 2020 年リリース ウェーブ 1 の概要
 description: 金融サービス向け 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: ''
-ms.date: 12/12/2019
+ms.date: 04/03/2020
 ms.assetid: d48f7de1-761c-ea11-a811-000d3a8f075c
 ms.topic: overview
 ms.service: business-applications
 ms.author: snagy
 dynamics365pdf: true
-ms.openlocfilehash: c80e960cc64930cca4f3538edeb8e8d5cf2b26e1
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: a31b64bb4084aff375f48aebead2737e8cd972c9
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2984456"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3293667"
 ---
 # <a name="overview-of-financial-services-2020-release-wave-1"></a>金融サービス向け 2020 年リリース ウェーブ 1 の概要
 [!include[industry-accelerators/financial-services banner](../includes/industry-accelerators/financial-services.md)]

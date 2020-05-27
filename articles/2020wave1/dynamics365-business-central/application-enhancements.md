@@ -3,18 +3,18 @@ title: アプリケーションの機能強化
 description: aka.ms/bcideas サイトは、アプリケーションを改善し続けるための情報ソースです。 このリリースでは、アイデア サイトのフィードバックに基づいてマイナーな機能を更新し、口座調整機能にさまざまな改善を加えました。
 author: relnotes
 ms.reviewer: edupont04
-ms.date: 03/12/2020
+ms.date: 04/29/2020
 ms.assetid: 44a3c5db-27cb-e911-a996-000d3a4f3343
 ms.topic: structure
 ms.service: business-applications
 ms.author: jannikb
 dynamics365pdf: true
-ms.openlocfilehash: df55d8ec9fb4a3e0a3a74a94de68616b6340c328
-ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
+ms.openlocfilehash: e2f35dfade18082f207b56aa83cd70b24516d035
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "3151743"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3350108"
 ---
 # <a name="application-enhancements"></a>アプリケーションの機能強化
 

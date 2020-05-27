@@ -3,18 +3,18 @@ title: '拡張されたローカライズ (イタリア): 税限度額'
 description: Dynamics 365 Finance が、以前はイタリアのパートナー Cluster Reply によって提供された、拡張されたローカライズ (イタリア) (EXIL) アドインでのみ利用可能であった、イタリア語固有の機能セットが利用できるように拡張されました。
 author: relnotes
 ms.reviewer: kfend
-ms.date: 03/04/2020
+ms.date: 04/09/2020
 ms.assetid: ecead343-f0db-e911-a812-000d3a4f1168
 ms.topic: article
 ms.service: business-applications
 ms.author: mrolecki
 dynamics365pdf: true
-ms.openlocfilehash: 8d96156389257c55d4aa9e9261a89bff32d14137
-ms.sourcegitcommit: 99f8fe366e70064e41204f9ee5c16fe397396d16
+ms.openlocfilehash: 1debd227e366a90f02141c623c5b7bbc2a507b76
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "3114943"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3273150"
 ---
 # <a name="extended-italian-localization-tax-plafond"></a>拡張されたローカライズ (イタリア): 税限度額
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]

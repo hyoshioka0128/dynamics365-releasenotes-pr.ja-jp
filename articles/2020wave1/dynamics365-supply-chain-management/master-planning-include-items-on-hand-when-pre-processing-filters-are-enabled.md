@@ -3,25 +3,25 @@ title: 前処理フィルターが有効になっている場合に、手持在�
 description: 前処理フィルターが有効になっている場合に、手持在庫のある品目がマスター プランに含まれる
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 03/17/2020
+ms.date: 04/14/2020
 ms.assetid: 39eb3f7d-9563-ea11-a811-000d3a579c35
 ms.topic: article
 ms.service: business-applications
 ms.author: crytt
 dynamics365pdf: true
-ms.openlocfilehash: eca9884731f357a3b0753f2f66d284c56b22fe92
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: a7d8e6bc38e6494a435f7cb8227001cc909383da
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232299"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3273887"
 ---
 # <a name="master-planning-includes-items-with-on-hand-inventory-when-pre-processing-filters-are-enabled"></a>前処理フィルターが有効になっている場合に、手持在庫のある品目がマスター プランに含まれる
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 3 日|
 
 
 
@@ -49,8 +49,6 @@ ms.locfileid: "3232299"
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [直納品目で自動的にフィルター処理する](https://docs.microsoft.com/dynamics365/supply-chain/master-planning/master-planning-performance#automatically-filter-by-items-with-direct-demand) (ドキュメント)
 <!--docs end-->
-

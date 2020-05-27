@@ -3,25 +3,25 @@ title: Connected Customer Service (IoT + Customer Service)
 description: Connected Customer Service (IoT + Customer Service)
 author: relnotes
 ms.reviewer: kabala
-ms.date: 02/25/2020
+ms.date: 04/06/2020
 ms.assetid: 97ad9a7a-19db-e911-a812-000d3a4f13c0
 ms.topic: article
 ms.service: business-applications
 ms.author: jessiewa
 dynamics365pdf: true
-ms.openlocfilehash: 6524ab5a4617943f3acfa2e29892e5d1ea8f35e4
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 69bf637a00822e5bbeb3e6e0e620125df92ffe00
+ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3233234"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "3255026"
 ---
 # <a name="connected-customer-service-iot--customer-service"></a>Connected Customer Service (IoT + Customer Service)
-[!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -53,8 +53,6 @@ Connected Customer Service は、IoT 診断、IoT デバイスの更新、およ
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [Connected Customer Service](https://docs.microsoft.com/dynamics365/customer-service/cs-iot-overview) (ドキュメント)
 <!--docs end-->
-

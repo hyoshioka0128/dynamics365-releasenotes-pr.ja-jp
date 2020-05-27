@@ -3,25 +3,25 @@ title: エージェント マクロの強化
 description: エージェント マクロの強化
 author: relnotes
 ms.reviewer: nenellim
-ms.date: 02/28/2020
+ms.date: 04/09/2020
 ms.assetid: cf8ed4f6-7c58-ea11-a811-000d3a579c35
 ms.topic: article
 ms.service: business-applications
-ms.author: rajeshna
+ms.author: srikot
 dynamics365pdf: true
-ms.openlocfilehash: 1a3df4eb01acd727c4eeb9e49d5bcaafc026ed10
-ms.sourcegitcommit: 2928661abcc468748ffc7c33516ebc8e3cd5d653
+ms.openlocfilehash: 7ffff1df766c1fd14c5633d490c2beca37b29c49
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "3099214"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3272600"
 ---
 # <a name="agent-macro-enhancements"></a>エージェント マクロの強化
-[!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,3 +47,9 @@ ms.locfileid: "3099214"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[マクロでタスクを自動化](https://docs.microsoft.com/dynamics365/omnichannel/administrator/macros) (ドキュメント)
+<!--docs end-->

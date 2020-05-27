@@ -3,25 +3,25 @@ title: 受信した会話のデスクトップ通知
 description: 受信した会話のデスクトップ通知
 author: relnotes
 ms.reviewer: nenellim
-ms.date: 02/28/2020
+ms.date: 04/09/2020
 ms.assetid: 7688658f-7c58-ea11-a811-000d3a579c35
 ms.topic: article
 ms.service: business-applications
-ms.author: rajeshna
+ms.author: srikot
 dynamics365pdf: true
-ms.openlocfilehash: 08d54f03abe777e5b6f0854fa4c13caebad6f56a
-ms.sourcegitcommit: 2928661abcc468748ffc7c33516ebc8e3cd5d653
+ms.openlocfilehash: 16879b260e445599bd8d7b59946e2417d8bdf786
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "3099202"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3272567"
 ---
 # <a name="desktop-notifications-for-incoming-conversations"></a>受信した会話のデスクトップ通知
-[!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -44,3 +44,9 @@ ms.locfileid: "3099202"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[アプリがバックグラウンドにあるときに通知を受け取る](https://docs.microsoft.com/dynamics365/omnichannel/agent/agent-oc/oc-notifications#receive-notification-when-the-app-is-in-the-background) (ドキュメント)
+<!--docs end-->

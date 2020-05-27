@@ -3,25 +3,25 @@ title: オムニチャネルのスーパーバイザー エクスペリエンス
 description: Customer Service 用オムニチャネルでのスーパーバイザー エクスペリエンスの機能強化。
 author: relnotes
 ms.reviewer: nenellim
-ms.date: 03/18/2020
+ms.date: 04/09/2020
 ms.assetid: d968b817-7d58-ea11-a811-000d3a579c35
 ms.topic: article
 ms.service: business-applications
-ms.author: rajeshna
+ms.author: srikot
 dynamics365pdf: true
-ms.openlocfilehash: 1048e13ba9ab15e9cdc8bbefda1c837986423c58
-ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
+ms.openlocfilehash: b0a8537ff9352b01a51e7b71d420669ee610f75b
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "3151809"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3273799"
 ---
 # <a name="omnichannel-supervisor-experience-enhancements"></a>オムニチャネルのスーパーバイザー エクスペリエンスの機能強化
-[!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -47,3 +47,9 @@ Customer Service 用オムニチャネルのスーパーバイザー エクス�
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[オムニチャネル イントラデイ インサイト ダッシュボード を表示して理解する](https://docs.microsoft.com/dynamics365/omnichannel/supervisor/intraday-insights-dashboard#agent-performance) (ドキュメント)
+<!--docs end-->

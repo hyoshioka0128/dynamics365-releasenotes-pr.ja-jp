@@ -3,18 +3,18 @@ title: Dynamics 365 Sales 2020 年リリース ウェーブ 1 の概要
 description: Dynamics 365 Sales 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 03/12/2020
+ms.date: 05/04/2020
 ms.assetid: e223ca73-9dca-e911-a96a-000d3a4f36ce
 ms.topic: overview
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: ec32d8ee8da74aecad0c68314e0c415ce1f237ad
-ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
+ms.openlocfilehash: d62fcf1b7542f4467690f89417cfe7da582e7fea
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "3152326"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3349734"
 ---
 # <a name="overview-of-dynamics-365-sales-2020-release-wave-1"></a>Dynamics 365 Sales 2020 年リリース ウェーブ 1 の概要
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -48,5 +48,7 @@ Dynamics 365 Sales は、変化する顧客と営業のニーズを満たすた�
   
 このセクションで説明する営業組織の課題は、企業調査、アナリストのレポート、顧客とのやりとりに基づいています。
 
-当社はいつでもお客様やパートナーのご意見を求めています。 Dynamics 365 Sales に関するアイデアやお考えを、https://aka.ms/SalesIdeas にぜひお寄せください。
+当社はいつでもお客様やパートナー様のご意見を求めています。 Dynamics 365 Sales に関するアイデアやご意見を、https://aka.ms/SalesIdeas にぜひお寄せください。
+
+[リリースの概要のビデオをご覧ください](https://aka.ms/Overview/2020RW1/Sales)
 <!--overview end-->

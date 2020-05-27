@@ -3,18 +3,18 @@ title: ブラウザーで利用可能なカメラ/位置 AL API
 description: ブラウザーで利用可能なカメラ/位置 AL API。
 author: mikebcMSFT
 ms.reviewer: solsen
-ms.date: 04/01/2020
+ms.date: 04/07/2020
 ms.assetid: 64e0ad63-3c36-ea11-a813-000d3a579c34
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: ddc2c04aaabef06eac83af4d51db461fae414e1c
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 66b0d79f3220a8241e4c0515b5307965854d7e70
+ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232959"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "3255147"
 ---
 # <a name="cameralocation-al-api-available-in-the-browser"></a>ブラウザーで利用可能なカメラ/位置 AL API
 
@@ -35,7 +35,7 @@ ms.locfileid: "3232959"
 <!--feature detail start -->
 開発者は、ブラウザーを介して Business Central にアクセスするときに、プログラムでカメラをアクティブにしたり、AL ベースの API を通じて現在位置の座標を取得したりできるようになりました。 ブラウザーとアプリの両方がサポートされるので、ユーザーのデバイスとブラウザーがこれらの機能をサポートしている限り、開発者はあらゆるフォーム ファクターでシナリオを確実に強化できます。
 
-![カメラはブラウザーで Business Central によってアクティブ化され、写真を撮る準備ができています。](media/camera-snaps-incoming-document.png "カメラはブラウザーで Business Central によってアクティブ化され、写真を撮る準備ができています。")
+![カメラはブラウザーで Business Central によってアクティブ化され、写真を撮る準備ができている](media/camera-snaps-incoming-document.png "カメラはブラウザーで Business Central によってアクティブ化され、写真を撮る準備ができている")
 
 ### <a name="additional-details"></a>追加情報
 - ユーザーはプライバシー設定を引き続き管理し、他の Web サイトと同様にカメラと位置情報へのアクセスを許可または拒否することができます。
@@ -44,7 +44,7 @@ ms.locfileid: "3232959"
 - 場所は経度と緯度の座標として返されます。
 
 ### <a name="try-it-now"></a>試してみましょう
-[https://businesscentral.dynamics-tie.com/?page=30](https://businesscentral.dynamics.com/?page=30&mode=edit) でオンライン環境にログインして、写真を撮影してアイテム カードを更新してください。 
+[https://businesscentral.dynamics-tie.com/?page=30](https://businesscentral.dynamics.com/?page=30&mode=edit) でオンライン環境にログインして、写真を撮影してアイテム カードを更新してください。
 <!--feature detail end -->
 
 
@@ -60,8 +60,6 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
-[着信ドキュメント](https://docs.microsoft.com/dynamics365/business-central/across-income-documents) (ドキュメント)
+[AL でのカメラの実装](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-implement-camera-al) (ドキュメント)
 <!--docs end-->
-

@@ -3,18 +3,18 @@ title: POS での顧客レコードの作成および編集機能の強化
 description: この機能により、販売時点管理 (POS) での顧客レコードの作成および編集機能が強化されます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 02/24/2020
+ms.date: 04/10/2020
 ms.assetid: 907f1f57-ac1b-ea11-a812-000d3a8f010c
 ms.topic: article
 ms.service: business-applications
 ms.author: shajain
 dynamics365pdf: true
-ms.openlocfilehash: ac89e05372331ca558ac02796e3b850deb09ec0b
-ms.sourcegitcommit: 2928661abcc468748ffc7c33516ebc8e3cd5d653
+ms.openlocfilehash: b3978bfd2240307ea4f9b74499199fef0da90f0d
+ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "3098222"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3273084"
 ---
 # <a name="enhanced-customer-record-creation-and-edit-capabilities-in-pos"></a>POS での顧客レコードの作成および編集機能の強化
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
@@ -33,7 +33,7 @@ ms.locfileid: "3098222"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-POS で追加の顧客情報を取得するためにさらに多くのフィールドを利用できるようになり、住所の編集が簡単になりました。 また、富裕層の顧客、高い利益率、ハイリスク ハイリターン、詐欺などの特定の基準に基づいて顧客にフラグを設定する機能が利用可能になりました。
+POS で追加の顧客情報を取得するためにさらに多くのフィールドを利用できるようになり、住所の編集が簡単になりました。 
 <!--feature detail end -->
 
 

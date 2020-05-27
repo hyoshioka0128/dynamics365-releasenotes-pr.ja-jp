@@ -3,25 +3,25 @@ title: Service Management で口座引落の回収を管理する
 description: Service Management で作成した請求書に対する口座引落回収機能を使用して、顧客未収金を回収します。
 author: relnotes
 ms.reviewer: sgroespe
-ms.date: 03/18/2020
+ms.date: 04/06/2020
 ms.assetid: 71a02882-4aca-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: c9ba679b86397b043b95afcfe6ed7707a7a130e4
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 762ed2f9b30bb30855895254d7fee9c793e74e25
+ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232827"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "3255543"
 ---
 # <a name="manage-direct-debit-collections-in-service-management"></a>Service Management で口座引落の回収を管理する
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| 2020 年 4 月|
+|エンド ユーザー、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -53,8 +53,6 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [SEPA 口座引落で支払を回収する](https://docs.microsoft.com/dynamics365/business-central/finance-collect-payments-with-sepa-direct-debit) (ドキュメント)
 <!--docs end-->
-

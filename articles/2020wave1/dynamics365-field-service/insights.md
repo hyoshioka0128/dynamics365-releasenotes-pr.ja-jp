@@ -3,18 +3,18 @@ title: 分析情報
 description: ''
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 09/12/2019
+ms.date: 04/29/2020
 ms.assetid: aa9d330a-afd5-e911-a96a-000d3a4f36ce
 ms.topic: structure
 ms.service: business-applications
 ms.author: kyley
 dynamics365pdf: true
-ms.openlocfilehash: 6d6cdaf813605937332d2f0255881c4490ffe361
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 990113bd981879c16fa08d524e58ac78f8c94d78
+ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079634"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "3350603"
 ---
 # <a name="insights"></a>分析情報
 

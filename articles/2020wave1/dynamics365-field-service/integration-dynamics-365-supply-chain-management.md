@@ -3,25 +3,25 @@ title: Dynamics 365 Supply Chain Management の統合
 description: この機能セットでは、Supply Chain Management の機能によって Field Service が強化されます。
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 02/25/2020
+ms.date: 04/20/2020
 ms.assetid: 3d950437-b7ca-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: jacoh
 dynamics365pdf: true
-ms.openlocfilehash: 00c035a0ff9fb0bffedfa614907c0c39eba05962
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: e42b9c91b50752b34b035d2148c4a041fdb3b107
+ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232090"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "3294041"
 ---
 # <a name="integration-with-dynamics-365-supply-chain-management"></a>Dynamics 365 Supply Chain Management の統合
-[!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|-| 2020 年 4 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -48,8 +48,6 @@ ms.locfileid: "3232090"
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
-[Dynamics 365 Field Service と Supply Chain Management を統合する](https://docs.microsoft.com/dynamics365/field-service/supply-chain-field-service-integration) (ドキュメント)
+[Dynamics 365 Field Service および Supply Chain Management を統合する](https://docs.microsoft.com/dynamics365/field-service/supply-chain-field-service-integration) (ドキュメント)
 <!--docs end-->
-
