@@ -1,6 +1,11 @@
 {
   "redirections": [
     {
+      "source_path": "articles/2020wave1/microsoft-forms-pro/index.md",
+      "redirect_url": "../dynamics365-customer-voice/index",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "articles/2020wave1/artificial-intelligence/dynamics365-connected-store/checkout-queue-management.md",
       "redirect_url": "index",
       "redirect_document_id": "false"
