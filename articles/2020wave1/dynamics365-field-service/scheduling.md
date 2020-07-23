@@ -3,20 +3,20 @@ title: スケジューリング
 description: ''
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 04/29/2020
+ms.date: 05/16/2020
 ms.assetid: 13030a33-abd5-e911-a96a-000d3a4f36ce
 ms.topic: structure
 ms.service: business-applications
 ms.author: kyley
 dynamics365pdf: true
-ms.openlocfilehash: 8ffa21c756ed06869698be2136c0a2d02f394bef
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: ed982c28f4d97710ab046c91954d7885885c5728
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350416"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3415295"
 ---
-# <a name="scheduling"></a><span data-ttu-id="77473-102">スケジューリング</span><span class="sxs-lookup"><span data-stu-id="77473-102">Scheduling</span></span>
+# <a name="scheduling"></a><span data-ttu-id="bd3d2-102">スケジューリング</span><span class="sxs-lookup"><span data-stu-id="bd3d2-102">Scheduling</span></span>
 
 [!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
 

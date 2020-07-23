@@ -3,31 +3,31 @@ title: グローバリゼーション
 description: このリリースでは、イタリアのアドイン EXIL のコア ローカライズへの統合、フランスの国際支払い用の ISO 20022 形式の出荷 (Idea Portal で強く要望)、PDF 変換とダイレクト印刷機能を備えた構成可能なビジネス ドキュメントの拡張 (パブリック プレビューで) が行われます。
 author: relnotes
 ms.reviewer: ''
-ms.date: 04/29/2020
+ms.date: 06/19/2020
 ms.assetid: 039708de-42c8-e911-a968-000d3a4f3883
 ms.topic: structure
 ms.service: business-applications
 ms.author: sshvedov
 dynamics365pdf: true
-ms.openlocfilehash: 9cccc2ddf02b1d4f17853c45b49650fa77cbb43a
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 6412b76efb9e9eff6a29c62ca81a56baa8482191
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350064"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3522295"
 ---
-# <a name="globalization"></a><span data-ttu-id="34516-103">グローバリゼーション</span><span class="sxs-lookup"><span data-stu-id="34516-103">Globalization</span></span>
+# <a name="globalization"></a><span data-ttu-id="e167c-103">グローバリゼーション</span><span class="sxs-lookup"><span data-stu-id="e167c-103">Globalization</span></span>
 
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
 
 <!--structure start-->
-<span data-ttu-id="34516-104">事業をグローバルに運営するには、税、電子請求、支払形式、規制に関する報告、監査、ビジネス ドキュメントのレイアウトの領域で、複数の国の規制やその他の現地の要件を満たす必要があります。</span><span class="sxs-lookup"><span data-stu-id="34516-104">To run their operations globally, businesses need to meet regulatory and other local requirements in multiple countries in the areas of tax, e-invoicing, payment formats, regulatory reporting, audit, and business document layouts.</span></span> <span data-ttu-id="34516-105">これらの要件は国によって異なり、税務当局によって頻繁に変更されます。多くの場合、法律には非常に厳しい施行期日があります。</span><span class="sxs-lookup"><span data-stu-id="34516-105">These requirements are different for different countries and are frequently changed by tax authorities, often with very tight law enforcement dates.</span></span> 
+<span data-ttu-id="e167c-104">事業をグローバルに運営するには、税、電子請求、支払形式、規制に関する報告、監査、ビジネス ドキュメントのレイアウトの領域で、複数の国の規制やその他の現地の要件を満たす必要があります。</span><span class="sxs-lookup"><span data-stu-id="e167c-104">To run their operations globally, businesses need to meet regulatory and other local requirements in multiple countries in the areas of tax, e-invoicing, payment formats, regulatory reporting, audit, and business document layouts.</span></span> <span data-ttu-id="e167c-105">これらの要件は国によって異なり、税務当局によって頻繁に変更されます。多くの場合、法律には非常に厳しい施行期日があります。</span><span class="sxs-lookup"><span data-stu-id="e167c-105">These requirements are different for different countries and are frequently changed by tax authorities, often with very tight law enforcement dates.</span></span> 
 
-<span data-ttu-id="34516-106">複数の国において絶えず変化する規制やその他の現地の要件を満たす複雑さを軽減し、グローバルな規制動向に効率的に対処するために、Dynamics 365 Finance の主要なグローバリゼーション領域をパワー ユーザーが、またはビジネス ユーザー (ビジネス ドキュメントの場合) でも構成できるようにしました。</span><span class="sxs-lookup"><span data-stu-id="34516-106">To reduce the complexity of meeting the constantly changing regulatory and other local requirements in multiple countries and efficiently address global regulatory trends, we made key globalization areas of Dynamics 365 Finance configurable by power users and even business users (for business documents).</span></span> 
+<span data-ttu-id="e167c-106">複数の国において絶えず変化する規制やその他の現地の要件を満たす複雑さを軽減し、グローバルな規制動向に効率的に対処するために、Dynamics 365 Finance の主要なグローバリゼーション領域をパワー ユーザーが、またはビジネス ユーザー (ビジネス ドキュメントの場合) でも構成できるようにしました。</span><span class="sxs-lookup"><span data-stu-id="e167c-106">To reduce the complexity of meeting the constantly changing regulatory and other local requirements in multiple countries and efficiently address global regulatory trends, we made key globalization areas of Dynamics 365 Finance configurable by power users and even business users (for business documents).</span></span> 
 
-<span data-ttu-id="34516-107">パートナー社とお客様は、当社の構成ツールを使用して、すぐに使用できる 37 か国向けのローカライズを拡張するだけでなく、その他の 60 以上の国を対象にした機能を作成して 7,000 以上の新しい機能を実現しました。</span><span class="sxs-lookup"><span data-stu-id="34516-107">Partners and customers used our configuration tools to extend 37 out-of-the-box country localizations as well as to create features for more than 60 additional countries, resulting in more than 7,000 new features.</span></span> 
+<span data-ttu-id="e167c-107">パートナー社とお客様は、当社の構成ツールを使用して、すぐに使用できる 37 か国向けのローカライズを拡張するだけでなく、その他の 60 以上の国を対象にした機能を作成して 7,000 以上の新しい機能を実現しました。</span><span class="sxs-lookup"><span data-stu-id="e167c-107">Partners and customers used our configuration tools to extend 37 out-of-the-box country localizations as well as to create features for more than 60 additional countries, resulting in more than 7,000 new features.</span></span> 
 
-<span data-ttu-id="34516-108">2020 年リリース ウェーブ 1 でのグローバリゼーションへの投資の対象は、37 の国と地域で規制順守の維持と、パートナーのイタリア アドイン EXIL のコア イタリア ローカリゼーションへの統合によるすぐに使用できるローカライズの拡張でした。</span><span class="sxs-lookup"><span data-stu-id="34516-108">In 2020 release wave 1, we focused globalization investments on maintaining regulatory compliance in 37 countries and regions and extending out-of-the-box localization by integrating a partner’s Italian add-in EXIL into the core Italian localization.</span></span> <span data-ttu-id="34516-109">また、Idea Portal で強く要望された、フランス向けの国際決済および財務振替のための ISO 20022 形式も提供されています。</span><span class="sxs-lookup"><span data-stu-id="34516-109">We also are delivering ISO 20022 format for international payment and treasury transfer for France, which was highly requested on the Idea Portal.</span></span> <span data-ttu-id="34516-110">さらに、PDF 変換とダイレクト印刷機能で構成可能なビジネス ドキュメントを拡張しました (パブリック プレビュー)。</span><span class="sxs-lookup"><span data-stu-id="34516-110">In addition, we extended configurable business documents with PDF conversion and direct printing features (in Public Preview).</span></span>
+<span data-ttu-id="e167c-108">2020 年リリース ウェーブ 1 でのグローバリゼーションへの投資の対象は、37 の国と地域で規制順守の維持と、パートナーのイタリア アドイン EXIL のコア イタリア ローカリゼーションへの統合によるすぐに使用できるローカライズの拡張でした。</span><span class="sxs-lookup"><span data-stu-id="e167c-108">In 2020 release wave 1, we focused globalization investments on maintaining regulatory compliance in 37 countries and regions and extending out-of-the-box localization by integrating a partner’s Italian add-in EXIL into the core Italian localization.</span></span> <span data-ttu-id="e167c-109">また、Idea Portal で強く要望された、フランス向けの国際決済および財務振替のための ISO 20022 形式も提供されています。</span><span class="sxs-lookup"><span data-stu-id="e167c-109">We also are delivering ISO 20022 format for international payment and treasury transfer for France, which was highly requested on the Idea Portal.</span></span> <span data-ttu-id="e167c-110">さらに、PDF 変換とダイレクト印刷機能で構成可能なビジネス ドキュメントを拡張しました (パブリック プレビュー)。</span><span class="sxs-lookup"><span data-stu-id="e167c-110">In addition, we extended configurable business documents with PDF conversion and direct printing features (in Public Preview).</span></span>
 <!--structure end-->
 
 

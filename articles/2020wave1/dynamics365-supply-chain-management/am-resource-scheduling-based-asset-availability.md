@@ -1,46 +1,10 @@
 ---
-title: 資産の利用可能性に基づいた製造リソース スケジュール
-description: この機能は、製造リソースの統合能力計画を提供します。
-author: relnotes
-ms.reviewer: kamaybac
-ms.date: 04/10/2020
-ms.assetid: 6412678c-89cb-e911-a96f-000d3a4f33c1
-ms.topic: article
-ms.service: business-applications
-ms.author: dabourq
-dynamics365pdf: true
-ms.openlocfilehash: 106b3bb8cdfc9bac7209c9f83eda6b0cf94c7a2f
-ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
+redirect_url: planned-features
+ms.openlocfilehash: 9a71b62b57235c15ca6008740d4578bdcde84a6d
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "3272545"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3415569"
 ---
-# <a name="manufacturing-resource-scheduling-based-on-asset-availability"></a><span data-ttu-id="3e553-103">資産の利用可能性に基づいた製造リソース スケジュール</span><span class="sxs-lookup"><span data-stu-id="3e553-103">Manufacturing resource scheduling based on asset availability</span></span>
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
-
-| <span data-ttu-id="3e553-104">有効対象</span><span class="sxs-lookup"><span data-stu-id="3e553-104">Enabled for</span></span>    |  <span data-ttu-id="3e553-105">パブリック プレビュー</span><span class="sxs-lookup"><span data-stu-id="3e553-105">Public preview</span></span> | <span data-ttu-id="3e553-106">一般提供</span><span class="sxs-lookup"><span data-stu-id="3e553-106">General availability</span></span> | 
-| ---------- | :----------: |:----------: |
-|<span data-ttu-id="3e553-107">エンド ユーザー、管理者/作成者/アナリストによる有効化</span><span class="sxs-lookup"><span data-stu-id="3e553-107">End users by admins, makers, or analysts</span></span>|<span data-ttu-id="3e553-108">2020 年 8 月</span><span class="sxs-lookup"><span data-stu-id="3e553-108">Aug 2020</span></span>| -|
-
-
-## <a name="business-value"></a><span data-ttu-id="3e553-109">ビジネス バリュー</span><span class="sxs-lookup"><span data-stu-id="3e553-109">Business value</span></span>
-<!-- bv start -->
-<span data-ttu-id="3e553-110">生産計画担当者は、メンテナンスのために計画されたダウンタイムを考慮しながら、製造オーダーをスケジュールできます。</span><span class="sxs-lookup"><span data-stu-id="3e553-110">Production planners will be able to schedule production orders while taking into account planned downtime for maintenance.</span></span>
-<!-- bv end -->
-
-
-
-## <a name="feature-details"></a><span data-ttu-id="3e553-111">機能の詳細</span><span class="sxs-lookup"><span data-stu-id="3e553-111">Feature details</span></span>
-<!--feature detail start -->
-<span data-ttu-id="3e553-112">この機能は、資材所要量計画エンジンおよび計画サービスとの整合性を提供し、製造リソースと生産能力の単一ビューを有効にします。</span><span class="sxs-lookup"><span data-stu-id="3e553-112">This functionality provides alignment with the materials requirements planning engine and planning service, enabling a single view of manufacturing resources and capacity.</span></span>
-<!--feature detail end -->
-
-
-
-
-
-
-
-
-
+<span data-ttu-id="98846-101">リダイレクト ファイルのみ - コンテンツは含まれていません</span><span class="sxs-lookup"><span data-stu-id="98846-101">Redirect file only - no content included</span></span>
