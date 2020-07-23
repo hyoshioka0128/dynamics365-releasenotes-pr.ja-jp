@@ -3,25 +3,25 @@ title: ジョブ カード デバイスからのバッチ番号での完了レ�
 description: この機能を使用すると、ジョブ カード デバイスでバッチ管理製品のレポートを実行できます。
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 04/17/2020
+ms.date: 06/02/2020
 ms.assetid: 468e6e1a-d174-ea11-a811-000d3a579c39
 ms.topic: article
 ms.service: business-applications
 ms.author: johanho
 dynamics365pdf: true
-ms.openlocfilehash: 9c7c604ec450381f843f47a6aa0f2c5754c27092
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: f87fd2d09b9f692b9553dbf6f5c1c43f7a89be35
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3293133"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3440822"
 ---
 # <a name="report-as-finished-on-batch-numbers-from-the-job-card-device"></a>ジョブ カード デバイスからのバッチ番号での完了レポート
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 16 日| 2020 年 5 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 16 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 26 日|
 
 
 
@@ -48,3 +48,9 @@ ms.locfileid: "3293133"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[ジョブ カード デバイスから完了として報告する](https://docs.microsoft.com/dynamics365/supply-chain/production-control/report-finished-job-device) (ドキュメント)
+<!--docs end-->

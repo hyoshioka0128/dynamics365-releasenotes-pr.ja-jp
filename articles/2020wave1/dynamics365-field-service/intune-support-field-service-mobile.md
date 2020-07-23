@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: jobaker
 dynamics365pdf: true
-ms.openlocfilehash: 3e4db01eb6b046de3d176ad5d218aa5a07e0cead
-ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
+ms.openlocfilehash: 6d3b77bfea93906d1f185d83d2e7b86f0239616e
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "3256500"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3547706"
 ---
 # <a name="intune-support-for-field-service-mobile"></a>Field Service Mobile に対する Intune のサポート
 

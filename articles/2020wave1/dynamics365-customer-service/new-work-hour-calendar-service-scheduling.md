@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: eichimur
 dynamics365pdf: true
-ms.openlocfilehash: ad9eb47771d9264391ba63788f97dc6e602b044b
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 41dd929a92ed31bfca5b7f6bf7c0a948b69fd99d
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3349393"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3547826"
 ---
 # <a name="new-work-hour-calendar-in-service-scheduling"></a>サービス スケジュール設定の新しい作業時間カレンダー
 

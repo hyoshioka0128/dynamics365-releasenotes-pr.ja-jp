@@ -3,18 +3,18 @@ title: '拡張されたローカライズ (イタリア): 銀行や送金タイ�
 description: Dynamics 365 Finance が、以前はイタリアのパートナー Cluster Reply によって提供された、拡張されたローカライズ (イタリア) (EXIL) アドインでのみ利用可能であった、イタリア語固有の機能セットが利用できるように拡張されました。
 author: relnotes
 ms.reviewer: kfend
-ms.date: 05/05/2020
+ms.date: 06/11/2020
 ms.assetid: 4e761e5a-f1db-e911-a812-000d3a4f1168
 ms.topic: article
 ms.service: business-applications
 ms.author: mrolecki
 dynamics365pdf: true
-ms.openlocfilehash: 28d561dbe7c95707b0d2ce1b9c5ae99da8512c0e
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 25d9177b278aca27c1e61045dbf0f2f01478a3ef
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3349338"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3488061"
 ---
 # <a name="extended-italian-localization-configurable-posting-profiles-for-banks-and-remittance-types"></a>拡張されたローカライズ (イタリア): 銀行や送金タイプ別に構成可能な転記プロファイル
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
@@ -46,3 +46,9 @@ ms.locfileid: "3349338"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[銀行と送金タイプのコンフィギュレーション可能な転記プロファイル](https://docs.microsoft.com/dynamics365/finance/localizations/emea-ita-exil-bank-remittance) (ドキュメント)
+<!--docs end-->

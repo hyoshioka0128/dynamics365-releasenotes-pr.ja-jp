@@ -3,25 +3,25 @@ title: DMF エンティティのサポート
 description: Data Management Framework エンティティを福利厚生管理に使用できるようになります。 エンティティにより、セットアップと登録のシナリオが有効になります。
 author: relnotes
 ms.reviewer: anbichse
-ms.date: 05/04/2020
+ms.date: 06/23/2020
 ms.assetid: c18e4975-8989-ea11-a812-000d3a4e3654
 ms.topic: article
 ms.service: business-applications
 ms.author: shielas
 dynamics365pdf: true
-ms.openlocfilehash: 24cd52082e7e98bf7a8a81dfc0d349f8db651e00
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 03333d4208488a6a7a1e4907c8b76001712d0f5d
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350929"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3522727"
 ---
 # <a name="dmf-entity-support"></a>DMF エンティティのサポート
-[!include[dynamics365-human-resources banner](../includes/dynamics365-human-resources.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|-| 2020 年 7 月|
+|管理者、作成者、またはアナリスト、自動的|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 6 月 1 日|
 
 
 

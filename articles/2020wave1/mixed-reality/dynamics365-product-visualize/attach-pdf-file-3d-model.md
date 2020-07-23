@@ -3,25 +3,25 @@ title: 3D モデルに PDF ファイルを添付する
 description: 3D モデルに PDF ファイルを添付する
 author: relnotes
 ms.reviewer: shjais
-ms.date: 04/13/2020
+ms.date: 06/16/2020
 ms.assetid: 2079bc8b-8918-ea11-a811-000d3a8f0f1e
 ms.topic: article
 ms.service: business-applications
-ms.author: michtan
+ms.author: mamithan
 dynamics365pdf: true
-ms.openlocfilehash: b1e87e9bd94ba108edb779de2c18f8e98b55b2b3
-ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
+ms.openlocfilehash: 4c17952c907224a287f1e788a555235586f98884
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "3273271"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3488325"
 ---
 # <a name="attach-a-pdf-file-to-a-3d-model"></a>3D モデルに PDF ファイルを添付する
 [!include[mixed-reality/dynamics365-product-visualize banner](../includes/mixed-reality/dynamics365-product-visualize.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|2020 年 6 月| 近日発表|
+|エンド ユーザー、自動的|2020 年 8 月| 近日発表|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

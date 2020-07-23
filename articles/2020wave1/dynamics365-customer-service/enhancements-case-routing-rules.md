@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: eichimur
 dynamics365pdf: true
-ms.openlocfilehash: ee46ab5c78f611145216aa5a9b311956a88ff845
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: b273e1c2af2444bfd8af4ef87fb7977cc51c0cce
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350526"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3547862"
 ---
 # <a name="unified-interface-enablement-of-case-routing-rules"></a>サポート案件ルーティング規則の統一インターフェイスの有効化
 

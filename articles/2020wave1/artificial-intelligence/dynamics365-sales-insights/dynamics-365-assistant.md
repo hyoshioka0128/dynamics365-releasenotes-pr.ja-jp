@@ -3,18 +3,18 @@ title: Dynamics 365 アシスタント
 description: ''
 author: relnotes
 ms.reviewer: shubhadaj
-ms.date: 04/28/2020
+ms.date: 06/19/2020
 ms.assetid: d04b25da-e8c9-e911-a96a-000d3a4f36ce
 ms.topic: structure
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: f5931d59f86343024f17e718a7927e640c6bbe9f
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 5e7c86099bcf5175d32e4a5843e43f10459d5f79
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3349756"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3522739"
 ---
 # <a name="dynamics-365-assistant"></a>Dynamics 365 アシスタント
 

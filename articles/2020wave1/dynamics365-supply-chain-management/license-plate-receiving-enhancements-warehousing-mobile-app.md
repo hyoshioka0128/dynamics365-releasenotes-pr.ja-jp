@@ -3,25 +3,25 @@ title: 倉庫アプリでのライセンス プレート受取の機能強化
 description: 倉庫アプリでのライセンス プレート受取プロセスを強化します。
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 04/17/2020
+ms.date: 06/02/2020
 ms.assetid: 7b4688a3-8272-ea11-a811-000d3a579c38
 ms.topic: article
 ms.service: business-applications
 ms.author: perlynne
 dynamics365pdf: true
-ms.openlocfilehash: 6482b83f8e78d235cada708e77dda474b6d43ad1
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 1d6e154b9b30a7ddd571d84f00eae49683f25228
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3349327"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3441658"
 ---
 # <a name="license-plate-receiving-enhancements-for-the-warehousing-app"></a>倉庫アプリでのライセンス プレート受取の機能強化
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 17 日| 2020 年 5 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 17 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 26 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

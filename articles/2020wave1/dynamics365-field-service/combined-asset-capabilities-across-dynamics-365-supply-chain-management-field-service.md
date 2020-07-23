@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: jacoh
 dynamics365pdf: true
-ms.openlocfilehash: bcd7f513c474d5e1b369b6be4dbc2f38c7784198
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 6b733a7750f808bfe3161086f5b042224788eac3
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3294107"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3547910"
 ---
 # <a name="combined-asset-capabilities-across-dynamics-365-supply-chain-management-and-field-service"></a>Dynamics 365 Supply Chain Management と Field Service 全体にわたる資産機能の統合
 

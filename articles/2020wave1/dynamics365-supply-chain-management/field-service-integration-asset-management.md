@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: dabourq
 dynamics365pdf: true
-ms.openlocfilehash: f13ac37f5d5ebdea5f0152c8dc5a2aaeb2d1060f
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 2895708841bcd1ccec2c0e5ea7f393d6c2043c56
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3294946"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548366"
 ---
 # <a name="field-service-integration-with-asset-management"></a>Field Service と資産管理の統合
 
@@ -30,7 +30,7 @@ ms.locfileid: "3294946"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-この機能では、Dynamics 365 Field Service と Dynamics 365 Supply Chain Management の間の資産メンテナンス ライフサイクル プロセス フローを有効にします。 Common Data Service (CDS) を使用します。 組織は、資産管理と Dynamics 365 Field Service の機能を組み合わせて利用し、内部と外部両方の資産を管理できます。
+この機能では、Dynamics 365 Field Service と Dynamics 365 Supply Chain Management の間の資産メンテナンス ライフサイクル プロセス フローを有効にします。 Common Data Service が使用されます。 組織は、資産管理と Dynamics 365 Field Service の機能を組み合わせて利用し、内部と外部両方の資産を管理できます。
 <!--feature detail end -->
 
 

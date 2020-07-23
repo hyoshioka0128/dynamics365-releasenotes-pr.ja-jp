@@ -3,18 +3,18 @@ title: Dynamics 365 Business Central 2020 年リリース ウェーブ 1 の概�
 description: Dynamics 365 Business Central 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: edupont
-ms.date: 05/04/2020
+ms.date: 06/19/2020
 ms.assetid: 27840536-ec41-ea11-a812-000d3a563be2
 ms.topic: overview
 ms.service: business-applications
 ms.author: mikeeh
 dynamics365pdf: true
-ms.openlocfilehash: 751526e157cd2da416e3b8e4ecda12d4aa64cc90
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: b88dd26cb32de3bafcdc150418917c7f6e058997
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3349910"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3522775"
 ---
 # <a name="overview-of-dynamics-365-business-central-2020-release-wave-1"></a>Dynamics 365 Business Central 2020 年リリース ウェーブ 1 の概要
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -36,5 +36,5 @@ Dynamics 365 Business Central では、中小企業の組織向けに設計お�
 
 また、これらの機能強化は、Dynamics GP、Dynamics NAV、Dynamics SL のお客様が移行できるようにすること、Business Central Online に垂直ソリューションを提供しているパートナーを活性化すること、Dynamics 365 の新規お客様の拡大をさらに加速することにより、お客様のさらなる導入を促進するように設計されています。
 
-[リリースの概要のビデオをご覧ください](https://aka.ms/Overview/2020RW1/BusinessCentral)
+[リリースの概要のビデオをご覧ください。](https://aka.ms/Overview/2020RW1/BusinessCentral)
 <!--overview end-->

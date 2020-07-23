@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: naitikds
 dynamics365pdf: true
-ms.openlocfilehash: 89f3dfc2f3eb267b1058aa04ec513c7d6321210f
-ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
+ms.openlocfilehash: bf6e9db822e81c3942e979dda3d4dfe4628038f4
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "3254831"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548354"
 ---
 # <a name="sales-team-member-app-module"></a>営業チーム メンバー アプリ モジュール
 

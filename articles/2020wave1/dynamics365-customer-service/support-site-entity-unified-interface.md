@@ -9,14 +9,14 @@ ms.topic: article
 ms.service: business-applications
 ms.author: jessiewa
 dynamics365pdf: true
-ms.openlocfilehash: 4212507dfa2f910adb360d465636eba02b61b264
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 2a0e81fe08d2e396b447608a4ba1bc63dae292f4
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3293513"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3547802"
 ---
-# <a name="support-for-site-entity-in-the-unified-interface"></a>統一インターフェイスでのサイト エンティティのサポート
+# <a name="support-for-site-entity-in-unified-interface"></a>統一インターフェイスでのサイト エンティティのサポート
 
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 

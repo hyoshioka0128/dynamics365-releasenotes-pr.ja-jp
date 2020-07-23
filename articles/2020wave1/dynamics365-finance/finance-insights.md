@@ -3,18 +3,18 @@ title: Finance Insights
 description: Finance Insights の形式で提供される AI を活用した機能。
 author: relnotes
 ms.reviewer: ''
-ms.date: 04/28/2020
+ms.date: 06/19/2020
 ms.assetid: cad7d1ea-7447-ea11-a812-000d3a579c34
 ms.topic: structure
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: b16ec7bfac199a0cb600c7f4324b8a3f8ac9ae63
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 38a686e5d56d08562ab05ac797ea3f1268626a00
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350075"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3523051"
 ---
 # <a name="finance-insights"></a>Finance Insights
 

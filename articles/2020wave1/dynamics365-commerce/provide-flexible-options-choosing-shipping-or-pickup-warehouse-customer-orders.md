@@ -3,25 +3,25 @@ title: 顧客の注文に対して出荷/集荷元倉庫を選択するための
 description: この機能により、DOM ルールに対して出荷倉庫を選択するオプションが管理者に提供されます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 04/30/2020
+ms.date: 06/08/2020
 ms.assetid: b5b8b554-948a-ea11-a812-000d3a563be2
 ms.topic: article
 ms.service: business-applications
 ms.author: rapraj
 dynamics365pdf: true
-ms.openlocfilehash: b605c21f337df03a0d2352419d6a859e4b675588
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: b9a7c8ef52262f1ce0428c866c898d9489310da9
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350920"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3488133"
 ---
 # <a name="provide-flexible-options-for-choosing-shipping-or-pickup-warehouse-for-customer-orders"></a>顧客の注文に対して出荷/集荷元倉庫を選択するための柔軟なオプションを提供する
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 5 月| 2020 年 7 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 25 日| 2020 年 7 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

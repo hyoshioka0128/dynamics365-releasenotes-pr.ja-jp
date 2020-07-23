@@ -3,18 +3,18 @@ title: Common Data Service のデータ - フェーズ 1 と 2
 description: Common Data Service のデータ - フェーズ 1 と 2
 author: RamaKrishnamoorthy
 ms.reviewer: rhaertle
-ms.date: 04/01/2020
+ms.date: 06/15/2020
 ms.assetid: 5838d44d-8d1b-ea11-a812-000d3a8f010c
 ms.topic: article
 ms.service: business-applications
 ms.author: ramasri
 dynamics365pdf: true
-ms.openlocfilehash: 88b558589dae39d149a3a56f72aba9451aa8c5de
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: f46f5b5d2dc0b6e5c3b8a8e080c53d5a9fc73a71
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3231881"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548342"
 ---
 # <a name="data-in-common-data-service--phase-1--2"></a>Common Data Service のデータ - フェーズ 1 と 2
 
@@ -32,7 +32,7 @@ ms.locfileid: "3231881"
 <!--feature detail start -->
 Finance and Operations アプリのデータを Common Data Service で取得し、最新の状態に保ちます。 
 
-Finance and Operations アプリと Dynamics 365 のモデル駆動型アプリの間で収束する概念を調和させることで、二重書き込みフレームワークをシームレスなエクスペリエンスにしています。 これにより、企業はアプリの境界を超えて、ニア リアルタイムのデータを同期的に、双方向で交換できるようになるため、統合されたエクスペリエンスがユーザーに提供されます。 
+Finance and Operations アプリと Dynamics 365 の Customer Engagement アプリの間で収束する概念を調和させることで、二重書き込みフレームワークをシームレスなエクスペリエンスにしています。 これにより、企業はアプリの境界を超えて、凖リアルタイムのデータを同期的に、双方向で交換できるようになるため、統合されたエクスペリエンスがユーザーに提供されます。 
 
 すべてのビジネスが固有のものであることがわかっているので、二重書き込みフレームワークを拡張可能にしました。 これには、カスタム エンティティの有効化に加え、Common Data Service と最重要ビジネス データ用の関連ツールをフルに使用するための既存のエンティティへの拡張が含まれます。
 
@@ -109,7 +109,20 @@ Finance and Operations アプリと Dynamics 365 のモデル駆動型アプリ�
 
 [フェーズ 1](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/finance-operations-crossapp-capabilities/data-common-data-service-phase-1) のプレビュー時には、マスター データと参照データのシナリオに関する一連の機能が引き続き提供されます。**フェーズ 2** の機能では、価格設定、見積、注文、請求書、資産など、エンドツーエンドのシナリオがサポートされる予定です。 これらのシナリオは、ユーザーとパートナーによってさらに充実させることができます。 これらの領域に対するエンティティの対応範囲は、プレビュー時に発表されます。 
 
-フェーズ 2 の機能は、1 月から 2 月にかけてのプレビューを予定しています。
+2020 年 3 月 27 日に出荷されたフェーズ 1 とフェーズ 2 の両方。 
+
+次の増分機能とバグ修正は、2020 年 6 月 8 日にリリースされます。
+
+* Customer Engagement アプリのフォームで手持在庫と納期回答可能在庫の日付を検索する機能。
+* Customer Engagement アプリのフォームへの会社名の自動入力。
+* 会社のコンテキストベースのデータ フィルタリング。
+* Finance and Operations アプリで見積明細行と受注明細行の単位変換が行われる場合、Customer Engagement アプリでは単位変換が尊重され、見積明細と受注明細での単位と価格にそれぞれ変更が反映されます。
+* ユーザーが Finance and Operations アプリで既存の見積もりまたは注文の通貨を変更しようとすると、変更は制限され、変更が失敗します。
+* B2B および B2C のお客様向けの取引先企業および取引先担当者フォームの同等の属性。
+* Customer Engagement アプリの見積もりまたは注文に対して作成または更新アクションがある場合、Finance and Operations アプリでアドレスは複製されません。
+* B2B および B2C のお客様向けの取引先企業および取引先担当者フォームの消費税グループのサポート。
+* Customer Engagement アプリの "クイック作成: 取引先担当者" フォームから販売可能な取引先担当者の作成を許可します。
+* B2C 顧客の見積もりと注文の作成を有効にします。
 <!--feature detail end -->
 
 
@@ -123,8 +136,6 @@ Finance and Operations アプリと Dynamics 365 のモデル駆動型アプリ�
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [二重書き込みのホームページ](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/dual-write-home-page) (ドキュメント)
 <!--docs end-->
-

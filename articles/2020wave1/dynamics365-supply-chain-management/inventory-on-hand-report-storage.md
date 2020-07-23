@@ -3,25 +3,25 @@ title: 手持在庫レポート ストレージ
 description: Dynamics 365 Supply Chain Management で直接探索したり、エクスポートして外部アプリケーションで使用したりできる手持在庫レポートを生成します。
 author: RichardLuan
 ms.reviewer: kamaybac
-ms.date: 04/16/2020
+ms.date: 06/02/2020
 ms.assetid: 2a3532b4-5c73-ea11-a811-000d3a579c39
 ms.topic: article
 ms.service: business-applications
 ms.author: riluan
 dynamics365pdf: true
-ms.openlocfilehash: 5558b1f2acfd130c6b0ac96ba6ab3978286f34bc
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: cbca6abae5afc05ec810ffac65c797f0949be331
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3294811"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3441713"
 ---
 # <a name="inventory-on-hand-report-storage"></a>手持在庫レポート ストレージ
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 16 日| 2020 年 5 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 16 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 26 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

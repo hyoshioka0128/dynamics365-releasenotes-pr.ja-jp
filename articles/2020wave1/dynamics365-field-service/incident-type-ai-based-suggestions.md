@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: jacoh
 dynamics365pdf: true
-ms.openlocfilehash: dc988ac78d2083c2032fcd2d2c73149f1e412038
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 11aca4e2b4036e72dc58325b1e94911a3be9d0e6
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3294085"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3547766"
 ---
 # <a name="incident-type-ai-based-suggestions"></a>インシデントタイプの AI ベースの提案
 

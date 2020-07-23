@@ -3,18 +3,18 @@ title: ナレッジ機能に対するエージェントの生産性強化
 description: ナレッジ機能に対するエージェントの生産性強化
 author: relnotes
 ms.reviewer: laalexan
-ms.date: 04/06/2020
+ms.date: 06/03/2020
 ms.assetid: b54697cf-3adb-e911-a812-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
 ms.author: xiaoyad
 dynamics365pdf: true
-ms.openlocfilehash: 204e58fc7dc0816e7dc22c5ff1ea1f94ebad8ccc
-ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
+ms.openlocfilehash: 70354207664187c9138eedfeb05a07bee47c2197
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "3256137"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3441449"
 ---
 # <a name="agent-productivity-enhancements-to-knowledge-capabilities"></a>ナレッジ機能に対するエージェントの生産性強化
 
@@ -38,7 +38,9 @@ ms.locfileid: "3256137"
 - ナレッジ検索結果の改善されたレイアウトを使用して、スキャン、読み取り、アクションを簡素化できます。
 - 別の全画面でナレッジ記事を確認できます。
 - 顧客事例のコンテキスト外でサポート情報を検索できます。 (ナレッジ検索は、いつでもアクセスできるように顧客サービス ハブ アプリのナビゲーションで利用できるようになりました。)
-- より幅広いフォントを選択可能で、Word や Excel などの Office ドキュメントから書式設定されたコンテンツを書式設定を維持したままカット アンド ペーストできる最新のツールバーを使用できます。 テーブルをすばやく作成して行と列の追加や削除を実行できる、強化されたインラインテーブル機能も使用できます。
+- より幅広いフォントを選択可能で、Word や Excel などの Office ドキュメントから書式設定されたコンテンツを書式設定を維持したままカット アンド ペーストできる最新のツールバーを使用できます。 テーブルをすばやく作成して行と列の追加や削除を実行できる、強化されたインライン テーブル機能も使用できます。
+
+また、インライン画像の管理者設定を削除し、既定ですべての組織に対してインライン画像機能を有効にしました。 
 <!--feature detail end -->
 
 

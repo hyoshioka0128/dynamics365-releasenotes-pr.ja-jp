@@ -3,25 +3,25 @@ title: ドイツ向け会計サービスの統合
 description: 2020 年 1 月 1 日より、ドイツで新しいキャッシュ レジスター規制が施行されました。 Dynamics 365 Commerce がこれらの規制の要件に対応するようになりました。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 04/21/2020
+ms.date: 06/10/2020
 ms.assetid: e4963159-3fcb-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: epopov
 dynamics365pdf: true
-ms.openlocfilehash: 7814e114abb7fef18ef067d5991ce411320bf3da
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: a7d2d6ec9f850e921fc91e9fbe0eaedc5a5fa465
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3293634"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3487845"
 ---
 # <a name="fiscal-service-integration-for-germany"></a>ドイツ向け会計サービスの統合
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 5 月| 2020 年 7 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 29 日| 2020 年 8 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -46,3 +46,9 @@ ms.locfileid: "3293634"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[ドイツ向け会計登録サービス統合サンプル](https://docs.microsoft.com/dynamics365/commerce/localizations/emea-deu-fi-sample) (ドキュメント)
+<!--docs end-->

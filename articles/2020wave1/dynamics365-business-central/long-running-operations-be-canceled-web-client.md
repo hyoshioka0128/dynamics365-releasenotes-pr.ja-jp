@@ -1,5 +1,5 @@
 ---
-title: 実行時間の長い操作を Web クライアントからキャンセルできる
+title: 実行時間の長い操作をレガシ Web クライアントからキャンセルできる
 description: 操作とレポートは、完了までに時間がかかりすぎる場合、ブラウザーからキャンセルできます。
 author: kotelko
 ms.reviewer: sgroespe
@@ -9,14 +9,14 @@ ms.topic: article
 ms.service: business-applications
 ms.author: blazkote
 dynamics365pdf: true
-ms.openlocfilehash: 1cf97fd0154281666ad87a69b8f7ef5da417235b
-ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
+ms.openlocfilehash: a2aadf7f2ed870ff09a95216844c3397009bab2c
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "3255037"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548210"
 ---
-# <a name="long-running-operations-can-be-canceled-from-the-web-client"></a>実行時間の長い操作を Web クライアントからキャンセルできる
+# <a name="long-running-operations-can-be-canceled-from-the-legacy-web-client"></a>実行時間の長い操作をレガシ Web クライアントからキャンセルできる
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 

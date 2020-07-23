@@ -3,18 +3,18 @@ title: Dynamics 365 Supply Chain Management の資産管理モジュールの統
 description: Dynamics 365 Supply Chain Management の資産管理モジュールを Dynamics 365 Guides に統合すると、サービス作業者やメンテナンス作業者は日常のワークフローで Mixed Reality の作業指示を利用できるようになります。
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 05/04/2020
+ms.date: 05/08/2020
 ms.assetid: 8464278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: algodin
 dynamics365pdf: true
-ms.openlocfilehash: 3622ec5ce2131ed84d6162044cbbfda3c2503115
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: c68130e4827b1da2ea2ea7f23502dd66d8243a64
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350130"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3381169"
 ---
 # <a name="integrate-the-asset-management-module-from-dynamics-365-supply-chain-management"></a>Dynamics 365 Supply Chain Management の資産管理モジュールの統合
 
@@ -44,3 +44,9 @@ ms.locfileid: "3350130"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[Dynamics 365 Supply Chain Management (資産管理モジュール) を Dynamics 365 Guides と統合する](https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-integrate-asset-management)
+<!--docs end-->

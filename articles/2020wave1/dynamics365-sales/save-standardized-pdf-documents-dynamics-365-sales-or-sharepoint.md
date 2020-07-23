@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: bharavar
 dynamics365pdf: true
-ms.openlocfilehash: 97a1a84f90419193f835739c87dc4a5b64e14320
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 151e6a428fa8b278f139e9faf1e2e039fdc65434
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3293249"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548462"
 ---
 # <a name="save-standardized-pdf-documents-to-dynamics-365-sales-or-microsoft-sharepoint"></a>Dynamics 365 Sales や Microsoft SharePoint に標準化された PDF ドキュメントを保存する
 

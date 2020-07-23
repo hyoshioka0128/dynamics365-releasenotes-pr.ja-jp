@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: naitikds
 dynamics365pdf: true
-ms.openlocfilehash: 878287e2bcc703513bfc48d4db1e5f75b005e0db
-ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
+ms.openlocfilehash: 9293fc87309a6fcc0e2ba379156d1618ed93842b
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "3255378"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548606"
 ---
 # <a name="contextual-email-communication"></a>状況依存のメール通信
 
@@ -41,9 +41,7 @@ ms.locfileid: "3255378"
 
 
 > [!NOTE]
-> この機能は、統一インターフェイスでのみ使用できます。 
-
-> この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
+> この機能は、統一インターフェイスでのみ使用できます。 この機能は、Dynamics 365 Sales Enterprise と Dynamics 365 Sales Professional で使用できます。
 
 
 

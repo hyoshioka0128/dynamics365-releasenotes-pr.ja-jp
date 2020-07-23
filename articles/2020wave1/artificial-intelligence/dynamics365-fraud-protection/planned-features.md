@@ -3,17 +3,17 @@ title: Dynamics 365 Fraud Protection の新機能と予定されている機能 
 description: Dynamics 365 Fraud Protection で計画されている機能の概要。
 author: relnotes
 ms.reviewer: 85c47d12de8044f1a45dccd53fe72916v-davido
-ms.date: 05/05/2020
+ms.date: 05/14/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: msalam
 dynamics365pdf: true
-ms.openlocfilehash: 436d6c13f75d7e9af935c84f76b81ddd8b65ffe4
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: bdb86afeda2dd5619c2eb695a11d768b0126a7b5
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3349778"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548066"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-fraud-protection"></a>Dynamics 365 Fraud Protection の新機能と予定されている機能
 
@@ -25,8 +25,8 @@ ms.locfileid: "3349778"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
-| [取引受入ブースターの適用範囲を拡大](expanded-coverage-transaction-acceptance-booster.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化| 2020 年 5 月|2020 年 5 月 | 
-| [オントロジーとルールの拡張と調整](extend-tailor-ontology-rules.md) | 管理者、作成者、またはアナリスト、自動的| 2020 年 5 月|2020 年 5 月 | 
+| [取引受入ブースターの適用範囲を拡大](expanded-coverage-transaction-acceptance-booster.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 1 日 | 
+| [オントロジーとルールの拡張と調整](extend-tailor-ontology-rules.md) | 管理者、作成者、またはアナリスト、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 1 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 1 日 | 
 | [地域とローカライズを英語以外の言語に拡張する](extend-geographies-localization-languages-beyond-english.md) | エンド ユーザー、自動的| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 1 月 31 日|2020 年 7 月 | 
 | [アカウントの保護](account-protection.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 3 月 2 日|2020 年 7 月 | 
 | [損失防止](loss-prevention.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 3 月 2 日|2020 年 7 月 | 
@@ -40,4 +40,4 @@ ms.locfileid: "3349778"
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。  地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Microsoft Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。

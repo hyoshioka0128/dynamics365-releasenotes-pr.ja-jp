@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: psands
 dynamics365pdf: true
-ms.openlocfilehash: 47026f37db8fed936238ea2f16ea0a8030943df2
-ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
+ms.openlocfilehash: 679f2596a7aff476dbac25052f1632dd6ed0dfe5
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "3254971"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3547874"
 ---
 # <a name="customer-service-hub-app-is-now-available-by-default"></a>顧客サービス ハブ アプリを既定で利用できるようになりました
 

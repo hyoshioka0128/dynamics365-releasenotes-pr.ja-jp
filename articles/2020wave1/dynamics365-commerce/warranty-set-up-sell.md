@@ -3,25 +3,25 @@ title: 保証の設定と販売
 description: 延長保証は、小売業者が提供する可能性のあるサービスです。 Microsoft では、製品に保証をマッピングし、さまざまな小売チャネルで販売することができるサービス品目としての保証の概念を導入しています。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 01/10/2020
+ms.date: 05/19/2020
 ms.assetid: a9ed0835-6bb5-e911-a963-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: boycez
 dynamics365pdf: true
-ms.openlocfilehash: 52e54d88a2904b9c56c1450b38c09c65268c40e0
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 86dccc23a262a777a42eeab196d0bd6c88549984
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986633"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3415602"
 ---
 # <a name="warranty-setup-and-sell"></a>保証の設定と販売
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 5 月| 2020 年 7 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 18 日| 2020 年 7 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: fcd3c460d25efa93b4f90f6077451e95a4a3aaf9
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 4dc0584a9888d2f3c66127269209d92bfe50ba93
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232200"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3547946"
 ---
 # <a name="improvements-to-filter-expressions"></a>フィルター式の向上
 
@@ -33,7 +33,7 @@ ms.locfileid: "3232200"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-Business Central の 2019 年リリース ウェーブ 2 では、ユーザーが Web クライアントでフィルターをビューとして永続的に保存できるようにすることで、よく使用されるフィルターを作り直す必要がなくなりました。 コミュニティのフィードバックに基づいて、現在はフィルターのエクスペリエンスをさらに改善しています。
+Business Central の 2019 年リリース ウェーブ 2 では、ユーザーがレガシ Web クライアントでフィルターをビューとして永続的に保存できるようにすることで、よく使用されるフィルターを作り直す必要がなくなりました。 コミュニティのフィードバックに基づいて、現在はフィルターのエクスペリエンスをさらに改善しています。
 
 日付範囲やフィルター トークンなどの式を使用するフィルターを作成するときに、フィルター フィールドを切り替えて、式または対応する値を表示できます。 式をもう一度表示するには、キーボードまたはマウスを使用してフィルター フィールドにフォーカスを設定するだけです。 この機能は以下に適用されます。
 

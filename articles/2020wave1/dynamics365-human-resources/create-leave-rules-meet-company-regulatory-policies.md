@@ -1,6 +1,6 @@
 ---
 title: 休暇のルールを作成して会社と規制のポリシーを満たす
-description: 休暇プランに関連するポリシーの柔軟性が高くなり、HR は特定の地域および会社の要件を満たすように休暇を構成できます。 これらのポリシーに加えて、FTE など、従業員が休暇を取得する追加の方法が提供されることで、HR は従業員に休暇給付を提供する際により細かく制御できます。
+description: 休暇計画に関連するポリシーの柔軟性が高くなり、HR は特定の地域および会社の要件を満たすように休暇を構成できます。 これらのポリシーに加えて、FTE など、従業員が休暇を取得する追加の方法が提供されることで、HR は従業員に休暇給付を提供する際により細かく制御できます。
 author: relnotes
 ms.reviewer: anbichse
 ms.date: 04/07/2020
@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: JCart
 dynamics365pdf: true
-ms.openlocfilehash: 1fcb6ff388fad1450c428e97ae2e8be81691fb40
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: b190ddc826a65f72ddbf901649c38eb913099058
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3293304"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3405180"
 ---
 # <a name="create-leave-rules-to-meet-company-and-regulatory-policies"></a>休暇のルールを作成して会社と規制のポリシーを満たす
 
@@ -30,9 +30,9 @@ ms.locfileid: "3293304"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-休暇プランに関連するポリシーの柔軟性が高くなり、HR は特定の地域および会社の要件を満たすように休暇を構成できます。 これらのポリシーに加えて、フルタイム相当 (FTE) など、従業員が休暇を取得する追加の方法が提供されることで、HR は従業員に休暇給付を提供する際により細かく制御できます。
+休暇計画に関連するポリシーの柔軟性が高くなり、HR は特定の地域および会社の要件を満たすように休暇を構成できます。 これらのポリシーに加えて、フルタイム相当 (FTE) など、従業員が休暇を取得する追加の方法が提供されることで、HR は従業員に休暇給付を提供する際により細かく制御できます。
 
-拡張された休暇プラン ポリシーと見越計上には、次のものが含まれます。 
+拡張された休暇計画ポリシーと見越計上には、次のものが含まれます。 
  
 - フルタイム相当 (FTE) と雇用日付に基づく見越計上。
 - 構成可能な見越計上の丸め。
@@ -59,5 +59,5 @@ ms.locfileid: "3293304"
 <!--blog end-->
 
 <!--docs start-->
-[Dynamics 365 Human Resources の休暇の概要](https://docs.microsoft.com/en-us/dynamics365/human-resources/hr-leave-and-absence-types) (ドキュメント)
+[Dynamics 365 Human Resources の休暇の概要](https://docs.microsoft.com/dynamics365/human-resources/hr-leave-and-absence-types) (ドキュメント)
 <!--docs end-->

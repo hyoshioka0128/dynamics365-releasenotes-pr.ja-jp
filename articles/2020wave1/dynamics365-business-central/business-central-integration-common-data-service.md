@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: henrikwh
 dynamics365pdf: true
-ms.openlocfilehash: 35dfd5bb2e8351aacd4a4a185f7844088f6f7416
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 21c66306f12dce6eba76ab2148e3b2956e356357
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3293986"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548138"
 ---
 # <a name="business-central-integration-with-common-data-service"></a>Business Central と Common Data Service の統合
 

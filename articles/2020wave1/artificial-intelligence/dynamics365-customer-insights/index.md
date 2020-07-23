@@ -2,34 +2,63 @@
 title: Dynamics 365 Customer Insights 2020 年リリース ウェーブ 1 の概要
 description: Dynamics 365 Customer Insights 2020 年リリース ウェーブ 1 の概要
 author: relnotes
-ms.reviewer: ''
-ms.date: 12/13/2019
+ms.reviewer: jimholtz
+ms.date: 06/19/2020
+ms.assetid: aff342e7-7991-ea11-a811-000d3a8faea9
 ms.topic: overview
 ms.service: business-applications
-ms.author: ''
+ms.author: midevane
 dynamics365pdf: true
-ms.openlocfilehash: 48caa2a71c3cbbb467b6733cb1ccb58b6bfa284c
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 3c6fc96c00d9e01ddbefbf7822981f8a753b774f
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2984390"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3522139"
 ---
 # <a name="overview-of-dynamics-365-customer-insights-2020-release-wave-1"></a>Dynamics 365 Customer Insights 2020 年リリース ウェーブ 1 の概要
+[!include[artificial-intelligence/dynamics365-customer-insights banner](../includes/artificial-intelligence/dynamics365-customer-insights.md)]
 
-Dynamics 365 Customer Insights では、すべての組織が、トランザクション、観察、行動などのさまざまなデータを統合し、単一の顧客ビューを得て、重要なビジネス プロセスを推進するインテリジェントな分析情報を導き出すことができます。 
-  
-Dynamics 365 Customer Insights を使用すると、組織で次のことができます。 
+<!--overview start-->
+Customer Insights では、すべての組織が顧客データを統合して理解し、インテリジェントな分析情報とアクションに利用できます。 
 
-- **データ サイロの排除と顧客データの統合。** 
-  - データを簡単に接続して統合し、構築済みのコネクタを利用して、データ ソースからトランザクション、観察、および行動に関するデータを取得します。 
-  - 顧客データをインテリジェントに変換し、 [Common Data Model](https://github.com/Microsoft/CDM) に準拠している統一された顧客プロファイルを構築します。 
-- **Microsoft Graph に含まれるオーディエンス インテリジェンスでの顧客プロファイルのエンリッチ。** <br>
-  Microsoft Graph に含まれる集計されたオーディエンス インテリジェンスを組み込むことで、いっそう充実した顧客プロファイルを構築します。 
-- **強力な AI と分析情報の実現。** 
-  - 顧客の単一ビューに基づく AI、分析情報、KPI に関する顧客エンティティを中心とするデータ グラビティを利用します。 
-  - Azure Machine Learning を使用して、クイックスタート AI と機械学習テンプレートまたはカスタム アルゴリズムによりプロセスを加速します。 
-- **ビジネス プロセスとパーソナライズされた顧客エクスペリエンスの強化。** 
-  - マーケティング、営業、サービスの専門家を支援し、チャネル全体でパーソナライズされたエンゲージメントを促進します。 すぐに使用できる、コンテキストに応じた顧客分析情報と、毎日のビジネス アプリケーションに注入されたカスタマイズされた顧客プロファイル カードを利用します。 
-  - リッチな API と Microsoft Power Platform を利用して、基幹業務のエクスペリエンスを有効化し、拡張します。 これには、Microsoft Power BI を使用してより深い顧客分析情報を獲得し、Microsoft Power Apps を使用してカスタム アプリを構築し、Power Automate を使用して顧客の行動と信号に基づいてワークフローをトリガーする機能が含まれます。  
+## <a name="eliminate-data-silos-and-unify-customer-data"></a>データ サイロの排除と顧客データの統合
+
+コネクタを使用してデータを取り込んで統合し、さまざまなデータ ソースからトランザクション、観察、行動に関するデータを取得します。
+
+顧客データをインテリジェントに変換し、Common Data Model に準拠している統一された顧客プロファイルを構築します。
+
+## <a name="enrich-customer-profiles"></a>顧客プロファイルのエンリッチ
+
+ファーストパーティおよびサードパーティのエンリッチから集約されたオーディエンス インテリジェンスを組み込むことで、いっそう充実した顧客プロファイルを構築します。
+
+## <a name="enable-powerful-ai-and-insights"></a>強力な AI と分析情報の実現
+
+統合プロファイルを基にして構築されたセグメントやメジャーなどの機能を使用して、ビジネスに関する分析情報を引き出します。 
+
+すぐに使用できる AI モデルや Azure Machine Learning を使用したカスタム アルゴリズムによって、ビジネス プロセスを加速します。
+
+## <a name="extend-business-processes-and-personalize-customer-experiences"></a>ビジネス プロセスの拡張と顧客エクスペリエンスのパーソナライズ
+
+マーケティング、営業、サービスの専門家を支援し、複数のチャネルでパーソナライズされたエンゲージメントを促進します。 コンテキストに応じた顧客分析情報と、Microsoft および Microsoft 以外のビジネス アプリケーションと統合されるカスタマイズされた顧客プロファイル カードを使用します。
+
+既存のコネクタ、さまざまな API、Microsoft Power Platform に基づいて基幹業務のエクスペリエンスを実現し、拡張します。 たとえば、Power BI を使用してより深い顧客分析情報を得たり、Power Apps を使用してカスタム アプリを構築したり、Power Automate を使用して分析情報とシグナルに基づいてワークフローをトリガーしたりできます。
+
+## <a name="focus-areas-for-2020-release-wave-1"></a>2020 年リリース ウェーブ 1 の重点領域
+
+お客様のフィードバックに基づいて製品の向上を継続しながら、さまざまな製品分野にわたって新機能と既存の機能を提供することも計画しています。 
+
+Microsoft ではお客様からのご要望や市場の動向を注視しており、予定されている計画の変更につながる可能性があります。
  
+製品の機能強化の主な領域は次のとおりです。
+ 
+- データ インジェスト
+- データの統一
+- 拡張オプション
+- エンリッチメント
+- インテリジェンス
+- セグメント、メジャー、活動
+- システム管理
+
+[リリースの概要のビデオをご覧ください。](https://aka.ms/Overview/2020RW1/CustomerInsights)
+<!--overview end-->

@@ -3,18 +3,18 @@ title: 動的なメール メッセージをテスト送信する機能
 description: 本番環境に移行する前にメッセージをプレビューしてテストし、メッセージの一貫性を確保します。
 author: relnotes
 ms.reviewer: alfergus
-ms.date: 04/21/2020
+ms.date: 05/08/2020
 ms.assetid: 014e97e2-18ce-e911-a996-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: prrana
 dynamics365pdf: true
-ms.openlocfilehash: a191acfc9b0711883ecb88d8960495866a203d75
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: eec9abc0e3a501b0200ea276566993aa7e9e8bd7
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350614"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3380938"
 ---
 # <a name="ability-to-test-send-dynamic-email-messages"></a>動的なメール メッセージをテスト送信する機能
 
@@ -49,3 +49,9 @@ Dynamics 365 Marketing で、パーソナライズされた動的コンテンツ
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[テスト メッセージを送信する](https://docs.microsoft.com/dynamics365/marketing/email-preview#send-a-test-message) (ドキュメント)
+<!--docs end-->

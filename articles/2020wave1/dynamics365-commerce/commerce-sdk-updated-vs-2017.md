@@ -3,18 +3,18 @@ title: Commerce SDK が Visual Studio 2017 に更新
 description: Commerce SDK を Visual Studio 2015 から Visual Studio 2017 に移行します。
 author: mugunthanm
 ms.reviewer: rhaertle
-ms.date: 05/04/2020
+ms.date: 05/08/2020
 ms.assetid: b8f8388f-627b-ea11-a812-000d3a579c39
 ms.topic: article
 ms.service: business-applications
 ms.author: mumani
 dynamics365pdf: true
-ms.openlocfilehash: 8c0c3f8191007cc7b5cac5ca2984fc58c57f78e1
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 48e807c506df9ade1f6a46ddf6a1fa53e329093c
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3349591"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3381937"
 ---
 # <a name="commerce-sdk-updated-to-visual-studio-2017"></a>Commerce SDK が Visual Studio 2017 に更新
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
@@ -43,3 +43,9 @@ ms.locfileid: "3349591"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[Retail SDK の Visual Studio 2015 から Visual Studio 2017 への移行](https://docs.microsoft.com/dynamics365/commerce/dev-itpro/retail-sdk/migrate-sdk) (ドキュメント)
+<!--docs end-->

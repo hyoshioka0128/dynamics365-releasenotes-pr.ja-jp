@@ -3,26 +3,25 @@ title: Microsoft Power Apps プラットフォームに構築された Field Ser
 description: Microsoft Power Apps プラットフォームに構築された Field Service Mobile
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 04/28/2020
+ms.date: 05/15/2020
 ms.assetid: c568f5f7-8289-ea11-a812-000d3a8faea9
 ms.topic: article
 ms.service: business-applications
 ms.author: drfuller
 dynamics365pdf: true
-ms.openlocfilehash: a7c01721cabda598793272ebadc3fb4387750a39
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 07f8b167f2206dcb8a23d780d2cee79398e13bc0
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350928"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3547730"
 ---
 # <a name="field-service-mobile-built-on-microsoft-power-apps-platform"></a>Microsoft Power Apps プラットフォームに構築された Field Service Mobile
-[!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| 2020 年 5 月|
-
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -44,7 +43,6 @@ Microsoft の次世代 Field Service Mobile アプリは、問題を解決する
 - アプリから直接休暇を申請します。 
 - iOS および Android の電話で利用できます。
 - Microsoft Power Apps プラットフォーム上に構築されたモバイル アプリケーションを完全にカスタマイズして、フィールド サービス ワーカーがアクセスできるデータの種類などを定義できます。
-
 <!--feature detail end -->
 
 
@@ -52,8 +50,7 @@ Microsoft の次世代 Field Service Mobile アプリは、問題を解決する
 > この機能は、統一インターフェイスでのみ使用できます。
 
 
-## <a name="see-also"></a>関連項目
 
-[Field Service Mobile](https://aka.ms/FSMPowerApp)
+
 
 

@@ -3,18 +3,18 @@ title: Microsoft Forms Pro を使用した調査のサポート
 description: Microsoft Forms Pro を使用した調査
 author: relnotes
 ms.reviewer: alfergus
-ms.date: 04/21/2020
+ms.date: 05/08/2020
 ms.assetid: 70cd36ba-ad17-ea11-a811-000d3a8f010c
 ms.topic: article
 ms.service: business-applications
 ms.author: yukom
 dynamics365pdf: true
-ms.openlocfilehash: d16c99db4738b2ab3947a4ebb74ca3f8a27272f7
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: a3dbc6fc8237675e73b5161449b34ed5df90da2b
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3294305"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3380894"
 ---
 # <a name="support-for-surveys-using-microsoft-forms-pro"></a>Microsoft Forms Pro を使用した調査のサポート
 
@@ -47,3 +47,9 @@ ms.locfileid: "3294305"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[Forms Pro と Dynamics 365 Marketing の統合](https://docs.microsoft.com/dynamics365/marketing/forms-pro) (ドキュメント)
+<!--docs end-->

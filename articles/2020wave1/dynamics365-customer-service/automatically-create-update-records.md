@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: craigm
 dynamics365pdf: true
-ms.openlocfilehash: aa937c0f0ce73212acbf034bbe91450ef62eddc1
-ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
+ms.openlocfilehash: cca546e9bd1bcab0fca56cb5359279d0a6c37ca5
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "3272622"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3547898"
 ---
 # <a name="automatically-create-and-update-records"></a>レコードの自動的な作成と更新
 
@@ -33,7 +33,7 @@ ms.locfileid: "3272622"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-この機能は、統一インターフェイス上で新しいレコード作成管理エクスペリエンスを有効にし、従来の Web クライアントとの機能パリティをもたらします。 新しいエクスペリエンスでは Microsoft Power Automate を使用し、条件とアクションを作成または更新するための使いやすいインターフェイスを提供します。
+この機能は、統一インターフェイス内で新しいレコード作成管理エクスペリエンスを有効にし、従来の Web クライアントとの機能パリティをもたらします。 新しいエクスペリエンスでは Microsoft Power Automate を使用し、条件とアクションを作成または更新するための使いやすいインターフェイスを提供します。
 <!--feature detail end -->
 
 

@@ -3,18 +3,18 @@ title: ユーザーの生産性 - 新しいグリッド コントロール - フ
 description: 新しく改善されたグリッド コントロールは、10.0.9 / Platform update 33 でパブリック プレビューに移行しました。 この機能の継続的な進化は、この機能が一般公開されるまで、毎月の更新の一部として引き続き導入されます。
 author: relnotes
 ms.reviewer: sericks
-ms.date: 04/10/2020
+ms.date: 05/29/2020
 ms.assetid: ebd342bc-d91d-ea11-a811-000d3a8f0f1e
 ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
-ms.openlocfilehash: bfaa1c4132dcbd81a03a79d2add5d5d9830f0a50
-ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
+ms.openlocfilehash: a04def4b0ad0c39464a1d8c5b3195b18a2e24b7f
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "3273018"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3441570"
 ---
 # <a name="user-productivity--new-grid-control--phase-2"></a>ユーザーの生産性 - 新しいグリッド コントロール - フェーズ 2
 
@@ -44,17 +44,27 @@ ms.locfileid: "3273018"
 
 - **高速データ入力**: この機能を使用すると、ユーザーはサーバーに先行してグリッドにデータを入力できます。 したがって、ユーザーが別の行に移動する前にサーバーがグリッド内の 1 行を検証するのを待つ必要性が最小限に抑えられます。 この機能は、10.0.7/Platform update 31 の新しいグリッド コントロール機能の一部として初めて利用可能になり、以降のプラットフォーム バージョンで進化を続けます。
 
-新しいグリッドを有効にする方法については、この記事の**関連項目**セクションのリンク先を参照してください。
+この記事の「関連項目」セクションにあるリンクをたどって、次のことを確認してください。 
+
+-  新しいグリッド コントロールを有効にする方法の説明。
+-  新しいグリッド コントロールの既知の問題の一覧と、それらの問題がいつ解決されたかについての情報。
 
 ## <a name="version-updates"></a>バージョンの更新
+**10.0.12** 
+
+- バグ修正 (「既知の問題」の一覧を参照)。
+
 **10.0.11**
+
 - 他の Dynamics 365 製品に合わせてグリッドのスタイル設定を更新。 これには特に、マーキング列とさまざまな行の状態の更新が含まれます。  
-- バグ修正。
+- バグ修正 (「既知の問題」の一覧を参照)。
 
 **10.0.10**
-- バグ修正。
+
+- バグ修正 (「既知の問題」の一覧を参照)。
 
 **10.0.9**
+
 - 新しいグリッドのパブリック プレビュー開始。
 <!--feature detail end -->
 

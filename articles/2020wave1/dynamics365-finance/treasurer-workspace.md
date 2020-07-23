@@ -3,25 +3,25 @@ title: 会計登録者ワークスペース
 description: この機能により、会計登録者が現金管理の活動と分析を完了するために使用できる新しいワークスペースが導入されます。
 author: relnotes
 ms.reviewer: roschlom
-ms.date: 03/14/2020
+ms.date: 06/04/2020
 ms.assetid: 21551930-4ecb-e911-a968-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: 57324e6f1880b948c3d642276429d486db70e5ce
-ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
+ms.openlocfilehash: 3e282257efbb090136d473360fbbb809365ef255
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "3152370"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3441042"
 ---
 # <a name="treasurer-workspace"></a>会計登録者ワークスペース
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 5 月| -|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 7 月| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

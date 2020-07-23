@@ -3,24 +3,23 @@ title: Dynamics 365 Project Operations の 2020 年リリース ウェーブ 1 �
 description: Dynamics 365 Project Operations の 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: ''
-ms.date: 04/03/2020
+ms.date: 06/19/2020
 ms.assetid: 33274678-273e-ea11-a812-000d3a579c35
 ms.topic: overview
 ms.service: business-applications
 ms.author: gurkans
 dynamics365pdf: true
-ms.openlocfilehash: 867ea9c5034258b43fc6a21b22ecdf6eecd9f929
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: e12c4c126ab8e57a89f6739afceb8062d76f6eb2
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3294767"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3522967"
 ---
 # <a name="overview-of-dynamics-365-project-operations-2020-release-wave-1"></a>Dynamics 365 Project Operations の 2020 年リリース ウェーブ 1 の概要
 [!include[dynamics365-project-operations banner](../includes/dynamics365-project-operations.md)]
 
 <!--overview start-->
-
 現在のプロジェクトベースのサービス ビジネスは競争の激しい市場で運営されており、新規取引の獲得、プロジェクトの納品の加速、利益率の向上が大きな課題となっています。 これらの組織内のチームは、この環境での成功にアクション可能なデータを中心とした統一チームが必要なときに、営業、プロジェクト管理、コラボレーション、および財務に分断されたシステムを使用しています。  
 
 営業から財務まで、チームを越えた成功の推進に必要な可視性、コラボレーション、および分析情報を提供するために操作ワークフローを統合する新しい Dynamics 365 アプリケーションを発表します。 Dynamics 365 Project Operations は、営業、リソース、プロジェクト管理、財務の各チームを単一のアプリケーション内で結び付けて、より多くの取引を獲得し、納期を短縮し、従業員の能力を高め、収益性を最大化します。  

@@ -3,18 +3,18 @@ title: サンドボックス環境ピッカー
 description: サンドボックス環境ピッカーで、サンドボックス環境を簡単に切り替えることができます。
 author: mikebcMSFT
 ms.reviewer: jswymer
-ms.date: 04/27/2020
+ms.date: 06/23/2020
 ms.assetid: 1399b215-4086-ea11-a812-000d3a8faea9
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: b6117283b23d73bd378dc7967cad02e2db5149c6
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: b0c8c6298efc25e115379bf99360f0cb4d465353
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350930"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3522919"
 ---
 # <a name="sandbox-environment-picker"></a>サンドボックス環境ピッカー
 
@@ -40,8 +40,7 @@ ms.locfileid: "3350930"
 別のサンドボックス環境に切り替えるには、アプリ起動ツールを開いて Dynamics 365 タイルを選択してから、Business Central サンドボックス タイルを選択します。 利用可能なサンドボックスがピッカーに表示されます。
 
 ### <a name="try-it-out"></a>試してみましょう
-組織に既に複数のサンドボックス環境がある場合は、[Business Central アカウント](https://businesscentral.dynamics.com?sandbox=true)にサインインしてピッカーをお試しください。  
-
+組織に既に複数のサンドボックス環境がある場合は、[Business Central アカウント](https://businesscentral.dynamics.com?sandbox=true)にサインインしてピッカーをお試しください。
 <!--feature detail end -->
 
 
@@ -58,5 +57,5 @@ Dynamics 365 Business Central の機能向上のためのアイデア、提案�
 ## <a name="see-also"></a>関連項目
 
 <!--docs start-->
-[サンドボックス環境](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/administration/environment-types#sandbox-environments) (ドキュメント)
+[別の会社または環境への切り替え](https://docs.microsoft.com/dynamics365/business-central/ui-organization-switch) (ドキュメント)
 <!--docs end-->

@@ -3,18 +3,18 @@ title: '拡張されたローカライズ (イタリア): 支払時での手数�
 description: Dynamics 365 Finance が、以前はイタリアのパートナー Cluster Reply によって提供された、拡張されたローカライズ (イタリア) (EXIL) アドインでのみ利用可能であった、イタリア語固有の機能セットが利用できるように拡張されました。
 author: relnotes
 ms.reviewer: kfend
-ms.date: 05/05/2020
+ms.date: 06/11/2020
 ms.assetid: fea43915-f1db-e911-a812-000d3a4f1168
 ms.topic: article
 ms.service: business-applications
 ms.author: mrolecki
 dynamics365pdf: true
-ms.openlocfilehash: a1e48694c539756e7313f4339c02d854d08b0af4
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 1b75f43acf2a56a7ece7558cb5603e63e05f8c68
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3349349"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3487821"
 ---
 # <a name="extended-italian-localization-commission-settlement-on-payments"></a>拡張されたローカライズ (イタリア): 支払時での手数料決済
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
@@ -46,3 +46,9 @@ ms.locfileid: "3349349"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[支払に対するコミッション決済](https://docs.microsoft.com/dynamics365/finance/localizations/emea-ita-exil-commission-settlement) (ドキュメント)
+<!--docs end-->

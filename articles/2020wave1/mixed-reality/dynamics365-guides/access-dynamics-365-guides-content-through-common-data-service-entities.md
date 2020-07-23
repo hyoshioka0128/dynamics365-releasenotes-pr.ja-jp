@@ -3,18 +3,18 @@ title: Common Data Service エンティティを通じて Dynamics 365 Guides �
 description: Common Data Service API を使用して、Dynamics 365 Guides のコンテンツ エンティティからデジタル エンタープライズ エコシステムに簡単かつ確実に接続できます。
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 05/04/2020
+ms.date: 05/08/2020
 ms.assetid: 8a64278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: algodin
 dynamics365pdf: true
-ms.openlocfilehash: e75d07b289a70e4aa69afce960ae9ac45ef576a7
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: b217af53b5a0f4a801616b454db9331572d548c1
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350262"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548150"
 ---
 # <a name="access-dynamics-365-guides-content-through-common-data-service-entities"></a>Common Data Service エンティティを通じて Dynamics 365 Guides のコンテンツにアクセスする
 
@@ -44,3 +44,9 @@ Dynamics 365 Guides では、すべてのコンテンツ (命令、テキスト�
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[Dynamics 365 Guides のエンティティ参照](https://docs.microsoft.com/dynamics365/mixed-reality/guides/developer-entity-reference) (ドキュメント)
+<!--docs end-->

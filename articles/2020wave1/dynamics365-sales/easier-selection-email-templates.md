@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: dandalla
 dynamics365pdf: true
-ms.openlocfilehash: f1ae2320391b0896b0a4df87b656260c709cf8b1
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: f1ff7683bd15fe92c21d1b2a14b1ea673de32e89
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3294734"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548570"
 ---
 # <a name="easier-selection-of-email-templates"></a>電子メール テンプレートの選択がより簡単に
 

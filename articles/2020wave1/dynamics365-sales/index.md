@@ -3,18 +3,18 @@ title: Dynamics 365 Sales 2020 年リリース ウェーブ 1 の概要
 description: Dynamics 365 Sales 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 05/04/2020
+ms.date: 05/07/2020
 ms.assetid: e223ca73-9dca-e911-a96a-000d3a4f36ce
 ms.topic: overview
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: d62fcf1b7542f4467690f89417cfe7da582e7fea
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: be5cc4f4d516dc278a0cae088731d42569a9dfca
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3349734"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3415676"
 ---
 # <a name="overview-of-dynamics-365-sales-2020-release-wave-1"></a>Dynamics 365 Sales 2020 年リリース ウェーブ 1 の概要
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -26,7 +26,7 @@ Dynamics 365 Sales の中心は顧客との関係です。 これにより組織
 
 Dynamics 365 Sales の 2020 年リリース ウェーブ 1 では、顧客の声に耳を傾け、顧客エクスペリエンスに共感し、何が効果的で何が効果的でないかを理解することに時間をかけました。 前のリリースと同様に、シンプルなエクスペリエンス、改善されたワークフロー、新しいモバイル エクスペリエンスを引き続き重視して、ユーザーの利便性を高めるためにすべてを設計しました。
 
-Dynamics 365 Sales は、変化する顧客と営業のニーズを満たすために進化を続けています。 2020 年リリース ウェーブ 1 では、販売促進、自動記録更新、販売リズムを含むインサイド セールスのシナリオを含むようにフォーカスを拡大しています。 当社はインサイド販売担当者の業務を合理化し、顧客とのかかわりを深めることを目指しています。
+Dynamics 365 Sales は、変化する顧客と営業のニーズを満たすために進化を続けています。 2020 年リリース ウェーブ 1 では、営業促進、自動記録更新、販売リズムを含むインサイド セールスのシナリオを含むようにフォーカスを拡大しています。 当社はインサイド販売担当者の業務を合理化し、顧客とのかかわりを深めることを目指しています。
 
 2020 年リリース ウェーブ 1 のテーマは以下のとおりです。
 
@@ -40,7 +40,7 @@ Dynamics 365 Sales は、変化する顧客と営業のニーズを満たすた�
   
 - **促進加速**: 次善の顧客と次善のアクションを優先して販売を加速します。
 
-  販売促進の目的は、リードを変換して営業案件を迅速に成立させるのに役立つインテリジェントな優先順位付けで、営業プロセスを変革することです。 販売担当者は、Dynamics 365 Sales でクロスチャネル コミュニケーションを直接活用して、すべての顧客にリーチします。そして、すべての営業リズムで一貫した営業プロセスを実施します。
+  営業促進の目的は、リードを変換して営業案件を迅速に成立させるのに役立つインテリジェントな優先順位付けで、営業プロセスを変革することです。 販売担当者は、Dynamics 365 Sales でクロスチャネル コミュニケーションを直接活用して、すべての顧客にリーチします。そして、すべての営業リズムで一貫した営業プロセスを実施します。
   
 - **予測の変革**: ビジネスの動向を正確に追跡して戦略的決定を知らせます。
 
@@ -50,5 +50,5 @@ Dynamics 365 Sales は、変化する顧客と営業のニーズを満たすた�
 
 当社はいつでもお客様やパートナー様のご意見を求めています。 Dynamics 365 Sales に関するアイデアやご意見を、https://aka.ms/SalesIdeas にぜひお寄せください。
 
-[リリースの概要のビデオをご覧ください](https://aka.ms/Overview/2020RW1/Sales)
+[リリースの概要のビデオをご覧ください。](https://aka.ms/Overview/2020RW1/Sales)
 <!--overview end-->

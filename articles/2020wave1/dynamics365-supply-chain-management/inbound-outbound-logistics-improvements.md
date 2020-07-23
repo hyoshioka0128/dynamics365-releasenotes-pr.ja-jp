@@ -1,20 +1,20 @@
 ---
 title: インバウンドおよびアウトバウンドのロジスティクスの改善
-description: この機能は、倉庫管理システムを強化するさまざまな機能を集約します。 ほとんどは 2019 年ウェーブ 2 の間にテスト機能として徐々にリリースされました。
+description: この機能は、倉庫管理システムを強化するさまざまな機能を集約します。 ほとんどは 2019 年リリース ウェーブ 2 の間にテスト機能として徐々にリリースされました。
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 04/14/2020
+ms.date: 06/25/2020
 ms.assetid: 6214e28b-8bcb-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: pjacobse
 dynamics365pdf: true
-ms.openlocfilehash: 00bba2b5a14af3df8b5f68d3fd099d0ec876c919
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: f3f9fc0c29d9a4a2614c32cd5e779296bc8d7ea4
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3294800"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3522655"
 ---
 # <a name="inbound-and-outbound-logistics-improvements"></a>インバウンドおよびアウトバウンドのロジスティクスの改善
 
@@ -111,3 +111,9 @@ ms.locfileid: "3294800"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[倉庫管理の概要](https://docs.microsoft.com/dynamics365/supply-chain/warehousing/warehouse-management-overview) (ドキュメント)
+<!--docs end-->

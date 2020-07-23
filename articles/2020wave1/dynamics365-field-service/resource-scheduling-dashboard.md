@@ -3,25 +3,25 @@ title: リソース スケジュール ダッシュボード
 description: リソース スケジュール分析情報ダッシュボード
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 04/20/2020
+ms.date: 05/11/2020
 ms.assetid: e34c84f9-b7ca-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: feiqiu
 dynamics365pdf: true
-ms.openlocfilehash: 079bc38b0345478f4cf3992f5d4eea815513d928
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 057b01a6af01209904aeec06402cc931e225be6f
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3293469"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548162"
 ---
 # <a name="resource-scheduling-dashboard"></a>リソース スケジュール ダッシュボード
-[!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| 2020 年 4 月|
+|エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 20 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -49,6 +49,7 @@ ms.locfileid: "3293469"
 
 
 ## <a name="see-also"></a>関連項目
+
 <!--docs start-->
 [リソース スケジュールと最適化の分析ダッシュボード](https://docs.microsoft.com/dynamics365/field-service/scheduling-analytics-reports) (ドキュメント)
 <!--docs end-->

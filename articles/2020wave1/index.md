@@ -3,26 +3,26 @@ title: Dynamics 365 の 2020 年リリース ウェーブ 1 の概要
 description: 2020 年リリース ウェーブ 1 の計画とは、2020 年 4 月から 2020 年 9 月の間にリリースが予定されている Dynamics 365 の機能を表します。
 author: ramanasridhar
 ms.reviewer: renwe
-ms.date: 05/12/2020
+ms.date: 07/01/2020
 ms.assetid: ''
 ms.topic: overview
 ms.service: business-applications
 ms.author: ramanasr
 dynamics365pdf: true
-ms.openlocfilehash: 9ea1baaf11fd6253623b34cb6ba736ad0ae57724
-ms.sourcegitcommit: 5be887cf54231a61d97eed234f40a4632d012167
+ms.openlocfilehash: ed86c6e2da26753ffe10887d0cf83931e8d25150
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "3368839"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548390"
 ---
 # <a name="dynamics-365-2020-release-wave-1-plan"></a>Dynamics 365: 2020 年リリース ウェーブ 1 の計画
 
-**[2020 年リリース ウェーブ 1 の PDF のダウンロード](https://go.microsoft.com/fwlink/?linkid=2116924)** (2020 年 4 月 14 日最終更新)
+**[2020 年リリース ウェーブ 1 の PDF のダウンロード](https://go.microsoft.com/fwlink/?linkid=2116924)** (2020 年 7 月 9 日最終更新)
 
-2020 年リリース ウェーブ 1 の Dynamics 365 リリース計画 (旧称リリース ノート) では、**2020 年 4 月**から **2020 年 9 月**にかけてリリースされるすべての新機能について説明します。 このリリース計画は、[オンライン](https://aka.ms/Dynamics365ReleasePlan)で参照することも、[PDF ファイル](https://go.microsoft.com/fwlink/?linkid=2116924)のドキュメントとしてダウンロードすることもできます。 PDF ファイルには、Power Apps、Power Automate、Power Virtual Agents、Power Platform ガバナンスおよび管理と、Common Data Model およびデータ統合に関する情報も含まれています。
+2020 年リリース ウェーブ 1 の Dynamics 365 リリース計画 (旧称リリース ノート) では、**2020 年 4 月**から **2020 年 9 月**にかけてリリースされるすべての新機能について説明します。 このリリース計画は、[オンライン](https://aka.ms/Dynamics365Wave1ReleasePlan)で参照することも、[PDF ファイル](https://go.microsoft.com/fwlink/?linkid=2116924)のドキュメントとしてダウンロードすることもできます。 PDF ファイルには、Power Apps、Power Automate、Power Virtual Agents、Power Platform ガバナンスおよび管理と、Common Data Model およびデータ統合に関する情報も含まれています。
 
-2020 年リリース ウェーブ 1 に含まれる Power Platform の機能は、別の[リリース計画](https://aka.ms/PowerPlatformReleasePlan)とダウンロード可能な [PDF](https://go.microsoft.com/fwlink/?linkid=2116925) にまとめられています。 
+2020 年リリース ウェーブ 1 に含まれる Microsoft Power Platform の機能は、別の[リリース計画](https://aka.ms/PowerPlatformWave1ReleasePlan)とダウンロード可能な [PDF](https://go.microsoft.com/fwlink/?linkid=2116925) にまとめられています。 
 
 ## <a name="2020-release-wave-1-overview"></a>2020 年リリース ウェーブ 1 の概要  
 Dynamics 365 の 2020 年リリース ウェーブ 1 では、ビジネスを変革するための重要な機能を提供する新しい革新が導入されます。 このリリースには、中小企業向けに設計されている包括的なビジネス管理ソリューションである、Marketing、Sales、Customer Service、Field Service、Finance、Supply Chain Management、Human Resources、Commerce、Business Central などの Dynamics 365 アプリケーション全体で、何百もの新機能が含まれています。  
@@ -44,12 +44,8 @@ Dynamics 365 の 2020 年リリース ウェーブ 1 では、ビジネスを変
 ### <a name="finance-and-operations"></a>Finance and Operations
 - **[Dynamics 365 Finance](dynamics365-finance/index.md)** は、自動化と予測分析の機能を向上し、深い洞察力に基づく先を見越したマネジメントの道を開きます。 
 - **[Dynamics 365 Supply Chain Management](dynamics365-supply-chain-management/index.md)** を利用することで、従業員や組織は、より優れた戦略的意思決定をサポートするためにデータを分析情報に変える予測分析により、在庫、倉庫、製造、サービス、ロジスティクスの統合ビューを取得できます。
-- **[Dynamics 365 Guides](mixed-reality/dynamics365-guides/index.md)** は Mixed Reality アプリケーションであり、必要なときに必要な場所でホログラフィックによる指示を提供することで、従業員は作業の流れを学ぶことができます。 Dynamics 365 Guides は、コンテンツ作成者、オペレーター、マネージャー/アナリストという 3 つの主要ペルソナのニーズに対応しています。
-
-> [!NOTE]
-> 2020 年 2 月から、新しいビジネス プロセス アプリケーションが提供されます。
-> 
-> **[Dynamics 365 Project Operations](dynamics365-project-operations/index.md)** は、営業から財務まで、チームを越えた成功の推進に必要な可視性、コラボレーション、および分析情報を提供するために操作ワークフローを統合します。
+- **[Dynamics 365 Guides](mixed-reality/dynamics365-guides/index.md)** は Mixed Reality アプリケーションであり、必要なときに必要な場所でホログラフィックによる指示を提供することで、従業員は作業の流れを学ぶことができます。 Dynamics 365 Guides は、コンテンツ作成者、オペレーター、マネージャー/アナリストという 3 つの主要ペルソナのニーズに対応します。
+- **[Dynamics 365 Project Operations](dynamics365-project-operations/index.md)** は、営業から財務まで、チームを越えた成功の推進に必要な可視性、コラボレーション、および分析情報を提供するために操作ワークフローを統合します。
 
 ### <a name="human-resources"></a>Human Resources
 - **[Dynamics 365 Human Resources](dynamics365-human-resources/index.md)** により、人事管理の担当者は、組織および人事管理、報酬、福利厚生、休暇、欠勤、コンプライアンス、給与計算統合、パフォーマンス フィードバック、セルフサービス プログラムなど、複数の領域にわたってデータ駆動型の従業員エクスペリエンスを構築するために必要な従業員の分析情報を得ることができます。
@@ -71,13 +67,21 @@ Dynamics 365 の 2020 年リリース ウェーブ 1 では、ビジネスを変
 ### <a name="industry-accelerators"></a>業界アクセラレータ
 2020 年リリース ウェーブ 1 では、別のセクションとして業界アクセラレータが追加されています。 このウェーブには、次の業界アクセラレータが含まれています。
 
-- **[Nonprofit Accelerator](industry-accelerators/nonprofit/index.md)** を使用すると、スタッフ管理、資金調達、賞、プログラム提供、影響追跡に非営利団体が一般に活用するエンティティと属性に基づいて、非営利団体向けソリューションを開発できます。
-- **[Financial Services Accelerator](industry-accelerators/financial-services/index.md)** を使用すると、銀行が一般的にカスタマー エクスペリエンスやその他の業務プロセスに活用するエンティティや属性に基づいて、ソリューションを迅速に開発できます。 これらのエンティティには、銀行、支店、金融商品、ローン、紹介、制限、要求された設備などが含まれます。 
-- **[Health Accelerator](industry-accelerators/health/index.md)** では、ソリューションの構築と、強化された医療コーディネートおよび電子カルテ (EMR) のデータに基づき患者とプロバイダーをセグメント化する機能に焦点を当てたエンティティで、新しいユースケースとワークフローの作成ができます。 
 - **[Automotive Accelerator](industry-accelerators/automotive/index.md)** を使用すると、販売代理店や OEM が一般的にカスタマー エクスペリエンスやその他の業務プロセスに活用するエンティティや属性に基づいて、ソリューションを迅速に開発できます。 これらのエンティティは、取引、販売契約、仕様、フリート、保証、検査、試運転、ブランディング、ビジネス、顧客と車両の関係、車両と備品、リード、サービスと販売後の管理などを含みます。
+- **[Education Accelerator](industry-accelerators/education/index.md)** には、学生の活動に関するエンティティと、インターンシップ、奨学金、交付金、および成果に関する追加のエンティティが含まれます。
+- **[Financial Services Accelerator](industry-accelerators/financial-services/index.md)** を使用すると、銀行が一般的にカスタマー エクスペリエンスやその他の業務プロセスに活用するエンティティや属性に基づいて、ソリューションを迅速に開発できます。 これらのエンティティには、銀行、支店、金融商品、ローン、紹介、制限、要求された設備などが含まれます。
+- **[Health Accelerator](industry-accelerators/health/index.md)** では、ソリューションの構築と、強化された医療コーディネートおよび電子カルテ (EMR) のデータに基づき患者とプロバイダーをセグメント化する機能に焦点を当てたエンティティで、新しいユースケースとワークフローの作成ができます。
+- **[Nonprofit Accelerator](industry-accelerators/nonprofit/index.md)** を使用すると、スタッフ管理、資金調達、賞、プログラム提供、影響追跡に非営利団体が一般に活用するエンティティと属性に基づいて、非営利団体向けソリューションを開発できます。
+
+  > [!NOTE]
+  > 2020 年 5 月から、新しい業界アクセラレータが提供されます。
+  >
+  > **[Manufacturing Accelerator](industry-accelerators/manufacturing/index.md)** により、サプライヤーをインテリジェントにオンボードして管理するためのソリューションを迅速に開発できるようになりました。
+  >
+  > **[Media and Communications Accelerator](industry-accelerators/media-communications/index.md)** では、インテリジェントなオーディエンスおよびファン エンゲージメントをサポートするさまざまなユース ケースに基づいてソリューションをより簡単に構築できます。 
 
 > [!IMPORTANT]
-> 2020 年リリース ウェーブ 1 に含まれる Microsoft Power Platform の機能は、別の[リリース計画](https://aka.ms/PowerPlatformReleasePlan)にまとめられています。 
+> 2020 年リリース ウェーブ 1 に含まれる Microsoft Power Platform の機能は、別の[リリース計画](https://aka.ms/PowerPlatformWave1ReleasePlan)にまとめられています。 
  
 
 ## <a name="key-dates-for-the-2020-release-wave-1"></a>2020 年リリース ウェーブ 1 の主要日程
@@ -90,8 +94,8 @@ Dynamics 365 の 2020 年リリース ウェーブ 1 では、ビジネスを変
 | マイルストーン    |  日付 | 説明 | 
 | ---------- | ---------- |---------- |
 |リリース計画の公開 |2020 年 1 月 27 日| Dynamics 365 および Power Platform 全体の 2020 年リリース ウェーブ 1 (2020 年 4 月 ～ 2020 年 9 月) で予定されている新機能について説明します。|
-|早期アクセス可能 |2020 年 2 月 3 日| 2020 年リリース ウェーブ 1 の 4 月の更新プログラムの一部として紹介される新機能を、ユーザーが自動的に使用できるようになる前にテストして確認できます。 現在、Dynamics 365 の [2020 年リリース ウェーブ 1 早期アクセス機能](https://aka.ms/Dynamics365EAFeatures)を確認できます。 |
-|リリース計画が 11 の追加言語で利用可能 |2020 年 2 月 12 日| Dynamics 365 および Power Platform のリリース計画が、[デンマーク語](https://docs.microsoft.com/da-DK/dynamics365/release-plans/)、[オランダ語](https://docs.microsoft.com/nl-NL/dynamics365/release-plans/)、[フィンランド語](https://docs.microsoft.com/fi-FI/dynamics365/release-plans/)、[フランス語](https://docs.microsoft.com/fr-FR/dynamics365/release-plans/)、[ドイツ語](https://docs.microsoft.com/de-DE/dynamics365/release-plans/)、[イタリア語](https://docs.microsoft.com/it-IT/dynamics365/release-plans/)、[日本語](https://docs.microsoft.com/ja-JP/dynamics365/release-plans/)、[ノルウェー語](https://docs.microsoft.com/nb-NO/dynamics365/release-plans/)、[ポルトガル語 (ブラジル)](https://docs.microsoft.com/pt-BR/dynamics365/release-plans/)、[スペイン語](https://docs.microsoft.com/es-ES/dynamics365/release-plans/)、[スウェーデン語](https://docs.microsoft.com/sv-SE/dynamics365/release-plans/)で公開されます。|
+|早期アクセス可能 |2020 年 2 月 3 日| 2020 年リリース ウェーブ 1 の 4 月の更新プログラムの一部として紹介される新機能を、ユーザーが自動的に使用できるようになる前にテストして確認できます。 現在、Dynamics 365 の [2020 年リリース ウェーブ 1 早期アクセス機能](https://aka.ms/Dynamics365Wave1EAFeatures)を確認できます。 |
+|リリース計画が 11 の追加言語で利用可能 |2020 年 2 月 12 日| Dynamics 365 および Microsoft Power Platform のリリース計画が、[デンマーク語](https://docs.microsoft.com/da-DK/dynamics365/release-plans/)、[オランダ語](https://docs.microsoft.com/nl-NL/dynamics365/release-plans/)、[フィンランド語](https://docs.microsoft.com/fi-FI/dynamics365/release-plans/)、[フランス語](https://docs.microsoft.com/fr-FR/dynamics365/release-plans/)、[ドイツ語](https://docs.microsoft.com/de-DE/dynamics365/release-plans/)、[イタリア語](https://docs.microsoft.com/it-IT/dynamics365/release-plans/)、[日本語](https://docs.microsoft.com/ja-JP/dynamics365/release-plans/)、[ノルウェー語](https://docs.microsoft.com/nb-NO/dynamics365/release-plans/)、[ポルトガル語 (ブラジル)](https://docs.microsoft.com/pt-BR/dynamics365/release-plans/)、[スペイン語](https://docs.microsoft.com/es-ES/dynamics365/release-plans/)、[スウェーデン語](https://docs.microsoft.com/sv-SE/dynamics365/release-plans/)で公開されます。|
 |一般提供 |2020 年 4 月 1 日|2020 年リリース ウェーブ 1 の運用環境への展開が開始されます。 地域への展開は 2020 年 5 月 1 日に開始されます。|
 
 2019 年リリース ウェーブ 2 から引き続き、お使いの環境で各機能がどのように有効になるのかを示します。

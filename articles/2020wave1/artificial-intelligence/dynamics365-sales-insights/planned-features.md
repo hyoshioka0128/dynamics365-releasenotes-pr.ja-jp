@@ -3,17 +3,17 @@ title: Dynamics 365 Sales Insights の新機能と予定されている機能 (2
 description: Dynamics 365 Sales Insights で計画されている機能の概要。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 05/05/2020
+ms.date: 06/26/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: raysmith
 dynamics365pdf: true
-ms.openlocfilehash: b4a271c0024df9b86ad0161c92edcdf5cc48f1e8
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 961974fc741c4d696e1d286bb980a30e05096a17
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3349954"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548006"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-sales-insights"></a>Dynamics 365 Sales Insights の新機能と予定されている機能
 
@@ -31,9 +31,9 @@ ms.locfileid: "3349954"
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
- | [より正確なパイプライン予測で得られるメリット](benefit-more-accurate-pipeline-predictions.md) | 管理者、作成者、またはアナリスト、自動的  | 2020 年 6 月| | 
  | [見通し予測で当て推量を取り除く](remove-guesswork-predictive-forecasting.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 | 
  | [予測から隠れた分析情報を見つける](uncover-hidden-insights-forecasts.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 | 
+ | [より正確なパイプライン予測で得られるメリット](benefit-more-accurate-pipeline-predictions.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 6 月 1 日|2020 年 6 月 | 
 
 
 ## <a name="conversation-intelligence"></a>会話インテリジェンス
@@ -62,12 +62,12 @@ ms.locfileid: "3349954"
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
  | [自分の活動レベルを成功した営業案件と比較する - リレーションシップ分析](compare-activity-levels-successful-opportunities--relationship-analytics.md) | 管理者、作成者、またはアナリスト、自動的  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 18 日| | 
- | [世界中で利用可能になった "つながりを探す"](who-knows-whom-now-worldwide.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | -|2020 年 7 月 | 
+ | [世界中で利用可能になった "つながりを探す"](who-knows-whom-now-worldwide.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  | -|2020 年 9 月 | 
 
 
-## <a name="sales-acceleration"></a>営業の加速
+## <a name="sales-acceleration"></a>営業促進
 
-営業の加速の目的は、インサイド販売担当者がよりスマートに販売できるように支援することです。 強力なパイプラインを構築し、コンテキストを提供して、営業リズム全体で自動化された推奨を提示することは、販売プロセスの変革に役立ちます。
+営業促進の目的は、インサイド販売担当者がよりスマートに販売できるように支援することです。 強力なパイプラインを構築し、コンテキストを提供して、営業シーケンス全体で自動化された推奨を提示することは、販売プロセスの変革に役立ちます。
 
  | 機能    | 有効対象    |  パブリック プレビュー | 一般提供 |
  | ---------- | ---------- | :----------: |:----------: |
@@ -84,4 +84,4 @@ ms.locfileid: "3349954"
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Microsoft Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。

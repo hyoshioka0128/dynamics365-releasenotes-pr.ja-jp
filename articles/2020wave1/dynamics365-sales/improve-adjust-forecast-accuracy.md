@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: dandalla
 dynamics365pdf: true
-ms.openlocfilehash: 5880baebd0d7be336c8ab79f56114000cc342731
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 21b8ac51d74861e3c62f84f81529be2fd3c0d100
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3294712"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548558"
 ---
 # <a name="improve-and-adjust-forecast-accuracy"></a>予測精度の改善と調整
 

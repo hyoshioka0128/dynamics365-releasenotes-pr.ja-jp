@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
-ms.openlocfilehash: cda2814b29b7f55268bfa43628293862c4a54160
-ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
+ms.openlocfilehash: ee407f65e61376ac57e58c37a119506b70a9a276
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "3256093"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548318"
 ---
 # <a name="embed-third-party-apps--phase-2"></a>サード パーティのアプリを埋め込む - フェーズ 2
 
@@ -34,7 +34,7 @@ ms.locfileid: "3256093"
 
 **10.0.9 / Platform update 33** フルページ アプリ (Web サイトまたは Power Apps) をセキュリティ ロールに公開する機能を追加しました。  
 
-**10.0.8 / Platform update 32** ユーザーがタブ ページ内に Power App を追加できるのと同じ場所で、特権ユーザーが個人用設定を使用して既存のフォームのタブ ページ内にサード パーティ アプリを埋め込むことができます。 これを容易にするために、個人用設定ツール バーの **Power App の追加**オプションが**アプリの追加**オプションに置き換えられました。 このオプションを選択すると、ユーザーが埋め込むアプリの種類 (Power App や Web サイトなど) を決定できるギャラリー ページが開きます。 標準ではシステム管理者、セキュリティ管理者、および IT マネージャーのみがこの機能にアクセスできることに注意してください。  
+**10.0.8 / Platform update 32** ユーザーがタブ ページ内に Power Apps を追加できるのと同じ場所で、特権ユーザーが個人用設定を使用して既存のフォームのタブ ページ内にサード パーティ アプリを埋め込むことができます。 これを容易にするために、個人用設定ツール バーの **Power App の追加**オプションが**アプリの追加**オプションに置き換えられました。 このオプションを選択すると、ユーザーが埋め込むアプリの種類 (Power Apps や Web サイトなど) を決定できるギャラリー ページが開きます。 標準ではシステム管理者、セキュリティ管理者、および IT マネージャーのみがこの機能にアクセスできることに注意してください。  
 
 この機能は、**保存されているビュー**機能が有効になっていることに依存することに注意してください。
 

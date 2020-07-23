@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: cindyliu
 dynamics365pdf: true
-ms.openlocfilehash: b3609d999a600756ffcf6f569c97256cd9c845ec
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: aab7f9e3a7cd17acf820455a3dfea825e1e3889d
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3294833"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548438"
 ---
 # <a name="work-with-opportunities-in-the-kanban-view"></a>かんばんビューで営業案件を処理する
 

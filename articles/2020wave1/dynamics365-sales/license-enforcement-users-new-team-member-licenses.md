@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: sriknair
 dynamics365pdf: true
-ms.openlocfilehash: fe34fad79be4fcfcd2c26d5465da9583b15c9d0e
-ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
+ms.openlocfilehash: 098f56c6dcb2c340ead4986210a33885d44e37ec
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "3254949"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548522"
 ---
 # <a name="license-enforcement---users-with-new-team-member-licenses"></a>ライセンスの適用 - 新しい Team Member ライセンスを持つユーザー
 

@@ -1,27 +1,27 @@
 ---
 title: メッセージ バーにアクションを埋め込む
-description: ''
+description: メッセージ バーのメッセージに 1 つのアクションを含めることができます。
 author: relnotes
 ms.reviewer: sericks
-ms.date: 03/02/2020
+ms.date: 05/11/2020
 ms.assetid: 42fd36c8-3d5c-ea11-a811-000d3a579c39
 ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 dynamics365pdf: true
-ms.openlocfilehash: 7149c9957d531dfea6512ad7bbd87af180f05e2e
-ms.sourcegitcommit: 2928661abcc468748ffc7c33516ebc8e3cd5d653
+ms.openlocfilehash: 98d8a8c9473964d0a0628dda9be4f53602796768
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "3099210"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3381794"
 ---
 # <a name="embed-actions-in-the-message-bar"></a>メッセージ バーにアクションを埋め込む
-[!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| 2020 年 5 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 1 日|
 
 
 
@@ -41,3 +41,9 @@ ms.locfileid: "3099210"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[メッセージング API - アクション センター、メッセージ バー、メッセージ詳細](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/user-interface/messaging-api-center-bar-details) (ドキュメント)
+<!--docs end-->

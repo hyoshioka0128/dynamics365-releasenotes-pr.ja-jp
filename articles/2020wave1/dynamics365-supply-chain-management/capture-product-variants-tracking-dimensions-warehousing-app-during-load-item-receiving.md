@@ -3,25 +3,25 @@ title: 積荷品目の入庫中に倉庫アプリで製品バリアントと追�
 description: 積荷品目の入庫中に倉庫アプリで製品バリアントと追跡用分析コードをキャプチャする
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 05/05/2020
+ms.date: 06/02/2020
 ms.assetid: 321a9322-7385-ea11-a812-000d3a579c34
 ms.topic: article
 ms.service: business-applications
 ms.author: perlynne
 dynamics365pdf: true
-ms.openlocfilehash: 096c2e59af80337adc42a0e48c9fa9edb2698c00
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: d4883071b036fc8ef05ba4a4a4781c8d21b86800
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350932"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3440371"
 ---
 # <a name="capture-product-variants-and-tracking-dimensions-in-the-warehousing-app-during-load-item-receiving"></a>積荷品目の入庫中に倉庫アプリで製品バリアントと追跡用分析コードをキャプチャする
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 5 月| 2020 年 7 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 29 日| 2020 年 7 月|
 
 
 
@@ -41,3 +41,9 @@ ms.locfileid: "3350932"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[倉庫作業用のモバイル デバイスの設定](https://docs.microsoft.com/dynamics365/supply-chain/warehousing/configure-mobile-devices-warehouse) (ドキュメント)
+<!--docs end-->
