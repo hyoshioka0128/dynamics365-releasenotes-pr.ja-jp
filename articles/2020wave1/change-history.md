@@ -178,7 +178,6 @@ ms.locfileid: "3522871"
 | 機能 |  追加日 |
 |---------|---------------|
 |[インドの在庫移動オーダーでの単価と原価価格の取り扱いの改善](dynamics365-finance/improvements-unit-price-cost-price-handling-stock-transfer-orders-india.md) |  2020 年 5 月 25 日| 
-|[構成可能なビジネス ドキュメント用のバーコード生成データソース](dynamics365-finance/barcode-generation-datasource-configurable-business-documents.md) |  2020 年 5 月 15 日| 
 |[構成可能なビジネス ドキュメントの Word テンプレート](dynamics365-finance/configurable-business-documents-word-templates.md) |  2020 年 5 月 12 日| 
 |[Schedule of Expenditures of Federal Awards の照会](dynamics365-finance/schedule-expenditures-federal-awards-inquiry.md) |  2020 年 4 月 15 日| 
 |[仕入先の前払請求額がゼロより大きいことを確認する](dynamics365-finance/ensure-vendor-prepayment-invoice-amounts-are-greater-than-zero.md) |  2020 年 4 月 15 日| 
