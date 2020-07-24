@@ -3,25 +3,25 @@ title: Customer Service におけるオムニチャネル注文の注文取り�
 description: Customer Service におけるオムニチャネル注文の注文取り消しの改善
 author: relnotes
 ms.reviewer: josaw
-ms.date: 02/18/2020
+ms.date: 05/26/2020
 ms.assetid: 7863278d-615e-e911-a96c-000d3a1c7bbb
 ms.topic: article
 ms.service: business-applications
 ms.author: asharchw
 dynamics365pdf: true
-ms.openlocfilehash: 3790753e9300c9c14badbf4aa6929c09b29a86aa
-ms.sourcegitcommit: e29512e521c19d5542b7c0425a5b3aa83d4bbfdd
+ms.openlocfilehash: 1ae593e275f8549f8d9115453caa66880207f6c3
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "3079843"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3415965"
 ---
 # <a name="improved-order-recall-for-omnichannel-orders-in-customer-service"></a>Customer Service におけるオムニチャネル注文の注文取り消しの改善
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 4 月| 2020 年 7 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 13 日| 2020 年 7 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

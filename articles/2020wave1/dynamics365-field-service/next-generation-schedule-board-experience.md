@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: sampatn
 dynamics365pdf: true
-ms.openlocfilehash: cb3d19edb1671216928c8283c620646ea1e0e431
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: cd297a27ff2d780382d70c0cb5b46f93a612e8b5
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3293920"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548198"
 ---
 # <a name="next-generation-schedule-board-experience"></a>次世代スケジュール ボード エクスペリエンス
 
@@ -33,7 +33,7 @@ ms.locfileid: "3293920"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-スケジュール ボードは、派遣担当者が技術者のスケジュールを設定するための一元化されたスケジューリング機能を提供する強力なツールです。 また、営業担当者やエンジニアなど、さまざまなリソースの作業を計画するために、他の作業ストリームでも使用されます。  パフォーマンス、スケール、セキュリティ、ユーザー エクスペリエンスなど、重要な原則を網羅するすべてのウェーブについて、スケジュール ボードに対する取り組みが行われています。
+スケジュール ボードは、派遣担当者が技術者のスケジュールを設定するための一元化されたスケジューリング機能を提供する強力なツールです。 また、営業担当者やエンジニアなど、さまざまなリソースの作業を計画するために、他の作業ストリームでも使用されます。  パフォーマンス、スケール、セキュリティ、ユーザー エクスペリエンスなど、重要な原則を網羅するすべてのウェーブについて、スケジュール ボードに対する投資が行われています。
 
 これは、スケジュール ボードの完全に新しいバージョンであり、時間単位ビューでのユーザー エクスペリエンスとパフォーマンスの両方が強化されています。 予約の作成にかかる時間と、ボードの初期スケジュールの読み込み時間が、かなり改善されています。 1 日のスケジュール設定エクスペリエンスも簡素化されます。 
 

@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: chmoncay
 dynamics365pdf: true
-ms.openlocfilehash: a8ba9e19a43cac1bf7d4b0175e92cc78ab6aa2c2
-ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
+ms.openlocfilehash: 75aad7d508dd4f9f29226fc8be3ac3d78ddfc9ca
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "3256801"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3547838"
 ---
 # <a name="lookup-filtering-enhancements-in-unified-interface"></a>統一インターフェイスでのルックアップ フィルタリングの強化
 
@@ -26,14 +26,14 @@ ms.locfileid: "3256801"
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
-この統一インターフェイスでの Web クライアントとの機能パリティは、新しいインターフェイスへのシームレスな移行に役立ちます。
+この統一インターフェイスでのレガシ Web クライアントとの機能パリティは、新しいインターフェイスへのシームレスな移行に役立ちます。
 <!-- bv end -->
 
 
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-**自分のレコードのみ**および**関連レコード** チェック ボックスによるフィルタリングを使用してレコードを検索するための Web クライアントの既存のエクスペリエンスが、統一インターフェイスでも利用可能になりました。 これらのチェック ボックスは、ルックアップの**ビューの変更**領域で使用できます。
+**自分のレコードのみ**および**関連レコード** チェック ボックスによるフィルタリングを使用してレコードを検索するためのレガシ Web クライアントの既存のエクスペリエンスが、統一インターフェイスでも利用可能になりました。 これらのチェック ボックスは、ルックアップの**ビューの変更**領域で使用できます。
 <!--feature detail end -->
 
 ![ルックアップのフィルター チェック ボックス](media/advanced-filtering-unified-interface.png "ルックアップのフィルター チェック ボックス")

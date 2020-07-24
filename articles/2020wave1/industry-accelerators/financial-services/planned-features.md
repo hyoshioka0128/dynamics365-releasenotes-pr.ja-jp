@@ -8,16 +8,16 @@ ms.topic: summary
 ms.service: business-applications
 ms.author: lorrainb
 dynamics365pdf: true
-ms.openlocfilehash: 832955c031156027679c33ce9803bc068cbba222
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 66bdff482fc10a6546edc2494adbf35f685e274e
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3293689"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548042"
 ---
 # <a name="whats-new-and-planned-for-financial-services"></a>金融サービス向けの新機能と予定されている機能
 
-このトピックでは、2020 年 4 月から 2020 年 9 月までにリリースが計画されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+このトピックでは、2020 年 4 月から 2020 年 9 月にかけてリリースが計画されている機能の一覧を示します。 このトピックの一覧で示されている機能はまだリリースされていない可能性があるので、**提供タイムラインが変更されたり、予定されている機能がリリースされない場合があります** ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
 機能は**一般提供**列で示されている月内に提供されます。 提供日がその月内のどの日になるかはわかりません。 リリースされた機能には、リリース日を含む完全な日付が表示されます。
 
@@ -35,4 +35,4 @@ ms.locfileid: "3293689"
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Microsoft Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。

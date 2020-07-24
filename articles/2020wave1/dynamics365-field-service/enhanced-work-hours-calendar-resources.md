@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: sampatn
 dynamics365pdf: true
-ms.openlocfilehash: adc8495e2a2bf74edf79db0ceea53dc330b5ba95
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 6b7052ae1999b86ed20deb9e790499d8b44a2f3f
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3294096"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3547742"
 ---
 # <a name="enhanced-work-hours-calendar-for-resources"></a>強化されたリソースの作業時間カレンダー
 

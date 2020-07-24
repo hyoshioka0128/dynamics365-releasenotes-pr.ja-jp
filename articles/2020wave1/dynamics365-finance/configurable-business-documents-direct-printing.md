@@ -2,19 +2,19 @@
 title: '構成可能なビジネス ドキュメント: 直接印刷'
 description: この機能を使用すると、Word、Excel、および PDF ベースの構成の電子申告の送信先に対してプリンターの宛先を選択できます。
 author: relnotes
-ms.reviewer: roschlom
-ms.date: 04/06/2020
+ms.reviewer: kfend
+ms.date: 06/11/2020
 ms.assetid: d04dfadb-9d1b-ea11-a811-000d3a8f0752
 ms.topic: article
 ms.service: business-applications
-ms.author: filatovm
+ms.author: kfend
 dynamics365pdf: true
-ms.openlocfilehash: 14b8eaf0dc704e575f7fc21a63235982070f9d2f
-ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
+ms.openlocfilehash: 9bea95e813e3364dd6157ebc289cae56b53d6ffa
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "3256434"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3487521"
 ---
 # <a name="configurable-business-documents-direct-printing"></a>構成可能なビジネス ドキュメント: 直接印刷
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
@@ -46,3 +46,9 @@ ms.locfileid: "3256434"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[支払に対するコミッション決済](https://docs.microsoft.com/dynamics365/finance/localizations/emea-ita-exil-commission-settlement) (ドキュメント)
+<!--docs end-->

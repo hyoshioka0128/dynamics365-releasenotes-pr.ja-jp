@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: jacoh
 dynamics365pdf: true
-ms.openlocfilehash: a4c2a8270363946bbdf948c663d0769c11db7831
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 67f4929ffaf331ca6ba0eba6e1be32aad5c5f3f0
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3293909"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548222"
 ---
 # <a name="leveraging-power-automate-flows"></a>Power Automate フローの利用
 

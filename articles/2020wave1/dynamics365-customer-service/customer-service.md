@@ -3,18 +3,18 @@ title: Customer Service
 description: Customer Service により、すべての組織は、徹底したケース管理と効率的な問題解決を保証する専用ツールを使用して、最高のカスタマー エクスペリエンスと結果を提供できます。
 author: relnotes
 ms.reviewer: shubhadaj
-ms.date: 04/29/2020
+ms.date: 05/07/2020
 ms.assetid: 158b270f-6a33-ea11-a810-000d3a8f010c
 ms.topic: structure
 ms.service: business-applications
 ms.author: srreddy
 dynamics365pdf: true
-ms.openlocfilehash: 545c749774fa6b4ef4adbc1c82d1c758374ab8d9
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: fabae3d5b6c8b0bd12ebf9293111523b4d7b3839
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350537"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3441009"
 ---
 # <a name="customer-service"></a>Customer Service
 

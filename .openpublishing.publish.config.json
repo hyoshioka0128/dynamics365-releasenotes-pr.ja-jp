@@ -4,7 +4,7 @@
       "docset_name": "dynamics365-release-notes",
       "build_source_folder": "articles",
       "build_output_subfolder": "dynamics365-release-notes",
-      "locale": "ja-JP",
+      "locale": "ja-jp",
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": false,
@@ -26,13 +26,28 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft.ja-JP",
+      "url": "https://github.com/Microsoft/templates.docs.msft.ja-jp",
+      "branch": "master",
+      "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_themes.pdf",
+      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
       "branch": "master",
       "branch_mapping": {}
     }
   ],
-  "branch_target_mapping": {},
+  "branch_target_mapping": {
+    "live": [
+      "Publish"
+    ]
+  },
   "need_generate_pdf_url_template": false,
+  "targets": {
+    "pdf": {
+      "template_folder": "_themes.pdf"
+    }
+  },
   "docs_build_engine": {
     "name": "docfx_v3"
   }

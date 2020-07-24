@@ -3,25 +3,25 @@ title: Business Central 14.x オンプレミスから Business Central 15.x オ�
 description: Business Central 2019 年 4 月オンプレミスを使用している顧客は、Business Central 2019 年リリース ウェーブ 2 オンラインに移行することが可能です。
 author: relnotes
 ms.reviewer: edupont
-ms.date: 04/15/2020
+ms.date: 06/15/2020
 ms.assetid: ba18ffbc-4aca-e911-a996-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: jenolson
 dynamics365pdf: true
-ms.openlocfilehash: 4d07445a9910ad57898a8abd13bae22725c9e88d
-ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
+ms.openlocfilehash: fb6cd652eb083a6cc04cb82cf6b5ce85aeddd0d2
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "3273425"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3487953"
 ---
 # <a name="migrate-data-from-business-central-14x-on-premises-to-business-central-15x-online"></a>Business Central 14.x オンプレミスから Business Central 15.x オンラインにデータを移行する
 
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 6 月 1 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 6 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

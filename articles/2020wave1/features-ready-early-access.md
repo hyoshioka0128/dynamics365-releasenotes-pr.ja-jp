@@ -3,22 +3,21 @@ title: 早期アクセスに利用可能な 2020 年リリース ウェーブ 1 
 description: 2020 年 2 月 3 日以降にご使用の環境で有効にできる機能の一覧を示します
 author: relnotes
 ms.reviewer: relnotes
-ms.date: 05/05/2020
+ms.date: 06/26/2020
 ms.assetid: ''
 ms.topic: article
 ms.author: relnotes
 ms.service: business-applications
-ms.openlocfilehash: 6047ebb3c65ae6b6dd49241bf146746202a4f167
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: cb81e663e54433a99c7751d6edbfa0586418f3c4
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350031"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548510"
 ---
 # <a name="2020-release-wave-1-features-available-for-early-access"></a>早期アクセスに利用可能な 2020 年リリース ウェーブ 1 の機能
 
 このトピックでは、**2020 年 2 月 3 日**以降にご使用の環境でのテストのために有効にできる機能の一覧を示します。
-
 早期アクセスの一環として、次のアプリの機能を使用できます。
 
 - Dynamics 365 Marketing
@@ -36,7 +35,7 @@ ms.locfileid: "3350031"
   
 
 > [!IMPORTANT]
-> UCI または Power Automate を使用している場合は、ユーザーに影響を与える可能性のある早期アクセス機能が存在することがあります。 Microsoft Power Platform の早期アクセス機能については、「[早期アクセスに利用可能な 2020 年リリース ウェーブ 1 の機能](https://aka.ms/PowerPlatformEAFeatures)」を参照してください。
+> 統一インターフェイスまたは Power Automate を使用している場合は、ユーザーに影響を与える可能性のある早期アクセス機能が存在することがあります。 Microsoft Power Platform の早期アクセス機能については、「[早期アクセスに利用可能な 2020 年リリース ウェーブ 1 の機能](https://aka.ms/PowerPlatformWave1EAFeatures)」を参照してください。
 
 
 
@@ -96,7 +95,7 @@ Dynamics 365 Field Service の機能の完全なリストについては、「[D
  | [強化されたリソースの作業時間カレンダー](dynamics365-field-service/enhanced-work-hours-calendar-resources.md) | エンド ユーザー、自動的 | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 |
 | [統合された技術者の時間追跡](dynamics365-field-service/integrated-technician-time-tracking.md) | エンド ユーザー、自動的 | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 |
 | [効率的なワークフローのための要件の依存関係](dynamics365-field-service/requirement-dependency-efficient-workflow.md) | エンド ユーザー、自動的 | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 |
-| [リソース スケジュール ダッシュボード](dynamics365-field-service/resource-scheduling-dashboard.md) | エンド ユーザー、自動的 | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日  | 2020 年 4 月 |
+| [リソース スケジュール ダッシュボード](dynamics365-field-service/resource-scheduling-dashboard.md) | エンド ユーザー、自動的 | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 20 日 |
 
 
 
@@ -198,7 +197,7 @@ Dynamics 365 Business Central の機能の完全なリストについては、�
  | [AL インターフェイス](dynamics365-business-central/al-interfaces.md) | 管理者、作成者、またはアナリスト、自動的 | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 2 日 |
 | [ベース アプリケーションのエイリアス用のアプリケーション バージョン](dynamics365-business-central/application-version-aliasing-base-application.md) | 管理者、作成者、またはアナリスト、自動的 | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 |
 | [定期的な販売と購買注文明細行の自動挿入](dynamics365-business-central/auto-insert-recurring-sales-purchase-lines.md) | エンド ユーザー、自動的 | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 |
-| [口座調整の改善](dynamics365-business-central/bank-reconciliation-improvements.md) | エンド ユーザー、自動的 | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日  | 2020 年 6 月 |
+| [口座調整の改善](dynamics365-business-central/bank-reconciliation-improvements.md) | エンド ユーザー、自動的 | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日  | 2020 年 7 月 |
 | [Business Central と Common Data Service の統合](dynamics365-business-central/business-central-integration-common-data-service.md) | エンド ユーザー、自動的 | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 2 日 |
 | [ブラウザーで利用可能なカメラ/位置 AL API](dynamics365-business-central/cameralocation-al-api-browser.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化 | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 |
 | [ドキュメント行の折りたたみと展開](dynamics365-business-central/collapse-expand-document-lines.md) | エンド ユーザー、自動的 | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 1 日  | ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 |

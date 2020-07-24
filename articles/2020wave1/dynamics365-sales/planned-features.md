@@ -3,17 +3,17 @@ title: Dynamics 365 Sales の新機能と予定されている機能 (2020 年�
 description: Dynamics 365 Sales で計画されている機能の概要。
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 05/05/2020
+ms.date: 05/27/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: raysmith
 dynamics365pdf: true
-ms.openlocfilehash: 246851ed33ec6c25e8206952addfecdfdd4bd4e9
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: e19376da745bcf988863905530f1dcb10bdf549f
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3349712"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548474"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-sales"></a>Dynamics 365 Sales の新機能と予定されている機能
 
@@ -42,7 +42,7 @@ Dynamics 365 Sales は採用率の高い営業ツールであり、重要な営�
 
  | 機能    | 有効対象    |  パブリック プレビュー | 早期アクセス* | 一般提供 |
  | ---------- | ---------- | :----------: |:-----------:|:----------: |
- | [ライセンスの適用 – 新しい Team Member ライセンスを持つユーザー](license-enforcement-users-new-team-member-licenses.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 | 
+ | [ライセンスの適用 - 新しい Team Member ライセンスを持つユーザー](license-enforcement-users-new-team-member-licenses.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 | 
 
 
 ## <a name="simplified-experiences"></a>簡素化されたエクスペリエンス
@@ -58,7 +58,7 @@ Dynamics 365 Sales を向上させるための取り組みとして、Microsoft 
  | [営業チーム メンバー アプリ モジュール](sales-team-member-app-module.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 | 
  | [Dynamics 365 Sales や Microsoft SharePoint に標準化された PDF ドキュメントを保存する](save-standardized-pdf-documents-dynamics-365-sales-or-sharepoint.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 | 
  | [かんばんビューで営業案件を処理する](work-opportunities-kanban-view.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 | 
- | [営業案件に製品を追加するエクスペリエンスの強化](enhanced-experience-adding-products.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|-|2020 年 7 月 | 
+ | [営業案件に製品を追加するエクスペリエンスの強化](enhanced-experience-adding-products.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|-|2020 年 9 月 | 
 
 \* エンド ユーザーに影響するすべての必須の変更など、一部の機能は 2020 年 2 月 3 日に早期アクセスの一部としてオプトインできるようになります。 [早期アクセス](https://aka.ms/EarlyAccessFAQ) の詳細を確認してください。
 
@@ -70,4 +70,4 @@ Dynamics 365 Sales を向上させるための取り組みとして、Microsoft 
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。  地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Microsoft Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。

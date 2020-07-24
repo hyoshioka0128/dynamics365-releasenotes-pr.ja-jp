@@ -3,18 +3,18 @@ title: クロス アプリ機能
 description: ''
 author: relnotes
 ms.reviewer: ''
-ms.date: 04/28/2020
+ms.date: 06/19/2020
 ms.assetid: 9e6abc3b-76c8-e911-a968-000d3a4f3883
 ms.topic: structure
 ms.service: business-applications
 ms.author: robadawy
 dynamics365pdf: true
-ms.openlocfilehash: 61bc5df1cbedac866a3ac6b21797c22cdeb245ef
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 15d2457ef04ef7c5de65920707f4286172158158
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350042"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3522823"
 ---
 # <a name="cross-app-features"></a>クロス アプリ機能
 

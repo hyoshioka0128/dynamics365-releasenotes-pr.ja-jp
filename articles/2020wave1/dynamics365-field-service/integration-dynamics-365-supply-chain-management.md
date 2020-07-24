@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: jacoh
 dynamics365pdf: true
-ms.openlocfilehash: e42b9c91b50752b34b035d2148c4a041fdb3b107
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 2e0399505100e9505e2f0cc7f9810ad6ad93de22
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3294041"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3547814"
 ---
 # <a name="integration-with-dynamics-365-supply-chain-management"></a>Dynamics 365 Supply Chain Management の統合
 

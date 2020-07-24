@@ -3,18 +3,18 @@ title: Dynamics 365 Customer Service の 2020 年リリース ウェーブ 1 の
 description: Dynamics 365 Customer Service の 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: shujoshi
-ms.date: 05/04/2020
+ms.date: 05/07/2020
 ms.assetid: 3dbfe61e-b435-ea11-a813-000d3a579c35
 ms.topic: overview
 ms.service: business-applications
 ms.author: eichimur
 dynamics365pdf: true
-ms.openlocfilehash: 2444f022b6eb9c4f7074be95cfb9c911320c7cdb
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: bb7077de2b0996c36c26dd86256e7e6149ab3f0c
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350471"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3441438"
 ---
 # <a name="overview-of-dynamics-365-customer-service-2020-release-wave-1"></a>Dynamics 365 Customer Service の 2020 年リリース ウェーブ 1 の概要
 [!include[dynamics365-customer-service banner](../includes/dynamics365-customer-service.md)]
@@ -30,5 +30,5 @@ Dynamics 365 Customer Service は顧客サポートのエンド ツー エンド
 
 次のセクションでは、これらの領域でリリースされている特定の機能の詳細について説明します。
 
-[リリースの概要のビデオをご覧ください](https://aka.ms/Overview/2020RW1/CS)
+[リリースの概要のビデオをご覧ください。](https://aka.ms/Overview/2020RW1/CS)
 <!--overview end-->

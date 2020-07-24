@@ -3,18 +3,18 @@ title: 予測
 description: Dynamics 365 Sales の予測に新しい一連の機能を導入し、組織がボトムアップの売上予測プロセスをネイティブで作成して管理できるようにします。
 author: relnotes
 ms.reviewer: shubhadaj
-ms.date: 04/29/2020
+ms.date: 05/07/2020
 ms.assetid: 11fc578d-dcd4-e911-a968-000d3a4f3883
 ms.topic: structure
 ms.service: business-applications
 ms.author: ronik
 dynamics365pdf: true
-ms.openlocfilehash: 817819a5662b8bd46f93add1472cd0aeb6ba5c22
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 8b63d51efe9044456b421564a96a15a9816960f7
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350559"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3415657"
 ---
 # <a name="forecasting"></a>予測
 

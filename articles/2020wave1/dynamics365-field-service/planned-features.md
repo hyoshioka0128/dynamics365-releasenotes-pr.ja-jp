@@ -3,17 +3,17 @@ title: Dynamics 365 Field Service の新機能と予定されている機能 (20
 description: Dynamics 365 Field Service で計画されている機能の概要。
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 05/05/2020
+ms.date: 05/27/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: jeffcom
 dynamics365pdf: true
-ms.openlocfilehash: 90691c616fbbb7abde195ffce40c1df807204bd1
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 899f0cf4e833ba3d841e8218e735bd6f1161a776
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350636"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548186"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-field-service"></a>Dynamics 365 Field Service の新機能と予定されている機能
 
@@ -57,7 +57,7 @@ ms.locfileid: "3350636"
  | [次世代スケジュール ボード エクスペリエンス](next-generation-schedule-board-experience.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日|-| | 
  | [強化されたリソースの作業時間カレンダー](enhanced-work-hours-calendar-resources.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 | 
  | [効率的なワークフローのための要件の依存関係](requirement-dependency-efficient-workflow.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 | 
- | [リソース スケジュール ダッシュボード](resource-scheduling-dashboard.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|2020 年 4 月 | 
+ | [リソース スケジュール ダッシュボード](resource-scheduling-dashboard.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 20 日 | 
 
 
 ## <a name="technician-success"></a>技術者の成功
@@ -69,7 +69,7 @@ ms.locfileid: "3350636"
  | [Field Service の検査](field-service-inspections.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 29 日|-| | 
  | [統合された技術者の時間追跡](integrated-technician-time-tracking.md) | エンド ユーザー、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 | 
  | [技術者の時間キャプチャの精度](technician-time-capture-precision.md) | 管理者、作成者、またはアナリスト、自動的  |-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 | 
-| [Microsoft Power Apps プラットホームに構築された Field Service Mobile](field-service-mobile-built-power-apps-platform.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |  -|- |2020 年 5 月 | 
+ | [Microsoft Power Apps プラットホームに構築された Field Service Mobile](field-service-mobile-built-power-apps-platform.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化  |-|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 1 日 | 
 
 \* エンド ユーザーに影響するすべての必須の変更など、一部の機能は 2020 年 2 月 3 日に早期アクセスの一部としてオプトインできるようになります。 [早期アクセス](https://aka.ms/EarlyAccessFAQ) の詳細を確認してください。
 
@@ -81,4 +81,4 @@ ms.locfileid: "3350636"
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。  地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Microsoft Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。

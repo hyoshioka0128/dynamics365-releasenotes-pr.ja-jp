@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: dandalla
 dynamics365pdf: true
-ms.openlocfilehash: 98f3cd573a21b7dbb2d82c2a1b8199a33d1f10ed
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 0a018a947b85f744b1ddf196db5fcfeb15ec8ba7
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3349690"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548450"
 ---
 # <a name="understand-forecasts-with-precision-pipeline-management"></a>高精度パイプライン管理で予測を理解する
 

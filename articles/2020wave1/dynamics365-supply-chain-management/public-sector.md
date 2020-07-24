@@ -3,18 +3,18 @@ title: 公的機関
 description: ''
 author: relnotes
 ms.reviewer: ''
-ms.date: 04/03/2020
+ms.date: 06/19/2020
 ms.assetid: a781300c-43c8-e911-a968-000d3a4f3883
 ms.topic: structure
 ms.service: business-applications
 ms.author: mswami
 dynamics365pdf: true
-ms.openlocfilehash: 1f63b8c7c87295427a13528c07bd595e9a63af4e
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 5a3b7079f1a7d12d83b592a133d47b5fafa81b59
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350917"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3523111"
 ---
 # <a name="public-sector"></a>公的機関
 

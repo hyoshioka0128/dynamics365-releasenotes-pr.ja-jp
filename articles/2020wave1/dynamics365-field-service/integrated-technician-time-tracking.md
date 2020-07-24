@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: jacoh
 dynamics365pdf: true
-ms.openlocfilehash: a742b0c185656ebbdc5279718dfac6c122827505
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 875a36911205cdadf81a1bed98aef80716e6531b
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3294052"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3547790"
 ---
 # <a name="integrated-technician-time-tracking"></a>統合された技術者の時間追跡
 

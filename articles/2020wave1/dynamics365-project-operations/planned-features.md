@@ -3,17 +3,17 @@ title: Dynamics 365 Project Operations の新機能と予定されている機�
 description: Dynamics 365 Project Operations に対して計画されている機能の概要。
 author: relnotes
 ms.reviewer: ''
-ms.date: 04/24/2020
+ms.date: 06/26/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: msalam
 dynamics365pdf: true
-ms.openlocfilehash: d4cd977358c80e25a41bca96132af6f828c9e7a9
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 39d60fe9dcef0df584ba4deca4423cea8a19aa49
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3294756"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548595"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-project-operations"></a>Dynamics 365 Project Operations の新機能と予定されている機能
 
@@ -25,11 +25,10 @@ ms.locfileid: "3294756"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  一般提供 | 
 | ---------- |---------------- | :---------------: |:--------------: |
- | [公的機関 - 資金調達ソースによるプロジェクト仮発行請求書の選択パラメーター](public-sector--project-invoice-proposal-selection-parameter-funding-source.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化 | -|2020 年 8 月 | 
+| [公的機関 - 資金調達ソースによるプロジェクト仮発行請求書の選択パラメーター](public-sector--project-invoice-proposal-selection-parameter-funding-source.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化| -|2020 年 8 月 | 
 | [Dynamics 365 Project Operations のリソース ベースのプロジェクトのプロジェクト会計機能の強化](enhanced-project-accounting-capabilities-resource-based-project-dynamics-365-project-operations.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化| 2020 年 6 月|近日発表 | 
 | [プロジェクト管理機能](project-management-capabilities.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化| 2020 年 6 月|近日発表 | 
 | [プロジェクト営業の機能拡張](project-sales-enhancements.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化| 2020 年 6 月|近日発表 | 
-| [Dynamics 365 Project Operations の在庫ベースのプロジェクトのプロジェクト会計機能の強化](enhanced-project-accounting-capabilities-inventory-based-projects-dynamics-365-project-operations.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化| 2020 年 9 月|近日発表 | 
 
 **有効対象**列の値の説明:
 
@@ -39,4 +38,4 @@ ms.locfileid: "3294756"
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。  地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Microsoft Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。

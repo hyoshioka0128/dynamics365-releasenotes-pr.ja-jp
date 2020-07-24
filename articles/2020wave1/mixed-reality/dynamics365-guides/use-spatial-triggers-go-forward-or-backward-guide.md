@@ -3,25 +3,25 @@ title: 空間トリガーを使用してガイド内を前後に移動する
 description: 空間トリガーは、作成者が他のホログラムと同じように配置する 3D ホログラムです。 空間トリガーには 2 つの種類があります。 ボリューム トリガーは、作成者には半透明ですが、オペレーターには見えません。 オペレーターの手がこのタイプのトリガーに当たると、トリガーのタイプに応じて、ガイドが次の手順または前の手順に自動的に進みます。 ユーザーにはフィードバックが提供されます。 2 番目のタイプは、事前構築された [次へ] および [戻る] ホログラフィック ボタンです。 オペレーターはこれらのホログラフィック ボタンを押して、ガイドの次または前の手順に移動できます。 どちらのタイプのトリガーでも、オペレーターは指示カードの [次へ] または [戻る] ボタンを見つめる必要なくガイド内を移動できます。 作成者はそれらをワークフローのコンテキストに配置して、ワークフローを合理化し、オペレーターのアクションの効率を高めることができます。
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 03/25/2020
+ms.date: 06/23/2020
 ms.assetid: 16091b82-e568-ea11-a811-000d3a579c38
 ms.topic: article
 ms.service: business-applications
-ms.author: makamat
+ms.author: ced0b72de69f45f4be8659189c8fb9d1makamat
 dynamics365pdf: true
-ms.openlocfilehash: dfeb05e12390a2ed1fecdf5a7425e6cceb0202a9
-ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
+ms.openlocfilehash: 605749e350a926b4dad4ed2422380c93bc1910be
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "3219687"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3522259"
 ---
 # <a name="use-spatial-triggers-to-go-forward-or-backward-in-a-guide"></a>空間トリガーを使用してガイド内を前後に移動する
 [!include[mixed-reality/dynamics365-guides banner](../includes/mixed-reality/dynamics365-guides.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、自動的|-| 2020 年 7 月|
+|エンド ユーザー、自動的|-| 2020 年 8 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -37,8 +37,9 @@ ms.locfileid: "3219687"
  
 オペレーターには見えない汎用の空間トリガーに加えて、作成者は、事前構築された**次へ**および**戻る**ホログラフィック ボタンを他のすべてのホログラムと同じように空間に配置できます。
 
-> ![メモ] オペレーターは空間トリガーのオンとオフを切り替えることができます。
-> <!--feature detail end -->
+> [!NOTE]
+> オペレーターは空間トリガーのオンとオフを切り替えることができます。
+<!--feature detail end -->
 
 
 

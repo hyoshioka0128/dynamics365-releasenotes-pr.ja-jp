@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: dandalla
 dynamics365pdf: true
-ms.openlocfilehash: 01fc98a30814e79c16904e609d64e90dd01557ae
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 15307e79467da4b2686a635a6ed4ab8cfc4771ec
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3294745"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548582"
 ---
 # <a name="customize-forecast-models"></a>予測モデルのカスタマイズ
 

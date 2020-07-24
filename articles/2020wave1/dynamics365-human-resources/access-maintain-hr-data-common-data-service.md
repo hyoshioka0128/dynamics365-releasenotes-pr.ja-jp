@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: dkrame
 dynamics365pdf: true
-ms.openlocfilehash: bbf43284ec8885db985b3f54e52c2796f3d35488
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: 26e9129660f69a3231572e846b0ebbff04134ebd
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3031651"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548258"
 ---
 # <a name="ongoing-additions-to-human-resources-data-in-common-data-service"></a>Common Data Service 内の Human Resources データへの継続的な追加
 [!include[dynamics365-human-resources banner](../includes/dynamics365-human-resources.md)]

@@ -3,18 +3,18 @@ title: サービスの基本
 description: ''
 author: relnotes
 ms.reviewer: edupont04
-ms.date: 04/28/2020
+ms.date: 06/19/2020
 ms.assetid: f15cdc3a-27cb-e911-a996-000d3a4f3343
 ms.topic: structure
 ms.service: business-applications
 ms.author: jannikb
 dynamics365pdf: true
-ms.openlocfilehash: 0b2fdd561e169cc35423335a429da465d5509b3f
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 93cf170be0d9dce3454ec8f6787f85c88ac75ffa
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350174"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3523015"
 ---
 # <a name="service-fundamentals"></a>サービスの基本
 

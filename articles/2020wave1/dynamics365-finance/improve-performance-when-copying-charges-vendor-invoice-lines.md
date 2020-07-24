@@ -3,25 +3,25 @@ title: 仕入先請求書明細行に請求金額をコピーする場合のパ�
 description: この機能により、発注書明細行から仕入先請求書明細行への請求金額のコピーが高速になります。
 author: relnotes
 ms.reviewer: roschlom
-ms.date: 04/09/2020
+ms.date: 05/11/2020
 ms.assetid: 0a2ba767-ab4d-ea11-a812-000d3a579c39
 ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: 6548ca6b67ce503b2645034d627b6264f59889f9
-ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
+ms.openlocfilehash: 5f4f5dc54f719b6c73add265a135c306b0ee0537
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "3273480"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3381257"
 ---
 # <a name="improve-performance-when-copying-charges-to-vendor-invoice-lines"></a>仕入先請求書明細行に請求金額をコピーする場合のパフォーマンスを向上させる
-[!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| 2020 年 5 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 8 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

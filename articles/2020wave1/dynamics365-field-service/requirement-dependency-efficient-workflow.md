@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: ragguru
 dynamics365pdf: true
-ms.openlocfilehash: 3d6bee05ba31e195a9c1e9d1d950d2c751f5d3e2
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 145e3a4c80a5a16a52f0ff5e7614f2a074a03061
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3294030"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548174"
 ---
 # <a name="requirement-dependency-for-efficient-workflow"></a>効率的なワークフローのための要件の依存関係
 

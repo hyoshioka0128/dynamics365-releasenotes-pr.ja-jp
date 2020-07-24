@@ -3,25 +3,25 @@ title: Automotive Accelerator
 description: Automotive Accelerator
 author: relnotes
 ms.reviewer: deonhe
-ms.date: 04/22/2020
+ms.date: 06/01/2020
 ms.assetid: b58a6c5f-d51a-ea11-a811-000d3a8f0752
 ms.topic: article
 ms.service: business-applications
 ms.author: snagy
 dynamics365pdf: true
-ms.openlocfilehash: 1a6745ecc52209edcc5ff7ebf3c724166f907415
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 0c3688094c707536b8cf544e037225cb4e2af7a7
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3293425"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3441559"
 ---
 # <a name="automotive-accelerator"></a>Automotive Accelerator
-[!include[industry-accelerators/automotive banner](../includes/industry-accelerators/automotive.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| 2020 年 5 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 27 日|
 
 
 

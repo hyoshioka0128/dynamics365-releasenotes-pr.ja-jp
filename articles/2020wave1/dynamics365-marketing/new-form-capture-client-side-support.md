@@ -3,25 +3,25 @@ title: 新しいフォームの取得とクライアント側サポート
 description: サード パーティ Web サイトからのフォームの取得が、Dynamics 365 Marketing で一般提供されます。
 author: relnotes
 ms.reviewer: alfergus
-ms.date: 05/01/2020
+ms.date: 05/13/2020
 ms.assetid: d3b79bae-f579-ea11-a812-000d3a579c39
 ms.topic: article
 ms.service: business-applications
 ms.author: defnea
 dynamics365pdf: true
-ms.openlocfilehash: 000796b67daa86b0d8a8b16b287eb7760eb2b951
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: c9ee46c545149146d9f15c778693241d482e18eb
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350581"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3380905"
 ---
 # <a name="new-form-capture-and-client-side-support"></a>新しいフォームの取得とクライアント側サポート
-[!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 早期アクセス | 一般提供 | 
 | ---------- | :----------: |:----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| 2020 年 5 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -49,3 +49,9 @@ ms.locfileid: "3350581"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[新規外部フォームの取得](https://docs.microsoft.com/dynamics365/marketing/embed-forms#capture-a-new-external-form) (ドキュメント)
+<!--docs end-->

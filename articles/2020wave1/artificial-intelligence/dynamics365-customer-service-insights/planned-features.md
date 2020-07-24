@@ -8,12 +8,12 @@ ms.topic: summary
 ms.service: business-applications
 ms.author: jeffcom
 dynamics365pdf: true
-ms.openlocfilehash: ba993902a3f86bf17908554b6f68e98442f4f9c8
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: d7596cf8a90a3ba9d3a327c8dd60a47ca579b509
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3349866"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548114"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-customer-service-insights"></a>Dynamics 365 Customer Service Insights の新機能と予定されている機能
 
@@ -39,4 +39,4 @@ ms.locfileid: "3349866"
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。  地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。  地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Microsoft Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。

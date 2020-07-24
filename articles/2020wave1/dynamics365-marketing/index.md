@@ -3,18 +3,18 @@ title: Dynamics 365 Marketing 2020 年リリース ウェーブ 1 の概要
 description: Dynamics 365 Marketing 2020 年リリース ウェーブ 1 の概要
 author: jain-shailesh
 ms.reviewer: kamaybac
-ms.date: 05/05/2020
+ms.date: 06/19/2020
 ms.assetid: d3915f9e-1dce-e911-a996-000d3a4f3343
 ms.topic: overview
 ms.service: business-applications
 ms.author: shjain
 dynamics365pdf: true
-ms.openlocfilehash: 67d10e54561abcbfff68cc16731893d1370fb285
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 0da02b0914dcf67acd0151b8c8c053092d4e4141
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350592"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3522991"
 ---
 # <a name="overview-of-dynamics-365-marketing-2020-release-wave-1"></a>Dynamics 365 Marketing 2020 年リリース ウェーブ 1 の概要
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
@@ -31,5 +31,5 @@ Dynamics 365 Marketing は、企業が Microsoft の資産を活用しながら�
 - **統合と適応性**: イベント フォームをサードパーティのコンテンツ管理システムと統合できるようになり、アプリケーションがより強力になりました。また、調査の管理に Microsoft Forms Pro のエクスペリエンスを導入しました。  
 - **パフォーマンスとスケーラビリティ**: 基本機能への継続的な投資により、キャンペーンの実施と電子メール マーケティングのパフォーマンス、スケーラビリティ、スループットを向上します。 このアプリケーションは、登録解除の改善、フィッシングの防止、アクセシビリティの向上などを提供します。
 
-[リリースの概要のビデオをご覧ください](https://aka.ms/Overview/2020RW1/Marketing)
+[リリースの概要のビデオをご覧ください。](https://aka.ms/Overview/2020RW1/Marketing)
 <!--overview end-->

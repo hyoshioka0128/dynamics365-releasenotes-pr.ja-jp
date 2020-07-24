@@ -1,27 +1,27 @@
 ---
 title: Finance and Operations アプリのデータを Common Data Model で記述する
-description: テーブルやエンティティを含む Finance and Operations アプリのすべてのデータが、Common Data Model で記述されます
+description: テーブルやエンティティを含む Finance and Operations アプリのすべてのデータが、Common Data Model で記述されます。
 author: relnotes
 ms.reviewer: kfend
-ms.date: 01/14/2020
+ms.date: 05/11/2020
 ms.assetid: 1b434b83-30cc-e911-a996-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: milindav
 dynamics365pdf: true
-ms.openlocfilehash: da9b00b3697c4a2b82e711a902f54764cd24ff22
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 7c065cac2565d02b5df9d22aaab605c89074c73a
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986719"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548306"
 ---
-# <a name="finance-and-operations-apps-data-is-described-in-the-common-data-model"></a>Finance and Operations アプリのデータを Common Data Model で記述する
-[!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
+# <a name="finance-and-operations-apps-data-is-described-in-common-data-model"></a>Finance and Operations アプリのデータを Common Data Model で記述する
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| 2020 年 5 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

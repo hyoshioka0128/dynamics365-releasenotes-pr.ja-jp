@@ -3,18 +3,18 @@ title: Business Central 管理センターでの AppSource アプリの更新プ
 description: Business Central 管理センターでは、[アプリの管理] ページでアプリの更新プログラムを検出してインストールできるようになりました。
 author: relnotes
 ms.reviewer: jswymer
-ms.date: 04/16/2020
+ms.date: 06/15/2020
 ms.assetid: fcd16ef0-cc6d-ea11-a811-000d3a579c39
 ms.topic: article
 ms.service: business-applications
 ms.author: dmitrych
 dynamics365pdf: true
-ms.openlocfilehash: c46c99d2b5b9594aca219e2b68f81232b97c7dd3
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 0c567ae82c2734235737a64a589acb6c2a9e7a32
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3293755"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3487977"
 ---
 # <a name="installing-appsource-apps-updates-in-the-business-central-administration-center"></a>Business Central 管理センターでの AppSource アプリの更新プログラムのインストール
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]

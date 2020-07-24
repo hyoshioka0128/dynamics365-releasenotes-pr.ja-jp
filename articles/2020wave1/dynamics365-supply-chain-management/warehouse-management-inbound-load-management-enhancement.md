@@ -3,25 +3,25 @@ title: 入庫積荷管理の機能強化
 description: 入庫積荷管理の機能強化
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 04/17/2020
+ms.date: 06/02/2020
 ms.assetid: 3ba85dcc-b159-ea11-a811-000d3a579c39
 ms.topic: article
 ms.service: business-applications
 ms.author: perlynne
 dynamics365pdf: true
-ms.openlocfilehash: 525e16a902d6640d4f4517e2b2a7ad7565979435
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 21e2cd09f9c34651a0c4763866d62f9e840950e6
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3293150"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3440789"
 ---
 # <a name="inbound-load-management-enhancement"></a>入庫積荷管理の機能強化
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 17 日| 2020 年 5 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 17 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 26 日|
 
 
 
@@ -30,7 +30,7 @@ ms.locfileid: "3293150"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-この機能により、発注書に対する入庫積荷の倉庫処理プロセスいくつかの機能強化が追加されます。 これらの機能強化によって、独立系ソフトウェア ベンダー (ISV) は積荷エンティティと統合するときに、より堅牢なソリューションを構築できます。
+この機能により、発注書に対する入庫積荷の倉庫処理プロセスにいくつかの機能強化が追加されます。 これらの機能強化によって、独立系ソフトウェア ベンダー (ISV) は積荷エンティティと統合するときに、より堅牢なソリューションを構築できます。
 
 ### <a name="enhancements-added-in-release-10011"></a>リリース 10.0.11 で追加された機能強化
 

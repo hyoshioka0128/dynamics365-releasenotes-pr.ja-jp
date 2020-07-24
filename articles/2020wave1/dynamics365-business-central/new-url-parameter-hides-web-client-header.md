@@ -3,25 +3,25 @@ title: 新しい URL パラメーターによって Web クライアントのヘ
 description: URL の新しいパラメーターによってクライアントのヘッダーを非表示にする
 author: mikebcMSFT
 ms.reviewer: jswymer
-ms.date: 04/20/2020
+ms.date: 06/10/2020
 ms.assetid: 2f7a3732-0b6d-ea11-a811-000d3a579c39
 ms.topic: article
 ms.service: business-applications
 ms.author: mikebc
 dynamics365pdf: true
-ms.openlocfilehash: a4d15f98009da1967d4009e7fc2e67e39cbece74
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: d612304fb857553c71152f4a75ffe72d11b11f98
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3294261"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3487678"
 ---
 # <a name="new-url-parameter-hides-web-client-header"></a>新しい URL パラメーターによって Web クライアントのヘッダーを非表示にする
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 17 日| 2020 年 6 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 17 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 6 月 10 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -33,14 +33,16 @@ Business Central Web クライアントは、さまざまな UI 統合のニー�
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-開発者と管理者が Web クライアントで Office 365 ヘッダーを非表示にできるように、Business Central にアクセスするための URL で新しい **showHeader** パラメーターがサポートされます。
+開発者と管理者が Web クライアントで Microsoft 365 ヘッダーを非表示にできるように、Business Central にアクセスするための URL で新しい **showHeader** パラメーターがサポートされます。
 
-これは、次のようなさまざまな制御された統合シナリオでユーザー エクスペリエンスを向上させるために使用できます。
+このパラメーターは、次のようなさまざまな制御された統合シナリオでユーザー エクスペリエンスを向上させるために使用できます。
 
 - 他の Web アプリケーションに Business Central Web クライアントを埋め込む。
 - 画面の大部分を占めるよう意図されたクライアント コントロール アドイン用に、より多くの画面スペースを解放する。
 
-これは、より焦点を絞ったスペースを作成するためにUI 内の要素を取り除く他の URL パラメーターと同様に動作します。 ヘッダーを非表示にすると、ユーザーは、アプリ起動ツールを使用してサインアウトや別のアプリへの切り替えを行う機能など、ヘッダーを通じて公開される機能にアクセスできなくなります。
+このパラメーターは、より焦点を絞ったスペースを作成するために UI 内の要素を取り除く他の URL パラメーターと同様に動作します。 ヘッダーを非表示にすると、ユーザーは、アプリ起動ツールを使用してサインアウトや別のアプリへの切り替えを行う機能など、ヘッダーを通じて公開される機能にアクセスできなくなります。
+
+![ShowHeader パラメーターが URL に適用されるときにレンダリングされる Web クライアント](media/web-client-with-showheader-parameter.png "ShowHeader パラメーターが URL に適用されるときにレンダリングされる Web クライアント")
 <!--feature detail end -->
 
 

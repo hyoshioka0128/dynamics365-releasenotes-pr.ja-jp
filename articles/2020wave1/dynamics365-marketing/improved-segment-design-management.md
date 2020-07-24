@@ -1,20 +1,20 @@
 ---
 title: セグメントの設計と管理の改善
-description: 動的セグメント エディター内で行動データと人口統計データを直接組み合わせることにより、特定の取引先担当者をターゲットとする複雑なセグメントを作成できます。
+description: 動的セグメント エディター内で行動データと人口統計データを直接組み合わせることにより、特定の取引先担当者をターゲットとします。
 author: relnotes
 ms.reviewer: alfergus
-ms.date: 04/23/2020
+ms.date: 05/08/2020
 ms.assetid: 3a2ddc32-15ce-e911-a996-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: eosipova
 dynamics365pdf: true
-ms.openlocfilehash: ebdfc6e88ea7b69b5a380f0d3fc7bf26a61b822f
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 3adc4dd65e0f00c19898a8a6db10efa6fb46d38a
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3293183"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3380916"
 ---
 # <a name="improved-segment-design-and-management"></a>セグメントの設計と管理の改善
 
@@ -50,3 +50,9 @@ ms.locfileid: "3293183"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[セグメントに関する作業](https://docs.microsoft.com/dynamics365/marketing/segmentation-lists-subscriptions) (ドキュメント)
+<!--docs end-->

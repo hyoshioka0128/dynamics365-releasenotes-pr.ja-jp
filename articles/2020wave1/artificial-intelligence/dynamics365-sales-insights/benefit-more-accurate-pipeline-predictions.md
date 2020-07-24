@@ -1,27 +1,27 @@
 ---
 title: より正確なパイプライン予測で得られるメリット
-description: ''
+description: より幅広い信号セットとスコアの説明の改善。
 author: relnotes
 ms.reviewer: udag
-ms.date: 03/10/2020
+ms.date: 06/16/2020
 ms.assetid: 1ffeb69c-d1ca-e911-a96a-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: dandalla
 dynamics365pdf: true
-ms.openlocfilehash: 5d34662283e48108c367f5071ad8be76ec9a9388
-ms.sourcegitcommit: f7b958b02d7cb7543a3f81414e7b3e62a5b8539d
+ms.openlocfilehash: 7cf5afe94625d3b3c2251a82355a0ddd8779081e
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "3158339"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3487618"
 ---
 # <a name="benefit-from-more-accurate-pipeline-predictions"></a>より正確なパイプライン予測で得られるメリット
 [!include[artificial-intelligence/dynamics365-sales-insights banner](../includes/artificial-intelligence/dynamics365-sales-insights.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2020 年 6 月| -|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 6 月 1 日| 2020 年 6 月|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -38,7 +38,7 @@ ms.locfileid: "3158339"
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
 - **スコアをより深く理解する**: 拡張されたスコアの説明を利用して、すべてのスコアの背後にある推論をよりよく理解できます。 
-- **幅広い信号セットによって通知されるモデルからのメリット**: カスタム関連エンティティを含む幅広い信号セットを考慮して、予測リードおよび営業案件のスコアが計算されます。
+- **幅広い信号セットによって通知されるモデルからのメリット**: 営業案件スコアのカスタム関連エンティティを含む幅広い信号セットを考慮して、予測リードおよび営業案件のスコアが計算されます。
 <!--feature detail end -->
 
 

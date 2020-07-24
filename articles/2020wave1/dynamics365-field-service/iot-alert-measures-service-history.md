@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: girishr
 dynamics365pdf: true
-ms.openlocfilehash: d8e89ca8afd75a187787b7e6c507cd875b9b4b6d
-ms.sourcegitcommit: 06f1a393c9fed93ed9b16e6615a8bf50c98c816f
+ms.openlocfilehash: a32d1150bb7aee05c14890d663533b75a0734e59
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "3273865"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3547778"
 ---
 # <a name="iot-alert-measures-and-service-history"></a>IoT アラート測定とサービス履歴
 [!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]

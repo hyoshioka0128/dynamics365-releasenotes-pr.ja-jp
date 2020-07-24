@@ -3,18 +3,18 @@ title: Dynamics 365 Commerce 2020 年リリース ウェーブ 1 の概要
 description: Dynamics 365 Commerce 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: josaw
-ms.date: 05/01/2020
+ms.date: 06/19/2020
 ms.assetid: 6e019de0-eb41-ea11-a812-000d3a563be2
 ms.topic: overview
 ms.service: business-applications
 ms.author: balajiba
 dynamics365pdf: true
-ms.openlocfilehash: bb2598df1c4894597ee081a2faba623e22ae165d
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: dce3823cc1f89d8478c8fd75f0c08bc2a537b861
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3349514"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3522787"
 ---
 # <a name="overview-of-dynamics-365-commerce-2020-release-wave-1"></a>Dynamics 365 Commerce 2020 年リリース ウェーブ 1 の概要
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
@@ -34,7 +34,7 @@ Dynamics 365 Commerce は実績のある Dynamics 365 Retail の機能を基に�
 
 Dynamics 365 エコシステムが提供するスムーズな情報フローとインプロセス分析情報により、小売業者はデジタル変革のビジョンを真に実現する態勢がかつてないほど整っています。
 
-- **eコマース**: マーケティング担当者は、開発者を必要とすることなく、eコマース Web ページをスタイル設定する機能を使用して、ブランド ストーリーをより迅速かつ効果的に説明することができます。 一括リダイレクト URL の機能により、小売業者は従来の URL を Dynamics 365 Commerce URL にリダイレクトする一方で、消費者エクスペリエンスの継続性も提供することで、SEO 最適化への投資を保護できます。 在庫バッファーを定義するオプションにより在庫の可視性が向上し、マーチャンダイザーは消費者の期待に応え、流通ネットワーク全体で在庫の配賦を最適化できます。
+- **eコマース**: マーケティング担当者は、開発者を必要とすることなく、eコマース Web ページをスタイル設定する機能を使用して、ブランド ストーリーをより迅速かつ効果的に説明することができます。 一括リダイレクト URL の機能により、小売業者は従来の URL を Dynamics 365 Commerce URL にリダイレクトする一方で、消費者エクスペリエンスの継続性も提供することで、検索エンジン最適化 (SEO) への投資を保護できます。 在庫バッファーを定義するオプションにより在庫の可視性が向上し、マーチャンダイザーは消費者の期待に応え、流通ネットワーク全体で在庫の配賦を最適化できます。
 
 - **モダンな店舗**: 接続された周辺機器の POS (ポイントオブセールス) から正常性チェックを実行する機能と POS が依存するサービスにより、小売業者は、スムーズな消費者エクスペリエンスのためにレジのレーンが常に機能していることを確認できます。 すべての小売業者に不可欠な店舗内プロセスを強化し、次の点を改善しています。
 
@@ -56,5 +56,5 @@ Dynamics 365 エコシステムが提供するスムーズな情報フローと�
 
 - **基礎**: 店舗内の POS デバイスのシームレスで信頼性の高い接続損失管理、およびデータの同期と格納に関する効率と信頼性の向上により、小売業者は店舗内コンポーネントがスムーズに動作していることを確信し、店舗運営の生産性と効率性を高めることができます。 Azure Active Directory ベースのサインインのサポートとサインイン ページの向上により、小売業者にワールドクラスの認証システムが提供され、システムをセキュリティで保護できます。
 
-[リリースの概要のビデオをご覧ください](https://aka.ms/Overview/2020RW1/Commerce)
+[リリースの概要のビデオをご覧ください。](https://aka.ms/Overview/2020RW1/Commerce)
 <!--overview end-->

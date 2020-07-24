@@ -2,19 +2,19 @@
 title: 以前は日付仮想テーブルに基づいていた ListPlus ページの拡張
 description: 以前は**日付**仮想テーブルに基づいていた**品目**や**リソースの空き時間** などの ListPlus ページを拡張できるようになりました。
 author: relnotes
-ms.reviewer: sgroespe
-ms.date: 04/06/2020
+ms.reviewer: solsen
+ms.date: 05/11/2020
 ms.assetid: de25edaf-9e4d-ea11-a812-000d3a579c35
 ms.topic: article
 ms.service: business-applications
 ms.author: ivkoleti
 dynamics365pdf: true
-ms.openlocfilehash: 981e683a8ad65420c4819525e2daaeb95a8e1bc5
-ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
+ms.openlocfilehash: 396cacff1c165070c9defa46ef6bf87d2ccc5bbe
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "3255081"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3381422"
 ---
 # <a name="extend-listplus-pages-previously-based-on-the-date-virtual-table"></a>以前は日付仮想テーブルに基づいていた ListPlus ページの拡張
 
@@ -44,3 +44,9 @@ ms.locfileid: "3255081"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[以前は日付仮想テーブルに基づいていたページの拡張](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-extend-pages-based-on-date-virtual-table) (ドキュメント)
+<!--docs end-->

@@ -1,27 +1,27 @@
 ---
 title: Azure AD での POS サインインのサポート
-description: ''
+description: この機能により、Azure Active Directory (Azure AD) に販売時点管理 (POS) サインインのサポートが提供されます。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 03/06/2020
+ms.date: 05/04/2020
 ms.assetid: e6241ff2-f00c-ea11-a811-000d3a4f1cdd
 ms.topic: article
 ms.service: business-applications
 ms.author: boycez
 dynamics365pdf: true
-ms.openlocfilehash: 91198f3bc6d55e212efa2cbf766f03ae17c57c47
-ms.sourcegitcommit: bb7ffd21bd61f24e7174b76465b9a6630c7decb5
+ms.openlocfilehash: 00c760203dc47cccc87f5db7e402062a4c10d433
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "3232651"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3382168"
 ---
 # <a name="azure-ad-support-for-pos-sign-in"></a>Azure AD での POS サインインのサポート
-[!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 24 日| 2020 年 5 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 24 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -50,8 +50,6 @@ ms.locfileid: "3232651"
 
 ## <a name="see-also"></a>関連項目
 
-
 <!--docs start-->
 [POS サインインの Azure Active Directory 認証の有効化](https://docs.microsoft.com/dynamics365/commerce/aad-pos-logon) (ドキュメント)
 <!--docs end-->
-

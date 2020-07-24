@@ -3,25 +3,25 @@ title: 顧客支払予測
 description: 顧客支払予測は、未払い請求書に対する顧客の支払時期を予測することにより、正確なキャッシュ フロー予測を実現します。
 author: relnotes
 ms.reviewer: roschlom
-ms.date: 03/14/2020
+ms.date: 06/04/2020
 ms.assetid: 6daafc9c-d5ca-e911-a996-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 dynamics365pdf: true
-ms.openlocfilehash: 2b2dc20a8952c7dfa129fc1fee8e571c595caf25
-ms.sourcegitcommit: 773ea4a9be0440714ed67e25d1ba572a6a25072e
+ms.openlocfilehash: ee4abe0420d9227b4b7eeca74189b6cdbec5fbbc
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "3152150"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3440976"
 ---
 # <a name="customer-payment-predictions"></a>顧客支払予測
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 5 月| -|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 7 月| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

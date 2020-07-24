@@ -3,25 +3,25 @@ title: 空間マークアップを介して資産の状態をキャプチャす�
 description: 空間マークアップを介して資産の状態をキャプチャする
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 04/06/2020
+ms.date: 06/14/2020
 ms.assetid: 4113b068-081b-ea11-a812-000d3a8f010c
 ms.topic: article
 ms.service: business-applications
 ms.author: becorn
 dynamics365pdf: true
-ms.openlocfilehash: 67db256b6184712d9d7405d391c1d7dab8a1d826
-ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
+ms.openlocfilehash: 1921943b78b9595bd5575e5056910f395fcfaff8
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "3255334"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3488469"
 ---
 # <a name="capture-asset-condition-through-spatial-markup"></a>空間マークアップを介して資産の状態をキャプチャする
-[!include[mixed-reality/dynamics365-remote-assist banner](../includes/mixed-reality/dynamics365-remote-assist.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 6 月| -|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 6 月 10 日| -|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

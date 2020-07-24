@@ -2,19 +2,19 @@
 title: 構成可能なビジネス ドキュメントの PDF への変換
 description: この機能により、レポートを PDF 形式に変換すると、電子メールで配布したりアーカイブや他の宛先に送信したりできるようになります。
 author: relnotes
-ms.reviewer: roschlom
-ms.date: 04/06/2020
+ms.reviewer: kfend
+ms.date: 06/11/2020
 ms.assetid: a4642de9-801b-ea11-a811-000d3a8f0752
 ms.topic: article
 ms.service: business-applications
-ms.author: filatovm
+ms.author: kfend
 dynamics365pdf: true
-ms.openlocfilehash: 0b3d20086fb6eb9a75181a76adc15bedf39f3387
-ms.sourcegitcommit: 63b2eea9aebeb28f4541e14b396a3be552aca0f5
+ms.openlocfilehash: cd3bd3f1a3cd0e3580c4394d428e3702ed0071dc
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "3256445"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3487485"
 ---
 # <a name="configurable-business-documents-conversion-to-pdf"></a>構成可能なビジネス ドキュメントの PDF への変換
 [!include[dynamics365-finance banner](../includes/dynamics365-finance.md)]
@@ -35,7 +35,7 @@ PDF 形式でビジネス ドキュメントを交換する機能は、顧客や
 <!--feature detail start -->
 この機能を使用すると、特定のレポートに対する**電子申告の送信先のセットアップ**の新しい設定である **PDF に変換**を使用して、Excel または Word で生成されたビジネス ドキュメントを変換できます。 
 
-詳細については、「[出力の PDF への変換](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/analytics/electronic-reporting-destinations?toc=/dynamics365/finance/toc.json#OutputConversionToPDF)」を参照してください。
+
 <!--feature detail end -->
 
 
@@ -46,3 +46,9 @@ PDF 形式でビジネス ドキュメントを交換する機能は、顧客や
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[出力の PDF への変換](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/analytics/electronic-reporting-destinations?toc=/dynamics365/finance/toc.json#OutputConversionToPDF) (ドキュメント)
+<!--docs end-->

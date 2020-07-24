@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: pachatte
 dynamics365pdf: true
-ms.openlocfilehash: cb5a4c8e29b4c9a6aae150265757d54f7f270354
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: eeb75bee43b7ab6d2fa886204752a115d0f4f7bb
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3293238"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548486"
 ---
 # <a name="manage-feature-settings-and-configure-the-sales-hub-application-from-a-centralized-location"></a>機能設定を管理し、一元化された場所から営業ハブ アプリケーションを構成する
 

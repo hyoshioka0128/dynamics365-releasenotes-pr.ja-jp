@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: cindyliu
 dynamics365pdf: true
-ms.openlocfilehash: 08d657fca83abce2082b52caad6a9ffd7c2c8f90
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 811daac642353fc8f42432f53dded06f14f7a67d
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3294668"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548498"
 ---
 # <a name="manage-activities-with-ease"></a>活動を簡単に管理
 

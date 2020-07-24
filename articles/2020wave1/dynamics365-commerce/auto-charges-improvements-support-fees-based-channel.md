@@ -3,25 +3,25 @@ title: チャネルに基づくサポート料金の自動請求の向上
 description: この新しい機能は、既存の自動請求機能を強化してチャネル別に固有の請求を可能にし、料金の請求が必要な店舗、場所、またはチャネルに対してのみ料金が計算されるようにします。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 03/02/2020
+ms.date: 05/11/2020
 ms.assetid: ea1fc046-1c9c-e911-a962-000d3a4f36ce
 ms.topic: article
 ms.service: business-applications
 ms.author: gmohanv
 dynamics365pdf: true
-ms.openlocfilehash: b8d46b58589040dcd1f068eb7190e4ac4c4697de
-ms.sourcegitcommit: 99f8fe366e70064e41204f9ee5c16fe397396d16
+ms.openlocfilehash: dbe305230275fc50ab05d123e2ab0e228cfa314d
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "3115064"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3382157"
 ---
 # <a name="auto-charges-improvements-to-support-fees-based-on-channel"></a>チャネルに基づくサポート料金の自動請求の向上
-[!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 24 日| 2020 年 5 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 24 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

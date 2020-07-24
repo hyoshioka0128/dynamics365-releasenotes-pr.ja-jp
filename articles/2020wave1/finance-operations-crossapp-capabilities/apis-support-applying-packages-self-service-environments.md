@@ -3,25 +3,25 @@ title: セルフサービス環境へのパッケージの適用をサポート�
 description: 現在、以前のインフラストラクチャ アーキテクチャに展開された Tier 1-5 DevTest およびサンドボックスタイプの環境にパッケージを適用するための API が存在しますが、これらの API はセルフサービス インフラストラクチャ環境をサポートしていません。 この機能では、すべてのタイプの Tier 1-5 環境を有効にするサポートを追加します。
 author: relnotes
 ms.reviewer: sericks
-ms.date: 04/02/2020
+ms.date: 06/04/2020
 ms.assetid: 3c6f224b-8e74-ea11-a811-000d3a579c38
 ms.topic: article
 ms.service: business-applications
 ms.author: laswenka
 dynamics365pdf: true
-ms.openlocfilehash: adbae459eebfab370391d6241f206c0f2559309b
-ms.sourcegitcommit: ae0a3b37ccd4a7b687b0b3258fe36d74b149a47c
+ms.openlocfilehash: 799b8f8977452c450741681da5c641c0fc9e1d53
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "3219705"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3440767"
 ---
 # <a name="apis-to-support-applying-packages-for-self-service-environments"></a>セルフサービス環境へのパッケージの適用をサポートする API
-[!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|-| 2020 年 5 月|
+|管理者、作成者、またはアナリスト、自動的|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 30 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー

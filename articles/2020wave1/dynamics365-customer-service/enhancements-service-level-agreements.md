@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: deepap
 dynamics365pdf: true
-ms.openlocfilehash: d29cc43979446472e4482bb1d777714eb1ec8283
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: b622a875cbd6f009c7ecc0e88a760674bad1a886
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350504"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3547850"
 ---
 # <a name="enhancements-in-service-level-agreements"></a>サービス レベル アグリーメントの強化
 
@@ -33,7 +33,7 @@ ms.locfileid: "3350504"
 
 ## <a name="feature-details"></a>機能の詳細
 <!--feature detail start -->
-このリリースでは、統一インターフェイス上で新しい SLA 管理エクスペリエンスが有効になり、従来の Web クライアントとの機能パリティが実現します。 管理者は、Microsoft Power Automate で提供されるさまざまな既定のアクションを利用して、SLA に関する成功、失敗、警告などのアクションを簡単に構成できます。 たとえば、管理者は SLA 違反があったときにエージェントに Microsoft Teams メッセージを投稿できます。
+このリリースでは、統一インターフェイス内で新しい SLA 管理エクスペリエンスが有効になり、従来の Web クライアントとの機能パリティが実現します。 管理者は、Microsoft Power Automate で提供されるさまざまな既定のアクションを利用して、SLA に関する成功、失敗、警告などのアクションを簡単に構成できます。 たとえば、管理者は SLA 違反があったときにエージェントに Microsoft Teams メッセージを投稿できます。
 <!--feature detail end -->
 
 

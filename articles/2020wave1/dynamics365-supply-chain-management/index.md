@@ -3,18 +3,18 @@ title: Dynamics 365 Supply Chain Management 2020 年リリース ウェーブ 1 
 description: Dynamics 365 Supply Chain Management 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: josaw
-ms.date: 05/04/2020
+ms.date: 06/24/2020
 ms.assetid: 417e9a1a-4565-ea11-a811-000d3a579c39
 ms.topic: overview
 ms.service: business-applications
 ms.author: mswami
 dynamics365pdf: true
-ms.openlocfilehash: d29df01de428834f2f28a969e67257bb35bb2d08
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: f3ef1432c0e84fd3afa28e7273e17ae4b47c28b1
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3349976"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3522631"
 ---
 # <a name="overview-of-dynamics-365-supply-chain-management-2020-release-wave-1"></a>Dynamics 365 Supply Chain Management 2020 年リリース ウェーブ 1 の概要
 [!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
@@ -30,4 +30,6 @@ Dynamics 365 Supply Chain Management の 2020 年リリース ウェーブ 1 に
 - **製造**: ジョブ カード デバイスのエクスペリエンスが強化され、製造作業の生産性が向上しています。 
 
 また、Supply Chain Management 全体で、Common Data Service の統合、パフォーマンス、使いやすさ、監視、信頼性をサポートするためのさまざまな機能強化が導入されます。
+
+[リリースの概要のビデオをご覧ください。](https://aka.ms/Overview/2020RW1/SCM)
 <!--overview end-->

@@ -3,18 +3,18 @@ title: 店員が POS でプロモーションを確認できるようにする�
 description: 店員が販売時点管理 (POS) でプロモーションを確認できるようにすることで、利用できる割引を使用したアップセルとクロスセル。
 author: relnotes
 ms.reviewer: josaw
-ms.date: 05/04/2020
+ms.date: 05/12/2020
 ms.assetid: 557c1102-a4ca-e911-a968-000d3a4f3883
 ms.topic: article
 ms.service: business-applications
 ms.author: shajain
 dynamics365pdf: true
-ms.openlocfilehash: bc0715c36966509d2e893d30775c6b480495e771
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 78804e350b4de07e760d7a103cfb7ec72f265fbb
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350350"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3381981"
 ---
 # <a name="upsell-and-cross-sell-using-available-discounts-by-enabling-store-associates-to-view-promotions-in-pos"></a>店員が POS でプロモーションを確認できるようにすることで、利用できる割引を使用したアップセルとクロスセル
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
@@ -47,4 +47,6 @@ ms.locfileid: "3350350"
 
 ## <a name="see-also"></a>関連項目
 
-[POS に割引を表示](https://docs.microsoft.com/dynamics365/commerce/discounts-pos) 
+<!--docs start-->
+[POS に割引を表示](https://docs.microsoft.com/dynamics365/commerce/discounts-pos) (ドキュメント)
+<!--docs end-->

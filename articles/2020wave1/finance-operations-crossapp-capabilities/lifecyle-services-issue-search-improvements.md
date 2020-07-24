@@ -3,32 +3,31 @@ title: Lifecycle Services での問題検索の改善
 description: Lifecycle Services (LCS) の問題検索での問題の表示方法を改善しています。 LCS の問題検索に公開された新しい問題については、影響を受けるすべてのバージョンとそのリリース情報を含んだリリースの詳細セクションが問題の詳細ページに追加されます。
 author: relnotes
 ms.reviewer: sericks
-ms.date: 04/30/2020
+ms.date: 05/18/2020
 ms.assetid: 8d210a0f-886f-ea11-a811-000d3a579c38
 ms.topic: article
 ms.service: business-applications
 ms.author: tsmarsha
 dynamics365pdf: true
-ms.openlocfilehash: 5d50aea980cf48f920114c863e633bf3f15e3d7f
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 35717ebe3da7ff2e51d5963229c17fb22429a3b6
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350934"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3416074"
 ---
 # <a name="lifecyle-services-issue-search-improvements"></a>Lifecycle Services での問題検索の改善
-[!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|-| 2020 年 5 月|
+|管理者、作成者、またはアナリスト、自動的|-| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 1 日|
 
 
 ## <a name="business-value"></a>ビジネス バリュー
 <!-- bv start -->
 - 同じ問題に対して作成されたサポート情報記事の重複を減らします。
-- 問題およびソリューションのリリースの可視性と明確性が向上します。 
-
+- 問題およびソリューションのリリースの可視性と明確性が向上します。
 <!-- bv end -->
 
 
@@ -40,9 +39,11 @@ ms.locfileid: "3350934"
 - 影響を受けるバージョンのリリース。
 - リリースの種類。各リリースの提供方法 (品質の更新またはサービスの更新) を示します。 
 - 予定されている各リリースのステータス。
-- 予定されている各リリースの利用可能性。 
+- 予定されている各リリースの利用可能性。
 <!--feature detail end -->
 
+![問題検索の詳細](media/issuesearchdetails.png "問題検索の詳細")
+<!-- Picture 1 -->
 
 
 

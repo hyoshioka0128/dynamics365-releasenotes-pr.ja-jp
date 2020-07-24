@@ -3,18 +3,18 @@ title: リレーションシップ分析と自動取り込み
 description: ''
 author: relnotes
 ms.reviewer: shubhadaj
-ms.date: 04/28/2020
+ms.date: 06/19/2020
 ms.assetid: 03eab01a-a7d5-e911-a968-000d3a4f3883
 ms.topic: structure
 ms.service: business-applications
 ms.author: joegan
 dynamics365pdf: true
-ms.openlocfilehash: 83f8630b9f9b28b8baaf64cfe51c08a62f8575cf
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: a3df434cbc87199f68e80858cdf353074650dc60
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3349965"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3522355"
 ---
 # <a name="relationship-analytics-and-auto-capture"></a>リレーションシップ分析と自動取り込み
 

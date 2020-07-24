@@ -3,25 +3,25 @@ title: バッチ番号引当フォームの行の引当の機能強化
 description: バッチ番号引当プロセスを強化します。
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 04/17/2020
+ms.date: 06/02/2020
 ms.assetid: 10a89655-8772-ea11-a811-000d3a579c38
 ms.topic: article
 ms.service: business-applications
 ms.author: perlynne
 dynamics365pdf: true
-ms.openlocfilehash: 45a99c89bce65dc7d5d8dfcb13f57072f71a4e17
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: cbcdba9b48acaedf8f76eb38d6bd26923ba1669e
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3293227"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3441647"
 ---
 # <a name="line-reservation-enhancements-for-the-batch-number-reservation-form"></a>バッチ番号引当フォームの行の引当の機能強化
-[!include[dynamics365-supply-chain-management banner](../includes/dynamics365-supply-chain-management.md)]
+
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 17 日| 2020 年 5 月|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 17 日| ![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 26 日|
 
 
 

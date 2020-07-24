@@ -3,17 +3,17 @@ title: Dynamics 365 Marketing の新機能と予定されている機能 (2020 �
 description: Dynamics 365 Marketing で計画されている機能の概要。
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 05/05/2020
+ms.date: 06/26/2020
 ms.topic: summary
 ms.service: business-applications
 ms.author: loril
 dynamics365pdf: true
-ms.openlocfilehash: 7dd8d35c2453471aaf8114148bdf0188efd3ee25
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: bebd158d86979477ac6da22a5d2bd3625e71a922
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350570"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3548618"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-marketing"></a>Dynamics 365 Marketing の新機能と予定されている機能
 
@@ -25,6 +25,7 @@ ms.locfileid: "3350570"
 
 | 機能    | 有効対象    |  パブリック プレビュー |  早期アクセス* | 一般提供 | 
 | ---------- |---------------- | :---------------: |:-----------:|:--------------: |
+| [Microsoft Teams ライブ イベントと Teams 会議の直接統合](direct-integration-teams-live-events-teams-meetings.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 8 月|-| | 
 | [動的なメール メッセージをテスト送信する機能](ability-test-send-dynamic-email-messages.md) | 管理者、作成者、またはアナリスト、自動的|-|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 | 
 | [自動スケジューラ](smart-scheduler.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 | 
 | [コンプライアンスが簡単に](compliance-made-easier.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 1 日 | 
@@ -34,8 +35,8 @@ ms.locfileid: "3350570"
 | [さらに分析するためにマーケティング結果を Excel にエクスポートする](export-data-excel-further-analysis.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 2 日 | 
 | [メール コンテンツ デザイナーの改善](improved-email-content-designer.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 2 日 | 
 | [顧客体験エクスペリエンスの改善](improved-customer-journey-experience.md) | エンド ユーザー、自動的|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 4 月 3 日 | 
-| [新しいフォームの取得とクライアント側サポート](new-form-capture-client-side-support.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-|2020 年 5 月 | 
-| [イベント管理エクスペリエンスの改善](improved-event-management-experience.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|-|2020 年 5 月 | 
+| [新しいフォームの取得とクライアント側サポート](new-form-capture-client-side-support.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化|-|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 1 日 | 
+| [イベント管理エクスペリエンスの改善](improved-event-management-experience.md) | エンド ユーザー、管理者/作成者/アナリストによる有効化|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 2 月 3 日|-|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 1 日 | 
 
 \* エンド ユーザーに影響するすべての必須の変更など、一部の機能は 2020 年 2 月 3 日に早期アクセスの一部としてオプトインできるようになります。 [早期アクセス](https://aka.ms/EarlyAccessFAQ) の詳細を確認してください。
 
@@ -47,4 +48,4 @@ ms.locfileid: "3350570"
 
 - **エンド ユーザー、管理者/作成者/アナリストによる有効化**: これらの機能をエンド ユーザーが利用するには、管理者、作成者、またはビジネス アナリストによって有効化または構成される必要があります。
 
-Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。  地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 地域およびデータ センター (リージョン) の詳細については、「[Dynamics 365 と Microsoft Power Platform の提供地域](https://aka.ms/BusinessAppsGeoAvailability)」のページを参照してください。

@@ -3,18 +3,18 @@ title: IoT インテリジェンス コア分析情報
 description: IoT インテリジェンス
 author: relnotes
 ms.reviewer: kamaybac
-ms.date: 05/04/2020
+ms.date: 06/25/2020
 ms.assetid: 4e6de49f-8acb-e911-a96f-000d3a4f33c1
 ms.topic: article
 ms.service: business-applications
 ms.author: dabourq
 dynamics365pdf: true
-ms.openlocfilehash: be40e56282bf1616c3387f8cd0d1d5dd3f1e67a7
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 2e8124a98fb680bd5f7784f86bf47655818bc777
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350713"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3522607"
 ---
 # <a name="iot-intelligence-core-insights"></a>IoT インテリジェンス コア分析情報
 
@@ -49,3 +49,9 @@ ms.locfileid: "3350713"
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[IoT インテリジェンスのホーム ページ](https://docs.microsoft.com/dynamics365/supply-chain/iot/iot-intelligence-home-page) (ドキュメント)
+<!--docs end-->

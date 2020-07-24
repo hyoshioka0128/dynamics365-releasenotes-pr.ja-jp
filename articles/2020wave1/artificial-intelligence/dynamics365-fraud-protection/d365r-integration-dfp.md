@@ -2,19 +2,19 @@
 title: Dynamics 365 Commerceと Fraud Protection の統合
 description: サードパーティのお客様に対応した、Dynamics 365 Fraud Protection との Microsoft Dynamics 365 Commerce 統合です。
 author: relnotes
-ms.reviewer: 85c47d12de8044f1a45dccd53fe72916v-davido
-ms.date: 05/04/2020
+ms.reviewer: josaw
+ms.date: 05/12/2020
 ms.assetid: 323125b5-17c8-e911-a996-000d3a4f3343
 ms.topic: article
 ms.service: business-applications
 ms.author: amyhre
 dynamics365pdf: true
-ms.openlocfilehash: eb9b348163b98a546c1073ed70ab0d231d84abea
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: b1004ef497ffe5e03294a2a7fe1f327f71dae97a
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3349855"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3381543"
 ---
 # <a name="dynamics-365-commerce-integration-with-fraud-protection"></a>Dynamics 365 Commerceと Fraud Protection の統合
 [!include[artificial-intelligence/dynamics365-fraud-protection banner](../includes/artificial-intelligence/dynamics365-fraud-protection.md)]
@@ -41,3 +41,9 @@ Dynamics 365 Fraud Protection では、e コマースを展開している Dynam
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[Dynamics 365 Fraud Protection の Dynamics 365 Commerce との統合](https://docs.microsoft.com/dynamics365/commerce/dev-itpro/dfp) (ドキュメント)
+<!--docs end-->

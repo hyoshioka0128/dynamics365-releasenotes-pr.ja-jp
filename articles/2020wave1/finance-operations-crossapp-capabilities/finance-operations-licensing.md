@@ -1,27 +1,27 @@
 ---
 title: Finance and Operations のライセンス
-description: ''
+description: 2020 年リリース ウェーブ 1 では、新しいライセンスに基づいてユーザー インターフェイスとライセンスの適用が変更されます。
 author: relnotes
 ms.reviewer: sericks
-ms.date: 02/04/2020
+ms.date: 06/04/2020
 ms.assetid: a49e05d7-df1d-ea11-a811-000d3a8f022a
 ms.topic: article
 ms.service: business-applications
-ms.author: cgarty
+ms.author: peakerbl
 dynamics365pdf: true
-ms.openlocfilehash: 9b24d5564ecec9d25ccde1dd345e2af3ef737c98
-ms.sourcegitcommit: 99df54b08ef3f481b1999c80acfbd71cc3a0e591
+ms.openlocfilehash: c3c0beee81a8f5767059195ad114535303a1934e
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3032014"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3441625"
 ---
 # <a name="finance-and-operations-licensing"></a>Finance and Operations のライセンス
 [!include[finance-operations-crossapp-capabilities banner](../includes/finance-operations-crossapp-capabilities.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 4 月| -|
+|エンド ユーザー、管理者/作成者/アナリストによる有効化|2020 年 8 月| -|
 
 
 

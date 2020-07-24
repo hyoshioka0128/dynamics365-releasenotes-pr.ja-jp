@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: girishr
 dynamics365pdf: true
-ms.openlocfilehash: c6a138e0a7596814d6a1418b68936df61b1b84f2
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 2ea292b92908c6758f2ff292d0c881b0058138f4
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3293931"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3547718"
 ---
 # <a name="iot-alert-ai-based-suggestions"></a>IoT アラートの AI ベースの提案
 

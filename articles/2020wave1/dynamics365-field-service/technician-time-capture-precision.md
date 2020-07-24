@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: jacoh
 dynamics365pdf: true
-ms.openlocfilehash: 02f845618384c246d5692c291e04754243ffedf7
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: 6f3bac838f073f42a9a9f83ac60cd8b8bb84e5e4
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3294019"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3547694"
 ---
 # <a name="technician-time-capture-precision"></a>技術者の時間キャプチャの精度
 

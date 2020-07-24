@@ -1,19 +1,24 @@
 ---
-title: メディアと通信のタイトル
-description: メディアと通信の説明
-author: ramanasridhar
-ms.reviewer: ermceach
-ms.date: 05/07/2020
+title: Media and Communications 2020 年リリース ウェーブ 1 の概要
+description: 更新
+author: relnotes
+ms.reviewer: ''
+ms.date: 05/16/2020
+ms.assetid: a0f5cd12-7a1c-ea11-a811-000d3a8f075c
 ms.topic: overview
 ms.service: business-applications
-ms.author: ramanasr
-ms.openlocfilehash: f903977084258a9848010f879c1fc1333466374e
-ms.sourcegitcommit: 6cb2c035940da2413f69c172d882df2d7d86b400
+ms.author: snagy
+dynamics365pdf: true
+ms.openlocfilehash: 81d835eef5f0085eea1be739b0d28824a16fdb4f
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "3353889"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3416273"
 ---
-# <a name="media-communications-main-heading"></a>メディアと通信の主な見出し 
+# <a name="overview-of-media-and-communications-2020-release-wave-1"></a>Media and Communications 2020 年リリース ウェーブ 1 の概要
+[!include[industry-accelerators/media-communications banner](../includes/industry-accelerators/media-communications.md)]
 
-メディアと通信のプレースホルダー項目
+<!--overview start-->
+Media and Communications Accelerator では、インテリジェントなオーディエンスおよびファン エンゲージメントをサポートするさまざまなユース ケースに基づいてソリューションをより簡単に構築できます。 アクセラレーターには、オーディエンスのより深い理解、最適なターゲティングを行う方法、より適切な応答を推進する方法、および顧客ベースへの全体的なリーチを拡大する方法に重点を置いた、すぐに使用できるデータ エンティティ マッピングが含まれます。 このアクセラレータには、データ モデル、サンプル アプリ、ダッシュボード、オーディエンス エンゲージメントに関連するコネクテッド エクスペリエンスが含まれています。
+<!--overview end-->

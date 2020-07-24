@@ -3,18 +3,18 @@ title: Dynamics 365 Product Visualize 2020 年リリース ウェーブ 1 の概
 description: Dynamics 365 Product Visualize 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: v-brycho
-ms.date: 04/20/2020
+ms.date: 06/10/2020
 ms.assetid: e8f0b015-45cb-e911-a96f-000d3a4f33c1
 ms.topic: overview
 ms.service: business-applications
 ms.author: michtan
 dynamics365pdf: true
-ms.openlocfilehash: 9e905323f484a4b1c86043ff678a576c3babb01d
-ms.sourcegitcommit: d891d652909a155016d30391a09acbf4e20a756d
+ms.openlocfilehash: b5978e3b2de707fb71ac98c571be0daffeb57d28
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "3293711"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3488313"
 ---
 # <a name="overview-of-dynamics-365-product-visualize-2020-release-wave-1"></a>Dynamics 365 Product Visualize 2020 年リリース ウェーブ 1 の概要
 [!include[mixed-reality/dynamics365-product-visualize banner](../includes/mixed-reality/dynamics365-product-visualize.md)]

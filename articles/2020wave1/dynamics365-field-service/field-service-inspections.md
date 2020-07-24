@@ -3,18 +3,18 @@ title: Field Service の検査
 description: フィールド サービス技術者がサービス ワークフローの一部として検査を実行およびキャプチャする機能。
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 05/04/2020
+ms.date: 05/13/2020
 ms.assetid: c088db1a-ea0b-ea11-a811-000d3a4f1ebb
 ms.topic: article
 ms.service: business-applications
 ms.author: nehasg
 dynamics365pdf: true
-ms.openlocfilehash: 61228757994c0d8cac71d5c11e09a63a66df87b0
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 3cb7dfd3869181e563b41a4927190f61d00fcd14
+ms.sourcegitcommit: 299e7ae952585bc5f8dbe620de3a9d5ef778990a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350339"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "3547754"
 ---
 # <a name="field-service-inspections"></a>Field Service の検査
 
@@ -38,7 +38,7 @@ Field Service に、検査を定義およびキャプチャする機能が含ま
 - デザイナー エクスペリエンスを使用して検査を作成します。
 - 検査を作業指示書に関連付けます。
 - モバイル エクスペリエンスを使用して検査を完了します。
-- 分析またはさらなるアクションのために検査結果をキャプチャします。
+- 分析または追加アクションのために検査結果をキャプチャします。
 <!--feature detail end -->
 
 
@@ -50,3 +50,9 @@ Field Service に、検査を定義およびキャプチャする機能が含ま
 
 
 
+
+## <a name="see-also"></a>関連項目
+
+<!--docs start-->
+[Dynamics 365 Field Service の作業指示書に検査を追加する](https://docs.microsoft.com/dynamics365/field-service/inspections) (ドキュメント)
+<!--docs end-->

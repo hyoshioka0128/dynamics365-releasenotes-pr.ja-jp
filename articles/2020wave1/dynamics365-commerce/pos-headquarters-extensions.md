@@ -3,25 +3,25 @@ title: POS および本社の拡張機能
 description: POS および本社の拡張機能
 author: mugunthanm
 ms.reviewer: josaw
-ms.date: 01/10/2020
+ms.date: 05/26/2020
 ms.assetid: 2c9e2005-f5f6-e911-a813-000d3a4f1ebb
 ms.topic: article
 ms.service: business-applications
 ms.author: mumani
 dynamics365pdf: true
-ms.openlocfilehash: 57b11a7779eee4f252fcf26343fc61e058428851
-ms.sourcegitcommit: ceff5b6bef71093d51a3afb60b3fecd4cd8a11c8
+ms.openlocfilehash: 5abf4ad84e9abec2ab15bc3e116d3979277ed9c1
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2020
-ms.locfileid: "2986800"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3415822"
 ---
 # <a name="pos-and-headquarters-extensions"></a>POS および本社の拡張機能
 [!include[dynamics365-commerce banner](../includes/dynamics365-commerce.md)]
 
 | 有効対象    |  パブリック プレビュー | 一般提供 | 
 | ---------- | :----------: |:----------: |
-|管理者、作成者、またはアナリスト、自動的|2020 年 5 月| 2020 年 7 月|
+|管理者、作成者、またはアナリスト、自動的|![この機能はリリース済みです。](/dynamics365-release-plan/media/green-checkmark.png "この機能はリリース済みです。") 2020 年 5 月 18 日| 2020 年 7 月|
 
 
 

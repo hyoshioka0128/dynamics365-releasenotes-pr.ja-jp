@@ -3,18 +3,18 @@ title: Dynamics 365 Field Service 2020 年リリース ウェーブ 1 の概要
 description: Dynamics 365 Field Service 2020 年リリース ウェーブ 1 の概要
 author: relnotes
 ms.reviewer: krbjoran
-ms.date: 05/01/2020
+ms.date: 05/16/2020
 ms.assetid: 32e89d68-b4ca-e911-a96a-000d3a4f36ce
 ms.topic: overview
 ms.service: business-applications
 ms.author: kyley
 dynamics365pdf: true
-ms.openlocfilehash: 67d9d14de679d2c47c7594a3a98851c6c13f354c
-ms.sourcegitcommit: 63a61a3764ac12162f3e06ea5d22a05ba22be2a2
+ms.openlocfilehash: 50bdf6de0ed071487d1f3b577de0018d935d6e45
+ms.sourcegitcommit: b4383db1666141e3c62ef493ca522cd5ae34e1f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "3350186"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3415360"
 ---
 # <a name="overview-of-dynamics-365-field-service-2020-release-wave-1"></a>Dynamics 365 Field Service 2020 年リリース ウェーブ 1 の概要
 [!include[dynamics365-field-service banner](../includes/dynamics365-field-service.md)]
@@ -28,7 +28,7 @@ Dynamics 365 Field Service は、オンサイト サービス用のエンドツ�
 - IoT アラートとインシデント タイプに関する AI ベースの提案のプレビュー。
 - リソース スケジュールと最適化機能に対する継続的な機能強化。
 - Azure IoT による事前対応型サービスの継続的な投資。
-- Dynamics 365 Supply Chain Management のより高度な連携によるサプライチェーン管理と資産管理。
+- Dynamics 365 Supply Chain Management のより高度な連携によるサプライ チェーン管理と資産管理。
 
-[リリースの概要のビデオをご覧ください](https://aka.ms/Overview/2020RW1/FS)
+[リリースの概要のビデオをご覧ください。](https://aka.ms/Overview/2020RW1/FS)
 <!--overview end-->
